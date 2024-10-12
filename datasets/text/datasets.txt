@@ -1,0 +1,4 @@
+
+
+
+ 1) The medical condition dataset: https://github.com/sebischair/Medical-Abstracts-TC-Corpus.git
