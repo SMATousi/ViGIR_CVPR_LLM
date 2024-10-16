@@ -4,7 +4,7 @@ from tqdm import tqdm
 import json
 
 
-images_path = '/home1/goowfd/CVPR_2025/hateful_memes/img/'
+images_path = '/home1/pupil/goowfd/CVPR_2025/hateful_memes/img'
 
 list_of_image_names = os.listdir(images_path)
 
@@ -26,7 +26,7 @@ model_name = 'llava:7b'
 results_file_name = model_name + '_results_hateful.json'
 ollama.pull(model_name)
 
-root_path = '/home1/goowfd/CVPR_2025/hateful_memes/img/'
+root_path = '/home1/pupil/goowfd/CVPR_2025/hateful_memes/img'
 
 options= {  # new
             "seed": 123,
