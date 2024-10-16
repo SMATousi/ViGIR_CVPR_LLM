@@ -55,9 +55,11 @@ options= {  # new
         }
     
 llava_7b_labels = {}
+count = 0
 
 for image_name in tqdm(list_of_image_names):
     
+
     image_path = os.path.join(root_path, image_name)
     
     prompt = "Is this an offensive meme? Please answer with YES or NO. DO NOT mention the reason: "
@@ -69,8 +71,10 @@ for image_name in tqdm(list_of_image_names):
     signal.alarm(timeout_duration)  # Set the timeout
 
     try:
-        response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options)
-
+        if count % 100 == 0:
+            response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options, keep_alive=0)
+        else:
+            response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options)
         label = check_yes_no(response['response'])
 
     except TimeoutException:
