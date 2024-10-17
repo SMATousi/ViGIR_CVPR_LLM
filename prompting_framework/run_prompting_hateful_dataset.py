@@ -75,8 +75,12 @@ def main():
         with open('/root/home/data/hateful_memes/simplified_dev.json', 'r') as file:
             data = json.load(file)
 
-        # Extract the image names from the JSON data
-        list_of_image_names = [entry['img'] for entry in data]
+        list_of_image_names = []
+        for entry in data:
+            img_name, ext = entry['img'].split('.')
+            padded_img_name = img_name.zfill(5)  # Pad the image name to 5 digits
+            list_of_image_names.append(f"{padded_img_name}.{ext}")
+        # print(image_names)
     else:
         list_of_image_names = os.listdir(root_path)
 
