@@ -15,6 +15,7 @@ def main():
     parser.add_argument("--projectname", type=str, required=False, help="The wandb project name.")
     parser.add_argument("--wandbapi", type=str, required=False, help="The wandb private API key to login.")
     parser.add_argument("--modelname", type=str, required=True, help="The name of the V-LLM model")
+    parser.add_argument("--prompt", type=str, required=True, help="The prompt that you want to give to the V-LLM")
     parser.add_argument("--data_path", type=str, required=True, help="Path to the image data dir")
     parser.add_argument("--results_path", type=str, required=True, help="Path to the results .json file (must include .json)")
     parser.add_argument("--timeout", type=int, default=20, help="time out duration to skip one sample")
@@ -97,7 +98,8 @@ def main():
 
         image_path = os.path.join(root_path, image_name)
         
-        prompt = "Is this an offensive meme? Please answer with YES or NO. DO NOT mention the reason: "
+        prompt = args.prompt
+        # prompt = "Is this an offensive meme? Please answer with YES or NO. DO NOT mention the reason: "
     #     prompt = "Is there ? Please answer with YES or NO. DO NOT mention the reason: "
     #     prompt = "Is this somehow an offensive meme? Please answer with YES or NO: "
     #     prompt = "describe this image: "
