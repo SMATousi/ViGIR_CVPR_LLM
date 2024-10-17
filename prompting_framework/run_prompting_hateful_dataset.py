@@ -127,11 +127,11 @@ def main():
         try:
             if args.model_unloading:
                 if count % 99 == 0:
-                    response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options, keep_alive=0)
+                    response = ollama.generate(model=model_name, prompt=prompt, images=[image_path], options=options, keep_alive=0)
                 else:
-                    response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options)
+                    response = ollama.generate(model=model_name, prompt=prompt, images=[image_path], options=options)
             else:
-                response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options)
+                response = ollama.generate(model=model_name, prompt=prompt, images=[image_path], options=options)
             
             label = check_yes_no(response['response'])
 
