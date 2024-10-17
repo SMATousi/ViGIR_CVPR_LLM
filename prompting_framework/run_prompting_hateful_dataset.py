@@ -73,7 +73,7 @@ def main():
 
     if args.dev:
         with open('/root/home/data/hateful_memes/simplified_dev.json', 'r') as file:
-        data = json.load(file)
+            data = json.load(file)
 
         # Extract the image names from the JSON data
         list_of_image_names = [entry['img'] for entry in data]
