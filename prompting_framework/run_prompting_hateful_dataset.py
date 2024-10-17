@@ -3,7 +3,32 @@ import os
 from tqdm import tqdm
 import json
 import signal
+import argparse
+import wandb
 
+
+ parser = argparse.ArgumentParser(description="A script with argparse options")
+    
+# Add an argument for an integer option
+parser.add_argument("--runname", type=str, required=False)
+parser.add_argument("--projectname", type=str, required=False)
+parser.add_argument("--wandbapi", type=str, required=False)
+parser.add_argument("--modelname", type=str, required=True)
+parser.add_argument("--data_path", type=str, required=True)
+parser.add_argument("--results_path", type=str, required=True)
+parser.add_argument("--timeout", type=int, default=20)
+# parser.add_argument("--savingstep", type=int, default=100)
+# parser.add_argument("--epochs", type=int, default=100)
+# parser.add_argument("--imagesize", type=int, default=256)
+# parser.add_argument("--alpha", type=float, default=1)
+# parser.add_argument("--beta", type=float, default=1)
+# parser.add_argument("--threshold", type=float, default=1)
+# parser.add_argument("--dropoutrate", type=float, default=0.5)
+parser.add_argument("--debug", help="Enable verbose mode", action="store_true")
+parser.add_argument("--logging", help="Enable verbose mode", action="store_true")
+parser.add_argument("--model_unloading", help="Enable verbose mode", action="store_true")
+
+args = parser.parse_args()
 
 
 def check_yes_no(text):
@@ -38,16 +63,23 @@ def timeout_handler(signum, frame):
 
 
 
-root_path = '/home1/pupil/goowfd/CVPR_2025/hateful_memes/img'
+# root_path = '/home1/pupil/goowfd/CVPR_2025/hateful_memes/img'
+root_path = args.data_path
 
 list_of_image_names = os.listdir(root_path)
 
-model_name = 'llava:7b'
-results_file_name = model_name + '_results_hateful.json'
+# model_name = 'llava:7b'
+model_name = args.modelname
+
+# results_file_name = model_name + '_results_hateful.json'
+results_file_name = args.results_path
+
 ollama.pull(model_name)
 
-timeout_duration = 20
+timeout_duration = args.timeout
+
 print(f"Handling the timeout exceptions with timeout duration of {timeout_duration} seconds")
+
 options= {  # new
             "seed": 123,
             "temperature": 0,
@@ -59,6 +91,7 @@ count = 0
 
 for image_name in tqdm(list_of_image_names):
     
+    count = count + 1
 
     image_path = os.path.join(root_path, image_name)
     
@@ -71,10 +104,14 @@ for image_name in tqdm(list_of_image_names):
     signal.alarm(timeout_duration)  # Set the timeout
 
     try:
-        if count % 100 == 0:
-            response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options, keep_alive=0)
+        if args,model_unloading:
+            if count % 99 == 0:
+                response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options, keep_alive=0)
+            else:
+                response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options)
         else:
             response = ollama.generate(model='llava:7b', prompt=prompt, images=[image_path], options=options)
+        
         label = check_yes_no(response['response'])
 
     except TimeoutException:
@@ -86,11 +123,32 @@ for image_name in tqdm(list_of_image_names):
 
     
     
-#     print(label)
     
     llava_7b_labels[image_name] = label
     
-#     break
+
+    if args.debug:
+        break
 
 with open(results_file_name, 'w') as fp:
     json.dump(llava_7b_labels, fp)
+
+
+if args.logging:
+
+    wandb.login(key=args.wandbapi) 
+
+    wandb.init(
+                    # set the wandb project where this run will be logged
+                project=args.projectname, name=args.runname
+                    
+                    # track hyperparameters and run metadata
+                    # config={
+                    # "learning_rate": 0.02,
+                    # "architecture": "CNN",
+                    # "dataset": "CIFAR-100",
+                    # "epochs": 20,
+                    # }
+            )
+    
+    wandb.log(llava_7b_labels)
