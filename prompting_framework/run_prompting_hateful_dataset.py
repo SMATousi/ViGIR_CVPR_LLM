@@ -28,6 +28,8 @@ def main():
     # parser.add_argument("--dropoutrate", type=float, default=0.5)
     parser.add_argument("--debug", action="store_true", help="Enables debugging mode. It will run the pipeline just on one sample.")
     parser.add_argument("--logging", action="store_true", help="Enables logging to the wandb")
+    parser.add_argument("--dev", action="store_true", help="Enables evaluation on dev set.")
+    # parser.add_argument("--train", action="store_true", help="Enables training on the train set.")
     parser.add_argument("--model_unloading", action="store_true", help="Enables unloading mode. Every 100 sampels it unloades the model from the GPU to avoid carshing.")
 
     args = parser.parse_args()
@@ -69,7 +71,18 @@ def main():
     # root_path = '/home1/pupil/goowfd/CVPR_2025/hateful_memes/img'
     root_path = args.data_path
 
-    list_of_image_names = os.listdir(root_path)
+    if args.dev:
+        with open('/root/home/data/hateful_memes/simplified_dev.json', 'r') as file:
+        data = json.load(file)
+
+        # Extract the image names from the JSON data
+        list_of_image_names = [entry['img'] for entry in data]
+    else:
+        list_of_image_names = os.listdir(root_path)
+
+    
+
+    # print(image_names)
 
     # model_name = 'llava:7b'
     model_name = args.modelname
