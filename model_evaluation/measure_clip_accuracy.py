@@ -1,12 +1,21 @@
 import json
 import os
+import argparse
 
-results_path  = '/home1/pupil/goowfd/CVPR_2025/hateful_memes/'
+# Set up argument parser
+parser = argparse.ArgumentParser(description="Evaluate model accurracy")
+parser.add_argument("ground_truth", type=str, help="Path to the ground truth JSON file ")
+parser.add_argument("predictions", type=str, help="Path to the predictions JSON file")
+
+# Parse arguments
+args = parser.parse_args()
+
+# Load the original JSON file
 # Load the ground truth and predictions JSON files
-with open(os.path.join(results_path,"simplified_train.json"), "r") as f:
+with open(args.ground_truth, "r") as f:
     ground_truth = json.load(f)
 
-with open(os.path.join(results_path,"llava_7b_hateful_formatted.json"), "r") as f:
+with open(args.predictions, "r") as f:
     predictions = json.load(f)
 
 # Convert ground truth and predictions to dictionaries for easier comparison
