@@ -134,7 +134,7 @@ def main():
     if args.modelname == "CLIP":
         model = CLIPWithMLP(clip_model=clip_model, mlp_head=mlp_head)
     if args.modelname == "ResNet":
-        ResNetWithMLP(num_classes=2)
+        model = ResNetWithMLP(num_classes=2)
     
 
     model.to(device)
