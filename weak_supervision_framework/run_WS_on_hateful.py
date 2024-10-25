@@ -146,7 +146,7 @@ def main():
                 train_loader, 
                 criterion, 
                 optimizer, 
-                device,
+                device=device,
                 logging=args.logging,
                 debug=args.debug,
                 project_name=args.projectname,
@@ -154,7 +154,7 @@ def main():
                 epochs=args.epochs)
 
     # Evaluate the model
-    evaluate_model(model, dev_loader, device)
+    evaluate_model(model, dev_loader, device, args.debug)
 
 
 
