@@ -8,16 +8,37 @@ from tqdm import tqdm
 from sklearn.metrics import precision_score, recall_score, f1_score
 import numpy as np
 from transformers import CLIPProcessor, CLIPModel
-
+import wandb
 
 
 # Training function
 def train_model(model, 
                 train_loader, 
+                dev_loader,
                 criterion, 
                 optimizer, 
-                device, 
+                device,
+                logging=False,
+                debug=False,
+                project_name=None,
+                run_name=None, 
                 epochs=5):
+
+    
+    if logging:
+
+        wandb.init(
+                        # set the wandb project where this run will be logged
+                    project=project_name, name=run_name
+                        
+                        # track hyperparameters and run metadata
+                        # config={
+                        # "learning_rate": 0.02,
+                        # "architecture": "CNN",
+                        # "dataset": "CIFAR-100",
+                        # "epochs": 20,
+                        # }
+                )
 
     model.train()  # Set model to training mode
     for epoch in range(epochs):
@@ -37,17 +58,29 @@ def train_model(model,
 
             running_loss += loss.item()
 
+            if debug:
+                break
+
+        precision, recall, f1 = evaluate_model(model, dev_loader, device, debug)
         print(f"Epoch [{epoch + 1}/{epochs}], Loss: {running_loss / len(train_loader):.4f}")
+
+        if logging:
+            wandb.log({"Train/Loss": running_loss / len(train_loader):.4f, 
+                        "Dev/precision": precision,
+                        "Dev/recall": recall,
+                        "Dev/F1": f1})
 
 # Evaluation function to compute precision, recall, and F1-score
 def evaluate_model(model, 
                 dev_loader, 
-                device):
+                device,
+                debug=False):
                 
     model.eval()  # Set model to evaluation mode
     all_labels = []
     all_preds = []
 
+    model.eval()
     with torch.no_grad():
         for images, labels in tqdm(dev_loader):
             images = images.to(device)
@@ -58,6 +91,9 @@ def evaluate_model(model,
 
             all_labels.extend(labels.cpu().numpy())
             all_preds.extend(predicted.cpu().numpy())
+
+            if debug:
+                break
 
     # Compute metrics
     precision = precision_score(all_labels, all_preds)

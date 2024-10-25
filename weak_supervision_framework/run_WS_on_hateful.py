@@ -18,6 +18,8 @@ from tqdm import tqdm
 from sklearn.metrics import precision_score, recall_score, f1_score
 import numpy as np
 from transformers import CLIPProcessor, CLIPModel
+import argparse
+import wandb
 from dataset import *
 from model import *
 from LFs import *
@@ -25,6 +27,19 @@ from utils import *
 
 
 def main():
+
+    parser = argparse.ArgumentParser(description="A script to run V-LLMs on different image classification datasets")
+        
+    # Add an argument for an integer option
+    parser.add_argument("--runname", type=str, default=None, required=False, help="The wandb run name.")
+    parser.add_argument("--projectname", type=str, default=None, required=False, help="The wandb project name.")
+    parser.add_argument("--modelname", type=str, required=True, help="The name of the model")
+    parser.add_argument("--epochs", type=int, default=100, help="The number of epochs")
+    parser.add_argument("--batch", type=int, default=128, help="Batch size")
+    parser.add_argument("--debug", action="store_true", help="Enables debugging mode. It will run the pipeline just on one sample.")
+    parser.add_argument("--logging", action="store_true", help="Enables logging to the wandb")
+
+    args = parser.parse_args()
 
 
     train_data_json_path = '/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/prompting_framework/prompting_results/hateful/simplified_train.json'
@@ -92,26 +107,51 @@ def main():
     preds_train = probs_to_preds(probs_train)
 
     # Create datasets and dataloaders
-    train_dataset = HatefulMemesDataset(image_names=train_image_names, root_dir=root_dir, labels=preds_train, processor=processor)
-    train_loader = DataLoader(train_dataset, batch_size=128, shuffle=True, num_workers=16)
+    if args.model_name == "CLIP":
+        train_dataset = HatefulMemesDataset(image_names=train_image_names, root_dir=root_dir, labels=preds_train, processor=processor)
+        train_loader = DataLoader(train_dataset, batch_size=args.batch, shuffle=True, num_workers=16)
 
-    dev_dataset = HatefulMemesDataset(image_names=dev_image_names, root_dir=root_dir, labels=Y_dev, processor=processor)
-    dev_loader = DataLoader(dev_dataset, batch_size=8, shuffle=False)
+        dev_dataset = HatefulMemesDataset(image_names=dev_image_names, root_dir=root_dir, labels=Y_dev, processor=processor)
+        dev_loader = DataLoader(dev_dataset, batch_size=args.batch, shuffle=False)
+
+    if args.model_name == "ResNet":
+        train_dataset = ImageDataset(image_names=train_image_names, root_dir=root_dir, labels=label_model_predictions, transform=transform)
+        train_loader = DataLoader(dataset, batch_size=args.batch, shuffle=True, num_workers=4)
+
+        dev_dataset = ImageDataset(image_names=dev_image_names, root_dir=root_dir, labels=Y_dev, transform=transform)
+        dev_loader = DataLoader(dev_dataset, batch_size=args.batch, shuffle=False, num_workers=4)
 
     # Define MLP head (the dimension is based on CLIP output size)
     mlp_head = MLPHead(input_dim=512, output_dim=2)  # Binary classification, so output_dim = 2
 
     # Create the full model with CLIP + MLP
-    model = CLIPWithMLP(clip_model=clip_model, mlp_head=mlp_head)
+    if args.model_name == "CLIP":
+        model = CLIPWithMLP(clip_model=clip_model, mlp_head=mlp_head)
+    if args.model_name == "ResNet":
+        ResNetWithMLP(num_classes=2)
+    
+
     model.to(device)
 
     # Loss function and optimizer
     criterion = nn.CrossEntropyLoss()
-    optimizer = optim.Adam(model.mlp_head.parameters(), lr=0.0001)
+    if args.model_name == "CLIP":
+        optimizer = optim.Adam(model.mlp_head.parameters(), lr=0.0001)
+    if args.model_name == "ResNet":
+        optimizer = optim.Adam(model.resnet.fc.parameters(), lr=0.0001)
 
     # Train the model
     epochs = 100
-    train_model(model, train_loader, criterion, optimizer, device, epochs=epochs)
+    train_model(model, 
+                train_loader, 
+                criterion, 
+                optimizer, 
+                device,
+                logging=args.logging,
+                debug=args.debug,
+                project_name=args.projectname,
+                run_name=args.runname, 
+                epochs=args.epochs)
 
     # Evaluate the model
     evaluate_model(model, dev_loader, device)
