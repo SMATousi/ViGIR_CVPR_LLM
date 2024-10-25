@@ -40,8 +40,16 @@ def train_model(model,
                         # }
                 )
 
-    model.train()  # Set model to training mode
+    # Set model to training mode
+    precision, recall, f1 = evaluate_model(model, dev_loader, device, debug)
+    if logging:
+        wandb.log({"Train/Loss": 0, 
+                    "Dev/precision": precision,
+                    "Dev/recall": recall,
+                    "Dev/F1": f1})
+                    
     for epoch in range(epochs):
+        model.train()
         running_loss = 0.0
         for images, labels in tqdm(train_loader):
             images, labels = images.to(device), labels.to(device)
