@@ -24,7 +24,7 @@ from LFs import *
 from utils import *
 
 
-if main():
+def main():
 
 
     train_data_json_path = '/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/prompting_framework/prompting_results/hateful/simplified_train.json'
