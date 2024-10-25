@@ -122,10 +122,10 @@ def main():
         ])
 
         train_dataset = ImageDataset(image_names=train_image_names, root_dir=root_dir, labels=preds_train, transform=transform)
-        train_loader = DataLoader(dataset, batch_size=args.batch, shuffle=True, num_workers=4)
+        train_loader = DataLoader(train_dataset, batch_size=args.batch, shuffle=True, num_workers=16)
 
         dev_dataset = ImageDataset(image_names=dev_image_names, root_dir=root_dir, labels=Y_dev, transform=transform)
-        dev_loader = DataLoader(dev_dataset, batch_size=args.batch, shuffle=False, num_workers=4)
+        dev_loader = DataLoader(dev_dataset, batch_size=args.batch, shuffle=False, num_workers=16)
 
     # Define MLP head (the dimension is based on CLIP output size)
     mlp_head = MLPHead(input_dim=512, output_dim=2)  # Binary classification, so output_dim = 2
