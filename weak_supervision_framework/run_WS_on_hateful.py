@@ -65,6 +65,9 @@ def main():
 
     applier = LFApplier(lfs)
 
+    L_dev = applier.apply(dev_image_names)
+    L_train = applier.apply(train_image_names)
+    Y_dev = np.array(Y_dev)
 
     label_model = LabelModel(cardinality=2, verbose=True)
     label_model.fit(L_train, Y_dev, n_epochs=5000, log_freq=500, seed=12345)
