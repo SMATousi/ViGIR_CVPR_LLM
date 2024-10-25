@@ -65,7 +65,7 @@ def train_model(model,
         print(f"Epoch [{epoch + 1}/{epochs}], Loss: {running_loss / len(train_loader):.4f}")
 
         if logging:
-            wandb.log({"Train/Loss": running_loss / len(train_loader):.4f, 
+            wandb.log({"Train/Loss": running_loss / len(train_loader), 
                         "Dev/precision": precision,
                         "Dev/recall": recall,
                         "Dev/F1": f1})
