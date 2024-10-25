@@ -107,14 +107,14 @@ def main():
     preds_train = probs_to_preds(probs_train)
 
     # Create datasets and dataloaders
-    if args.model_name == "CLIP":
+    if args.modelname == "CLIP":
         train_dataset = HatefulMemesDataset(image_names=train_image_names, root_dir=root_dir, labels=preds_train, processor=processor)
         train_loader = DataLoader(train_dataset, batch_size=args.batch, shuffle=True, num_workers=16)
 
         dev_dataset = HatefulMemesDataset(image_names=dev_image_names, root_dir=root_dir, labels=Y_dev, processor=processor)
         dev_loader = DataLoader(dev_dataset, batch_size=args.batch, shuffle=False)
 
-    if args.model_name == "ResNet":
+    if args.modelname == "ResNet":
         train_dataset = ImageDataset(image_names=train_image_names, root_dir=root_dir, labels=label_model_predictions, transform=transform)
         train_loader = DataLoader(dataset, batch_size=args.batch, shuffle=True, num_workers=4)
 
@@ -125,9 +125,9 @@ def main():
     mlp_head = MLPHead(input_dim=512, output_dim=2)  # Binary classification, so output_dim = 2
 
     # Create the full model with CLIP + MLP
-    if args.model_name == "CLIP":
+    if args.modelname == "CLIP":
         model = CLIPWithMLP(clip_model=clip_model, mlp_head=mlp_head)
-    if args.model_name == "ResNet":
+    if args.modelname == "ResNet":
         ResNetWithMLP(num_classes=2)
     
 
@@ -135,9 +135,9 @@ def main():
 
     # Loss function and optimizer
     criterion = nn.CrossEntropyLoss()
-    if args.model_name == "CLIP":
+    if args.modelname == "CLIP":
         optimizer = optim.Adam(model.mlp_head.parameters(), lr=0.0001)
-    if args.model_name == "ResNet":
+    if args.modelname == "ResNet":
         optimizer = optim.Adam(model.resnet.fc.parameters(), lr=0.0001)
 
     # Train the model
