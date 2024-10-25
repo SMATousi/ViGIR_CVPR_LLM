@@ -47,7 +47,7 @@ def train_model(model,
                     "Dev/precision": precision,
                     "Dev/recall": recall,
                     "Dev/F1": f1})
-                    
+
     for epoch in range(epochs):
         model.train()
         running_loss = 0.0
@@ -88,7 +88,6 @@ def evaluate_model(model,
     all_labels = []
     all_preds = []
 
-    model.eval()
     with torch.no_grad():
         for images, labels in tqdm(dev_loader):
             images = images.to(device)
