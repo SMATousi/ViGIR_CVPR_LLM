@@ -115,7 +115,13 @@ def main():
         dev_loader = DataLoader(dev_dataset, batch_size=args.batch, shuffle=False)
 
     if args.modelname == "ResNet":
-        train_dataset = ImageDataset(image_names=train_image_names, root_dir=root_dir, labels=label_model_predictions, transform=transform)
+        transform = transforms.Compose([
+            transforms.Resize((224, 224)),  # Resize images to 224x224 (example)
+            transforms.ToTensor(),          # Convert images to PyTorch tensors
+            # transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])  # Normalize with ImageNet mean/std
+        ])
+
+        train_dataset = ImageDataset(image_names=train_image_names, root_dir=root_dir, labels=preds_train, transform=transform)
         train_loader = DataLoader(dataset, batch_size=args.batch, shuffle=True, num_workers=4)
 
         dev_dataset = ImageDataset(image_names=dev_image_names, root_dir=root_dir, labels=Y_dev, transform=transform)
