@@ -1,0 +1,302 @@
+2024-10-25 23:07:08,558 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:07:08,558 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:07:08,558 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:07:08,558 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:07:08,558 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:07:08,558 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:07:08,558 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:07:08,558 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:07:08,558 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:07:08,559 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_230708-7xyn1bcn/logs/debug.log
+2024-10-25 23:07:08,559 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_230708-7xyn1bcn/logs/debug-internal.log
+2024-10-25 23:07:08,559 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:07:08,559 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:07:08,559 INFO    MainThread:105 [wandb_init.py:init():667] starting backend
+2024-10-25 23:07:08,559 INFO    MainThread:105 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 23:07:08,561 INFO    MainThread:105 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-25 23:07:08,561 INFO    MainThread:105 [wandb_init.py:init():684] backend started and connected
+2024-10-25 23:07:08,564 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 23:07:08,564 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 23:07:08,564 INFO    MainThread:105 [wandb_init.py:init():779] updated telemetry
+2024-10-25 23:07:08,566 INFO    MainThread:105 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 23:07:08,744 INFO    MainThread:105 [wandb_init.py:init():863] starting run threads in backend
+2024-10-25 23:07:08,831 INFO    MainThread:105 [wandb_run.py:_console_start():2465] atexit reg
+2024-10-25 23:07:08,831 INFO    MainThread:105 [wandb_run.py:_redirect():2313] redirect: wrap_raw
+2024-10-25 23:07:08,831 INFO    MainThread:105 [wandb_run.py:_redirect():2378] Wrapping output streams.
+2024-10-25 23:07:08,831 INFO    MainThread:105 [wandb_run.py:_redirect():2403] Redirects installed.
+2024-10-25 23:07:08,832 INFO    MainThread:105 [wandb_init.py:init():907] run started, returning control to user process
+2024-10-25 23:10:35,588 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:10:35,588 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:10:35,588 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:10:35,588 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:10:35,588 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:10:35,589 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:10:35,589 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:10:35,589 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:10:35,589 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:10:35,589 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231035-lnnn86g6/logs/debug.log
+2024-10-25 23:10:35,589 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231035-lnnn86g6/logs/debug-internal.log
+2024-10-25 23:10:35,589 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:10:35,589 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:10:35,589 INFO    MainThread:105 [wandb_init.py:init():642] re-initializing run, found existing run on stack: 7xyn1bcn
+2024-10-25 23:10:35,590 INFO    MainThread:105 [wandb_run.py:_finish():2164] finishing run ramytrm/CVPR-2025/7xyn1bcn
+2024-10-25 23:10:35,590 INFO    MainThread:105 [wandb_run.py:_atexit_cleanup():2428] got exitcode: 0
+2024-10-25 23:10:35,590 INFO    MainThread:105 [wandb_run.py:_restore():2410] restore
+2024-10-25 23:10:35,590 INFO    MainThread:105 [wandb_run.py:_restore():2416] restore done
+2024-10-25 23:10:38,661 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:10:38,940 WARNING MainThread:105 [wandb_init.py:init():1256] interrupted
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1252, in init
+    return wi.init()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 652, in init
+    latest_run.finish()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 452, in wrapper
+    return func(self, *args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 393, in wrapper
+    return func(self, *args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2157, in finish
+    return self._finish(exit_code, quiet)
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2191, in _finish
+    self._atexit_cleanup(exit_code=exit_code)
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2440, in _atexit_cleanup
+    self._on_finish()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2682, in _on_finish
+    _ = exit_handle.wait(timeout=-1, on_progress=self._on_progress_exit)
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+  File "/opt/conda/lib/python3.10/threading.py", line 607, in wait
+    signaled = self._cond.wait(timeout)
+  File "/opt/conda/lib/python3.10/threading.py", line 324, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+2024-10-25 23:10:41,141 INFO    MainThread:105 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:10:41,144 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231041-n0ewf615/logs/debug.log
+2024-10-25 23:10:41,145 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231041-n0ewf615/logs/debug-internal.log
+2024-10-25 23:10:41,145 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:10:41,145 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:10:41,145 INFO    MainThread:105 [wandb_init.py:init():667] starting backend
+2024-10-25 23:10:41,145 INFO    MainThread:105 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 23:10:41,147 INFO    MainThread:105 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-25 23:10:41,147 INFO    MainThread:105 [wandb_init.py:init():684] backend started and connected
+2024-10-25 23:10:41,150 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 23:10:41,150 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 23:10:41,150 INFO    MainThread:105 [wandb_init.py:init():779] updated telemetry
+2024-10-25 23:10:41,152 INFO    MainThread:105 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 23:10:41,389 INFO    MainThread:105 [wandb_init.py:init():863] starting run threads in backend
+2024-10-25 23:10:45,258 WARNING MainThread:105 [wandb_init.py:init():1256] interrupted
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1252, in init
+    return wi.init()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 877, in init
+    run_start_result = run_start_handle.wait(timeout=30)
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+  File "/opt/conda/lib/python3.10/threading.py", line 607, in wait
+    signaled = self._cond.wait(timeout)
+  File "/opt/conda/lib/python3.10/threading.py", line 324, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+2024-10-25 23:10:46,706 INFO    MainThread:105 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231046-ffuhkcny/logs/debug.log
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231046-ffuhkcny/logs/debug-internal.log
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:10:46,710 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:10:46,711 INFO    MainThread:105 [wandb_init.py:init():667] starting backend
+2024-10-25 23:10:46,711 INFO    MainThread:105 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 23:10:46,712 INFO    MainThread:105 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-25 23:10:46,713 INFO    MainThread:105 [wandb_init.py:init():684] backend started and connected
+2024-10-25 23:10:46,717 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 23:10:46,717 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 23:10:46,717 INFO    MainThread:105 [wandb_init.py:init():779] updated telemetry
+2024-10-25 23:10:46,718 INFO    MainThread:105 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 23:10:48,918 WARNING MainThread:105 [wandb_init.py:init():1256] interrupted
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1252, in init
+    return wi.init()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 815, in init
+    result = run_init_handle.wait(
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 283, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 130, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/lib/mailbox.py", line 126, in _wait
+    return self._event.wait(timeout=timeout)
+  File "/opt/conda/lib/python3.10/threading.py", line 607, in wait
+    signaled = self._cond.wait(timeout)
+  File "/opt/conda/lib/python3.10/threading.py", line 324, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+2024-10-25 23:10:52,754 INFO    MainThread:105 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-25 23:10:56,171 INFO    MainThread:105 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231056-1h742iz6/logs/debug.log
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231056-1h742iz6/logs/debug-internal.log
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:10:56,175 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:10:56,176 INFO    MainThread:105 [wandb_init.py:init():667] starting backend
+2024-10-25 23:10:56,176 INFO    MainThread:105 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 23:10:56,177 INFO    MainThread:105 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-25 23:10:56,178 INFO    MainThread:105 [wandb_init.py:init():684] backend started and connected
+2024-10-25 23:10:56,181 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 23:10:56,181 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 23:10:56,181 INFO    MainThread:105 [wandb_init.py:init():779] updated telemetry
+2024-10-25 23:10:56,183 INFO    MainThread:105 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 23:12:26,200 ERROR   MainThread:105 [wandb_init.py:init():838] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:12:26,200 ERROR   MainThread:105 [wandb_init.py:init():1262] error in wandb.init()
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1252, in init
+    return wi.init()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 844, in init
+    raise error
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:12:38,193 INFO    MainThread:105 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-25 23:12:43,442 INFO    MainThread:105 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231243-8yhx4tx3/logs/debug.log
+2024-10-25 23:12:43,451 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231243-8yhx4tx3/logs/debug-internal.log
+2024-10-25 23:12:43,452 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:12:43,452 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:12:43,452 INFO    MainThread:105 [wandb_init.py:init():667] starting backend
+2024-10-25 23:12:43,452 INFO    MainThread:105 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 23:12:43,454 INFO    MainThread:105 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-25 23:12:43,454 INFO    MainThread:105 [wandb_init.py:init():684] backend started and connected
+2024-10-25 23:12:43,457 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 23:12:43,457 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 23:12:43,457 INFO    MainThread:105 [wandb_init.py:init():779] updated telemetry
+2024-10-25 23:12:43,459 INFO    MainThread:105 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 23:14:13,475 ERROR   MainThread:105 [wandb_init.py:init():838] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:14:13,475 ERROR   MainThread:105 [wandb_init.py:init():1262] error in wandb.init()
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1252, in init
+    return wi.init()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 844, in init
+    raise error
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:14:48,447 INFO    MainThread:105 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-25 23:14:48,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:14:48,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:14:48,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231448-0jwsb8j1/logs/debug.log
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231448-0jwsb8j1/logs/debug-internal.log
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:init():667] starting backend
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 23:14:48,456 INFO    MainThread:105 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-25 23:14:48,457 INFO    MainThread:105 [wandb_init.py:init():684] backend started and connected
+2024-10-25 23:14:48,462 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 23:14:48,462 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 23:14:48,462 INFO    MainThread:105 [wandb_init.py:init():779] updated telemetry
+2024-10-25 23:14:48,465 INFO    MainThread:105 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 23:16:18,483 ERROR   MainThread:105 [wandb_init.py:init():838] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:16:18,483 ERROR   MainThread:105 [wandb_init.py:init():1262] error in wandb.init()
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1252, in init
+    return wi.init()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 844, in init
+    raise error
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:17:31,772 INFO    MainThread:105 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231731-ynhw5ssr/logs/debug.log
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231731-ynhw5ssr/logs/debug-internal.log
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:init():667] starting backend
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 23:17:31,777 INFO    MainThread:105 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: fork
+2024-10-25 23:17:31,777 INFO    MainThread:105 [wandb_init.py:init():684] backend started and connected
+2024-10-25 23:17:31,781 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 23:17:31,781 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 23:17:31,781 INFO    MainThread:105 [wandb_init.py:init():779] updated telemetry
+2024-10-25 23:17:31,783 INFO    MainThread:105 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 23:19:01,799 ERROR   MainThread:105 [wandb_init.py:init():838] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:19:01,799 ERROR   MainThread:105 [wandb_init.py:init():1262] error in wandb.init()
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1252, in init
+    return wi.init()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 844, in init
+    raise error
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed

@@ -1,0 +1,75 @@
+2024-10-25 23:14:48,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:14:48,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:14:48,451 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:14:48,452 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231448-0jwsb8j1/logs/debug.log
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231448-0jwsb8j1/logs/debug-internal.log
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:init():667] starting backend
+2024-10-25 23:14:48,453 INFO    MainThread:105 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 23:14:48,456 INFO    MainThread:105 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-25 23:14:48,457 INFO    MainThread:105 [wandb_init.py:init():684] backend started and connected
+2024-10-25 23:14:48,462 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 23:14:48,462 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 23:14:48,462 INFO    MainThread:105 [wandb_init.py:init():779] updated telemetry
+2024-10-25 23:14:48,465 INFO    MainThread:105 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 23:16:18,483 ERROR   MainThread:105 [wandb_init.py:init():838] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:16:18,483 ERROR   MainThread:105 [wandb_init.py:init():1262] error in wandb.init()
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1252, in init
+    return wi.init()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 844, in init
+    raise error
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:17:31,772 INFO    MainThread:105 [wandb_settings.py:_apply_login():1970] Applying login settings: {}
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Configure stats pid to 105
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/settings
+2024-10-25 23:17:31,774 INFO    MainThread:105 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:_log_setup():532] Logging user logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231731-ynhw5ssr/logs/debug.log
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:_log_setup():533] Logging internal logs to /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231731-ynhw5ssr/logs/debug-internal.log
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:init():617] calling init triggers
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {}
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:init():667] starting backend
+2024-10-25 23:17:31,775 INFO    MainThread:105 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 23:17:31,777 INFO    MainThread:105 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: fork
+2024-10-25 23:17:31,777 INFO    MainThread:105 [wandb_init.py:init():684] backend started and connected
+2024-10-25 23:17:31,781 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 23:17:31,781 INFO    MainThread:105 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 23:17:31,781 INFO    MainThread:105 [wandb_init.py:init():779] updated telemetry
+2024-10-25 23:17:31,783 INFO    MainThread:105 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 23:19:01,799 ERROR   MainThread:105 [wandb_init.py:init():838] encountered error: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:19:01,799 ERROR   MainThread:105 [wandb_init.py:init():1262] error in wandb.init()
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1252, in init
+    return wi.init()
+  File "/opt/conda/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 844, in init
+    raise error
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. 
+Please refer to the documentation for additional information: https://docs.wandb.ai/guides/track/tracking-faq#initstarterror-error-communicating-with-wandb-process-
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed
+2024-10-25 23:21:06,498 WARNING MsgRouterThr:105 [router.py:message_loop():77] message_loop has been closed

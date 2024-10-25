@@ -1,0 +1,19 @@
+{"time":"2024-10-25T23:10:41.14722149Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T23:10:41.147230331Z","level":"INFO","msg":"created symlink","path":"/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231041-n0ewf615/logs/debug-core.log"}
+{"time":"2024-10-25T23:10:41.147280753Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T23:10:41.148230812Z","level":"INFO","msg":"created new stream","id":"n0ewf615"}
+{"time":"2024-10-25T23:10:41.148239599Z","level":"INFO","msg":"stream: started","id":"n0ewf615"}
+{"time":"2024-10-25T23:10:41.148249847Z","level":"INFO","msg":"sender: started","stream_id":{"value":"n0ewf615"}}
+{"time":"2024-10-25T23:10:41.148249126Z","level":"INFO","msg":"handler: started","stream_id":{"value":"n0ewf615"}}
+{"time":"2024-10-25T23:10:41.148245782Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"n0ewf615"}}
+{"time":"2024-10-25T23:10:41.391433289Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T23:10:41.391572442Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T23:14:41.782846918Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/ramytrm/CVPR-2025/n0ewf615/file_stream"}
+{"time":"2024-10-25T23:14:41.782866977Z","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/ramytrm/CVPR-2025/n0ewf615/file_stream: {\"error\":\"run CVPR-2025/n0ewf615 not found while streaming file\"}"}
+{"time":"2024-10-25T23:21:06.498082464Z","level":"INFO","msg":"stream: closing","id":"n0ewf615"}
+{"time":"2024-10-25T23:21:06.498095091Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T23:21:06.499421547Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T23:21:06.599443213Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:21:06.59945762Z","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run CVPR-2025/n0ewf615 not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-10-25T23:21:06.600247067Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:21:09.063529001Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}

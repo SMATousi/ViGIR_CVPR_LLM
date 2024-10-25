@@ -1,0 +1,211 @@
+{"time":"2024-10-25T22:28:05.626326925Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T22:28:05.6263584Z","level":"INFO","msg":"created symlink","path":"/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_222805-nnkubmy5/logs/debug-core.log"}
+{"time":"2024-10-25T22:28:05.64606409Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T22:28:05.648426194Z","level":"INFO","msg":"created new stream","id":"nnkubmy5"}
+{"time":"2024-10-25T22:28:05.648438977Z","level":"INFO","msg":"stream: started","id":"nnkubmy5"}
+{"time":"2024-10-25T22:28:05.648444845Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"nnkubmy5"}}
+{"time":"2024-10-25T22:28:05.648464527Z","level":"INFO","msg":"handler: started","stream_id":{"value":"nnkubmy5"}}
+{"time":"2024-10-25T22:28:05.648446744Z","level":"INFO","msg":"sender: started","stream_id":{"value":"nnkubmy5"}}
+{"time":"2024-10-25T22:28:05.942013968Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T22:28:05.942351445Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T22:28:06.076408666Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:28:25.183315054Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:28:25.40451761Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:32:37.818387739Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:32:37.860390365Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:33:52.829452511Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:33:52.863599076Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:34:24.263772878Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:34:24.273633903Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:34:34.663272391Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:34:34.956726668Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:34:43.263221932Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:34:43.286486726Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:34:46.262894697Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:34:46.304432454Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:34:59.963238313Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:35:00.064286292Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:35:07.646456211Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:35:07.688439304Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:35:35.94735758Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:35:36.71799865Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:35:57.065386736Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:35:57.108372451Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:36:07.848996384Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:36:07.950102738Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:36:15.369420003Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:36:15.377346705Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:39:12.348839945Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:39:12.351827103Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:39:15.969820919Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:39:16.085024518Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:39:23.717099153Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:39:23.815983011Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:39:24.399054705Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:39:24.404100479Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:41:03.769021057Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:41:03.869225888Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:41:04.267000987Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:41:04.270617254Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:42:34.769318809Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:42:34.869453774Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:42:36.386812305Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:42:36.428398747Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:43:03.454271585Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:43:03.45588799Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:43:08.168914222Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:43:08.270173789Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:43:31.585886363Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:43:31.588317215Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:43:56.873263998Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:43:56.916438608Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:44:46.770646461Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:44:46.812520207Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:45:02.487646125Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:45:02.489462497Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:45:07.33967812Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:45:07.380444388Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:45:14.85508193Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:45:14.85929218Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:46:02.305489078Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:46:02.306951847Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:46:03.604275927Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:46:03.606884183Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:47:51.473736715Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:47:51.47523765Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:48:03.789520305Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:48:03.791015626Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:48:05.623269507Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:48:05.626163801Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:48:13.707383119Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:48:13.710130456Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:48:25.490348593Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:48:25.491722227Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:48:57.708940163Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:48:57.752438997Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:49:19.850387096Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:49:19.892471029Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:49:21.879947193Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:49:21.880499092Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:49:22.329206073Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:49:22.330177796Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:49:26.267968092Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:49:26.308522633Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:17.403327452Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:17.44439693Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:21.004145799Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:21.020558452Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:25.835623201Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:25.836125465Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:26.137345683Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:26.180461456Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:26.474177115Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:26.475222417Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:28.957577652Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:29.351065166Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:32.525145797Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:32.548480501Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:43.575073939Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:43.609327884Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:46.910463499Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:46.952421688Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:48.543120808Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:48.546799999Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:50:50.659583477Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:50:50.677973777Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:52:58.495955615Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:52:58.536461154Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:53:56.428898843Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:53:56.472474031Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:53:58.562412633Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:53:58.566694949Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:00.697040174Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:00.700541455Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:12.56442539Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:12.566888208Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:24.147879879Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:24.149311719Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:25.65206959Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:25.652628757Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:25.983017547Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:25.984184373Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:27.97493703Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:28.016468494Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:33.94831416Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:33.950832611Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:42.581382218Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:42.605670398Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:46.597081808Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:46.640375529Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:50.013256982Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:50.023678653Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:50.462790838Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:50.46679267Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:54:51.06012921Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:54:51.076176666Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:55:43.125600442Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/ramytrm/CVPR-2025/nnkubmy5/file_stream"}
+{"time":"2024-10-25T22:55:43.12564234Z","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/ramytrm/CVPR-2025/nnkubmy5/file_stream: {\"error\":\"run CVPR-2025/nnkubmy5 not found while streaming file\"}"}
+{"time":"2024-10-25T22:55:44.997456839Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:55:45.006841261Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:55:45.614057674Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:55:45.822368639Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T22:55:45.832289752Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:55:45.915582864Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T22:56:03.380997713Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:56:03.381390926Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:56:03.730211563Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:56:03.730653133Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:56:04.281042396Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:56:04.282845453Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:56:07.458089793Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:56:07.500452538Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:56:08.36571961Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:56:08.366347693Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:56:08.730344162Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:56:08.736458248Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:56:09.887447198Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:56:09.888963187Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:56:12.782891165Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:56:12.790473333Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T22:56:12.791682211Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T22:56:13.147040574Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T22:56:15.658780888Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T22:56:17.79240926Z","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-10-25T22:56:20.680408368Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T22:56:29.09534925Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T22:56:49.022631508Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T22:57:29.25229312Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T22:58:29.64517395Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T22:59:30.067833059Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:00:30.417981492Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:01:30.808428144Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:02:31.145527815Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:03:31.510644101Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:04:31.923312024Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:05:32.247589Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:06:12.79063415Z","level":"WARN","msg":"sender: taking a long time","seconds":600.000593187,"work":"WorkRecord(*service_go_proto.Record_Telemetry); Control(connection_id:\"127.0.0.1:49352\")"}
+{"time":"2024-10-25T23:06:32.634234037Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:07:33.027330239Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:08:33.372003947Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:09:33.782986741Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:10:34.104772187Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:11:34.433619602Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:12:34.743830944Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:12:34.743866312Z","level":"ERROR","msg":"sender: sendConfig:","error":"api: failed sending: POST https://api.wandb.ai/graphql giving up after 21 attempt(s)"}
+{"time":"2024-10-25T23:12:34.754271563Z","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":981.964254735,"work":"WorkRecord(*service_go_proto.Record_Telemetry); Control(connection_id:\"127.0.0.1:49352\")"}
+{"time":"2024-10-25T23:12:34.883075876Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:12:34.883110543Z","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run CVPR-2025/nnkubmy5 not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-10-25T23:12:35.180251591Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:12:37.989437982Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:12:42.739171103Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:12:51.962583888Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:13:12.3083567Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:13:46.128047484Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:14:46.489418069Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:15:46.781399327Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:16:47.106724054Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:17:47.431511413Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:18:47.745674973Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:19:48.116520837Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:20:48.440371959Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:21:06.498103125Z","level":"INFO","msg":"stream: closing","id":"nnkubmy5"}

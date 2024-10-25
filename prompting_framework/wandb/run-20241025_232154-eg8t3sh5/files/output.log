@@ -1,0 +1,17 @@
+/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/data_split/split_zhou_EuroSAT.json
+/home1/pupil/rmf3mc/eurosat/2750/
+  0%|                               | 12/13500 [00:06<2:00:29,  1.87it/s]
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+<class 'str'>
+[34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.

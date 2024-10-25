@@ -1,0 +1,14 @@
+{"time":"2024-10-25T23:14:48.456851486Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T23:14:48.456871378Z","level":"INFO","msg":"created symlink","path":"/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_231448-0jwsb8j1/logs/debug-core.log"}
+{"time":"2024-10-25T23:14:48.456945332Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T23:14:48.458105536Z","level":"INFO","msg":"created new stream","id":"0jwsb8j1"}
+{"time":"2024-10-25T23:14:48.458120958Z","level":"INFO","msg":"stream: started","id":"0jwsb8j1"}
+{"time":"2024-10-25T23:14:48.458137413Z","level":"INFO","msg":"handler: started","stream_id":{"value":"0jwsb8j1"}}
+{"time":"2024-10-25T23:14:48.458137747Z","level":"INFO","msg":"sender: started","stream_id":{"value":"0jwsb8j1"}}
+{"time":"2024-10-25T23:14:48.45814405Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"0jwsb8j1"}}
+{"time":"2024-10-25T23:21:06.49800281Z","level":"INFO","msg":"stream: closing","id":"0jwsb8j1"}
+{"time":"2024-10-25T23:21:06.498010648Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"0jwsb8j1"}}
+{"time":"2024-10-25T23:21:06.498016699Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"0jwsb8j1"}}
+{"time":"2024-10-25T23:21:06.498028725Z","level":"ERROR","msg":"runwork: ignoring record after close","work":{"Record":{"RecordType":{"Request":{"RequestType":{"Defer":{}}}},"control":{"always_send":true}}}}
+{"time":"2024-10-25T23:21:06.508751119Z","level":"INFO","msg":"sender: closed","stream_id":{"value":"0jwsb8j1"}}
+{"time":"2024-10-25T23:21:06.508761227Z","level":"INFO","msg":"stream: closed","id":"0jwsb8j1"}

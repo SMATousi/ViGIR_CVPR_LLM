@@ -1,0 +1,57 @@
+                                           File Path       Category  \
+0  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...    Residential
+1  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...     AnnualCrop
+2  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...        Pasture
+3  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...  PermanentCrop
+
+            Image Name
+0  AnnualCrop_1381.jpg
+1  AnnualCrop_2825.jpg
+2   AnnualCrop_232.jpg
+3  AnnualCrop_2920.jpg
+                                           File Path       Category  \
+0  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...    Residential
+1  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...     AnnualCrop
+2  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...        Pasture
+3  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...  PermanentCrop
+
+            Image Name
+0  AnnualCrop_1381.jpg
+1  AnnualCrop_2825.jpg
+2   AnnualCrop_232.jpg
+3  AnnualCrop_2920.jpg
+../../data_split/split_zhou_EuroSAT.json
+/home1/pupil/rmf3mc/eurosat/2750/
+../../data_split/split_zhou_EuroSAT.json
+/home1/pupil/rmf3mc/eurosat/2750/
+../../data_split/split_zhou_EuroSAT.json
+/home1/pupil/rmf3mc/eurosat/2750/
+/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/data_split/split_zhou_EuroSAT.json
+/home1/pupil/rmf3mc/eurosat/2750/
+                                           File Path  Label             Class
+0  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...      0  Annual Crop Land
+1  /home1/pupil/rmf3mc/eurosat/2750/AnnualCrop/An...      0  Annual Crop Land
+Parsed arguments:
+modelname: llava:7b
+prompt: Classify the satellite image into one of the following categories: SeaLake, PermanentCrop, River, Residential, Pasture, Industrial, Highway, HerbaceousVegetation, Forest, or AnnualCrop. Provide only the class name as your answer.
+data: eurosat
+data_path: /home1/pupil/rmf3mc/eurosat/2750/
+data_samples: /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/data_split/split_zhou_EuroSAT.json
+subset: train
+results_dir: /home1/pupil/rmf3mc/eurosat/results/baselineExp
+timeout: 20
+model_unloading: True
+/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/data_split/split_zhou_EuroSAT.json
+/home1/pupil/rmf3mc/eurosat/2750/
+[34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Parsed arguments:
+modelname: llava:7b
+prompt: Classify the satellite image into one of the following categories: SeaLake, PermanentCrop, River, Residential, Pasture, Industrial, Highway, HerbaceousVegetation, Forest, or AnnualCrop. Provide only the class name as your answer.
+data: eurosat
+data_path: /home1/pupil/rmf3mc/eurosat/2750/
+data_samples: /home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/data_split/split_zhou_EuroSAT.json
+subset: train
+results_dir: /home1/pupil/rmf3mc/eurosat/results/baselineExp
+timeout: 20
+model_unloading: True

@@ -1,0 +1,13 @@
+{"time":"2024-10-25T23:06:18.362854768Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T23:06:18.362863274Z","level":"INFO","msg":"created symlink","path":"/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_230618-ruja8yo6/logs/debug-core.log"}
+{"time":"2024-10-25T23:06:18.362914816Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T23:06:18.363658779Z","level":"INFO","msg":"created new stream","id":"ruja8yo6"}
+{"time":"2024-10-25T23:06:18.363668742Z","level":"INFO","msg":"stream: started","id":"ruja8yo6"}
+{"time":"2024-10-25T23:06:18.363681188Z","level":"INFO","msg":"handler: started","stream_id":{"value":"ruja8yo6"}}
+{"time":"2024-10-25T23:06:18.363695088Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ruja8yo6"}}
+{"time":"2024-10-25T23:06:18.36371727Z","level":"INFO","msg":"sender: started","stream_id":{"value":"ruja8yo6"}}
+{"time":"2024-10-25T23:21:06.498020347Z","level":"INFO","msg":"stream: closing","id":"ruja8yo6"}
+{"time":"2024-10-25T23:21:06.598171953Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:21:06.598188246Z","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run CVPR-2025/ruja8yo6 not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-10-25T23:21:06.599423847Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:21:08.979846989Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}

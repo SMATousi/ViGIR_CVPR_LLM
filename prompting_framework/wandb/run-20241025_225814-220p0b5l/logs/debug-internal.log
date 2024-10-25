@@ -1,0 +1,74 @@
+{"time":"2024-10-25T22:58:14.22979978Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T22:58:14.229814269Z","level":"INFO","msg":"created symlink","path":"/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_225814-220p0b5l/logs/debug-core.log"}
+{"time":"2024-10-25T22:58:14.22988583Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T22:58:14.231167246Z","level":"INFO","msg":"created new stream","id":"220p0b5l"}
+{"time":"2024-10-25T22:58:14.231181996Z","level":"INFO","msg":"stream: started","id":"220p0b5l"}
+{"time":"2024-10-25T22:58:14.231196633Z","level":"INFO","msg":"sender: started","stream_id":{"value":"220p0b5l"}}
+{"time":"2024-10-25T22:58:14.231214169Z","level":"INFO","msg":"handler: started","stream_id":{"value":"220p0b5l"}}
+{"time":"2024-10-25T22:58:14.231207151Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"220p0b5l"}}
+{"time":"2024-10-25T22:58:14.487516079Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T22:58:14.487755784Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T22:58:44.57691619Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:07.369044004Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:07.391233381Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:21.250575091Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:21.261406268Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T22:59:24.135603187Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T22:59:24.344508399Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:01:29.899548147Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/ramytrm/CVPR-2025/220p0b5l/file_stream"}
+{"time":"2024-10-25T23:01:29.899579227Z","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/ramytrm/CVPR-2025/220p0b5l/file_stream: {\"error\":\"run CVPR-2025/220p0b5l not found while streaming file\"}"}
+{"time":"2024-10-25T23:01:57.579306326Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:01:58.014964485Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:01:58.828261457Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:01:59.020305129Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:01:59.031446243Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:01:59.111898091Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:04:23.74752001Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:04:23.748063924Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:04:24.280311814Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:04:24.280727297Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:04:25.238039859Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:04:25.239711597Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:04:25.929458098Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:04:25.930068726Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:04:26.83029455Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:04:26.831167224Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:04:27.23482771Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:04:27.236461669Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:04:27.76493739Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:04:27.76657484Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:04:28.453417707Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:04:28.459901826Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T23:04:28.461233739Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T23:04:28.747517596Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:04:31.210195539Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:04:33.461720669Z","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-10-25T23:04:36.224690652Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:04:44.641304054Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:05:03.89113059Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:05:38.694422489Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:06:39.100577907Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:07:39.432173722Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:08:39.757713327Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:09:40.050707435Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:10:40.30818546Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:11:40.617307532Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:12:40.941898676Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:13:41.246343736Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:14:28.460162005Z","level":"WARN","msg":"sender: taking a long time","seconds":600.000895347,"work":"WorkRecord(*service_go_proto.Record_Telemetry); Control(connection_id:\"127.0.0.1:49352\")"}
+{"time":"2024-10-25T23:14:41.573688506Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:15:41.865470959Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:16:42.16424341Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:17:42.45398546Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:18:42.725268057Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:19:43.001420383Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:20:43.296832001Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:20:43.296872433Z","level":"ERROR","msg":"sender: sendConfig:","error":"api: failed sending: POST https://api.wandb.ai/graphql giving up after 21 attempt(s)"}
+{"time":"2024-10-25T23:20:43.296995567Z","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":974.837750764,"work":"WorkRecord(*service_go_proto.Record_Telemetry); Control(connection_id:\"127.0.0.1:49352\")"}
+{"time":"2024-10-25T23:20:43.423088409Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:20:43.423144938Z","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run CVPR-2025/220p0b5l not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-10-25T23:20:43.586632007Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:20:46.045676387Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:20:50.421012038Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:20:59.289191044Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:21:06.49797882Z","level":"INFO","msg":"stream: closing","id":"220p0b5l"}

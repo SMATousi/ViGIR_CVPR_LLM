@@ -1,0 +1,13 @@
+{"time":"2024-10-25T23:05:32.428196949Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T23:05:32.428210906Z","level":"INFO","msg":"created symlink","path":"/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_230532-goeew77d/logs/debug-core.log"}
+{"time":"2024-10-25T23:05:32.428289725Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T23:05:32.429608057Z","level":"INFO","msg":"created new stream","id":"goeew77d"}
+{"time":"2024-10-25T23:05:32.429623218Z","level":"INFO","msg":"stream: started","id":"goeew77d"}
+{"time":"2024-10-25T23:05:32.429637987Z","level":"INFO","msg":"handler: started","stream_id":{"value":"goeew77d"}}
+{"time":"2024-10-25T23:05:32.429653038Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"goeew77d"}}
+{"time":"2024-10-25T23:05:32.429706471Z","level":"INFO","msg":"sender: started","stream_id":{"value":"goeew77d"}}
+{"time":"2024-10-25T23:21:06.49804011Z","level":"INFO","msg":"stream: closing","id":"goeew77d"}
+{"time":"2024-10-25T23:21:06.59504021Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:21:06.595053659Z","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run CVPR-2025/goeew77d not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-10-25T23:21:06.60188536Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}
+{"time":"2024-10-25T23:21:08.784888417Z","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql"}

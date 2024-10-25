@@ -1,0 +1,39 @@
+{"time":"2024-10-25T23:21:54.160441295Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T23:21:54.160449999Z","level":"INFO","msg":"created symlink","path":"/home1/pupil/rmf3mc/test_access/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20241025_232154-eg8t3sh5/logs/debug-core.log"}
+{"time":"2024-10-25T23:21:54.178690312Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T23:21:54.179858868Z","level":"INFO","msg":"created new stream","id":"eg8t3sh5"}
+{"time":"2024-10-25T23:21:54.179872431Z","level":"INFO","msg":"stream: started","id":"eg8t3sh5"}
+{"time":"2024-10-25T23:21:54.17987455Z","level":"INFO","msg":"handler: started","stream_id":{"value":"eg8t3sh5"}}
+{"time":"2024-10-25T23:21:54.179889948Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"eg8t3sh5"}}
+{"time":"2024-10-25T23:21:54.180168021Z","level":"INFO","msg":"sender: started","stream_id":{"value":"eg8t3sh5"}}
+{"time":"2024-10-25T23:21:54.42704566Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T23:21:54.427393594Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T23:21:54.552576954Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:21:57.432184313Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:21:57.472490494Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:00.103769819Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:00.10475641Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:01.557746593Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:01.558122301Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:02.502006893Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:02.999480708Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:05.513678723Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:12.802805157Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:21.590781462Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:21.592371526Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:32.872466902Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:32.913440458Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:34.694126057Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:34.736461138Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:35.494915161Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:35.496150293Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:37.238582943Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:37.240329799Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:39.398551005Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:39.432493478Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:43.656829836Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:44.159940842Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:22:47.272394616Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T23:22:48.007623672Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T23:29:24.685023551Z","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/ramytrm/CVPR-2025/eg8t3sh5/file_stream"}
+{"time":"2024-10-25T23:29:24.685068652Z","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/ramytrm/CVPR-2025/eg8t3sh5/file_stream: {\"error\":\"project ramytrm/CVPR-2025 not found while streaming file\"}"}
