@@ -4,6 +4,7 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms
+from torchvision import models
 from tqdm import tqdm
 from sklearn.metrics import precision_score, recall_score, f1_score
 import numpy as np
