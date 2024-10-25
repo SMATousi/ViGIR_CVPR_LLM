@@ -144,9 +144,10 @@ def main():
     epochs = 100
     train_model(model, 
                 train_loader, 
+                dev_loader,
                 criterion, 
                 optimizer, 
-                device=device,
+                device,
                 logging=args.logging,
                 debug=args.debug,
                 project_name=args.projectname,
