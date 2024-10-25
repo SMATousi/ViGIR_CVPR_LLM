@@ -31,3 +31,32 @@ class ImageDataset(Dataset):
             image = self.transform(image)
 
         return image, torch.tensor(label)
+
+
+class HatefulMemesDataset(Dataset):
+    def __init__(self, image_names, root_dir, labels, processor):
+        """
+        Args:
+            data_frame (DataFrame): DataFrame containing image names and labels.
+            image_dir (str): Directory where the images are stored.
+            processor (CLIPProcessor): CLIP processor for preprocessing images.
+        """
+        self.image_names = image_names
+        self.root_dir = root_dir
+        self.labels = labels
+        self.processor = processor
+
+    def __len__(self):
+        return len(self.image_names)
+
+    def __getitem__(self, idx):
+        # Get image name and label from the dataframe
+        img_name = os.path.join(self.root_dir, self.image_names[idx])
+        label = self.labels[idx]
+
+        # Load and process image
+        image = Image.open(img_name).convert('RGB')
+        inputs = self.processor(images=image, return_tensors="pt")
+
+        # Return image and label
+        return inputs['pixel_values'].squeeze(0), torch.tensor(label, dtype=torch.long)
