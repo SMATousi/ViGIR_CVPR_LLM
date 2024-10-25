@@ -112,3 +112,8 @@ if main():
 
     # Evaluate the model
     evaluate_model(model, dev_loader, device)
+
+
+
+if __name__ == "__main__":
+    main()
