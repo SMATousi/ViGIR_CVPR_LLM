@@ -1,0 +1,16 @@
+{"time":"2024-10-24T22:15:34.423051282-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-24T22:15:34.423097055-05:00","level":"INFO","msg":"created symlink","path":"/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/weak_supervision_framework/wandb/run-20241024_221533-vskdazul/logs/debug-core.log"}
+{"time":"2024-10-24T22:15:34.599486542-05:00","level":"INFO","msg":"created new stream","id":"vskdazul"}
+{"time":"2024-10-24T22:15:34.599556723-05:00","level":"INFO","msg":"stream: started","id":"vskdazul"}
+{"time":"2024-10-24T22:15:34.599678437-05:00","level":"INFO","msg":"sender: started","stream_id":"vskdazul"}
+{"time":"2024-10-24T22:15:34.599632354-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vskdazul"}}
+{"time":"2024-10-24T22:15:34.59968438-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"vskdazul"}}
+{"time":"2024-10-24T22:15:34.916647185-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-24T22:18:02.762890844-05:00","level":"INFO","msg":"stream: closing","id":"vskdazul"}
+{"time":"2024-10-24T22:18:02.762937639-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-24T22:18:02.763542402-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-24T22:18:04.331253262-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-24T22:18:04.475673014-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"vskdazul"}}
+{"time":"2024-10-24T22:18:04.475757371-05:00","level":"INFO","msg":"sender: closed","stream_id":"vskdazul"}
+{"time":"2024-10-24T22:18:04.475755366-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vskdazul"}}
+{"time":"2024-10-24T22:18:04.523490283-05:00","level":"INFO","msg":"stream: closed","id":"vskdazul"}

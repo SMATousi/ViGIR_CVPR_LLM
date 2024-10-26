@@ -1,0 +1,16 @@
+{"time":"2024-10-25T11:14:15.990984308-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-25T11:14:15.99103076-05:00","level":"INFO","msg":"created symlink","path":"/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/weak_supervision_framework/wandb/run-20241025_111415-yaanxoge/logs/debug-core.log"}
+{"time":"2024-10-25T11:14:16.158753739-05:00","level":"INFO","msg":"created new stream","id":"yaanxoge"}
+{"time":"2024-10-25T11:14:16.158822862-05:00","level":"INFO","msg":"stream: started","id":"yaanxoge"}
+{"time":"2024-10-25T11:14:16.159045289-05:00","level":"INFO","msg":"sender: started","stream_id":"yaanxoge"}
+{"time":"2024-10-25T11:14:16.158929305-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"yaanxoge"}}
+{"time":"2024-10-25T11:14:16.159102845-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"yaanxoge"}}
+{"time":"2024-10-25T11:14:16.559071053-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T11:16:49.178547375-05:00","level":"INFO","msg":"stream: closing","id":"yaanxoge"}
+{"time":"2024-10-25T11:16:49.178695791-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T11:16:49.17930937-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T11:16:49.753723965-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T11:16:49.887754117-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"yaanxoge"}}
+{"time":"2024-10-25T11:16:49.887821663-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"yaanxoge"}}
+{"time":"2024-10-25T11:16:49.887867657-05:00","level":"INFO","msg":"sender: closed","stream_id":"yaanxoge"}
+{"time":"2024-10-25T11:16:49.928745092-05:00","level":"INFO","msg":"stream: closed","id":"yaanxoge"}

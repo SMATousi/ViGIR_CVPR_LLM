@@ -1,0 +1,16 @@
+{"time":"2024-10-25T11:08:21.35527634-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-25T11:08:21.355290303-05:00","level":"INFO","msg":"created symlink","path":"/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/weak_supervision_framework/wandb/run-20241025_110820-mbajpzlw/logs/debug-core.log"}
+{"time":"2024-10-25T11:08:21.513580488-05:00","level":"INFO","msg":"created new stream","id":"mbajpzlw"}
+{"time":"2024-10-25T11:08:21.513597552-05:00","level":"INFO","msg":"stream: started","id":"mbajpzlw"}
+{"time":"2024-10-25T11:08:21.513657618-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mbajpzlw"}}
+{"time":"2024-10-25T11:08:21.514959225-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mbajpzlw"}}
+{"time":"2024-10-25T11:08:21.514973627-05:00","level":"INFO","msg":"sender: started","stream_id":"mbajpzlw"}
+{"time":"2024-10-25T11:08:21.772577392-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T11:12:07.511435795-05:00","level":"INFO","msg":"stream: closing","id":"mbajpzlw"}
+{"time":"2024-10-25T11:12:07.51150845-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T11:12:07.512137413-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T11:12:09.080419682-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T11:12:09.224773804-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"mbajpzlw"}}
+{"time":"2024-10-25T11:12:09.224802828-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mbajpzlw"}}
+{"time":"2024-10-25T11:12:09.224821788-05:00","level":"INFO","msg":"sender: closed","stream_id":"mbajpzlw"}
+{"time":"2024-10-25T11:12:09.339131668-05:00","level":"INFO","msg":"stream: closed","id":"mbajpzlw"}

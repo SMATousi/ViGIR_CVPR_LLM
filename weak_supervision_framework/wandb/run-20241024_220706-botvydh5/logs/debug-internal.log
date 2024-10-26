@@ -1,0 +1,16 @@
+{"time":"2024-10-24T22:07:06.622324805-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-24T22:07:06.622375064-05:00","level":"INFO","msg":"created symlink","path":"/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/weak_supervision_framework/wandb/run-20241024_220706-botvydh5/logs/debug-core.log"}
+{"time":"2024-10-24T22:07:06.78870115-05:00","level":"INFO","msg":"created new stream","id":"botvydh5"}
+{"time":"2024-10-24T22:07:06.788764038-05:00","level":"INFO","msg":"stream: started","id":"botvydh5"}
+{"time":"2024-10-24T22:07:06.788988882-05:00","level":"INFO","msg":"sender: started","stream_id":"botvydh5"}
+{"time":"2024-10-24T22:07:06.788875654-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"botvydh5"}}
+{"time":"2024-10-24T22:07:06.788868126-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"botvydh5"}}
+{"time":"2024-10-24T22:07:07.181297999-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-24T22:09:32.917993631-05:00","level":"INFO","msg":"stream: closing","id":"botvydh5"}
+{"time":"2024-10-24T22:09:32.918151327-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-24T22:09:32.919006314-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-24T22:09:34.349198662-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-24T22:09:34.510219644-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"botvydh5"}}
+{"time":"2024-10-24T22:09:34.510309693-05:00","level":"INFO","msg":"sender: closed","stream_id":"botvydh5"}
+{"time":"2024-10-24T22:09:34.510299821-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"botvydh5"}}
+{"time":"2024-10-24T22:09:34.557816496-05:00","level":"INFO","msg":"stream: closed","id":"botvydh5"}
