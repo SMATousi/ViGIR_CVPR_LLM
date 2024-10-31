@@ -28,3 +28,4 @@ config: {}
 2024-10-31 16:19:57,781 INFO    MainThread:538 [wandb_init.py:init():907] run started, returning control to user process
 2024-10-31 16:19:57,781 INFO    MainThread:538 [jupyter.py:save_ipynb():387] not saving jupyter notebook
 2024-10-31 16:19:57,781 INFO    MainThread:538 [wandb_init.py:_pause_backend():443] pausing backend
+2024-10-31 17:59:04,849 WARNING MsgRouterThr:538 [router.py:message_loop():77] message_loop has been closed
