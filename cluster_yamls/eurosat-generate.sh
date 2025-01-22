@@ -31,7 +31,7 @@ export prompt='Classify the satellite image. Provide only the class name as your
 
 export dataset=eurosat
 export data_path=/root/home/data/EuroSAT_RGB
-export data_sample=/root/home/data/ViGIR_CVPR_LLM/data_split/split_zhou_EuroSAT.json
+export data_sample=/root/home/ViGIR_CVPR_LLM/data_split/split_zhou_EuroSAT.json
 export subset=test
 export results_dir=/root/home/ViGIR_CVPR_LLM/results/baselineExp/${dataset}
 export timeout=40
