@@ -27,13 +27,13 @@ echo "timeout: $timeout"
 echo "model_unloading: $model_unloading"
 
 # Define the prompt as a variable
-export prompt='Classify the satellite image into one of the following categories: SeaLake, PermanentCrop, River, Residential, Pasture, Industrial, Highway, HerbaceousVegetation, Forest, or AnnualCrop. Provide only the class name as your answer.'
+export prompt='Classify the satellite image. Provide only the class name as your answer.'
 
 export dataset=eurosat
 export data_path=/root/home/data/EuroSAT_RGB
 export data_sample=/root/home/data/ViGIR_CVPR_LLM/data_split/split_zhou_EuroSAT.json
 export subset=test
-export results_dir=/mnt/cvpr2025/results/baselineExp/${dataset}
+export results_dir=/root/home/ViGIR_CVPR_LLM/results/baselineExp/${dataset}
 export timeout=40
 export model_unloading=true  # Set as needed
 
