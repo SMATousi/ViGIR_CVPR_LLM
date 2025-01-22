@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jacket-deployment-ollama
+spec:
+  replicas: 1  # Number of pods to run
+  selector:
+    matchLabels:
+      app: ali-pod-ollama
+  template:
+    metadata:
+      labels:
+        app: ali-pod-ollama
+    spec:
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+            - matchExpressions:
+              - key: nvidia.com/gpu.product
+                operator: In
+                values:
+                - NVIDIA-A10
+                - NVIDIA-A6000
+                - NVIDIA-GeForce-RTX-3090
+                - NVIDIA-GeForce-RTX-2080-Ti
+                - NVIDIA-TITAN-RTX
+                - NVIDIA-RTX-A5000
+      containers:
+      - name: gpu-container
+        image: gitlab-registry.nrp-nautilus.io/smatous/ollama_datasets:latest
+        command: ["sleep", "infinity"]
+        resources:
+          limits:
+            memory: 32Gi
+            cpu: 16
+            nvidia.com/gpu: 1
+          requests:
+            memory: 32Gi
+            cpu: 16
+            nvidia.com/gpu: 1

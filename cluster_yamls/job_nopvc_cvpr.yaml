@@ -1,0 +1,62 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: inference-llava-job-a100-${modelno}-nopvc-${dataset}
+  labels:
+    k8s-app: test-job #-${modelno}
+spec:
+  template:
+    metadata:
+      name: inference-llava-job-template
+      labels:
+        k8s-app: test-job #-${modelno}
+    spec:
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                  - key: nvidia.com/gpu.product
+                    operator: In
+                    values:
+                    - NVIDIA-A10
+                    - NVIDIA-A6000
+                    - NVIDIA-GeForce-RTX-3090
+                    - NVIDIA-GeForce-RTX-2080-Ti
+                    - NVIDIA-TITAN-RTX
+                    - NVIDIA-RTX-A5000
+
+      containers:
+      - name: mypod
+        image: gitlab-registry.nrp-nautilus.io/smatous/ollama_datasets:latest
+        resources:
+          limits:
+            memory: "32Gi"
+            cpu: "16"
+            nvidia.com/a100: 1
+          requests:
+            memory: "32Gi"
+            cpu: "16"
+            nvidia.com/a100: 1
+        command: ["/bin/sh", "-c"]
+        args: ["wandb login --cloud d7f81da19c5965b1c5eff37a677caab3ffb5379c;    
+                echo 'prompt: $prompt';
+                echo 'dataset: $dataset';
+                echo 'data_path: $data_path';
+                echo 'data_sample: $data_sample';
+                echo 'results_dir: $results_dir';
+                echo 'timeout: $timeout';
+                echo 'model_unloading: $model_unloading';
+
+                echo 'Starting';
+                cd /root/home/;
+                git clone --branch jacket https://github.com/SMATousi/ViGIR_CVPR_LLM.git;
+                cd /root/home/ViGIR_CVPR_LLM/prompting_framework;
+                jupyter nbconvert --to script prototyping-baseline-for-foralldatasets-jacket.ipynb ;
+                ollama serve & 
+                sleep 10;
+                python /root/home/ViGIR_CVPR_LLM/prompting_framework/prototyping-baseline-for-foralldatasets.py --modelname ${modelname} --prompt \"${prompt}\" --data ${dataset} --data_path ${data_path} --data_sample ${data_sample} --subset test --results_dir ${results_dir} --timeout ${timeout} --model_unloading ; 
+                python /root/home/ViGIR_CVPR_LLM/prompting_framework/prototyping-baseline-for-foralldatasets.py --modelname ${modelname} --prompt \"${prompt}\" --data ${dataset} --data_path ${data_path} --data_sample ${data_sample} --subset train --results_dir ${results_dir} --timeout ${timeout} --model_unloading ; 
+                echo 'Done' ;"]
+      restartPolicy: Never
+
