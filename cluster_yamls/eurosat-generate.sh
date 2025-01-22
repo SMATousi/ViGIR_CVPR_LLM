@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Range start, end, and increment
-start=2
-end=2
+start=1
+end=1
 increment=1
 
 
@@ -37,11 +37,14 @@ export results_dir=/mnt/cvpr2025/results/baselineExp/${dataset}
 export timeout=40
 export model_unloading=true  # Set as needed
 
-list_of_models=('llava:7b' 'llava:13b' 'llava:34b' 'llava-llama3' 'bakllava' 'moondream' 'minicpm-v' 'llava-phi3')
+#list_of_models=('llava:7b' 'llava:13b' 'llava:34b' 'llava-llama3' 'bakllava' 'moondream' 'minicpm-v' 'llava-phi3')
+list_of_models=('llava:7b' 'llava:13b' 'llava:34b' 'llava-llama3' 'bakllava' 'minicpm-v' 'llava-phi3')
+
+
 
 for (( modelno=start; modelno<=end; modelno+=increment )); do
   modelname=${list_of_models[${modelno}]}
   export modelno
   export modelname
-  envsubst < A100-job-nopvc.yaml | kubectl apply -f -
+  envsubst < job_nopvc_cvpr.yaml | kubectl apply -f -
 done
