@@ -1,13 +1,13 @@
 apiVersion: batch/v1
 kind: Job
 metadata:
-  name: inference-llava-job-a100-${modelno}-nopvc-${dataset}
+  name: inference-job-${modelno}-nopvc-${dataset}
   labels:
     k8s-app: test-job #-${modelno}
 spec:
   template:
     metadata:
-      name: inference-llava-job-template
+      name: inference-job-template
       labels:
         k8s-app: test-job #-${modelno}
     spec:
