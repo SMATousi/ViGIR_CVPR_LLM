@@ -1,0 +1,43 @@
+{"time":"2025-01-22T22:38:22.997109886Z","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2025-01-22T22:38:22.99712495Z","level":"INFO","msg":"created symlink","path":"/root/home/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20250122_223822-ecuv1m3e/logs/debug-core.log"}
+{"time":"2025-01-22T22:38:23.05211325Z","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2025-01-22T22:38:23.065227201Z","level":"INFO","msg":"created new stream","id":"ecuv1m3e"}
+{"time":"2025-01-22T22:38:23.065264716Z","level":"INFO","msg":"stream: started","id":"ecuv1m3e"}
+{"time":"2025-01-22T22:38:23.0652784Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ecuv1m3e"}}
+{"time":"2025-01-22T22:38:23.065280122Z","level":"INFO","msg":"sender: started","stream_id":{"value":"ecuv1m3e"}}
+{"time":"2025-01-22T22:38:23.065293308Z","level":"INFO","msg":"handler: started","stream_id":{"value":"ecuv1m3e"}}
+{"time":"2025-01-22T22:38:23.450717528Z","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2025-01-22T22:38:23.451348526Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T22:38:23.654684606Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:38:29.812834293Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:38:29.814707226Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:38:44.763696346Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:38:44.806511224Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:38:46.507626103Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:38:46.508378517Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:38:46.751005391Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:38:46.752725389Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:38:47.067928491Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:38:47.069498164Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:38:51.786382088Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:38:51.828192039Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:39:00.13456283Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:39:00.135535767Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:39:01.61320785Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:39:01.613942608Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:39:02.691357857Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:39:04.273327297Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:40:06.835843346Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T22:40:48.309634869Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T22:41:04.987107355Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T23:05:20.837203307Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T23:05:23.610750141Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T23:05:23.612665328Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T23:05:27.424998458Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T23:05:27.497495153Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T23:05:39.316168164Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T23:05:40.230796654Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T23:05:40.822229827Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T23:05:42.19005066Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T23:07:25.240576235Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T23:07:25.282595052Z","level":"INFO","msg":"Pausing system monitor"}
