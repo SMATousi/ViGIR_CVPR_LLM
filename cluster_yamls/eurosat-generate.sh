@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Range start, end, and increment
-start=3
-end=3
+start=0
+end=0
 increment=1
 
 
