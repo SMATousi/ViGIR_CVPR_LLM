@@ -30,11 +30,11 @@ spec:
         image: gitlab-registry.nrp-nautilus.io/smatous/ollama_datasets:latest
         resources:
           limits:
-            memory: "8Gi"
+            memory: "10Gi"
             cpu: "4"
             nvidia.com/gpu: "1"
           requests:
-            memory: "8Gi"
+            memory: "10Gi"
             cpu: "4"
             nvidia.com/gpu: "1"
         command: ["/bin/sh", "-c"]

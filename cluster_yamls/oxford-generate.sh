@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Range start, end, and increment
-start=0
+start=6
 end=6
 increment=1
 
