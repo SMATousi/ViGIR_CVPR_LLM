@@ -3,13 +3,12 @@ kind: Job
 metadata:
   name: inference-job-${modelno}-nopvc-${dataset}
   labels:
-    k8s-app: test-job #-${modelno}
+    k8s-app: inference-job-${modelno}-nopvc-${dataset}
 spec:
   template:
     metadata:
-      name: inference-job-template
       labels:
-        k8s-app: test-job #-${modelno}
+        k8s-app: inference-job-${modelno}-nopvc-${dataset}
     spec:
       affinity:
         nodeAffinity:
@@ -33,11 +32,11 @@ spec:
           limits:
             memory: "32Gi"
             cpu: "16"
-            nvidia.com/a100: 1
+            nvidia.com/gpu: "1"
           requests:
             memory: "32Gi"
             cpu: "16"
-            nvidia.com/a100: 1
+            nvidia.com/gpu: "1"
         command: ["/bin/sh", "-c"]
         args: ["wandb login --cloud d7f81da19c5965b1c5eff37a677caab3ffb5379c;    
                 echo 'prompt: $prompt';
@@ -55,8 +54,8 @@ spec:
                 jupyter nbconvert --to script prototyping-baseline-for-foralldatasets-jacket.ipynb ;
                 ollama serve & 
                 sleep 10;
-                python /root/home/ViGIR_CVPR_LLM/prompting_framework/prototyping-baseline-for-foralldatasets.py --modelname ${modelname} --prompt \"${prompt}\" --data ${dataset} --data_path ${data_path} --data_sample ${data_sample} --subset test --results_dir ${results_dir} --timeout ${timeout} --model_unloading ; 
-                python /root/home/ViGIR_CVPR_LLM/prompting_framework/prototyping-baseline-for-foralldatasets.py --modelname ${modelname} --prompt \"${prompt}\" --data ${dataset} --data_path ${data_path} --data_sample ${data_sample} --subset train --results_dir ${results_dir} --timeout ${timeout} --model_unloading ; 
+                python /root/home/ViGIR_CVPR_LLM/prompting_framework/prototyping-baseline-for-foralldatasets-jacket.py --modelname ${modelname} --prompt \"${prompt}\" --data ${dataset} --data_path ${data_path} --data_sample ${data_sample} --subset test --results_dir ${results_dir} --timeout ${timeout} --model_unloading ; 
+                python /root/home/ViGIR_CVPR_LLM/prompting_framework/prototyping-baseline-for-foralldatasets-jacket.py --modelname ${modelname} --prompt \"${prompt}\" --data ${dataset} --data_path ${data_path} --data_sample ${data_sample} --subset train --results_dir ${results_dir} --timeout ${timeout} --model_unloading ; 
                 echo 'Done' ;"]
       restartPolicy: Never
 
