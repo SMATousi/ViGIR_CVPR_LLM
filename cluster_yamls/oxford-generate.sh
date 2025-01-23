@@ -33,8 +33,8 @@ export prompt='Classify the pet shown in the image as one of the 37 pet breeds i
 
 export dataset=oxford
 export data_path=/root/home/data/Oxford_Pets/images
-export data_sample=/root/home/data/ViGIR_CVPR_LLM/data_split/split_zhou_OxfordPets.json
-export results_dir=/mnt/cvpr2025/results/baselineExp/${dataset}
+export data_sample=/root/home/ViGIR_CVPR_LLM/data_split/split_zhou_OxfordPets.json
+export results_dir=/root/home/ViGIR_CVPR_LLM/results/baselineExp/${dataset}
 export timeout=40
 export model_unloading=true  # Set as needed
 
@@ -44,5 +44,5 @@ for (( modelno=start; modelno<=end; modelno+=increment )); do
   modelname=${list_of_models[${modelno}]}
   export modelno
   export modelname
-  envsubst < A100-job-nopvc.yaml | kubectl apply -f -
+  envsubst < job_nopvc_cvpr.yaml | kubectl apply -f -
 done

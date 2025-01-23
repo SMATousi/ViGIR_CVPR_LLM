@@ -30,12 +30,12 @@ spec:
         image: gitlab-registry.nrp-nautilus.io/smatous/ollama_datasets:latest
         resources:
           limits:
-            memory: "32Gi"
-            cpu: "16"
+            memory: "8Gi"
+            cpu: "4"
             nvidia.com/gpu: "1"
           requests:
-            memory: "32Gi"
-            cpu: "16"
+            memory: "8Gi"
+            cpu: "4"
             nvidia.com/gpu: "1"
         command: ["/bin/sh", "-c"]
         args: ["wandb login --cloud d7f81da19c5965b1c5eff37a677caab3ffb5379c;    
