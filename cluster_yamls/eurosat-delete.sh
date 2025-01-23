@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Range start, end, and increment
-start=1
+start=0
 end=6
 increment=1
 
@@ -10,6 +10,6 @@ list_of_models=('llava:7b' 'llava:13b' 'llava:34b' 'llava-llama3' 'bakllava' 'mi
 
 for (( modelno=start; modelno<=end; modelno+=increment )); do
   modelname=${list_of_models[${modelno}]}
-  job_name="inference-job-${modelno}-nopvc-eurosat"
+  job_name="inference-job-${modelno}-nopvc-oxford"
   kubectl delete job $job_name
 done

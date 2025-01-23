@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Range start, end, and increment
-start=1
-end=7
+start=0
+end=0
 increment=1
 
 
@@ -29,7 +29,8 @@ echo "model_unloading: $model_unloading"
 # Define the prompt as a variable
 # export prompt='Given the pet image, classify it into one of the following categories: Abyssinian, American Bulldog, American Pit Bull Terrier, Basset Hound, Beagle, Bengal, Birman, Bombay, Boxer, British Shorthair, Chihuahua, Egyptian Mau, English Cocker Spaniel, English Setter, German Shorthaired, Great Pyrenees, Havanese, Japanese Chin, Keeshond, Leonberger, Maine Coon, Miniature Pinscher, Newfoundland, Persian, Pomeranian, Pug, Ragdoll, Russian Blue, Saint Bernard, Samoyed, Scottish Terrier, Shiba Inu, Siamese, Sphynx, Staffordshire Bull Terrier, Wheaten Terrier, or Yorkshire Terrier. Provide only the breed name as your answer.'
 
-export prompt='Classify the pet shown in the image as one of the 37 pet breeds in the Oxford-IIIT Pet Dataset. Provide only the breed name as your answer.'
+#export prompt='Classify the pet shown in the image as one of the 37 pet breeds in the Oxford-IIIT Pet Dataset. Provide only the breed name as your answer.'
+export prompt='Classify the satellite image. Provide only the class name as your answer.'
 
 export dataset=oxford
 export data_path=/root/home/data/Oxford_Pets/images
