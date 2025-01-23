@@ -21,7 +21,7 @@ spec:
                     - NVIDIA-A10
                     - NVIDIA-A6000
                     - NVIDIA-GeForce-RTX-3090
-                    - NVIDIA-GeForce-RTX-2080-Ti
+                    #- NVIDIA-GeForce-RTX-2080-Ti
                     - NVIDIA-TITAN-RTX
                     - NVIDIA-RTX-A5000
 
