@@ -71,7 +71,7 @@ def main():
     run = wandb.init(
         # entity="jacketdembys",
         project=f"CVPR-2025-Aircraft",
-        name="run_test_Aircraft_"-"+args.modelname+"-"+args.subset
+        name="run_test_Aircraft_"+args.modelname+"-"+args.subset
     )
 
     class_names = "ATR, Airbus, Antonov, Beechcraft, Boeing, Bombardier Aerospace, British Aerospace, Canadair, Cessna, Cirrus Aircraft, Dassault Aviation, Dornier, Douglas Aircraft Company, Embraer, Eurofighter, Fairchild, Fokker, Gulfstream Aerospace, Ilyushin, Lockheed Corporation, Lockheed Martin, McDonnell Douglas, Panavia, Piper, Robin, Saab, Supermarine, Tupolev, Yakovlev, de Havilland"
