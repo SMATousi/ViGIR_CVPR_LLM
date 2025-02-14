@@ -11,6 +11,7 @@ from transformers import AutoTokenizer, CLIPTextModel, CLIPTokenizer, CLIPModel
 from torch.nn.functional import cosine_similarity
 import torch
 import signal
+from scipy.spatial.distance import cosine
 
 # Example usage
 """
@@ -53,6 +54,13 @@ def generate_context_embedding(class_names, model_name, options):
     context_response = ollama.generate(model=model_name, prompt=prompt, options=options)
     return context_response['context']
 
+def compute_class_embeddings(class_names_list) :
+    class_embeddings = {}
+    for class_name in class_names_list :
+        # print(class_name)
+        response = ollama.embed(model="mxbai-embed-large", input=class_name)
+        class_embeddings[class_name] = response["embeddings"]
+    
 
 
 class TimeoutException(Exception):
@@ -117,24 +125,25 @@ if args.dataset_name == "traffic":
             "num_ctx": 2048, # must be set, otherwise slightly random output
         }
 
-    model_id_clip  = "openai/clip-vit-large-patch14"
-    device="cuda" if torch.cuda.is_available() else "cpu"
-    print("Setting up CLIP..")
+    # model_id_clip  = "openai/clip-vit-large-patch14"
+    # device="cuda" if torch.cuda.is_available() else "cpu"
+    # print("Setting up CLIP..")
 
-    tokenizer = CLIPTokenizer.from_pretrained(model_id_clip)
-    text_encoder = CLIPTextModel.from_pretrained(model_id_clip).to(device)
-    clip_model = CLIPModel.from_pretrained(model_id_clip).to(device)
+    # tokenizer = CLIPTokenizer.from_pretrained(model_id_clip)
+    # text_encoder = CLIPTextModel.from_pretrained(model_id_clip).to(device)
+    # clip_model = CLIPModel.from_pretrained(model_id_clip).to(device)
 
     class_names_list = [name.strip() for name in class_names.split(',')]
     class_dict = {class_name : i for i, class_name in enumerate(class_names_list)}
-    
-    traffic_embeedings = get_class_embeddings(class_names_list, tokenizer, text_encoder)
+    ollama.pull("mxbai-embed-large") # model for embedding class names text
+    class_embeddings = compute_class_embeddings(class_names_list)
+    #traffic_embeedings = get_class_embeddings(class_names_list, tokenizer, text_encoder)
     context_embedding = generate_context_embedding(class_names, model_name, options)
     # print("Done setting up clip...")
     model_labels = {}
     prompt = args.prompt
     count = 0
-
+    
     print("Begin prompting...")
 
     for key,info in tqdm(data.items()):
@@ -161,10 +170,22 @@ if args.dataset_name == "traffic":
             signal.alarm(0)
 
         model_response = response['response']
-        response_embedding = get_query_embedding(model_response, tokenizer, text_encoder)
-        matched_label = compute_scores(traffic_embeedings, response_embedding, class_names_list)
-        class_label = class_dict[matched_label
-        print(f"{image_path} | {matched_label} | {model_response}")
+        query_response = ollama.embed(model="mxbai-embed-large", input=model_response)
+        query_embedding = query_response["embeddings"]
+        # Initialize variables for the best match
+        best_match = None
+        best_similarity = -1  # Cosine similarity ranges from -1 to 1, so start with a very low value
+        
+        # Find the best matching embedding
+        for class_name, class_embedding in class_embeddings.items():
+            similarity = 1 - cosine(query_embedding[0], class_embedding[0])  # Cosine similarity is 1 - cosine distance
+            if similarity > best_similarity:
+                best_similarity = similarity
+                best_match = class_name
+        #= get_query_embedding(model_response, tokenizer, text_encoder)
+        matched_label = best_match #compute_scores(traffic_embeedings, response_embedding, class_names_list)
+        class_label = class_dict[matched_label]
+       # print(f"{image_path} | {matched_label} | {model_response}")
         model_labels[image_path] = {
             "label": class_label, # integer index representing class
             "class": matched_label, # string indicating class name
