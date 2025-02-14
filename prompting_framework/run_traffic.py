@@ -170,6 +170,7 @@ if args.dataset_name == "traffic":
             signal.alarm(0)
 
         model_response = response['response']
+<<<<<<< HEAD
         query_response = ollama.embed(model="mxbai-embed-large", input=model_response)
         query_embedding = query_response["embeddings"]
         # Initialize variables for the best match
@@ -186,6 +187,12 @@ if args.dataset_name == "traffic":
         matched_label = best_match #compute_scores(traffic_embeedings, response_embedding, class_names_list)
         class_label = class_dict[matched_label]
        # print(f"{image_path} | {matched_label} | {model_response}")
+=======
+        response_embedding = get_query_embedding(model_response, tokenizer, text_encoder)
+        matched_label = compute_scores(traffic_embeedings, response_embedding, class_names_list)
+        class_label = class_dict[matched_label]
+        print(f"{image_path} | {matched_label} | {model_response}")
+>>>>>>> a64522b3544dc06b36490acc8687bac38e5801ff
         model_labels[image_path] = {
             "label": class_label, # integer index representing class
             "class": matched_label, # string indicating class name
