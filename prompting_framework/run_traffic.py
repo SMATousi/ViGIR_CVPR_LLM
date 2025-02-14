@@ -126,6 +126,8 @@ if args.dataset_name == "traffic":
     clip_model = CLIPModel.from_pretrained(model_id_clip).to(device)
 
     class_names_list = [name.strip() for name in class_names.split(',')]
+    class_dict = {class_name : i for i, class_name in enumerate(class_names_list)}
+    
     traffic_embeedings = get_class_embeddings(class_names_list, tokenizer, text_encoder)
     context_embedding = generate_context_embedding(class_names, model_name, options)
     # print("Done setting up clip...")
@@ -161,8 +163,13 @@ if args.dataset_name == "traffic":
         model_response = response['response']
         response_embedding = get_query_embedding(model_response, tokenizer, text_encoder)
         matched_label = compute_scores(traffic_embeedings, response_embedding, class_names_list)
+        class_label = class_dict[matched_label
         print(f"{image_path} | {matched_label} | {model_response}")
-        model_labels[image_path] = response['response']
+        model_labels[image_path] = {
+            "label": class_label, # integer index representing class
+            "class": matched_label, # string indicating class name
+            "model_response": model_response # string coming from the model
+        }
 
     with open(results_file_name, 'w') as fp:
         json.dump(model_labels, fp, indent=4)
