@@ -190,7 +190,7 @@ if args.dataset_name == "traffic":
         class_label = class_dict[matched_label]
        # print(f"{image_path} | {matched_label} | {model_response}")
 
-        response_embedding = get_query_embedding(model_response, tokenizer, text_encoder)
+        #response_embedding = get_query_embedding(model_response, tokenizer, text_encoder)
         matched_label = compute_scores(traffic_embeedings, response_embedding, class_names_list)
         class_label = class_dict[matched_label]
         print(f"{image_path} | {matched_label} | {model_response}")
