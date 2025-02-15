@@ -60,6 +60,8 @@ def compute_class_embeddings(class_names_list) :
         # print(class_name)
         response = ollama.embed(model="mxbai-embed-large", input=class_name)
         class_embeddings[class_name] = response["embeddings"]
+
+    return class_embeddings
     
 
 
