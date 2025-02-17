@@ -43,7 +43,7 @@ def compute_scores(class_embeddings, query_embedding, prompts, temperature=0.8):
         similarity_scores = cosine_similarity(query_embedding, class_embedding, dim=1)  # Shape: [37]
         similarity_scores = similarity_scores / temperature
         scores.append(similarity_scores)
-        
+
     probabilities = F.softmax(similarity_scores, dim=0)
     # Find the highest matching score and corresponding item
 
@@ -94,11 +94,11 @@ args = parser.parse_args()
 #dataset_name = "traffic"
 #model_unloading= True
 
-run = wandb.init(
-    # entity="jacketdembys",
-    project=f"CVPR-2025-Traffic",
-    name="run_test_traffic_"+args.model_name+"-"+args.subset
-)
+# run = wandb.init(
+#     # entity="jacketdembys",
+#     project=f"CVPR-2025-Traffic",
+#     name="run_test_traffic_"+args.model_name+"-"+args.subset
+# )
 
 if args.dataset_name == "traffic":
     class_names = "Speed limit (20km/h), Speed limit (30km/h), Speed limit (50km/h), Speed limit (60km/h), Speed limit (70km/h), Speed limit (80km/h), End of speed limit (80km/h), Speed limit (100km/h), Speed limit (120km/h), No passing, No passing for vehicles over 3.5 metric tons, Right-of-way at the next intersection, Priority road, Yield, Stop, No vehicles, Vehicles over 3.5 metric tons prohibited, No entry, General caution, Dangerous curve to the left, Dangerous curve to the right, Double curve, Bumpy road, Slippery road, Road narrows on the right, Road work, Traffic signals, Pedestrians, Children crossing, Bicycles crossing, Beware of ice/snow, Wild animals crossing, End of all speed and passing limits, Turn right ahead, Turn left ahead, Ahead only, Go straight or right, Go straight or left, Keep right, Keep left, Roundabout mandatory, End of no passing, End of no passing by vehicles over 3.5 metric tons"
@@ -185,6 +185,7 @@ if args.dataset_name == "traffic":
         model_response = response['response']
         query_response = ollama.embed(model=model_name, input=model_response)
         query_embedding = query_response["embeddings"]
+        print(query_embedding)
 
         best_match, probs, max_prob = compute_scores(class_embeddings, query_embedding, class_names_list, temperature=0.8)
         class_label = class_dict[best_match]
