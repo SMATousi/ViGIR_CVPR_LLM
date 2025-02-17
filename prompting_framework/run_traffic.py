@@ -185,9 +185,9 @@ if args.dataset_name == "traffic":
         model_response = response['response']
         query_response = ollama.embed(model=model_name, input=model_response)
         query_embedding = query_response["embeddings"]
-        print(query_embedding)
+        # print(query_embedding)
 
-        best_match, probs, max_prob = compute_scores(class_embeddings, query_embedding, class_names_list, temperature=0.8)
+        best_match, probs, max_prob = compute_scores(class_embeddings, torch.tensor(query_embedding[0]), class_names_list, temperature=0.8)
         class_label = class_dict[best_match]
 
         # Initialize variables for the best match
