@@ -213,6 +213,8 @@ if args.dataset_name == "traffic":
             "model_response": model_response # string coming from the model
         }
 
+        print(model_labels)
+
     with open(results_file_name, 'w') as fp:
         json.dump(model_labels, fp, indent=4)
 
