@@ -214,7 +214,8 @@ if args.dataset_name == "traffic":
             "model_response": model_response # string coming from the model
         }
 
-        table.add_data(image_path, best_match, class_label, model_response)
+        table.add_data([image_path, best_match, class_label, model_response])
+        
         wandb.log({"Results": table})
 
         # print(model_labels)
