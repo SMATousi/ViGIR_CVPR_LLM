@@ -63,7 +63,7 @@ def generate_context_embedding(class_names, model_name, options):
 def compute_class_embeddings(class_names_list, model_name) :
     class_embeddings = {}
     print("Computing the class embeddings --")
-    for class_name in tqdn(class_names_list) :
+    for class_name in tqdm(class_names_list) :
         # print(class_name)
         response = ollama.embed(model=model_name, input=class_name)
         class_embeddings[class_name] = response["embeddings"]
