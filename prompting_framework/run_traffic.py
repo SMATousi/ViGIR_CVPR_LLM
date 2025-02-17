@@ -11,6 +11,7 @@ from transformers import AutoTokenizer, CLIPTextModel, CLIPTokenizer, CLIPModel
 from torch.nn.functional import cosine_similarity
 import torch
 import signal
+import torch.nn.functional as F
 from scipy.spatial.distance import cosine
 
 # Example usage
