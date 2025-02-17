@@ -39,8 +39,8 @@ def get_query_embedding(query_prompt, tokenizer, text_encoder):
 def compute_scores(class_embeddings, query_embedding, prompts, temperature=0.8):
     scores = []
     # Compute cosine similarity scores
-    for class_embedding in class_embeddings:
-        similarity_scores = cosine_similarity(query_embedding, class_embedding, dim=1)  # Shape: [37]
+    for class_name in class_embeddings:
+        similarity_scores = cosine_similarity(query_embedding, torch.tensor(class_embeddings[class_name]), dim=1)  # Shape: [37]
         similarity_scores = similarity_scores / temperature
         scores.append(similarity_scores)
 
@@ -62,11 +62,13 @@ def generate_context_embedding(class_names, model_name, options):
 
 def compute_class_embeddings(class_names_list, model_name) :
     class_embeddings = {}
-    for class_name in class_names_list :
+    print("Computing the class embeddings --")
+    for class_name in tqdn(class_names_list) :
         # print(class_name)
         response = ollama.embed(model=model_name, input=class_name)
         class_embeddings[class_name] = response["embeddings"]
-        return class_embeddings
+    
+    return class_embeddings
 
 
 class TimeoutException(Exception):
