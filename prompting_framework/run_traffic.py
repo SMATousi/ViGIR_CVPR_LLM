@@ -37,9 +37,13 @@ def get_query_embedding(query_prompt, tokenizer, text_encoder):
     return query_embedding
 
 def compute_scores(class_embeddings, query_embedding, prompts, temperature=0.8):
-     # Compute cosine similarity scores
-    similarity_scores = cosine_similarity(query_embedding, class_embeddings, dim=1)  # Shape: [37]
-    similarity_scores = similarity_scores / temperature
+    scores = []
+    # Compute cosine similarity scores
+    for class_embedding in class_embeddings:
+        similarity_scores = cosine_similarity(query_embedding, class_embedding, dim=1)  # Shape: [37]
+        similarity_scores = similarity_scores / temperature
+        scores.append(similarity_scores)
+        
     probabilities = F.softmax(similarity_scores, dim=0)
     # Find the highest matching score and corresponding item
 
