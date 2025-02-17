@@ -36,29 +36,31 @@ def get_query_embedding(query_prompt, tokenizer, text_encoder):
     query_embedding = query_output.pooler_output
     return query_embedding
 
-def compute_scores(class_embeddings, query_embedding, prompts):
+def compute_scores(class_embeddings, query_embedding, prompts, temperature=0.8):
      # Compute cosine similarity scores
     similarity_scores = cosine_similarity(query_embedding, class_embeddings, dim=1)  # Shape: [37]
-    
+    similarity_scores = similarity_scores / temperature
+    probabilities = F.softmax(similarity_scores, dim=0)
     # Find the highest matching score and corresponding item
-    max_score_index = torch.argmax(similarity_scores).item()
-    max_score = similarity_scores[max_score_index].item()
-    best_match = prompts[max_score_index]
+
+    max_prob_index = torch.argmax(probabilities).item()
+    max_prob = probabilities[max_prob_index].item()
+    best_match = prompts[max_prob_index]
     
     # Print the result
    # print(f"Best match: {best_match} with a similarity score of {max_score:.4f}")
-    return best_match
+    return best_match, probabilities, max_prob
 
 def generate_context_embedding(class_names, model_name, options):
     prompt = "You are working on a difficult fine-grained image classification task, here are the only classes you can choose from"+class_names
     context_response = ollama.generate(model=model_name, prompt=prompt, options=options)
     return context_response['context']
 
-def compute_class_embeddings(class_names_list) :
+def compute_class_embeddings(class_names_list, model_name) :
     class_embeddings = {}
     for class_name in class_names_list :
         # print(class_name)
-        response = ollama.embed(model="mxbai-embed-large", input=class_name)
+        response = ollama.embed(model=model_name, input=class_name)
         class_embeddings[class_name] = response["embeddings"]
         return class_embeddings
 
@@ -142,8 +144,8 @@ if args.dataset_name == "traffic":
 
     class_names_list = [name.strip() for name in class_names.split(',')]
     class_dict = {class_name : i for i, class_name in enumerate(class_names_list)}
-    ollama.pull("mxbai-embed-large") # model for embedding class names text
-    class_embeddings = compute_class_embeddings(class_names_list)
+    # ollama.pull("mxbai-embed-large") # model for embedding class names text
+    class_embeddings = compute_class_embeddings(class_names_list, model_name)
     #traffic_embeedings = get_class_embeddings(class_names_list, tokenizer, text_encoder)
     context_embedding = generate_context_embedding(class_names, model_name, options)
     # print("Done setting up clip...")
@@ -177,25 +179,29 @@ if args.dataset_name == "traffic":
             signal.alarm(0)
 
         model_response = response['response']
-        query_response = ollama.embed(model="mxbai-embed-large", input=model_response)
+        query_response = ollama.embed(model=model_name, input=model_response)
         query_embedding = query_response["embeddings"]
+
+        best_match, probs, max_prob = compute_scores(class_embeddings, query_embedding, class_names_list, temperature=0.8)
+        class_label = class_dict[best_match]
+
         # Initialize variables for the best match
-        best_match = None
-        best_similarity = -1  # Cosine similarity ranges from -1 to 1, so start with a very low value
+        # best_match = None
+        # best_similarity = -1  # Cosine similarity ranges from -1 to 1, so start with a very low value
         
-        # Find the best matching embedding
-        for class_name, class_embedding in class_embeddings.items():
-            similarity = 1 - cosine(query_embedding[0], class_embedding[0])  # Cosine similarity is 1 - cosine distance
-            if similarity > best_similarity:
-                best_similarity = similarity
-                best_match = class_name
-        #= get_query_embedding(model_response, tokenizer, text_encoder)
-        matched_label = best_match #compute_scores(traffic_embeedings, response_embedding, class_names_list)
-        class_label = class_dict[matched_label]
+        # # Find the best matching embedding
+        # for class_name, class_embedding in class_embeddings.items():
+        #     similarity = 1 - cosine(query_embedding[0], class_embedding[0])  # Cosine similarity is 1 - cosine distance
+        #     if similarity > best_similarity:
+        #         best_similarity = similarity
+        #         best_match = class_name
+        # #= get_query_embedding(model_response, tokenizer, text_encoder)
+        # matched_label = best_match #compute_scores(traffic_embeedings, response_embedding, class_names_list)
+        
        # print(f"{image_path} | {matched_label} | {model_response}")
         model_labels[image_path] = {
             "label": class_label, # integer index representing class
-            "class": matched_label, # string indicating class name
+            "class": best_match, # string indicating class name
             "model_response": model_response # string coming from the model
         }
 
