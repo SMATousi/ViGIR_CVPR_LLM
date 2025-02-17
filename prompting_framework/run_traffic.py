@@ -214,20 +214,21 @@ if args.dataset_name == "traffic":
         }
 
         # print(model_labels)
+        wandb.log(model_labels)
 
-        with open(results_file_name, 'w') as fp:
-            json.dump(model_labels, fp, indent=4)
+    with open(results_file_name, 'w') as fp:
+        json.dump(model_labels, fp, indent=4)
 
-        with open(raw_image_info, 'w') as fp:
-            json.dump(data, fp, indent=4)
+    with open(raw_image_info, 'w') as fp:
+        json.dump(data, fp, indent=4)
 
 
 
-        # Optionally, if you want to save the JSON as an artifact
-        artifact = wandb.Artifact("json_file", type="dataset")
-        artifact.add_file(results_file_name)
-        wandb.log_artifact(artifact)
+    # Optionally, if you want to save the JSON as an artifact
+    artifact = wandb.Artifact("json_file", type="dataset")
+    artifact.add_file(results_file_name)
+    wandb.log_artifact(artifact)
 
-        artifact = wandb.Artifact("json_file", type="dataset")
-        artifact.add_file(raw_image_info)
-        wandb.log_artifact(artifact)
+    artifact = wandb.Artifact("json_file", type="dataset")
+    artifact.add_file(raw_image_info)
+    wandb.log_artifact(artifact)
