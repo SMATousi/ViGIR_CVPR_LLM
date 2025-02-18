@@ -24,32 +24,32 @@ python run_traffic.py --base_dir /root/home/data/traffic/ --model_name "llava:7b
 
 
 
-def get_class_embeddings(prompts, tokenizer, text_encoder):
-    text_inputs = tokenizer(prompts, padding="max_length", return_tensors="pt").to(device)
-    outputs = text_encoder(**text_inputs)
-    text_embedding = outputs.pooler_output
-    return text_embedding
+# def get_class_embeddings(prompts, tokenizer, text_encoder):
+#     text_inputs = tokenizer(prompts, padding="max_length", return_tensors="pt").to(device)
+#     outputs = text_encoder(**text_inputs)
+#     text_embedding = outputs.pooler_output
+#     return text_embedding
     
-def get_query_embedding(query_prompt, tokenizer, text_encoder):
+# def get_query_embedding(query_prompt, tokenizer, text_encoder):
     
-    query_input = tokenizer(query_prompt, padding="max_length", return_tensors="pt").to(device)
-    query_output = text_encoder(**query_input)
-    query_embedding = query_output.pooler_output
-    return query_embedding
+#     query_input = tokenizer(query_prompt, padding="max_length", return_tensors="pt").to(device)
+#     query_output = text_encoder(**query_input)
+#     query_embedding = query_output.pooler_output
+#     return query_embedding
 
 def compute_scores(class_embeddings, query_embedding, prompts, temperature=0.8):
     scores = []
     # Compute cosine similarity scores
     for class_name in class_embeddings:
-        similarity_scores = cosine_similarity(query_embedding, torch.tensor(class_embeddings[class_name]), dim=1)  # Shape: [37]
+        similarity_scores = cosine_similarity(torch.tensor(query_embedding), torch.tensor(class_embeddings[class_name]), dim=1)  # Shape: [37]
         similarity_scores = similarity_scores / temperature
-        scores.append(similarity_scores)
+        scores.append(similarity_scores.item())
 
-    probabilities = F.softmax(similarity_scores, dim=0)
+    probabilities = F.softmax(torch.tensor(scores), dim=0)
     # Find the highest matching score and corresponding item
 
     max_prob_index = torch.argmax(probabilities).item()
-    max_prob = probabilities[max_prob_index].item()
+    max_prob = probabilities[max_prob_index]
     best_match = prompts[max_prob_index]
     
     # Print the result
@@ -99,7 +99,7 @@ args = parser.parse_args()
 
 run = wandb.init(
     # entity="jacketdembys",
-    project=f"CVPR-2025-Traffic",
+    project=f"CVPR-2025-Traffic-2",
     name="run_test_traffic_"+args.model_name+"-"+args.subset
 )
 table = wandb.Table(columns=["image_path", "pred_class", "pred_class_ind", "pred_response"])
@@ -174,52 +174,66 @@ if args.dataset_name == "traffic":
         signal.alarm(timeout_duration)
 
         try:
-            if args.model_unloading and count % 99 == 0:
-                response = ollama.generate(model=model_name, prompt=prompt, images=[image_path], options=options,context=context_embedding, keep_alive=0)
-            else:
-                response = ollama.generate(model=model_name, prompt=prompt, images=[image_path], options=options, context=context_embedding)
+        
+            response = ollama.generate(model=model_name, prompt=prompt, images=[image_path], options=options, context=context_embedding)
+            # response = ollama.generate(model=model_name, prompt=prompt, options=options, context=context_embedding)
 
-        except TimeoutException:
+        
+
+        
+
+            model_response = response['response']
+            query_response = ollama.embed(model=model_name, input=model_response)
+            query_embedding = query_response["embeddings"]
+            # print(query_embedding)
+        
+            best_match, probs, max_prob = compute_scores(class_embeddings, query_embedding[0], class_names_list, temperature=0.2)
+            class_label = class_dict[best_match]
+        
+            # Initialize variables for the best match
+            # best_match = None
+            # best_similarity = -1  # Cosine similarity ranges from -1 to 1, so start with a very low value
+            
+            # # Find the best matching embedding
+            # for class_name, class_embedding in class_embeddings.items():
+            #     similarity = 1 - cosine(query_embedding[0], class_embedding[0])  # Cosine similarity is 1 - cosine distance
+            #     if similarity > best_similarity:
+            #         best_similarity = similarity
+            #         best_match = class_name
+            # #= get_query_embedding(model_response, tokenizer, text_encoder)
+            # matched_label = best_match #compute_scores(traffic_embeedings, response_embedding, class_names_list)
+            
+        # print(f"{image_path} | {matched_label} | {model_response}")
+            model_labels[image_path] = {
+                "label": class_label, # integer index representing class
+                "class": best_match, # string indicating class name
+                "model_response": model_response # string coming from the model
+            }
+            # break
+            table.add_data(image_path, best_match, class_label, model_response)
+
+            wandb.log({"Results": table})
+
+            # print(model_labels)
+            # wandb.log(model_labels)
+
+        except:
             print(f"Prompt for {image_path} took longer than {timeout_duration} seconds. Moving to the next one.")
-            label = None
+            model_labels[image_path] = {
+                "label": None, # integer index representing class
+                "class": None, # string indicating class name
+                "model_response": None # string coming from the model
+            }
 
         finally:
             signal.alarm(0)
+            # model_labels[image_path] = {
+            #     "label": class_label, # integer index representing class
+            #     "class": best_match, # string indicating class name
+            #     "model_response": model_response # string coming from the model
+            # }
 
-        model_response = response['response']
-        query_response = ollama.embed(model=model_name, input=model_response)
-        query_embedding = query_response["embeddings"]
-        # print(query_embedding)
-
-        best_match, probs, max_prob = compute_scores(class_embeddings, torch.tensor(query_embedding[0]), class_names_list, temperature=0.8)
-        class_label = class_dict[best_match]
-
-        # Initialize variables for the best match
-        # best_match = None
-        # best_similarity = -1  # Cosine similarity ranges from -1 to 1, so start with a very low value
-        
-        # # Find the best matching embedding
-        # for class_name, class_embedding in class_embeddings.items():
-        #     similarity = 1 - cosine(query_embedding[0], class_embedding[0])  # Cosine similarity is 1 - cosine distance
-        #     if similarity > best_similarity:
-        #         best_similarity = similarity
-        #         best_match = class_name
-        # #= get_query_embedding(model_response, tokenizer, text_encoder)
-        # matched_label = best_match #compute_scores(traffic_embeedings, response_embedding, class_names_list)
-        
-       # print(f"{image_path} | {matched_label} | {model_response}")
-        model_labels[image_path] = {
-            "label": class_label, # integer index representing class
-            "class": best_match, # string indicating class name
-            "model_response": model_response # string coming from the model
-        }
-
-        table.add_data(image_path, best_match, class_label, model_response)
-
-        wandb.log({"Results": table})
-
-        # print(model_labels)
-        # wandb.log(model_labels)
+            
 
     with open(results_file_name, 'w') as fp:
         json.dump(model_labels, fp, indent=4)
