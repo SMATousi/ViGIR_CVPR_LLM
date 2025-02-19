@@ -150,7 +150,7 @@ dataset_name = "traffic"
 
 run = wandb.init(
     # entity="jacketdembys",
-    project=f"CVPR-2025-Traffic-3",
+    project=f"CVPR-2025-Traffic-CLIP",
     name="run_test_traffic_"+args.model_name+"-"+args.subset
 )
 table = wandb.Table(columns=["image_path", "pred_class", "pred_class_ind", "pred_response"])
