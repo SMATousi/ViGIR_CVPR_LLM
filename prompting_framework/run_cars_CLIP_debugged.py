@@ -208,7 +208,12 @@ if dataset_name == "cars":
     for key,info in tqdm(data.items()):
         # print(type(key))
         count = count + 1
-        image_path = key
+
+        if args.subset == 'test':
+            image_path = key.replace("'", "")
+        else:
+            image_path = key
+
         print(f"Current count {count}")
         #if count  > 10 : 
            # break
