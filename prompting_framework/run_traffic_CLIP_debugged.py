@@ -280,13 +280,15 @@ if dataset_name == "traffic":
             # print(model_labels)
             # wandb.log(model_labels)
 
-        except TimeoutException or ValueError:
+        except (TimeoutException, ValueError) as e:
+            print(e)
             print(f"Prompt for {image_path} took longer than {timeout_duration} seconds. Moving to the next one.")
             model_labels[image_path] = {
                 "label": None, # integer index representing class
                 "class": None, # string indicating class name
                 "model_response": None # string coming from the model
             }
+            pass
 
         finally:
             signal.alarm(0)
