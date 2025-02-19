@@ -160,7 +160,7 @@ if dataset_name == "traffic":
 
     data = {}
     base_dir = "/root/home/data/traffic/" #args.base_dir #
-    data_samples_file_path = "/root/home/data/traffic/annotations/traffic_signs_train.json" # args.data_samples #
+    data_samples_file_path = f"/root/home/data/traffic/annotations/traffic_signs_{args.subset}.json" # args.data_samples #
     data_path = "/root/home/data/traffic/images/" #args.data_path
     images_dir =  "/root/home/data/traffic/images/" #-- need train/0/ os.path.join(data_path) #
 
