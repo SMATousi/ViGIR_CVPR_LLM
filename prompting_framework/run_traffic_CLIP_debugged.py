@@ -273,7 +273,7 @@ if dataset_name == "traffic":
                 "query_prompt": query_prompt # actual prompt used to generate embedding
             }
            
-            table.add_data(image_path, best_match, class_label, model_response)
+            table.add_data(image_path, class_name, class_number, model_response)
 
             wandb.log({"Results": table})
 
