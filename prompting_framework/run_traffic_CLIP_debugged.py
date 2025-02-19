@@ -129,22 +129,23 @@ def timeout_handler(signum, frame):
     raise TimeoutException
 
 
-# parser = argparse.ArgumentParser(description="Run numerous experiments with varying VLM models on the traffic sign dataset")
+parser = argparse.ArgumentParser(description="Run numerous experiments with varying VLM models on the traffic sign dataset")
 
-# parser.add_argument("--base_dir", type=str, required=True, help="Base dataset directory")
-# parser.add_argument("--model_name", type=str, required=True, help=" VLM model name")
-# parser.add_argument("--prompt", type=str, required=True, help="VLM prompt")
-# parser.add_argument("--dataset_name", type=str, required=True, help="Dataset name")
-# parser.add_argument("--data_path", type=str, required=True, help="Path to the image data dir")
-# parser.add_argument("--data_samples", type=str, required=True, help="JSON file with data samples to run")
-# parser.add_argument("--subset", type=str, required=True, help="train, test or validation set")
-# parser.add_argument("--results_dir", type=str, required=True, help="Folder name to save results")
-# parser.add_argument("--timeout", type=int, default=40, help="time out duration to skip one sample")
-# parser.add_argument("--model_unloading", action="store_true", help="Enables unloading mode. Every 100 sampels it unloades the model from the GPU to avoid crashing.")
+parser.add_argument("--base_dir", type=str, required=False, help="Base dataset directory")
+parser.add_argument("--model_name", type=str, required=True, help=" VLM model name")
+parser.add_argument("--prompt", type=str, required=False, help="VLM prompt")
+parser.add_argument("--dataset_name", type=str, required=False, help="Dataset name")
+parser.add_argument("--data_path", type=str, required=False, help="Path to the image data dir")
+parser.add_argument("--data_samples", type=str, required=False, help="JSON file with data samples to run")
+parser.add_argument("--subset", type=str, required=True, help="train, test or validation set")
+parser.add_argument("--results_dir", type=str, required=False, help="Folder name to save results")
+parser.add_argument("--timeout", type=int, default=100, help="time out duration to skip one sample")
+parser.add_argument("--model_unloading", action="store_true", help="Enables unloading mode. Every 100 sampels it unloades the model from the GPU to avoid crashing.")
 
 
-# args = parser.parse_args()
+args = parser.parse_args()
 dataset_name = "traffic"
+
 #model_unloading= True
 
 run = wandb.init(
@@ -173,18 +174,18 @@ if dataset_name == "traffic":
         
         data[os.path.join(images_dir, image_file_path)] = {"label" : class_id, "class" : class_name}
 
-    model_name  = "llava:7b" #args.model_name
+    model_name  = args.model_name
     results_dir = os.path.join(base_dir, "results")
     os.makedirs(results_dir, exist_ok=True)
     #dataset_name = args.dataset_name#"traffic"
-    subset = "train" #args.subset
+    subset = args.subset
     results_file_name=os.path.join(results_dir,f"{dataset_name}-{model_name}-{subset}.json")
     raw_image_info=os.path.join(results_dir,f"{dataset_name}-{model_name}-{subset}-raw_info.json")
     print("Pulling Ollama Model...")
     print(model_name)
     ollama.pull(model_name)
     print("Done Pulling..")
-    timeout_duration = 100 #args.timeout
+    timeout_duration = args.timeout
 
     options= {  # new
             "seed": 123,
@@ -209,7 +210,7 @@ if dataset_name == "traffic":
     context_embedding = generate_context_embedding(class_names, model_name, options)
     # print("Done setting up clip...")
     model_labels = {}
-    prompt =  "Identify the traffic sign. Choose one from the list" # args.prompt
+    prompt = args.prompt
     count = 0
     
     print("Begin prompting...")
