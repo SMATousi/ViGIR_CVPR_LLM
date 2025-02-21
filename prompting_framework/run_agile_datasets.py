@@ -241,7 +241,7 @@ model_labels = {}
 dataset_name_for_prompt = args.dataset_name
 dataset_name_for_prompt.replace("-", " ")
 
-prompt = f"Is this a photo of {dataset_name_for_prompt.replace("-", " ")}? Answer only with Yes or No"
+prompt = f"Is this a photo of {str(dataset_name_for_prompt).replace('-', ' ')}? Answer only with Yes or No"
 print(f" The prompt is === {prompt}")
 count = 0
 
