@@ -33,6 +33,8 @@ def get_image_urls(input_path, dataset_name, split):
             return []
 
         # Filter rows where label is not "no image"
+        df[df['label'] == 'positive']['label'] = 'Yes'
+        df[df['label'] == 'negative']['label'] = 'No'
         valid_urls_and_labels = df[df['label'] != 'no image'].to_dict()
 
     except Exception as e:
@@ -172,7 +174,7 @@ run = wandb.init(
 data = {}
 base_dir = "/root/home/ViGIR_CVPR_LLM/datasets/agile_modeling" #args.base_dir #
 
-data = get_image_urls(base_dir, args.dataset_name)
+data = get_image_urls(base_dir, args.dataset_name, args.subset)
 
 
 # for image_path, details in raw_data.items():
