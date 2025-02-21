@@ -198,7 +198,7 @@ run = wandb.init(
 base_dir = "/root/home/ViGIR_CVPR_LLM/datasets/agile_modeling" #args.base_dir #
 
 csv_path = os.path.join(base_dir,f"{args.dataset_name}_{args.subset}_labels.csv")
-dataset_download_path = f"/root/home/agaile_datasets/{args.dataset_name}_{args.subet}/"
+dataset_download_path = f"/root/home/agaile_datasets/{args.dataset_name}_{args.subset}/"
 no_label = "no image"
 
 # raw_data = get_image_urls(base_dir, args.dataset_name, args.subset)
