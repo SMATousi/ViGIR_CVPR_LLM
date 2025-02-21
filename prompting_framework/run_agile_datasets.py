@@ -333,7 +333,7 @@ for key in tqdm(data.keys()):
         # print(model_labels)
         # wandb.log(model_labels)
 
-    except (TimeoutException, ValueError) as e:
+    except (TimeoutException, ValueError, ollama._types.ResponseError) as e:
         print(e)
         print(f"Prompt for {image_path} took longer than {timeout_duration} seconds. Moving to the next one.")
         model_labels[key] = {
