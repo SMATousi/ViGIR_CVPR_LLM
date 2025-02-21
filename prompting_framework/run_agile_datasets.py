@@ -64,8 +64,8 @@ def download_images_by_label(csv_path, no_label_name, output_dir="downloaded_ima
             # print(f"Failed to download {image_url}: {e}")
             pass
 
-        if idx > 10:
-            break
+        # if idx > 10:
+        #     break
 
     return image_list
 
