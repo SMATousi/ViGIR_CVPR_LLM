@@ -63,7 +63,9 @@ def download_images_by_label(csv_path, no_label_name, output_dir="downloaded_ima
         except requests.RequestException as e:
             # print(f"Failed to download {image_url}: {e}")
             pass
-        # break
+
+        if idx > 10:
+            break
 
     return image_list
 
