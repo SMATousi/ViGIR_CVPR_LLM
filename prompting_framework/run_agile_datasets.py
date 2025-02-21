@@ -222,7 +222,9 @@ class_embeddings = get_class_embeddings(class_names_list, tokenizer, text_encode
 print("Done setting up clip...")
 
 model_labels = {}
-prompt = f"Is this a photo of {args.dataset_name.replace("-", " ")}? Answer only with Yes or No"
+dataset_name_for_prompt = args.dataset_name
+dataset_name_for_prompt.replace("-", " ")
+prompt = f"Is this a photo of {dataset_name_for_prompt}? Answer only with Yes or No"
 print(f" The prompt is === {prompt}")
 count = 0
 
