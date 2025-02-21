@@ -13,45 +13,61 @@ import torch
 import signal
 import torch.nn.functional as F
 from scipy.spatial.distance import cosine
+import requests
 
 
-def get_image_urls(input_path, dataset_name, split):
-    # Define the paths to the train and test CSVs
-    csv_path = os.path.join(input_path, f'{dataset_name}_{split}_labels.csv')
-
-    # Initialize a list to store image URLs
-
-    # Function to read CSV and extract image URLs (excluding "no image" labels)
+def download_images_by_label(csv_path, no_label_name, output_dir="downloaded_images"):
+    """
+    Downloads images from a CSV file based on a given label.
     
-    try:
-        # Read CSV file into a DataFrame
-        df = pd.read_csv(csv_path, on_bad_lines='skip')
-        
-        # Check if the necessary columns exist
-        if 'url' not in df.columns or 'label' not in df.columns:
-            print(f"CSV file {csv_path} does not contain required columns.")
-            return []
-
-        # Filter rows where label is not "no image"
-        for i in range(len(df['label'])):
+    Parameters:
+        csv_path (str): Path to the CSV file.
+        label_name (str): The label to filter images.
+        output_dir (str): Directory to save the downloaded images.
     
-            if df['label'].loc[i] == 'positive':
-                
-                df['label'].loc[i] = 'Yes' 
-        
-            elif df['label'].loc[i] == 'negative':
-        
-                df['label'].loc[i] = 'No' 
-        
-        valid_urls_and_labels = df[df['label'] != 'no image'].to_dict()
-
-    except Exception as e:
-        print(f"Error reading {csv_path}: {e}")
-
-    # Extract image URLs from both train and test datasets
+    Returns:
+        list: A list of dictionaries containing index, image name, and local path.
+    """
+    # Load CSV file
+    df = pd.read_csv(csv_path, on_bad_lines='skip')
     
+    # Filter data based on label name
+    filtered_df = df[df["label"] != no_label_name]
+    
+    # Create output directory if it doesn't exist
+    os.makedirs(output_dir, exist_ok=True)
+    
+    image_list = {}
+    
+    
+    for idx in tqdm(filtered_df['url'].keys(), total=len(filtered_df), desc="Downloading Images"):
+        image_url = filtered_df["url"][idx]
+        image_label_pn = filtered_df["label"][idx]
+        if image_label_pn == 'positive':
+            image_label = 'Yes'
+        elif image_label_pn == 'negative':
+            image_label = 'No'
+            
+        image_name = f"image_{idx}.jpg"
+        image_path = os.path.join(output_dir, image_name)
+    
+        try:
+            response = requests.get(image_url, timeout=10)
+            response.raise_for_status()
+    
+            with open(image_path, "wb") as img_file:
+                img_file.write(response.content)
+    
+            image_list[idx] = {"name": image_name, "path": image_path, "url": image_url, "label": image_label}
+    
+        except requests.RequestException as e:
+            print(f"Failed to download {image_url}: {e}")
+        # break
 
-    return valid_urls_and_labels
+    return image_list
+
+
+
 
 
 # def get_class_embeddings(prompts, tokenizer, text_encoder):
@@ -179,24 +195,23 @@ run = wandb.init(
 )
 # table = wandb.Table(columns=["image_path", "pred_class", "pred_class_ind", "pred_response"])
 
-data = {}
 base_dir = "/root/home/ViGIR_CVPR_LLM/datasets/agile_modeling" #args.base_dir #
 
-raw_data = get_image_urls(base_dir, args.dataset_name, args.subset)
+csv_path = os.path.join(base_dir,f"{args.dataset_name}_{args.subset}_labels.csv")
+dataset_download_path = f"/root/home/agaile_datasets/{args.dataset_name}_{args.subet}/"
+no_label = "no image"
 
+# raw_data = get_image_urls(base_dir, args.dataset_name, args.subset)
 
-all_urls = raw_data['url']
-all_labels = raw_data['label']
+data = download_images_by_label(csv_path, no_label, dataset_download_path)
 
-data = {}
+# for index, url in all_urls.items():
 
-for index, url in all_urls.items():
-
-    class_name = all_labels[index]
-    image_index = index
-    image_url = url
+#     class_name = all_labels[index]
+#     image_index = index
+#     image_url = url
     
-    data[image_index] = {"label" : class_name, "url": image_url}
+#     data[image_index] = {"label" : class_name, "url": image_url}
 
 model_name  = args.model_name
 results_dir = os.path.join(base_dir, "results")
@@ -252,7 +267,7 @@ for key in tqdm(data.keys()):
     # print(type(key))
     count = count + 1
 
-    image_url = data[key]["url"]
+    image_path = data[key]["path"]
 
     print(f"Current count {count}")
     #if count  > 10 : 
@@ -264,7 +279,7 @@ for key in tqdm(data.keys()):
 
     try:
     
-        response = ollama.generate(model=model_name, prompt=prompt, images=[image_url], options=options)
+        response = ollama.generate(model=model_name, prompt=prompt, images=[image_path], options=options)
     
 
         model_response = response['response']
@@ -300,7 +315,8 @@ for key in tqdm(data.keys()):
         # matched_label = best_match #compute_scores(traffic_embeedings, response_embedding, class_names_list)
         
     # print(f"{image_path} | {matched_label} | {model_response}")
-        model_labels[image_url] = {
+        model_labels[key] = {
+            "path": image_path,
             "label": class_number, # integer index representing class
             "class": class_name, # string indicating class name
             "model_response": model_response, # string coming from the model
@@ -316,8 +332,9 @@ for key in tqdm(data.keys()):
 
     except (TimeoutException, ValueError) as e:
         print(e)
-        print(f"Prompt for {image_url} took longer than {timeout_duration} seconds. Moving to the next one.")
-        model_labels[image_url] = {
+        print(f"Prompt for {image_path} took longer than {timeout_duration} seconds. Moving to the next one.")
+        model_labels[key] = {
+            "path": None,
             "label": None, # integer index representing class
             "class": None, # string indicating class name
             "model_response": None # string coming from the model
