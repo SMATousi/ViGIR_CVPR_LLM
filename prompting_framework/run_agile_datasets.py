@@ -223,7 +223,7 @@ print("Done setting up clip...")
 
 model_labels = {}
 prompt = f"Is this a photo of {args.dataset_name.replace("-", " ")}? Answer only with Yes or No"
-print(f" The prompt is === {prompt})
+print(f" The prompt is === {prompt}")
 count = 0
 
 print("Begin prompting...")
