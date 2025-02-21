@@ -240,7 +240,8 @@ print("Done setting up clip...")
 model_labels = {}
 dataset_name_for_prompt = args.dataset_name
 dataset_name_for_prompt.replace("-", " ")
-prompt = f"Is this a photo of {dataset_name_for_prompt}? Answer only with Yes or No"
+
+prompt = f"Is this a photo of {dataset_name_for_prompt.replace("-", " ")}? Answer only with Yes or No"
 print(f" The prompt is === {prompt}")
 count = 0
 
@@ -252,7 +253,7 @@ for key in tqdm(data.keys()):
     count = count + 1
 
     image_url = data[key]["url"]
-    
+
     print(f"Current count {count}")
     #if count  > 10 : 
         # break
