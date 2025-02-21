@@ -25,7 +25,7 @@ def get_image_urls(input_path, dataset_name, split):
     
     try:
         # Read CSV file into a DataFrame
-        df = pd.read_csv(csv_path)
+        df = pd.read_csv(csv_path, on_bad_lines='skip')
         
         # Check if the necessary columns exist
         if 'url' not in df.columns or 'label' not in df.columns:
