@@ -33,8 +33,16 @@ def get_image_urls(input_path, dataset_name, split):
             return []
 
         # Filter rows where label is not "no image"
-        df[df['label'] == 'positive']['label'] = 'Yes'
-        df[df['label'] == 'negative']['label'] = 'No'
+        for i in range(len(df['label'])):
+    
+            if df['label'].loc[i] == 'positive':
+                
+                df['label'].loc[i] = 'Yes' 
+        
+            elif df['label'].loc[i] == 'negative':
+        
+                df['label'].loc[i] = 'No' 
+        
         valid_urls_and_labels = df[df['label'] != 'no image'].to_dict()
 
     except Exception as e:
@@ -174,15 +182,21 @@ run = wandb.init(
 data = {}
 base_dir = "/root/home/ViGIR_CVPR_LLM/datasets/agile_modeling" #args.base_dir #
 
-data = get_image_urls(base_dir, args.dataset_name, args.subset)
+raw_data = get_image_urls(base_dir, args.dataset_name, args.subset)
 
 
-# for image_path, details in raw_data.items():
-#     class_id = details["class_id"]
-#     class_name = details["class_name"]
-#     image_file_path = image_path.lower()
+all_urls = raw_data['url']
+all_labels = raw_data['label']
+
+data = {}
+
+for index, url in all_urls.items():
+
+    class_name = all_labels[index]
+    image_index = index
+    image_url = url
     
-#     data[os.path.join(images_dir, image_file_path)] = {"label" : class_id, "class" : class_name}
+    data[image_index] = {"label" : class_name, "url": image_url}
 
 model_name  = args.model_name
 results_dir = os.path.join(base_dir, "results")
@@ -233,11 +247,12 @@ count = 0
 print("Begin prompting...")
 text_length = 500
 
-for key,info in tqdm(data.items()):
+for key in tqdm(data.keys()):
     # print(type(key))
     count = count + 1
 
-    image_url = key
+    image_url = data[key]["url"]
+    
     print(f"Current count {count}")
     #if count  > 10 : 
         # break
