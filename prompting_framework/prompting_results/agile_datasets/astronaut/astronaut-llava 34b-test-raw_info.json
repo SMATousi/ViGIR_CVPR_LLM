@@ -1,0 +1,2984 @@
+{
+    "0": {
+        "name": "image_0.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_0.jpg",
+        "url": "https://aerolite.org/wp-content/uploads/2018/11/I-Need-My-Space-Retro-Socks-3.jpg",
+        "label": "No"
+    },
+    "1": {
+        "name": "image_1.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_1.jpg",
+        "url": "http://i1.kym-cdn.com/photos/images/newsfeed/000/721/867/a77.jpeg",
+        "label": "No"
+    },
+    "2": {
+        "name": "image_2.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_2.jpg",
+        "url": "http://rlv.zcache.com/space_shuttle_discovery_docked_with_iss_sts_114_poster-r07b182d79392455994352734115cf883_wa3_8byvr_324.jpg",
+        "label": "No"
+    },
+    "3": {
+        "name": "image_3.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_3.jpg",
+        "url": "http://img.valorebooks.com/W120/97/9780/978078/9780786840564.jpg",
+        "label": "Yes"
+    },
+    "4": {
+        "name": "image_4.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_4.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/34/40/94/160_F_34409472_q43LuSHLAVhQROCuehyGnKjK4oKVqmSX.jpg",
+        "label": "Yes"
+    },
+    "5": {
+        "name": "image_5.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_5.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0153/2051/products/Scott_Listfield_Fire_Road_2018_1024x1024.jpeg?v=1547745767",
+        "label": "No"
+    },
+    "6": {
+        "name": "image_6.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_6.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0247/5442/1809/products/IMG-0422_b989edcc-7ac0-4578-bd0e-b0c83e870328_900x900.png?v=1585255784",
+        "label": "No"
+    },
+    "8": {
+        "name": "image_8.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_8.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/58/21/20/110_F_58212018_INV1DxZPAQAUzRkI9BdgSYSG198vYpeg.jpg",
+        "label": "Yes"
+    },
+    "9": {
+        "name": "image_9.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_9.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Series/115531/115531._SX312_QL80_TTD_.jpg",
+        "label": "No"
+    },
+    "10": {
+        "name": "image_10.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_10.jpg",
+        "url": "http://s7d2.scene7.com/is/image/NationalGeographic/07193C?$product236x236$",
+        "label": "No"
+    },
+    "12": {
+        "name": "image_12.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_12.jpg",
+        "url": "https://s3.amazonaws.com/ArchiveImages/LegacyReviews/SLJ/9781558858688.jpg",
+        "label": "Yes"
+    },
+    "15": {
+        "name": "image_15.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_15.jpg",
+        "url": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTc0S1MXQqedrl5ZWQr_R8DsCcFWgIqOIFdsQlbS14WMN542kF7_Ow0.P2m.loHH840Ebbvng6GPDvmexDXICzc9iYiSyvcPY8mN0LUsIhtn0lbqhQShTLNRccHqIPfNSbmj85CQ31g57Augyox6TD2qjgl_cr4NPudXHp9qJ3.jZc-&h=1080&w=1920&format=jpg",
+        "label": "No"
+    },
+    "16": {
+        "name": "image_16.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_16.jpg",
+        "url": "https://i2.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Apollo15LunarRover.jpg/800px-Apollo15LunarRover.jpg",
+        "label": "No"
+    },
+    "17": {
+        "name": "image_17.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_17.jpg",
+        "url": "https://i.pinimg.com/236x/21/49/be/2149be1f24c1504685766b7dcdae68da--fuse-beads-perler-beads.jpg",
+        "label": "Yes"
+    },
+    "18": {
+        "name": "image_18.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_18.jpg",
+        "url": "https://s3-us-west-2.amazonaws.com/tabs.web.media/c/5/c521/c521-square-400.jpg",
+        "label": "No"
+    },
+    "19": {
+        "name": "image_19.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_19.jpg",
+        "url": "http://rlv.zcache.com/visit_mars_print-r2ffcf4df4896452c9e50e4563bc0c63f_66t5_8byvr_152.jpg",
+        "label": "No"
+    },
+    "20": {
+        "name": "image_20.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_20.jpg",
+        "url": "https://thumb1.shutterstock.com/image-photo/stock-photo-high-resolution-images-presents-creating-planets-of-the-solar-system-this-image-elements-furnished-450w-356797187.jpg",
+        "label": "No"
+    },
+    "21": {
+        "name": "image_21.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_21.jpg",
+        "url": "https://images.pond5.com/rally-driver-demonstrating-technique-inside-footage-007650598_iconv.jpeg",
+        "label": "No"
+    },
+    "22": {
+        "name": "image_22.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_22.jpg",
+        "url": "http://images.fineartamerica.com/images-stretched-canvas-real/sandcastle-on-beach-garry-gay.jpg",
+        "label": "No"
+    },
+    "24": {
+        "name": "image_24.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_24.jpg",
+        "url": "http://thumbs.ebaystatic.com/images/g/KTAAAOSwNuxXbIa9/s-l225.jpg",
+        "label": "No"
+    },
+    "25": {
+        "name": "image_25.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_25.jpg",
+        "url": "https://i.pinimg.com/736x/85/59/ab/8559abc0ec89c5e0e5226b4cf4981d61.jpg",
+        "label": "No"
+    },
+    "26": {
+        "name": "image_26.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_26.jpg",
+        "url": "https://www.radiospirits.com/images-new/4/resized/21584_165X230.jpg",
+        "label": "No"
+    },
+    "27": {
+        "name": "image_27.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_27.jpg",
+        "url": "https://wonderboxmetal.files.wordpress.com/2018/06/the-night-flight-orchestra.jpg?w=300&",
+        "label": "Yes"
+    },
+    "29": {
+        "name": "image_29.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_29.jpg",
+        "url": "http://i0.wp.com/karundhel.com/wp-content/uploads/2014/04/captain_america_the_winter_soldier-wide.jpg?resize=1000%2C550",
+        "label": "No"
+    },
+    "30": {
+        "name": "image_30.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_30.jpg",
+        "url": "https://transparent-aluminium.net/wp-content/uploads/bfi_thumb/adr1ft-3an9e4qj67j3n4b18hg5ca.jpg",
+        "label": "No"
+    },
+    "31": {
+        "name": "image_31.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_31.jpg",
+        "url": "http://lh6.ggpht.com/UVn9exeNAEpBYuPGfMHoJbZIfPjDiqjbGYLmGE7LzwvFHTCVwm1GS9rpCmzDwVKKteBChKNo1g-jigSp9FsfAdM=h200",
+        "label": "No"
+    },
+    "33": {
+        "name": "image_33.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_33.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1388/4589/products/IMG_6239_large.jpg?v=1603604181",
+        "label": "Yes"
+    },
+    "34": {
+        "name": "image_34.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_34.jpg",
+        "url": "https://i.pinimg.com/236x/e2/2f/41/e22f419086359ef76b437f6c7eca0eb4--sci-fi-books-highlights.jpg",
+        "label": "Yes"
+    },
+    "35": {
+        "name": "image_35.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_35.jpg",
+        "url": "http://img0.etsystatic.com/000/0/5165150/il_570xN.199985932.jpg",
+        "label": "No"
+    },
+    "36": {
+        "name": "image_36.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_36.jpg",
+        "url": "http://i1.wp.com/ytimg.googleusercontent.com/vi/_eLryuBCO-M/mqdefault.jpg",
+        "label": "No"
+    },
+    "37": {
+        "name": "image_37.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_37.jpg",
+        "url": "https://img.freepik.com/free-vector/space-game-computer-screen_1308-46395.jpg?size=626&ext=jpg",
+        "label": "No"
+    },
+    "39": {
+        "name": "image_39.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_39.jpg",
+        "url": "http://i.pinimg.com/236x/98/49/75/9849751e4bad65f676b5a0c35771e996.jpg",
+        "label": "Yes"
+    },
+    "40": {
+        "name": "image_40.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_40.jpg",
+        "url": "https://images.squarespace-cdn.com/content/51195be1e4b09b3dafaff81a/1494194460078-VOT3KA41S97ECKBET6QF/IMG_6116.JPG?format=1000w&content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "42": {
+        "name": "image_42.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_42.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0052/6516/2355/products/80415.jpg?v=1572278065",
+        "label": "Yes"
+    },
+    "43": {
+        "name": "image_43.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_43.jpg",
+        "url": "http://www.covertr.com/attachments/custom-blu-ray-cover/63838d1485983582t-martian-custom-bluray-cover-english-2015-blu-ray-1-disc-flat-3173x1762-11mmjpg",
+        "label": "Yes"
+    },
+    "44": {
+        "name": "image_44.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_44.jpg",
+        "url": "http://s4.thcdn.com/productimg/0/130/130/12/10851212-1381847521-967820.jpg",
+        "label": "Yes"
+    },
+    "45": {
+        "name": "image_45.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_45.jpg",
+        "url": "https://images.firstpost.com/wp-content/uploads/2019/07/42.jpg",
+        "label": "Yes"
+    },
+    "48": {
+        "name": "image_48.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_48.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/617ajiab8-L._SY300_.jpg",
+        "label": "No"
+    },
+    "49": {
+        "name": "image_49.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_49.jpg",
+        "url": "https://i1.wp.com/sneercampaign.com/wp-content/uploads/2017/02/CCCPSloth1-e1487614170335-966x1024.jpg?resize=613%2C650",
+        "label": "No"
+    },
+    "50": {
+        "name": "image_50.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_50.jpg",
+        "url": "https://i0.wp.com/images1.wikia.nocookie.net/__cb20061030213144/music/images/thumb/f/f4/Toonami_-_Toonami-_Deep_Space_Bass_-_Front.jpg/300px-Toonami_-_Toonami-_Deep_Space_Bass_-_Front.jpg",
+        "label": "No"
+    },
+    "51": {
+        "name": "image_51.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_51.jpg",
+        "url": "https://d202m5krfqbpi5.cloudfront.net/books/1274866326l/7005865.jpg",
+        "label": "No"
+    },
+    "52": {
+        "name": "image_52.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_52.jpg",
+        "url": "https://static2.bigstockphoto.com/thumbs/5/3/1/large2/135945014.jpg",
+        "label": "No"
+    },
+    "53": {
+        "name": "image_53.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_53.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51f6bFkJVcL.jpg",
+        "label": "Yes"
+    },
+    "54": {
+        "name": "image_54.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_54.jpg",
+        "url": "http://sugar.gamecitycorner.hu/szkp/kepek/15785.jpg?1620751256",
+        "label": "No"
+    },
+    "55": {
+        "name": "image_55.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_55.jpg",
+        "url": "https://images4.persgroep.net/rcs/u0WeIyOCXrIpZSK81zQCEvuy4LA/diocontent/70906012/_focus/0.500000/0.500000/_fill/415/233?appId=2dc96dd3f167e919913d808324cbfeb2&amp;quality=0.8",
+        "label": "Yes"
+    },
+    "56": {
+        "name": "image_56.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_56.jpg",
+        "url": "https://fabjoueauxlego.files.wordpress.com/2012/03/lego-minifigures-series-7-galaxy-patrol.jpg?w=640",
+        "label": "No"
+    },
+    "57": {
+        "name": "image_57.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_57.jpg",
+        "url": "https://img.posterlounge.de/images/m/1893715.jpg",
+        "label": "No"
+    },
+    "58": {
+        "name": "image_58.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_58.jpg",
+        "url": "http://i1.wp.com/venturebeat.com/wp-content/uploads/2013/12/wolfenstein-the-new-order-trailer.jpg?resize=285%2C180",
+        "label": "Yes"
+    },
+    "59": {
+        "name": "image_59.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_59.jpg",
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/71176133446349.5773cea63dd41.jpg",
+        "label": "Yes"
+    },
+    "60": {
+        "name": "image_60.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_60.jpg",
+        "url": "https://hajipro.com/wordpress/wp-content/uploads/2017/10/google-streetview-international-space-station-718x502.jpg",
+        "label": "No"
+    },
+    "61": {
+        "name": "image_61.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_61.jpg",
+        "url": "https://i.ytimg.com/vi/AMgUWg0UfGY/0.jpg",
+        "label": "No"
+    },
+    "62": {
+        "name": "image_62.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_62.jpg",
+        "url": "http://3.bp.blogspot.com/-BKfROTLhKv8/UJQL9EETDQI/AAAAAAAAA80/JwZ63Er_Y6k/s640/CASH+ROBOT+SODA+PRINT+DAY+OF+THE+DEAD.jpg",
+        "label": "No"
+    },
+    "63": {
+        "name": "image_63.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_63.jpg",
+        "url": "http://static01.nyt.com/images/2015/08/10/multimedia/space-lettuce/space-lettuce-thumbWide.jpg",
+        "label": "Yes"
+    },
+    "65": {
+        "name": "image_65.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_65.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/51Rhadc2g0L.jpg",
+        "label": "No"
+    },
+    "67": {
+        "name": "image_67.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_67.jpg",
+        "url": "https://tmg.dmmserver.com/media/140/97817852/9781785212109.jpg",
+        "label": "Yes"
+    },
+    "68": {
+        "name": "image_68.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_68.jpg",
+        "url": "http://rlv.zcache.com/curiosity_self_portrait_on_mars_poster-rbbc887d1547c49b8890b6317aa2c2924_v7axr_8byvr_324.jpg",
+        "label": "No"
+    },
+    "69": {
+        "name": "image_69.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_69.jpg",
+        "url": "https://i.ytimg.com/vi/ZCvdTXrXsBc/0.jpg",
+        "label": "No"
+    },
+    "70": {
+        "name": "image_70.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_70.jpg",
+        "url": "https://imagecache.jpl.nasa.gov/images/edu/news/adriendiasribiero_portrait-web-640x350.jpg",
+        "label": "No"
+    },
+    "71": {
+        "name": "image_71.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_71.jpg",
+        "url": "https://trommel-bass.de/wp-content/uploads/2019/06/Integration-Vol-1-Cyberfunk-Cover-300x300.jpg",
+        "label": "No"
+    },
+    "73": {
+        "name": "image_73.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_73.jpg",
+        "url": "https://i1.wp.com/higherorbits.org/wp-content/uploads/2018/12/profileWendyLawrence.png?resize=243%2C243&ssl=1",
+        "label": "Yes"
+    },
+    "74": {
+        "name": "image_74.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_74.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2110/9427/products/mockup-71d6194e_large.png?v=1533821244",
+        "label": "No"
+    },
+    "75": {
+        "name": "image_75.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_75.jpg",
+        "url": "https://hack42.nl/mediawiki/images/thumb/a/ad/Spacecat.jpg/285px-Spacecat.jpg",
+        "label": "No"
+    },
+    "76": {
+        "name": "image_76.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_76.jpg",
+        "url": "http://vintagejapandoll.name/wp-content/pics/BBC_JAPAN_x_DISNEY_Mickey_Mouse_Astronaut_Medicom_Figure_vinyl_toy_doll_rare_vtg_03_itkm.jpg",
+        "label": "No"
+    },
+    "77": {
+        "name": "image_77.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_77.jpg",
+        "url": "https://www.autographs.co.uk/image/cache//catalog/autografica/25web/Scan%2022_Fotor-250x250.jpg",
+        "label": "Yes"
+    },
+    "78": {
+        "name": "image_78.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_78.jpg",
+        "url": "https://dryuc24b85zbr.cloudfront.net/tes/resources/11252606/image?width=500&height=500&version=1519313565970",
+        "label": "Yes"
+    },
+    "79": {
+        "name": "image_79.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_79.jpg",
+        "url": "https://lh3.googleusercontent.com/BiBAIggC6Hrotp5TcfkRCQ7J_80NZuQr_dMEXBWPf4o8tSr9tfXW9lcRGUeDzunPjtE=w80",
+        "label": "Yes"
+    },
+    "80": {
+        "name": "image_80.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_80.jpg",
+        "url": "https://cdn.vectorstock.com/i/thumb-large/38/56/baby-on-board-sign-pregnancy-cosmonaut-vector-8803856.jpg",
+        "label": "Yes"
+    },
+    "83": {
+        "name": "image_83.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_83.jpg",
+        "url": "https://image.shutterstock.com/image-vector/big-set-cute-funny-animal-260nw-1081660181.jpg",
+        "label": "No"
+    },
+    "84": {
+        "name": "image_84.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_84.jpg",
+        "url": "https://images.twinkl.co.uk/tw1n/image/private/t_345/image_repo/6a/44/t-pa-5033-year-1-term-1-paper-2-reading-assessment-guided-lesson-teaching-pack_ver_1.jpg",
+        "label": "Yes"
+    },
+    "85": {
+        "name": "image_85.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_85.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1207/8428/products/a895cecc6a8ecbf31e1b1b70a27c342dbabb0fd2_grande.jpg?v=1560152185",
+        "label": "Yes"
+    },
+    "86": {
+        "name": "image_86.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_86.jpg",
+        "url": "https://www.covernk.com/Covers/S/W/Walt%20Disneys%20Uncle%20Scrooge%20Adventures/waltdisneysunclescroogeadventures13.jpg",
+        "label": "No"
+    },
+    "88": {
+        "name": "image_88.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_88.jpg",
+        "url": "https://galvanizado.files.wordpress.com/2015/12/alien-isolation-xbox-360-cover.jpg?w=213&",
+        "label": "Yes"
+    },
+    "89": {
+        "name": "image_89.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_89.jpg",
+        "url": "http://d.gr-assets.com/books/1390433432m/16277436.jpg",
+        "label": "Yes"
+    },
+    "90": {
+        "name": "image_90.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_90.jpg",
+        "url": "http://i1.ytimg.com/vi/yo3M6EB8kmk/hqdefault.jpg",
+        "label": "No"
+    },
+    "91": {
+        "name": "image_91.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_91.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0369/7889/products/7068_large.jpeg?v=1426791507",
+        "label": "Yes"
+    },
+    "93": {
+        "name": "image_93.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_93.jpg",
+        "url": "https://img1.etsystatic.com/000/0/6561002/il_570xN.340415353.jpg",
+        "label": "No"
+    },
+    "94": {
+        "name": "image_94.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_94.jpg",
+        "url": "https://www.igromagaz.ru/upload/resize_cache/iblock/5b0/101_10000_1/aliens-colonial-marines-limited-edition-pack-.png",
+        "label": "No"
+    },
+    "95": {
+        "name": "image_95.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_95.jpg",
+        "url": "http://i0.wp.com/is2-ssl.mzstatic.com/image/thumb/Music111/v4/26/5f/fc/265ffcd6-f3c4-40d2-89a1-1154dc9a5eac/191018814229.jpg/200x200w.png?w=200&quality=200&strip=all",
+        "label": "No"
+    },
+    "96": {
+        "name": "image_96.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_96.jpg",
+        "url": "https://www.starwarsautographs.net/wp-content/uploads/2019/11/Carrie-Fisher-8x10-8-300x300.jpg",
+        "label": "No"
+    },
+    "97": {
+        "name": "image_97.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_97.jpg",
+        "url": "http://st2.depositphotos.com/4758973/12425/v/450/depositphotos_124259548-Digital-vector-silver-cosmos-icons-set.jpg",
+        "label": "No"
+    },
+    "98": {
+        "name": "image_98.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_98.jpg",
+        "url": "https://ileadaerospace.org/wp-content/uploads/2019/05/iHISC_Intro_Flier_Web.png",
+        "label": "Yes"
+    },
+    "99": {
+        "name": "image_99.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_99.jpg",
+        "url": "https://max256.files.wordpress.com/2011/02/fredric-brown-martians-go-home.jpg",
+        "label": "No"
+    },
+    "100": {
+        "name": "image_100.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_100.jpg",
+        "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/11/sts-120_and_expedition_16_crewmembers_pose_for_a_group_photo_inside_harmony/9772945-3-eng-GB/STS-120_and_Expedition_16_crewmembers_pose_for_a_group_photo_inside_Harmony_newslist.jpg",
+        "label": "Yes"
+    },
+    "101": {
+        "name": "image_101.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_101.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2612/0678/products/DynamicImageHandler_afbf8ef1-ec7c-4ee7-a03e-e090c08f87d5_480x480@2x.jpg?v=1555106472",
+        "label": "Yes"
+    },
+    "102": {
+        "name": "image_102.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_102.jpg",
+        "url": "http://www.cowcow.com/img/4-181723757-0-1-1",
+        "label": "Yes"
+    },
+    "105": {
+        "name": "image_105.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_105.jpg",
+        "url": "https://static1.bigstockphoto.com/thumbs/2/2/1/large2/122868179.jpg",
+        "label": "Yes"
+    },
+    "106": {
+        "name": "image_106.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_106.jpg",
+        "url": "https://i.pinimg.com/236x/01/59/a6/0159a64afb3346a5d6927190cde9dcd3.jpg",
+        "label": "No"
+    },
+    "107": {
+        "name": "image_107.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_107.jpg",
+        "url": "http://www.bibdsl.co.uk/bds-images/s/978144/9781447257516.jpg",
+        "label": "Yes"
+    },
+    "108": {
+        "name": "image_108.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_108.jpg",
+        "url": "https://images.noodle.com/profiles/learning_materials/lmcbeaa/photos/0.jpg",
+        "label": "Yes"
+    },
+    "109": {
+        "name": "image_109.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_109.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51+jPiWTseL._SL125_.jpg",
+        "label": "Yes"
+    },
+    "110": {
+        "name": "image_110.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_110.jpg",
+        "url": "https://dbdzm869oupei.cloudfront.net/img/mantels/large/25869.jpg",
+        "label": "No"
+    },
+    "111": {
+        "name": "image_111.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_111.jpg",
+        "url": "https://i.pinimg.com/originals/87/64/59/876459ef9acd442f2036032cdf17d0a1.jpg",
+        "label": "No"
+    },
+    "112": {
+        "name": "image_112.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_112.jpg",
+        "url": "https://www.azquotes.com/picture-quotes/quote-by-refocusing-our-space-program-on-mars-for-america-s-future-we-can-restore-the-sense-buzz-aldrin-0-44-25.jpg",
+        "label": "No"
+    },
+    "113": {
+        "name": "image_113.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_113.jpg",
+        "url": "https://clkagmidotnet.files.wordpress.com/2015/12/astronaut_salutes_nimoy_from_orbit.jpg?w=710",
+        "label": "No"
+    },
+    "114": {
+        "name": "image_114.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_114.jpg",
+        "url": "http://d202m5krfqbpi5.cloudfront.net/books/1343380415m/882055.jpg",
+        "label": "No"
+    },
+    "115": {
+        "name": "image_115.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_115.jpg",
+        "url": "http://d202m5krfqbpi5.cloudfront.net/books/1348235883l/1353541.jpg",
+        "label": "No"
+    },
+    "116": {
+        "name": "image_116.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_116.jpg",
+        "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2019/12/02/f6da2186-28ed-4f4c-b46d-d492452082f0/thumbnail/640x360/eaadfd546f897cb582d475b5fc011273/spacewalk-december-2019.jpg#",
+        "label": "Yes"
+    },
+    "117": {
+        "name": "image_117.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_117.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/5qQAAOSw1GlaU09r/s-l200.jpg",
+        "label": "Yes"
+    },
+    "118": {
+        "name": "image_118.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_118.jpg",
+        "url": "http://cdn.history.com/sites/2/2017/07/FLATS-A.jpeg",
+        "label": "No"
+    },
+    "119": {
+        "name": "image_119.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_119.jpg",
+        "url": "http://img.scoop.it/X6S0rDWnUNajhwGmPeKEJzl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
+        "label": "Yes"
+    },
+    "120": {
+        "name": "image_120.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_120.jpg",
+        "url": "http://i.ytimg.com/vi/WhgOXVnHYXA/0.jpg",
+        "label": "No"
+    },
+    "121": {
+        "name": "image_121.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_121.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0318/2649/products/51QKpiJwrnL.jpg?v=1493315841",
+        "label": "Yes"
+    },
+    "122": {
+        "name": "image_122.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_122.jpg",
+        "url": "https://i.pinimg.com/736x/1f/dc/8d/1fdc8d2bbb17d12fc0060ba805db8213--hiking-gear-apa-sherpa.jpg",
+        "label": "No"
+    },
+    "123": {
+        "name": "image_123.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_123.jpg",
+        "url": "https://farm9.static.flickr.com/8057/8270835660_726a02c581_m.jpg",
+        "label": "No"
+    },
+    "124": {
+        "name": "image_124.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_124.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51eS0q6EQyL.SX316.jpg",
+        "label": "No"
+    },
+    "125": {
+        "name": "image_125.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_125.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/61TXaefBauL._SL160_.jpg",
+        "label": "Yes"
+    },
+    "126": {
+        "name": "image_126.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_126.jpg",
+        "url": "https://m.media-amazon.com/images/I/51rz3so41BL.jpg",
+        "label": "Yes"
+    },
+    "128": {
+        "name": "image_128.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_128.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/58/57/57/400_F_58575789_3Y2z6Vipb3KPPfNfYljjUpfXUwv3DHp6.jpg",
+        "label": "Yes"
+    },
+    "129": {
+        "name": "image_129.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_129.jpg",
+        "url": "http://www.bestcoloringpagesforkids.com/wp-content/uploads/2014/12/Buzz-Lightyear-Coloring-Pages-Print.jpg",
+        "label": "Yes"
+    },
+    "131": {
+        "name": "image_131.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_131.jpg",
+        "url": "http://3.bp.blogspot.com/-q3gi5wGWLaQ/UIA-nDEovVI/AAAAAAAANjU/O-JP7KnUEBw/s320/M.jpg",
+        "label": "No"
+    },
+    "132": {
+        "name": "image_132.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_132.jpg",
+        "url": "https://us.123rf.com/450wm/lenm/lenm1304/lenm130400263/19253769-illustration-of-boy-and-girl-astronauts-riding-a-space-ship.jpg",
+        "label": "Yes"
+    },
+    "133": {
+        "name": "image_133.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_133.jpg",
+        "url": "https://d3myrwj42s63no.cloudfront.net/180/978/161/723/006/6/9781617230066.jpg",
+        "label": "No"
+    },
+    "134": {
+        "name": "image_134.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_134.jpg",
+        "url": "http://img.new.livestream.com/events/0000000000212d2a/a3c1a545-1277-471c-9d63-1f2f764a1646_170x256.jpg",
+        "label": "Yes"
+    },
+    "135": {
+        "name": "image_135.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_135.jpg",
+        "url": "https://www.urbanloftart.com/product-images/AZAA8ADA-P1005809.jpg",
+        "label": "Yes"
+    },
+    "136": {
+        "name": "image_136.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_136.jpg",
+        "url": "https://i.pinimg.com/736x/28/9d/06/289d06c33416b085a01b3e774093d6f6.jpg",
+        "label": "Yes"
+    },
+    "137": {
+        "name": "image_137.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_137.jpg",
+        "url": "https://api.getepic.com/utils/resize.jpg?jpg_quality=100&url=https%3A%2F%2Fcdn.getepic.com%2Fdrm%2F8%2F19848%2Fcover%402x.png&width=200",
+        "label": "Yes"
+    },
+    "138": {
+        "name": "image_138.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_138.jpg",
+        "url": "https://cdn-media-6.hollywood.com/images/700x1000/2791030.jpg",
+        "label": "No"
+    },
+    "139": {
+        "name": "image_139.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_139.jpg",
+        "url": "https://thebarkingfox.files.wordpress.com/2014/04/bfb140414-earth-from-moon.jpg?w=300&h=269",
+        "label": "No"
+    },
+    "140": {
+        "name": "image_140.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_140.jpg",
+        "url": "https://blackwells.co.uk/jacket/s/05/0521145325.jpg",
+        "label": "No"
+    },
+    "141": {
+        "name": "image_141.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_141.jpg",
+        "url": "https://mejoresjuegos.b-cdn.net/wp-content/uploads/2020/11/Space-Angel-Principal-130x130.png",
+        "label": "No"
+    },
+    "143": {
+        "name": "image_143.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_143.jpg",
+        "url": "https://s.yimg.com/uu/api/res/1.2/WWyN79Za72ykO_eM8gtfTQ--~B/Zmk9c3RyaW07aD0xMjM7cT04MDt3PTIyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/4818039279a29a5a883d79431530a8c0.cf.jpg",
+        "label": "Yes"
+    },
+    "145": {
+        "name": "image_145.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_145.jpg",
+        "url": "https://dirkdeklein.files.wordpress.com/2018/04/mercury_test_pilots-1.jpg?w=620",
+        "label": "No"
+    },
+    "146": {
+        "name": "image_146.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_146.jpg",
+        "url": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/5/f/4/f/4db2-2bb6-44a3-8414-8abe10f632ab",
+        "label": "Yes"
+    },
+    "147": {
+        "name": "image_147.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_147.jpg",
+        "url": "https://images.gr-assets.com/books/1529605403l/39196379.jpg",
+        "label": "No"
+    },
+    "148": {
+        "name": "image_148.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_148.jpg",
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/04/Astronaut_Rover_Phobos_PRINT-800x600.jpg",
+        "label": "Yes"
+    },
+    "149": {
+        "name": "image_149.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_149.jpg",
+        "url": "http://media1.s-nbcnews.com/j/msnbc/Components/Photos/040716/20040716_apollo11_0758.grid-4x2.jpg",
+        "label": "Yes"
+    },
+    "151": {
+        "name": "image_151.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_151.jpg",
+        "url": "http://4.bp.blogspot.com/_KEArRUZspiA/S8nVA4rlTGI/AAAAAAAAEZY/NhhsLojSAjo/s400/apo13ani1.jpg",
+        "label": "No"
+    },
+    "152": {
+        "name": "image_152.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_152.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/7gMAAOSwuspY~mIN/s-l225.jpg",
+        "label": "No"
+    },
+    "153": {
+        "name": "image_153.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_153.jpg",
+        "url": "https://cdn.vectorstock.com/i/thumb-large/16/08/vintage-space-and-astronaut-badges-or-labels-set-vector-12651608.jpg",
+        "label": "No"
+    },
+    "154": {
+        "name": "image_154.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_154.jpg",
+        "url": "https://render.fineartamerica.com/images/rendered/small/flat/weekender-tote-bag/images/artworkimages/medium/1/1-apollo-17-astronaut-salutes-the-united-stocktrek-images.jpg?transparent=0&targetx=0&targety=-135&imagewidth=779&imageheight=776&modelwidth=779&modelheight=506&backgroundcolor=191513&orientation=0&producttype=totebagweekender-24-16-white",
+        "label": "Yes"
+    },
+    "155": {
+        "name": "image_155.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_155.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/511B7m1WFwL.jpg",
+        "label": "No"
+    },
+    "157": {
+        "name": "image_157.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_157.jpg",
+        "url": "https://cdn.medcom.id/dynamic/videos/2018/10/13/940265/KPmREhJQS4.jpg?w=250",
+        "label": "Yes"
+    },
+    "159": {
+        "name": "image_159.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_159.jpg",
+        "url": "https://i.ytimg.com/vi/aFkvU6xeGQw/hqdefault.jpg",
+        "label": "No"
+    },
+    "161": {
+        "name": "image_161.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_161.jpg",
+        "url": "https://web.magellantv.com/V_6253_265_ApollosNewMoon4k.jpg?width=722&height=406&quality=90&jpg=true",
+        "label": "Yes"
+    },
+    "163": {
+        "name": "image_163.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_163.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1818/1781/products/Screen_Shot_2019-04-13_at_3.46.23_pm_500x.png?v=1571439485",
+        "label": "Yes"
+    },
+    "164": {
+        "name": "image_164.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_164.jpg",
+        "url": "https://cdn.libro.fm/assets/covers/9780593208526_400.jpg",
+        "label": "No"
+    },
+    "165": {
+        "name": "image_165.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_165.jpg",
+        "url": "https://assets.fontsinuse.com/static/use-media-items/72/71647/thumb/5b542c47/The-Earth-is-Near.jpeg",
+        "label": "Yes"
+    },
+    "168": {
+        "name": "image_168.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_168.jpg",
+        "url": "https://cdn3.vectorstock.com/i/thumb-large/10/92/404-error-page-not-found-space-background-vector-19191092.jpg",
+        "label": "Yes"
+    },
+    "171": {
+        "name": "image_171.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_171.jpg",
+        "url": "http://3.bp.blogspot.com/-eJ81zZ9iX9o/UQW_kmftd3I/AAAAAAAA_sM/t-jDMBl6oBw/s800/2001+space+odyssey+spacesuit+back.jpg",
+        "label": "No"
+    },
+    "174": {
+        "name": "image_174.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_174.jpg",
+        "url": "https://i.ytimg.com/vi/hB17YdQ9Xbk/0.jpg",
+        "label": "No"
+    },
+    "175": {
+        "name": "image_175.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_175.jpg",
+        "url": "http://direct.rhapsody.com/imageserver/images/Alb.203820082/170x170.jpg",
+        "label": "No"
+    },
+    "177": {
+        "name": "image_177.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_177.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1926/0715/products/March_20131_3817886e-2dd4-489b-97d7-8cee89938f68_large.jpg?v=1582128976",
+        "label": "No"
+    },
+    "178": {
+        "name": "image_178.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_178.jpg",
+        "url": "https://artwork-cdn.7static.com/static/img/sleeveart/00/031/681/0003168107_350.jpg",
+        "label": "No"
+    },
+    "179": {
+        "name": "image_179.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_179.jpg",
+        "url": "https://images3.penguinrandomhouse.com/cover/9781536210163?height=295&alt=cover_coming_soon.jpg",
+        "label": "No"
+    },
+    "180": {
+        "name": "image_180.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_180.jpg",
+        "url": "http://pilotflightsecurity.com/photos/Air-Force-High-Altitude-Fighter-Pilot-Flight-Helmet-drop-down-mask-03-baa.jpg",
+        "label": "No"
+    },
+    "181": {
+        "name": "image_181.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_181.jpg",
+        "url": "https://digitalcommons.pepperdine.edu/peppmagazine/1011/thumbnail.jpg",
+        "label": "No"
+    },
+    "182": {
+        "name": "image_182.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_182.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0208/3598/products/90050-NASA_a68fa970-9289-4f64-8860-37109da301eb_300x.jpg?v=1567537722",
+        "label": "No"
+    },
+    "183": {
+        "name": "image_183.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_183.jpg",
+        "url": "https://i.pinimg.com/564x/15/a0/ba/15a0ba32c25939b43ca0e9d621512b3a.jpg",
+        "label": "No"
+    },
+    "184": {
+        "name": "image_184.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_184.jpg",
+        "url": "http://i.ytimg.com/vi/Zyo45A9S1LE/0.jpg",
+        "label": "No"
+    },
+    "185": {
+        "name": "image_185.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_185.jpg",
+        "url": "https://i1.wp.com/www.astronomytrek.com/wp-content/uploads/2017/11/Moon-Buggy-repaired-with-duct-tape.jpg?resize=287%2C232",
+        "label": "No"
+    },
+    "186": {
+        "name": "image_186.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_186.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1388/5137/products/Woman-T-Shirt-Communing-Mock-Up-front_1024x1024_3bf31995-9ec5-4afc-89a6-162eb33b9865_grande.jpg?v=1531624883",
+        "label": "No"
+    },
+    "190": {
+        "name": "image_190.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_190.jpg",
+        "url": "http://i2.cdn.cnn.com/cnnnext/dam/assets/130219143439-03-space-station-0219-horizontal-large-gallery.jpg",
+        "label": "No"
+    },
+    "192": {
+        "name": "image_192.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_192.jpg",
+        "url": "https://ichef.bbci.co.uk/news/624/cpsprodpb/17942/production/_94887569_mediaitem94887267.jpg",
+        "label": "Yes"
+    },
+    "194": {
+        "name": "image_194.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_194.jpg",
+        "url": "https://i0.wp.com/images.gr-assets.com/books/1403190292l/122914.jpg?w=660&ssl=1",
+        "label": "Yes"
+    },
+    "195": {
+        "name": "image_195.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_195.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51oQmOVBISL._SL125_.jpg",
+        "label": "No"
+    },
+    "197": {
+        "name": "image_197.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_197.jpg",
+        "url": "http://i.kinja-img.com/gawker-media/image/upload/t_original/xlkhbax6bptiqvqjxvoq.jpg",
+        "label": "No"
+    },
+    "198": {
+        "name": "image_198.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_198.jpg",
+        "url": "http://i3.ytimg.com/vi/a0ME35wDGCY/0.jpg",
+        "label": "No"
+    },
+    "199": {
+        "name": "image_199.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_199.jpg",
+        "url": "https://wp.1dfh.de/wordpress/wp-content/gallery/red-bull-air-race-2014-piloten/thumbs/thumbs_p-20140226-00633_news.jpg",
+        "label": "Yes"
+    },
+    "200": {
+        "name": "image_200.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_200.jpg",
+        "url": "https://pictures.abebooks.com/isbn/9780425093467-us-300.jpg",
+        "label": "No"
+    },
+    "201": {
+        "name": "image_201.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_201.jpg",
+        "url": "http://archive.li/1pI5/a5733b5c136dcbdfce7cde840499e541331e03ac.jpg",
+        "label": "No"
+    },
+    "202": {
+        "name": "image_202.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_202.jpg",
+        "url": "http://i2.wp.com/loic54.net/wp-content/uploads/2008/10/t.A.T.u-Happy-Smiles.jpg?resize=225%2C225",
+        "label": "Yes"
+    },
+    "204": {
+        "name": "image_204.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_204.jpg",
+        "url": "https://i.ebayimg.com/00/s/ODAwWDYyNg==/z/GUoAAOSwpINZYN5k/$_35.JPG",
+        "label": "Yes"
+    },
+    "205": {
+        "name": "image_205.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_205.jpg",
+        "url": "https://64.media.tumblr.com/80cabbd67354fc88fa84f52d1807e35b/tumblr_miukb98M1W1qcnz8do1_400.jpg",
+        "label": "Yes"
+    },
+    "207": {
+        "name": "image_207.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_207.jpg",
+        "url": "https://i.ytimg.com/vi/Nl3SHqWpVss/maxresdefault.jpg",
+        "label": "Yes"
+    },
+    "208": {
+        "name": "image_208.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_208.jpg",
+        "url": "https://r.wheelers.co/bk/thumb/978045/9780451532503.jpg",
+        "label": "No"
+    },
+    "209": {
+        "name": "image_209.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_209.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/511HQe2%2BOfL._SL160_.jpg",
+        "label": "No"
+    },
+    "210": {
+        "name": "image_210.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_210.jpg",
+        "url": "https://img.wonderhowto.com/img/03/70/63406692974372/0/12-moon.w1456.jpg",
+        "label": "Yes"
+    },
+    "211": {
+        "name": "image_211.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_211.jpg",
+        "url": "https://i0.wp.com/tgnreview.com/wp-content/uploads/2018/07/img_4034.jpg?resize=300%2C180&ssl=1",
+        "label": "No"
+    },
+    "212": {
+        "name": "image_212.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_212.jpg",
+        "url": "http://4.bp.blogspot.com/_Tj1VRA9rozA/SLvsOem1AAI/AAAAAAAAAak/VcW7XLlMNmk/s400/Supertramp-Some_Things_Never_Change-www.googlefest.blogspot.com",
+        "label": "No"
+    },
+    "215": {
+        "name": "image_215.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_215.jpg",
+        "url": "https://d3tudoxwnizvk7.cloudfront.net/gallery-v2-jpeg/movies/node/83326/edit/GEO-10449r.jpg",
+        "label": "No"
+    },
+    "216": {
+        "name": "image_216.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_216.jpg",
+        "url": "http://www.e-booksdirectory.com/imglrg/11541.jpg",
+        "label": "No"
+    },
+    "218": {
+        "name": "image_218.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_218.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1102/1772/products/BP80615_1024x1024.jpg?v=1543574018",
+        "label": "No"
+    },
+    "219": {
+        "name": "image_219.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_219.jpg",
+        "url": "https://3.bp.blogspot.com/-D2i5IbleW48/XWO9PA6tpLI/AAAAAAAAMYw/ABtZAY56GMg7B52SLQWK0nQT_7eo29D-ACK4BGAYYCw/s1600/Treasure-Planet-2002-Movie-Poster.jpg",
+        "label": "No"
+    },
+    "220": {
+        "name": "image_220.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_220.jpg",
+        "url": "https://store.chatuchak2shop.com/1709-home_default/the-dark-knight-rises-4k-ultra-hd-blu-ray-2d-blu-ray-bonus-disc.jpg",
+        "label": "No"
+    },
+    "221": {
+        "name": "image_221.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_221.jpg",
+        "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/14634239/1399035599.jpg",
+        "label": "Yes"
+    },
+    "222": {
+        "name": "image_222.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_222.jpg",
+        "url": "https://cdn4.vectorstock.com/i/thumb-large/51/58/i-love-astronauts-symbol-heart-of-planets-and-vector-5875158.jpg",
+        "label": "Yes"
+    },
+    "223": {
+        "name": "image_223.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_223.jpg",
+        "url": "https://images.squarespace-cdn.com/content/v1/570c331be321403a73df5d4e/1481216128164-ULLG4ZPFETPAIJFP6H9A/ke17ZwdGBToddI8pDm48kI55dh5YMcmLxWw5R3UyiTR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmo3_5ncHsS_KC884-Z46vJZAZT_8GKTl4zRDhnLQTri3cf1i_9liwr7ZAizZqWIfE/image-asset.jpeg",
+        "label": "No"
+    },
+    "224": {
+        "name": "image_224.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_224.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41wNWOwOi2L.jpg",
+        "label": "No"
+    },
+    "225": {
+        "name": "image_225.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_225.jpg",
+        "url": "https://static2.showtimes.com/poster/160x236/a-sidewalk-astronomer-11937.jpg",
+        "label": "No"
+    },
+    "226": {
+        "name": "image_226.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_226.jpg",
+        "url": "https://images.bewakoof.com/t320/astro-love-vivo-v15-pro-mobile-cover-vivo-v15-pro-mobile-covers-322876-1610685052.jpg",
+        "label": "Yes"
+    },
+    "227": {
+        "name": "image_227.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_227.jpg",
+        "url": "https://www.dvdizzy.com/images/ghosts4.jpg",
+        "label": "No"
+    },
+    "229": {
+        "name": "image_229.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_229.jpg",
+        "url": "https://cdnp0.stackassets.com/20102874a458809b5364b0fba411dd816d882651/store/opt/596/447/a073d11288ecb516369e7a6198db128ac28d2fd05e936ddccd068313583f/product_32657_product_shots1.jpg",
+        "label": "Yes"
+    },
+    "230": {
+        "name": "image_230.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_230.jpg",
+        "url": "https://img.valorebooks.com/W120/97/9781/978160/9781605981765.jpg",
+        "label": "No"
+    },
+    "231": {
+        "name": "image_231.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_231.jpg",
+        "url": "http://mentatjack.files.wordpress.com/2011/06/9780743479196.jpg?h=202",
+        "label": "No"
+    },
+    "232": {
+        "name": "image_232.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_232.jpg",
+        "url": "https://1.bp.blogspot.com/-jR2tj2rLhdM/V0cnXO1Qu2I/AAAAAAAAyeU/Iz4k4V39yI8U6eDCuP0mrLzjE0lJFxIvACKgB/s1600/13-In-jae-Byun-Ballpoint-Pen-Drawing-that-Tell-a-Story-www-designstack-co.jpg",
+        "label": "No"
+    },
+    "233": {
+        "name": "image_233.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_233.jpg",
+        "url": "https://4.bp.blogspot.com/_2EzEBbtDGmI/R1DUAmC_qII/AAAAAAAAAfI/ulkKhL4MAxU/s640/MormonMoonMissionaries.jpg",
+        "label": "No"
+    },
+    "234": {
+        "name": "image_234.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_234.jpg",
+        "url": "https://skream.jp/topimage/2017/10/30/images/man_with_a_mission_topimage.jpg",
+        "label": "No"
+    },
+    "235": {
+        "name": "image_235.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_235.jpg",
+        "url": "http://blog-imgs-89.fc2.com/m/a/r/maribupublishing/moonraker-cards-pack.png",
+        "label": "Yes"
+    },
+    "236": {
+        "name": "image_236.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_236.jpg",
+        "url": "https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/48ed417fcad6d37ecfe4fb611e234849.jpg",
+        "label": "No"
+    },
+    "237": {
+        "name": "image_237.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_237.jpg",
+        "url": "https://64.media.tumblr.com/55e2be8573b8190067c9428cd2462b6b/tumblr_mlyhcv7Qjk1qafrtbo1_500.jpg",
+        "label": "No"
+    },
+    "238": {
+        "name": "image_238.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_238.jpg",
+        "url": "https://cdn.playbuzz.com/cdn/64af94c7-7106-4581-83b6-3d6a5ba3a9b7/22e868b0-dafe-4bd5-90bf-eced1832a4d4.jpg",
+        "label": "Yes"
+    },
+    "239": {
+        "name": "image_239.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_239.jpg",
+        "url": "https://i1.wp.com/www.jerrygordon.net/wp-content/uploads/2015/04/the-martian.jpg?resize=285%2C155",
+        "label": "Yes"
+    },
+    "240": {
+        "name": "image_240.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_240.jpg",
+        "url": "https://assets2.rockpapershotgun.com/space-hulk-header.jpg/BROK/thumbnail/275x155/format/jpg/quality/80/space-hulk-header.jpg",
+        "label": "No"
+    },
+    "241": {
+        "name": "image_241.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_241.jpg",
+        "url": "https://64.media.tumblr.com/tumblr_lzz1sqoIqM1qfg8rlo1_500.jpg",
+        "label": "No"
+    },
+    "242": {
+        "name": "image_242.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_242.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51bRJNL2ZWL._SL150_.jpg",
+        "label": "No"
+    },
+    "243": {
+        "name": "image_243.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_243.jpg",
+        "url": "https://i0.wp.com/geekireland.com/wp-content/uploads/2014/10/Alien-Isolation-1.jpg?resize=440%2C264&amp;ssl=1",
+        "label": "No"
+    },
+    "244": {
+        "name": "image_244.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_244.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51quQa6X6ML.01_SL200_.jpg",
+        "label": "No"
+    },
+    "245": {
+        "name": "image_245.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_245.jpg",
+        "url": "https://hermangarner.com/wp-content/uploads/2019/07/wplogoblue-notext-rgb.png",
+        "label": "No"
+    },
+    "246": {
+        "name": "image_246.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_246.jpg",
+        "url": "https://spaceq.ca/wp-content/uploads/2019/10/veggie_steveswanson-310x165.jpg",
+        "label": "No"
+    },
+    "247": {
+        "name": "image_247.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_247.jpg",
+        "url": "http://previewcf.turbosquid.com/Preview/2015/08/15__04_29_17/NasaSpaceSuitExtravehicularMobilityUnit3dmodel00.jpg8de4415a-61ec-4254-8c2e-553360828bddRes200.jpg",
+        "label": "Yes"
+    },
+    "248": {
+        "name": "image_248.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_248.jpg",
+        "url": "https://cdn0.rubylane.com/_pod/item/429/col-6332/Ottavio-Garaventa-Rigoletto-Autograph-CoA-pic-1-220%3a5.5-77503a62-f.jpg",
+        "label": "No"
+    },
+    "249": {
+        "name": "image_249.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_249.jpg",
+        "url": "https://www.nap.edu/cover/11916/450",
+        "label": "Yes"
+    },
+    "250": {
+        "name": "image_250.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_250.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1691/3303/products/PSO_framed_1024x1024.jpg?v=1519769770",
+        "label": "No"
+    },
+    "251": {
+        "name": "image_251.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_251.jpg",
+        "url": "https://i.ytimg.com/vi/W6TmWIHnpgQ/0.jpg",
+        "label": "No"
+    },
+    "252": {
+        "name": "image_252.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_252.jpg",
+        "url": "https://3d.si.edu/sites/default/files/styles/grid/public/captioned-images/space_suit.png?itok=NpDfWFv8&c=d5e5ed57e8e1a0ccff475cd503080b32",
+        "label": "Yes"
+    },
+    "253": {
+        "name": "image_253.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_253.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0923/4496/products/destination-moon_1_480x480.jpg?v=1522284814",
+        "label": "No"
+    },
+    "254": {
+        "name": "image_254.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_254.jpg",
+        "url": "http://img3.wikia.nocookie.net/__cb20100801044217/marvel_dc/images/thumb/f/f8/DC_Super-Stars_Vol_1_8.jpg/130px-0%2C400%2C8%2C362-DC_Super-Stars_Vol_1_8.jpg",
+        "label": "No"
+    },
+    "255": {
+        "name": "image_255.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_255.jpg",
+        "url": "https://s3.amazonaws.com/cnn-newsource-image-renditions-prod/INT_MARS_MISSION_PREP_PANDEMIC/hypatia-h_bbdd462b12977675d22cb1ecced6e2a0-h_13dd4ef08a8664ba1352cd5dce591eab.jpg",
+        "label": "Yes"
+    },
+    "256": {
+        "name": "image_256.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_256.jpg",
+        "url": "http://pilotflightsecurity.com/photos/Air-Force-Fighter-Pilot-Flight-Helmet-Tk-4A-B-01-ws.jpg",
+        "label": "No"
+    },
+    "259": {
+        "name": "image_259.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_259.jpg",
+        "url": "https://shop.season-of-mist.com/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/P/a/Pain-We-Come-In-Peace-DVD-74223-1.jpg",
+        "label": "Yes"
+    },
+    "260": {
+        "name": "image_260.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_260.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0014/7383/9163/products/TCA-48203_1_388d16a0-481d-4598-9924-2533610bd782_512x.jpg?v=1579962418",
+        "label": "No"
+    },
+    "261": {
+        "name": "image_261.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_261.jpg",
+        "url": "https://cdn.vectorstock.com/i/thumb-large/04/96/6890496.jpg",
+        "label": "Yes"
+    },
+    "262": {
+        "name": "image_262.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_262.jpg",
+        "url": "https://www.bonzaiprogressive.com/wp-content/uploads/2016/11/14741680.jpg",
+        "label": "No"
+    },
+    "263": {
+        "name": "image_263.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_263.jpg",
+        "url": "https://thumbs2.imgbox.com/fc/1e/XtMwB9YF_t.jpg",
+        "label": "No"
+    },
+    "265": {
+        "name": "image_265.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_265.jpg",
+        "url": "https://thumbs.dreamstime.com/t/astronaut-thinker-toilet-reading-smartphone-pop-art-retro-style-space-technology-humor-70604053.jpg",
+        "label": "Yes"
+    },
+    "268": {
+        "name": "image_268.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_268.jpg",
+        "url": "https://i2.wp.com/i2.ytimg.com/vi/Z1BCujX3pw8/mqdefault.jpg",
+        "label": "No"
+    },
+    "269": {
+        "name": "image_269.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_269.jpg",
+        "url": "https://www.dravenstales.ch/wp-content/uploads/2014/12/spacelife02-475x475.jpg",
+        "label": "No"
+    },
+    "271": {
+        "name": "image_271.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_271.jpg",
+        "url": "https://www.ing.jobs/upload_mm/c/2/c/280730_fullimage_cnt-switch-to-java-2020.jpg",
+        "label": "Yes"
+    },
+    "272": {
+        "name": "image_272.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_272.jpg",
+        "url": "http://thumbs.slideserve.com/1_1598108.jpg",
+        "label": "No"
+    },
+    "273": {
+        "name": "image_273.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_273.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0027/3894/6166/products/product-image-635627204_x700.jpg?v=1571753936",
+        "label": "Yes"
+    },
+    "274": {
+        "name": "image_274.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_274.jpg",
+        "url": "https://www.xboxone-hq.com/images/git/news/space_crew_logo-600x338.jpg",
+        "label": "Yes"
+    },
+    "275": {
+        "name": "image_275.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_275.jpg",
+        "url": "https://cdn3.minted.com/files/mintedProductsImages/MIN/CBP/2KJ/MIN-2KJ-CBP-001_A_PZ.jpg",
+        "label": "No"
+    },
+    "277": {
+        "name": "image_277.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_277.jpg",
+        "url": "https://static2.bigstockphoto.com/thumbs/8/7/2/large2/27891407.jpg",
+        "label": "No"
+    },
+    "278": {
+        "name": "image_278.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_278.jpg",
+        "url": "https://www.vinko.com/wp-content/uploads/2009/01/keyboard-settings.png?w=200&h=300",
+        "label": "No"
+    },
+    "279": {
+        "name": "image_279.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_279.jpg",
+        "url": "https://i.pinimg.com/236x/00/37/f5/0037f55e8783a881977779d8aa30bf6f.jpg",
+        "label": "No"
+    },
+    "280": {
+        "name": "image_280.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_280.jpg",
+        "url": "https://i.ytimg.com/vi/aw8kRZEvh_s/hqdefault.jpg",
+        "label": "No"
+    },
+    "281": {
+        "name": "image_281.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_281.jpg",
+        "url": "https://www.jrtoycanada.ca/images/thumbnails/200/200/detailed/28/Melissa_Doug_Astronaut_Costume-2_1mwd-ln.png",
+        "label": "No"
+    },
+    "282": {
+        "name": "image_282.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_282.jpg",
+        "url": "https://www.waff.com/resizer/Q-ISRTdJNhgGJmF1XQadQrUDNXw=/1200x900/cloudfront-us-east-1.images.arcpublishing.com/raycom/KWX3NY46TBAEZDQ5HTHCV2GNIU.png",
+        "label": "Yes"
+    },
+    "283": {
+        "name": "image_283.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_283.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0011/5802/1173/products/purple_stamp_110x110@2x.jpg?v=1574876540",
+        "label": "No"
+    },
+    "284": {
+        "name": "image_284.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_284.jpg",
+        "url": "http://i.ytimg.com/vi/7zpojhD4hpI/0.jpg",
+        "label": "No"
+    },
+    "285": {
+        "name": "image_285.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_285.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1088/5372/products/51zi9vZPSsL._SL1000_grande.jpg?v=1500387222",
+        "label": "Yes"
+    },
+    "286": {
+        "name": "image_286.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_286.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/314033/314033._SX176_QL80_TTD_.jpg",
+        "label": "No"
+    },
+    "287": {
+        "name": "image_287.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_287.jpg",
+        "url": "https://static.wikia.nocookie.net/future/images/c/c2/NewHorizonsSea..jpg/revision/latest/smart/width/160/height/120?cb=20150204183308",
+        "label": "No"
+    },
+    "288": {
+        "name": "image_288.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_288.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1103/7140/products/FUTURE_VANDAL_DIY_PACKAGING_grande.jpg?v=1480691869",
+        "label": "No"
+    },
+    "290": {
+        "name": "image_290.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_290.jpg",
+        "url": "http://media.morristechnology.com/mediafilesvr/upload/santa_clarita/article/2011/12/01/1201_News_Building_Fire_JP_01.jpg",
+        "label": "No"
+    },
+    "292": {
+        "name": "image_292.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_292.jpg",
+        "url": "http://img.youtube.com/vi/21X5lGlDOfg/0.jpg",
+        "label": "Yes"
+    },
+    "293": {
+        "name": "image_293.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_293.jpg",
+        "url": "http://designyoutrust.com/wp-content/uploads/2012/06/gopro-camera-from-the-60s.jpg",
+        "label": "No"
+    },
+    "294": {
+        "name": "image_294.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_294.jpg",
+        "url": "https://d1ldy8a769gy68.cloudfront.net/180/978/159/420/672/6/9781594206726.jpg",
+        "label": "No"
+    },
+    "295": {
+        "name": "image_295.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_295.jpg",
+        "url": "https://render.fineartamerica.com/images/rendered/search/print/images/artworkimages/medium/1/robot-dream--realism-still-life-painting-linda-apple.jpg",
+        "label": "No"
+    },
+    "296": {
+        "name": "image_296.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_296.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/60/83/43/240_F_60834395_yr6Fc4g8Bh2fx6lGvMEXSMgtGsOZw74k.jpg",
+        "label": "No"
+    },
+    "297": {
+        "name": "image_297.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_297.jpg",
+        "url": "http://static7.depositphotos.com/1224164/722/i/110/depositphotos_7228414-Astronaut-on-mars.jpg",
+        "label": "Yes"
+    },
+    "298": {
+        "name": "image_298.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_298.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1222/4446/products/Laika_efa6a8fe-fdb5-46a4-9d19-df24ec6c4196_1024x1024.jpg?v=1460542952",
+        "label": "No"
+    },
+    "299": {
+        "name": "image_299.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_299.jpg",
+        "url": "https://jitterfly.files.wordpress.com/2017/05/end-of-the-line-astronauts-shirt.jpg?w=764",
+        "label": "No"
+    },
+    "301": {
+        "name": "image_301.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_301.jpg",
+        "url": "https://www.balloon-fire.gr/media/catalog/product/cache/aefcd4d8d5c59ba860378cf3cd2e94da/3/6/369.jpg",
+        "label": "No"
+    },
+    "304": {
+        "name": "image_304.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_304.jpg",
+        "url": "https://api.time.com/wp-content/uploads/2014/04/liu-yang-female-astronauts-time-100.jpg",
+        "label": "Yes"
+    },
+    "305": {
+        "name": "image_305.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_305.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0951/3104/products/spacewalk_relic_v2_1024x1024_16d0a013-5c13-4386-ab94-a8d96ce25d91_large.jpg?v=1544296557",
+        "label": "Yes"
+    },
+    "306": {
+        "name": "image_306.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_306.jpg",
+        "url": "https://i.pinimg.com/736x/0b/ef/97/0bef9739cf93b140d35413e1bef04adf.jpg",
+        "label": "No"
+    },
+    "307": {
+        "name": "image_307.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_307.jpg",
+        "url": "https://i.ebayimg.com/00/s/ODAwWDYwMA==/z/NjcAAOSwCGVYAQ8T/$_99.JPG",
+        "label": "No"
+    },
+    "309": {
+        "name": "image_309.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_309.jpg",
+        "url": "https://www.lulu-berlu.com/upload/image/mass-effect-3---grunt---figurine-big-fish-toys-p-image-298280-petite.jpg?-62169984561",
+        "label": "No"
+    },
+    "310": {
+        "name": "image_310.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_310.jpg",
+        "url": "https://d3h6k4kfl8m9p0.cloudfront.net/uploads/2015/01/unnamed-4.jpg",
+        "label": "No"
+    },
+    "311": {
+        "name": "image_311.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_311.jpg",
+        "url": "https://image.shutterstock.com/image-vector/universe-space-trip-design-vector-260nw-1079231261.jpg",
+        "label": "Yes"
+    },
+    "312": {
+        "name": "image_312.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_312.jpg",
+        "url": "https://cdn.geekwire.com/wp-content/uploads/2017/10/watch-astronauts-flip-when-they-200x113.jpg",
+        "label": "No"
+    },
+    "313": {
+        "name": "image_313.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_313.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51z9-Fjih2L._SL160_SL150_.jpg",
+        "label": "No"
+    },
+    "314": {
+        "name": "image_314.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_314.jpg",
+        "url": "https://i.pinimg.com/236x/25/b6/db/25b6db5a7e74358a101b10a8299497d7--space-preschool-preschool-books.jpg",
+        "label": "Yes"
+    },
+    "315": {
+        "name": "image_315.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_315.jpg",
+        "url": "https://images.bit-tech.net/content_images/2008/04/david-kirk-interview/cuda.jpg",
+        "label": "No"
+    },
+    "316": {
+        "name": "image_316.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_316.jpg",
+        "url": "https://screenanarchy.com/assets_c/2019/02/The%20Wandering%20Earth-thumb-860xauto-74242.jpg",
+        "label": "Yes"
+    },
+    "317": {
+        "name": "image_317.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_317.jpg",
+        "url": "https://www.mheducation.com/cover-images/Jpeg_400-high/x0078777313.jpeg.pagespeed.ic.dHCKFKqRif.jpg",
+        "label": "Yes"
+    },
+    "318": {
+        "name": "image_318.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_318.jpg",
+        "url": "https://farm6.static.flickr.com/5094/5417312016_6818e64b56_z.jpg",
+        "label": "No"
+    },
+    "319": {
+        "name": "image_319.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_319.jpg",
+        "url": "https://www.sarjakuvakauppa.fi/media/catalog/product/cache/1/small_image/170x/9df78eab33525d08d6e5fb8d27136e95/v/a/valerian1_1.jpg",
+        "label": "No"
+    },
+    "320": {
+        "name": "image_320.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_320.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.4Zso0YChp19eRssG1H4pvAHaHa",
+        "label": "Yes"
+    },
+    "321": {
+        "name": "image_321.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_321.jpg",
+        "url": "https://i.ytimg.com/vi/yGbUcqCXe14/hqdefault.jpg",
+        "label": "No"
+    },
+    "322": {
+        "name": "image_322.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_322.jpg",
+        "url": "https://shelleywilsonauthor.files.wordpress.com/2019/10/the-space-race-.jpg?w=380&h=312&crop=1",
+        "label": "No"
+    },
+    "323": {
+        "name": "image_323.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_323.jpg",
+        "url": "http://i4.ytimg.com/vi/9vIsQ25Krq8/0.jpg",
+        "label": "No"
+    },
+    "324": {
+        "name": "image_324.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_324.jpg",
+        "url": "http://1.bp.blogspot.com/-W2m8Qzat0cc/UJPTRPtTn6I/AAAAAAAAHD0/xrNE9Tu3LKQ/s160/P1040990.JPG",
+        "label": "Yes"
+    },
+    "325": {
+        "name": "image_325.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_325.jpg",
+        "url": "https://images.bod.com/images/space-station-tagebuch-t-block-9783928769259.jpg/500/500/Space_Station_Tagebuch.jpg",
+        "label": "Yes"
+    },
+    "326": {
+        "name": "image_326.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_326.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0008/3532/products/howl-unisex-black-triblend-square_1024x1024.jpg?v=1551226193",
+        "label": "No"
+    },
+    "327": {
+        "name": "image_327.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_327.jpg",
+        "url": "https://us.123rf.com/450wm/iconicbestiary/iconicbestiary1511/iconicbestiary151100133/48124360-observatory-station-solar-system-with-planets-comets-and-asteroids-on-the-night-star-sky-flat-style-.jpg?ver=6",
+        "label": "No"
+    },
+    "328": {
+        "name": "image_328.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_328.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2120/7043/products/texas_charm_keychain_1024x1024.jpg?v=1542893737",
+        "label": "Yes"
+    },
+    "329": {
+        "name": "image_329.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_329.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/3H0AAOSwZtlZ7OnN/s-l200.jpg",
+        "label": "No"
+    },
+    "330": {
+        "name": "image_330.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_330.jpg",
+        "url": "https://mir-s3-cdn-cf.behance.net/projects/202/94096e71634491.5bce382a03b68.png",
+        "label": "No"
+    },
+    "331": {
+        "name": "image_331.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_331.jpg",
+        "url": "https://64.media.tumblr.com/tumblr_m2du6z09X21qjd1kgo1_500.jpg",
+        "label": "No"
+    },
+    "333": {
+        "name": "image_333.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_333.jpg",
+        "url": "https://fahrusha.files.wordpress.com/2012/12/ride-s.jpg?w=510",
+        "label": "Yes"
+    },
+    "334": {
+        "name": "image_334.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_334.jpg",
+        "url": "https://neverfeltbetter.files.wordpress.com/2013/12/wm10.jpg?w=640",
+        "label": "Yes"
+    },
+    "335": {
+        "name": "image_335.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_335.jpg",
+        "url": "https://media.kics.com.au/e20e0009-09b8-49ea-a072-4a9fac5f22df/TapBPCa-rE2A0IjiYQxZBg_medium.jpg",
+        "label": "No"
+    },
+    "336": {
+        "name": "image_336.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_336.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/ydcAAOSwMORW7Omf/s-l225.jpg",
+        "label": "No"
+    },
+    "337": {
+        "name": "image_337.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_337.jpg",
+        "url": "https://i.ytimg.com/vi/CeDlINQaXQU/mqdefault.jpg",
+        "label": "No"
+    },
+    "338": {
+        "name": "image_338.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_338.jpg",
+        "url": "https://altao.pl/foto_hd/513/B/fot_048_A11.jpg",
+        "label": "No"
+    },
+    "340": {
+        "name": "image_340.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_340.jpg",
+        "url": "https://i.pinimg.com/736x/26/67/64/2667646945cb954d0afb128a0c6e0907--predator-movie-alien-vs-predator.jpg",
+        "label": "No"
+    },
+    "341": {
+        "name": "image_341.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_341.jpg",
+        "url": "https://delcampe-static.net/img_thumb/auction/000/430/113/773_001.jpg?v=2",
+        "label": "No"
+    },
+    "342": {
+        "name": "image_342.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_342.jpg",
+        "url": "http://i.ytimg.com/vi/EWFHiLUE2Ig/mqdefault.jpg",
+        "label": "No"
+    },
+    "343": {
+        "name": "image_343.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_343.jpg",
+        "url": "https://cdn.cinematerial.com/p/136x/7mcgavyh/planet-51-movie-poster-sm.jpg",
+        "label": "Yes"
+    },
+    "344": {
+        "name": "image_344.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_344.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/513bt8vMrOL._SL160_.jpg",
+        "label": "No"
+    },
+    "345": {
+        "name": "image_345.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_345.jpg",
+        "url": "http://img.valorebooks.com/W120/97/9781/978157/9781576076682.jpg",
+        "label": "No"
+    },
+    "346": {
+        "name": "image_346.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_346.jpg",
+        "url": "https://i.pinimg.com/originals/72/36/17/723617c2606ad161494bdf41b1078a60.jpg",
+        "label": "No"
+    },
+    "347": {
+        "name": "image_347.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_347.jpg",
+        "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8947ca9-580e-4765-bb9b-06eb07e5d7de/d9ote6f-f24120f0-bf3c-41be-b28f-efc5f2e1f6a5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9hODk0N2NhOS01ODBlLTQ3NjUtYmI5Yi0wNmViMDdlNWQ3ZGUvZDlvdGU2Zi1mMjQxMjBmMC1iZjNjLTQxYmUtYjI4Zi1lZmM1ZjJlMWY2YTUuanBnIn1dXX0.HS_52w16kX9vM-vzhT68D9jYfr-5qqt51RHXiuPFBoA",
+        "label": "No"
+    },
+    "348": {
+        "name": "image_348.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_348.jpg",
+        "url": "https://thumbs.dreamstime.com/t/moon-christmas-stocking-6668034.jpg",
+        "label": "No"
+    },
+    "349": {
+        "name": "image_349.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_349.jpg",
+        "url": "https://images1.penguinrandomhouse.com/cover/9780593124659?height=295&alt=cover_coming_soon.jpg",
+        "label": "Yes"
+    },
+    "350": {
+        "name": "image_350.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_350.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51a+hZ6jREL._SL220_.jpg",
+        "label": "No"
+    },
+    "351": {
+        "name": "image_351.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_351.jpg",
+        "url": "https://appel.nasa.gov/wp-content/uploads/2019/06/apollo_lunar_lander_featured_image.jpg",
+        "label": "No"
+    },
+    "352": {
+        "name": "image_352.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_352.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2307/6321/products/s-l1600_4_2b3f229f-a392-40eb-a379-d60562a54235_1024x1024@2x.jpg?v=1597243562",
+        "label": "Yes"
+    },
+    "353": {
+        "name": "image_353.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_353.jpg",
+        "url": "https://media.moluna.de/images/bilder/a0/703/../../a8/326/4010232064820_2_EN_4010232064820_48925_CBILD-mini.JPG",
+        "label": "No"
+    },
+    "354": {
+        "name": "image_354.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_354.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0446/9337/products/TV0022_-_1_1024x1024.jpg?v=1552476305",
+        "label": "Yes"
+    },
+    "355": {
+        "name": "image_355.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_355.jpg",
+        "url": "https://dwerf.files.wordpress.com/2008/02/walle_shortcircuit.jpg?w=490",
+        "label": "No"
+    },
+    "357": {
+        "name": "image_357.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_357.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41y4xxgZiwL.jpg",
+        "label": "No"
+    },
+    "358": {
+        "name": "image_358.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_358.jpg",
+        "url": "https://templaten.net/wp-content/uploads/2021/04/Free-Space-Vector-Icons-1-218x150.jpg",
+        "label": "No"
+    },
+    "359": {
+        "name": "image_359.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_359.jpg",
+        "url": "https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTc3E2fM4nZKHAnmSdRntjJqNgw7KmizX2Zki94T4NSWqC32CYniWJrqKv1L3nTDACxyYArR607gn3clIaV9biZsrn2QF_Q0mov6KWVSMdsdE5mI1RMCHumLbHjIKaQv6vkE5LTRATsvKI9kXX4Mb8ME7MtzIDjgXf5YE8BfHnIxPM-&format=png&h=294&w=215",
+        "label": "No"
+    },
+    "360": {
+        "name": "image_360.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_360.jpg",
+        "url": "https://www.bestcoloringpagesforkids.com/wp-content/uploads/2013/07/Backyardigan-Coloring-Pages.jpg",
+        "label": "No"
+    },
+    "361": {
+        "name": "image_361.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_361.jpg",
+        "url": "http://img.scoop.it/76ikCd8oEOBWzCMliayA8Tl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
+        "label": "Yes"
+    },
+    "362": {
+        "name": "image_362.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_362.jpg",
+        "url": "https://img.freepik.com/free-vector/summer-juicy-fruits-background_1017-19043.jpg?size=338&ext=jpg",
+        "label": "No"
+    },
+    "364": {
+        "name": "image_364.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_364.jpg",
+        "url": "https://i.ytimg.com/vi/Rb1byfe_5TU/mqdefault.jpg",
+        "label": "No"
+    },
+    "365": {
+        "name": "image_365.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_365.jpg",
+        "url": "https://thumbs.dreamstime.com/m/3d-baby-flowers-21449847.jpg",
+        "label": "No"
+    },
+    "366": {
+        "name": "image_366.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_366.jpg",
+        "url": "https://snipes.scene7.com/asset/snipes/external/snipes_p_detail/--1578591_P4.jpg?defaultImage=default",
+        "label": "No"
+    },
+    "367": {
+        "name": "image_367.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_367.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51RC8ZR6KBL._SL160_.jpg",
+        "label": "Yes"
+    },
+    "369": {
+        "name": "image_369.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_369.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1901/2267/products/Space_Dab-2_600x.jpg?v=1550261345",
+        "label": "Yes"
+    },
+    "370": {
+        "name": "image_370.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_370.jpg",
+        "url": "https://cdn3.f-cdn.com//files/download/60700149/578605.jpg",
+        "label": "Yes"
+    },
+    "371": {
+        "name": "image_371.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_371.jpg",
+        "url": "https://shadowvue.files.wordpress.com/2014/04/kurt-cobain-peeking-through-a-bryan-adams-poster.jpg?w=620&",
+        "label": "No"
+    },
+    "372": {
+        "name": "image_372.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_372.jpg",
+        "url": "https://cdn4.vectorstock.com/i/thumbs/70/68/set-of-flat-space-icons-of-planet-earth-sun-moon-vector-21917068.jpg",
+        "label": "Yes"
+    },
+    "373": {
+        "name": "image_373.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_373.jpg",
+        "url": "https://astronet.pl/wp-content/uploads/2021/05/180372283_4652283341454840_8618300352505037515_n-350x197.jpg",
+        "label": "No"
+    },
+    "374": {
+        "name": "image_374.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_374.jpg",
+        "url": "https://images.gr-assets.com/books/1344265017l/10256723.jpg",
+        "label": "No"
+    },
+    "376": {
+        "name": "image_376.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_376.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0199/1186/products/Ray-Young-Chu-Rasta-Jesus-Skateboarding-in-Space-print-in-frame-web_21807c46-e9f2-4a28-9a8a-1c92ed160c3a_medium.jpg?v=1455859705",
+        "label": "No"
+    },
+    "377": {
+        "name": "image_377.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_377.jpg",
+        "url": "https://www.space.com/images/i/000/034/905/i01/china-moon-rover-yutu-image.jpg?1385826137?interpolation=lanczos-none&amp;downsize=192:*",
+        "label": "No"
+    },
+    "378": {
+        "name": "image_378.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_378.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/5147gKfVF5L._SL160_.jpg",
+        "label": "No"
+    },
+    "379": {
+        "name": "image_379.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_379.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0373/3795/6483/products/image_37aff4cb-58cf-41f8-962f-bc27f3c3f805_300x300.jpg?v=1586469770",
+        "label": "No"
+    },
+    "380": {
+        "name": "image_380.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_380.jpg",
+        "url": "https://i.ytimg.com/vi/Ev0bqwbxloE/0.jpg",
+        "label": "No"
+    },
+    "381": {
+        "name": "image_381.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_381.jpg",
+        "url": "https://i.chzbgr.com/full/7378180608/h8F43D8B0/time-to-clean-the-litter-boxes",
+        "label": "No"
+    },
+    "382": {
+        "name": "image_382.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_382.jpg",
+        "url": "https://henryszabranski.files.wordpress.com/2015/04/screen-shot-2015-04-29-at-00-12-41.png?w=84&",
+        "label": "No"
+    },
+    "383": {
+        "name": "image_383.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_383.jpg",
+        "url": "https://us.123rf.com/450wm/monbibi/monbibi1404/monbibi140402293/27879322-cartoon-space-pattern-design-vector-illustration.jpg",
+        "label": "Yes"
+    },
+    "384": {
+        "name": "image_384.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_384.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0268/9705/5838/products/mockup-7421fdc7_800x.jpg?v=1607641173",
+        "label": "No"
+    },
+    "385": {
+        "name": "image_385.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_385.jpg",
+        "url": "https://assets.bigcartel.com/product_images/243555806/IMG_0041.JPG?auto=format&fit=max&w=1200",
+        "label": "No"
+    },
+    "386": {
+        "name": "image_386.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_386.jpg",
+        "url": "http://i.ytimg.com/vi/XhUC34G04Ts/mqdefault.jpg",
+        "label": "No"
+    },
+    "387": {
+        "name": "image_387.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_387.jpg",
+        "url": "https://p1.storage.canalblog.com/17/96/1436733/119200476_q.jpg",
+        "label": "No"
+    },
+    "388": {
+        "name": "image_388.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_388.jpg",
+        "url": "https://tse3.mm.bing.net/th?id=OIP.qBqcFupI9_1y9KEfwfVpEgHaEy&pid=Api&P=0&w=300&h=300",
+        "label": "No"
+    },
+    "389": {
+        "name": "image_389.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_389.jpg",
+        "url": "https://farm1.static.flickr.com/293/31975849422_c33dc6889b_m.jpg",
+        "label": "No"
+    },
+    "390": {
+        "name": "image_390.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_390.jpg",
+        "url": "http://render.fineartamerica.com/images/rendered/search/framed-print/images-medium-5/pluto-scott-listfield.jpg",
+        "label": "Yes"
+    },
+    "391": {
+        "name": "image_391.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_391.jpg",
+        "url": "http://images.fineartamerica.com/images-small/lunar-rover-at-rim-of-camelot-crater-nasa--science-source.jpg",
+        "label": "No"
+    },
+    "392": {
+        "name": "image_392.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_392.jpg",
+        "url": "https://i.ytimg.com/vi/9OYAlwBgglk/0.jpg",
+        "label": "Yes"
+    },
+    "394": {
+        "name": "image_394.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_394.jpg",
+        "url": "http://rlv.zcache.com/gagarin_%d0%ae%d1%80%d0%b8%d0%b9_%d0%93%d0%b0%d0%b3%d0%b0%d1%80%d0%b8%d0%bd_keychain-r832ae4f536b54ba7bf8c905141b4fa04_x7jle_8byvr_152.jpg",
+        "label": "No"
+    },
+    "395": {
+        "name": "image_395.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_395.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/36/94/79/400_F_36947924_vwQdhmHJYWt9ShDmTu0srknqm73PevSP.jpg",
+        "label": "No"
+    },
+    "396": {
+        "name": "image_396.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_396.jpg",
+        "url": "https://cdn4.vectorstock.com/i/thumbs/47/28/cartoon-astronaut-on-moon-on-a-space-vector-27344728.jpg",
+        "label": "Yes"
+    },
+    "397": {
+        "name": "image_397.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_397.jpg",
+        "url": "https://www.rocketmad.com/wp-content/uploads/2016/04/Rocket-Marketing-and-Design-logo.png",
+        "label": "No"
+    },
+    "398": {
+        "name": "image_398.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_398.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/38/68/24/400_F_38682482_cjcZLxFqqRgHPAnsYjjoo0GUBADx6UPZ.jpg",
+        "label": "No"
+    },
+    "399": {
+        "name": "image_399.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_399.jpg",
+        "url": "http://coverart.oclc.org/ImageWebSvc/isbn/+-+9878096106_140.jpg?SearchOrder=+-+GO",
+        "label": "No"
+    },
+    "400": {
+        "name": "image_400.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_400.jpg",
+        "url": "https://i.pinimg.com/236x/d8/ae/37/d8ae37dbde467116db9dcd9032e83309--cool-lego-lego-minifigs.jpg",
+        "label": "No"
+    },
+    "401": {
+        "name": "image_401.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_401.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51ovK%2BxvE3L._SL160_.jpg",
+        "label": "No"
+    },
+    "402": {
+        "name": "image_402.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_402.jpg",
+        "url": "https://thedullwoodexperiment.files.wordpress.com/2014/04/last-days-on-mars-the.jpg?w=529",
+        "label": "Yes"
+    },
+    "403": {
+        "name": "image_403.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_403.jpg",
+        "url": "https://i.ytimg.com/vi/BJBtBPBXFlk/0.jpg",
+        "label": "No"
+    },
+    "404": {
+        "name": "image_404.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_404.jpg",
+        "url": "https://images.penguinrandomhouse.com/cover/9788417460426?alt=cover_coming_soon.jpg",
+        "label": "No"
+    },
+    "405": {
+        "name": "image_405.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_405.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/aIMAAOSwHMJYN-Fu/s-l225.jpg",
+        "label": "No"
+    },
+    "406": {
+        "name": "image_406.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_406.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0372/6144/3205/articles/Katie-SBC-apprentice-bee-farmer_2000x.jpg?v=1587585565",
+        "label": "No"
+    },
+    "407": {
+        "name": "image_407.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_407.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1869/0319/products/art-file-color-blk_a07950fb-5e19-4f4e-a02e-250d4a447df4_300x.jpg?v=1577575285",
+        "label": "Yes"
+    },
+    "408": {
+        "name": "image_408.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_408.jpg",
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2013/10/gravity-trailer-boomstanchion-640x261.jpg",
+        "label": "Yes"
+    },
+    "409": {
+        "name": "image_409.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_409.jpg",
+        "url": "https://thumb7.shutterstock.com/image-photo/redirected-150nw-542430415.jpg",
+        "label": "Yes"
+    },
+    "410": {
+        "name": "image_410.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_410.jpg",
+        "url": "https://marthebijman.files.wordpress.com/2014/06/an-astronauts-guide-to-life-on-earth-664x1024.jpg?w=194&h=300",
+        "label": "Yes"
+    },
+    "411": {
+        "name": "image_411.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_411.jpg",
+        "url": "https://stupidorecords.com/2076-home_default/donna-and-the-dynamiters-rocket-to-rocksteady-heaven-lp.jpg",
+        "label": "Yes"
+    },
+    "412": {
+        "name": "image_412.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_412.jpg",
+        "url": "http://rlv.zcache.co.uk/nasa_eva_hubble_pins-ref5be474f2cc46648bf77777b6788bfd_x7j3i_8byvr_216.jpg",
+        "label": "Yes"
+    },
+    "413": {
+        "name": "image_413.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_413.jpg",
+        "url": "http://d.gr-assets.com/books/1328861323l/1666923.jpg",
+        "label": "No"
+    },
+    "414": {
+        "name": "image_414.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_414.jpg",
+        "url": "http://www.progarchives.com/progressive_rock_discography_covers/596/cover_1714212072009.jpg",
+        "label": "No"
+    },
+    "415": {
+        "name": "image_415.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_415.jpg",
+        "url": "https://i.ytimg.com/vi/k_cjMY3pRXM/hqdefault.jpg",
+        "label": "No"
+    },
+    "416": {
+        "name": "image_416.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_416.jpg",
+        "url": "https://www.gannett-cdn.com/presto/2019/11/12/PBRE/aef3cfe8-0dba-48cd-8421-0b457941ecf9-Surveyor_3.jpg?width=540&height=&fit=bounds&auto=webp",
+        "label": "Yes"
+    },
+    "417": {
+        "name": "image_417.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_417.jpg",
+        "url": "https://us.123rf.com/450wm/tashalex/tashalex1508/tashalex150800069/43462312-set-of-universe-infographics--solar-system-planets-comparison-sun-and-moon-facts-space-junk-made-by-.jpg?ver=6",
+        "label": "Yes"
+    },
+    "418": {
+        "name": "image_418.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_418.jpg",
+        "url": "http://files.spieletipps.de/packshot_img/a7/c1/d0/a7c1d0_51da787495687_ciAxNTADYTFfZDg5OA==.jpg",
+        "label": "Yes"
+    },
+    "419": {
+        "name": "image_419.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_419.jpg",
+        "url": "https://abdopub.s3.amazonaws.com/9781616416379_thumb.jpg",
+        "label": "No"
+    },
+    "420": {
+        "name": "image_420.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_420.jpg",
+        "url": "https://cdn10.bigcommerce.com/s-cjth0uaq/products/13508/images/27036/STICKER%252520NASA%252520SPACE%252520SHUTTLE%252520MISSION%252520STS-118%2525204.5in__55721.1411488920.145.145.jpg?c=2",
+        "label": "No"
+    },
+    "421": {
+        "name": "image_421.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_421.jpg",
+        "url": "https://criticalpopcorn.files.wordpress.com/2018/08/doctor-who-series-11-season-11-trailer-bbc-official-image.jpg?w=290&h=290&crop=1",
+        "label": "No"
+    },
+    "422": {
+        "name": "image_422.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_422.jpg",
+        "url": "https://i.chzbgr.com/full/8599204096/h4045932C/",
+        "label": "Yes"
+    },
+    "423": {
+        "name": "image_423.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_423.jpg",
+        "url": "https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/B4gAAOSwyKhe1nDP/$_1.JPG",
+        "label": "No"
+    },
+    "424": {
+        "name": "image_424.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_424.jpg",
+        "url": "https://www.vintageactionfigures.net/wp-content/uploads/2012/12/Johnny_Apollo_portrait.jpg",
+        "label": "Yes"
+    },
+    "425": {
+        "name": "image_425.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_425.jpg",
+        "url": "http://img.youtube.com/vi/K8ZhTw_oKEA/mqdefault.jpg",
+        "label": "No"
+    },
+    "426": {
+        "name": "image_426.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_426.jpg",
+        "url": "https://heyjude.files.wordpress.com/2013/05/hadfield.jpeg?w=535&",
+        "label": "No"
+    },
+    "428": {
+        "name": "image_428.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_428.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0019/4743/5097/products/mockup-a6ef889f_530x@2x.jpg?v=1535915351",
+        "label": "Yes"
+    },
+    "429": {
+        "name": "image_429.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_429.jpg",
+        "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/10/esa_astronauts_leopold_eyharts_and_hans_schlegel_with_the_european_columbus_laboratory_in_the_sspf_at_ksc_florida/10234160-2-eng-GB/ESA_astronauts_Leopold_Eyharts_and_Hans_Schlegel_with_the_European_Columbus_laboratory_in_the_SSPF_at_KSC_Florida_card_medium.jpg",
+        "label": "No"
+    },
+    "431": {
+        "name": "image_431.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_431.jpg",
+        "url": "https://simplyfilm.files.wordpress.com/2015/10/the-martian-poster-matt-damon-691x1024.jpg?w=636&h=942",
+        "label": "Yes"
+    },
+    "432": {
+        "name": "image_432.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_432.jpg",
+        "url": "https://images.gr-assets.com/books/1343380415l/882055.jpg",
+        "label": "No"
+    },
+    "433": {
+        "name": "image_433.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_433.jpg",
+        "url": "https://tse3.mm.bing.net/th?id=OIP.8D7M9YsE9SwozJ3seyxA8wHaHa&pid=Api&P=0&w=300&h=300",
+        "label": "No"
+    },
+    "434": {
+        "name": "image_434.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_434.jpg",
+        "url": "https://direct.rhapsody.com/imageserver/images/alb.355016743/500x500.jpg",
+        "label": "No"
+    },
+    "435": {
+        "name": "image_435.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_435.jpg",
+        "url": "http://cdn.slidesharecdn.com/ss_thumbnails/windowsazureinfrastructureservicesposter-130609213432-phpapp02-thumbnail-2.jpg?cb=1371477394",
+        "label": "Yes"
+    },
+    "436": {
+        "name": "image_436.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_436.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.JqnpM-tBYvx1qjONK0jS4gDyEB",
+        "label": "Yes"
+    },
+    "437": {
+        "name": "image_437.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_437.jpg",
+        "url": "http://f1.bcbits.com/img/a3554124514_16.jpg",
+        "label": "Yes"
+    },
+    "438": {
+        "name": "image_438.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_438.jpg",
+        "url": "https://i0.wp.com/farm8.staticflickr.com/7106/7080283517_11e07fa4a1.jpg",
+        "label": "Yes"
+    },
+    "439": {
+        "name": "image_439.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_439.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.eCm8Y1TntFgNxx0QRKNXWgHaFS",
+        "label": "No"
+    },
+    "440": {
+        "name": "image_440.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_440.jpg",
+        "url": "https://i1.wp.com/www.investoffshore.com/wp-content/uploads/2017/03/Marbella_Real_Estate-225x225.jpg",
+        "label": "No"
+    },
+    "441": {
+        "name": "image_441.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_441.jpg",
+        "url": "https://thumbs.dreamstime.com/t/seamless-pattern-space-icons-vector-illustration-48306413.jpg",
+        "label": "Yes"
+    },
+    "443": {
+        "name": "image_443.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_443.jpg",
+        "url": "https://townsquare.media/site/838/files/img/bp/elone.jpg",
+        "label": "No"
+    },
+    "444": {
+        "name": "image_444.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_444.jpg",
+        "url": "http://images4.fanpop.com/image/photos/20000000/Blue-Harvest-family-guy-20011562-120-75.jpg",
+        "label": "No"
+    },
+    "447": {
+        "name": "image_447.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_447.jpg",
+        "url": "https://www.azquotes.com/picture-quotes/quote-and-then-i-graduate-two-years-later-in-1998-with-my-class-and-since-then-i-ve-been-here-umberto-guidoni-83-91-38.jpg",
+        "label": "Yes"
+    },
+    "448": {
+        "name": "image_448.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_448.jpg",
+        "url": "http://submarine.org.uk/images/books/Mooncop%20-%20Tom%20Gauld.jpg",
+        "label": "No"
+    },
+    "449": {
+        "name": "image_449.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_449.jpg",
+        "url": "http://imc.unilibro.it/cover/game/5030947100230p.jpg",
+        "label": "No"
+    },
+    "450": {
+        "name": "image_450.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_450.jpg",
+        "url": "https://tse1.mm.bing.net/th?id=OIP.qapsi4W2041gd4Fo2p7Y4wHaEK&pid=Api&P=0&w=300&h=300",
+        "label": "No"
+    },
+    "451": {
+        "name": "image_451.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_451.jpg",
+        "url": "https://i1.ytimg.com/vi/fzzMOMkjm8A/hqdefault.jpg",
+        "label": "No"
+    },
+    "454": {
+        "name": "image_454.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_454.jpg",
+        "url": "https://maryrobinettekowal.com/wp-content/uploads/2017/09/FatedSky-crop.jpg",
+        "label": "No"
+    },
+    "456": {
+        "name": "image_456.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_456.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41W31uV0fHL.jpg",
+        "label": "No"
+    },
+    "457": {
+        "name": "image_457.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_457.jpg",
+        "url": "https://fsmedia.imgix.net/8c/11/1c/07/bf1d/4c94/9225/0caa50f92948/starman-in-elon-musks-red-roadster-after-the-flacon-heavy-test-launch.png?rect=0%2C68%2C1732%2C867&auto=format%2Ccompress&dpr=2&w=650",
+        "label": "No"
+    },
+    "458": {
+        "name": "image_458.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_458.jpg",
+        "url": "https://64.media.tumblr.com/tumblr_lomqldDWv31qjih96o1_500.jpg",
+        "label": "Yes"
+    },
+    "459": {
+        "name": "image_459.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_459.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2933/8122/products/e60f1f1f5924d16e886a1cdcf01be9c6_180x180.jpg?v=1522152888",
+        "label": "No"
+    },
+    "460": {
+        "name": "image_460.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_460.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2573/3920/products/PlaneCanvas1_720x@2x.jpg?v=1565321932",
+        "label": "No"
+    },
+    "461": {
+        "name": "image_461.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_461.jpg",
+        "url": "https://reviewersunite.files.wordpress.com/2015/10/tmcd2.jpg?w=625&h=352",
+        "label": "Yes"
+    },
+    "462": {
+        "name": "image_462.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_462.jpg",
+        "url": "http://img.scoop.it/HVcGcHfKW4yhQjb7b1Oq2zl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
+        "label": "Yes"
+    },
+    "463": {
+        "name": "image_463.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_463.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/620491/620491._SX360_QL80_TTD_.jpg",
+        "label": "No"
+    },
+    "464": {
+        "name": "image_464.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_464.jpg",
+        "url": "https://image.jimcdn.com/app/cms/image/transf/dimension=670x10000:format=jpg/path/s81f4cf117f20ef1f/image/ie383c3712a099682/version/1397564826/image.jpg",
+        "label": "No"
+    },
+    "465": {
+        "name": "image_465.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_465.jpg",
+        "url": "https://s3-eu-west-1.amazonaws.com/books.readingagency/images/978/03/1603/9780316037709.jpg",
+        "label": "No"
+    },
+    "466": {
+        "name": "image_466.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_466.jpg",
+        "url": "https://as1.ftcdn.net/jpg/02/95/74/16/500_F_295741694_yQQcQ5Y4LJ4srZw1ek3Pj9jh5GIAogVd.jpg",
+        "label": "Yes"
+    },
+    "467": {
+        "name": "image_467.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_467.jpg",
+        "url": "https://i1.wp.com/i.etsystatic.com/8469556/c/1648/1309/375/290/il/395209/2269092497/il_170x135.2269092497_ocks.jpg?w=840&ssl=1",
+        "label": "No"
+    },
+    "468": {
+        "name": "image_468.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_468.jpg",
+        "url": "https://4.bp.blogspot.com/-20JeblsFx9Y/WbL2WfqpImI/AAAAAAAABUY/68F_D2CV-jwTj1OtbJJNLcAevtOe5cC0wCLcBGAs/s1600/06173412966350.jpg",
+        "label": "No"
+    },
+    "469": {
+        "name": "image_469.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_469.jpg",
+        "url": "https://gbmcbiz.files.wordpress.com/2015/11/innovation-5.jpg?w=490",
+        "label": "No"
+    },
+    "470": {
+        "name": "image_470.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_470.jpg",
+        "url": "https://i2.wp.com/www.freebeerandhotwings.com/wp-content/uploads/2019/07/50thannivmoon.jpg?resize=534%2C462&ssl=1",
+        "label": "Yes"
+    },
+    "471": {
+        "name": "image_471.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_471.jpg",
+        "url": "https://i57.fastpic.org/thumb/2013/0904/e4/eb2eac9aec504459845ee5423ee307e4.jpeg",
+        "label": "No"
+    },
+    "472": {
+        "name": "image_472.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_472.jpg",
+        "url": "http://planetary.s3.amazonaws.com/assets/images/4-mars/2013/20130129_FLA_412582870EDR_F0060000FHAZ00208M__t167.jpg",
+        "label": "No"
+    },
+    "474": {
+        "name": "image_474.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_474.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0546/2081/products/3-31-20_large.jpg?v=1590076452",
+        "label": "Yes"
+    },
+    "475": {
+        "name": "image_475.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_475.jpg",
+        "url": "https://us.123rf.com/450wm/iakovenko/iakovenko1712/iakovenko171200939/91857850-this-is-yours-happy-bristled-young-astronaut-wearing-white-protective-costume-and-red-santa-hat-is-s.jpg?ver=6",
+        "label": "No"
+    },
+    "477": {
+        "name": "image_477.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_477.jpg",
+        "url": "https://images.tbr.mindbus.nl/libris/book/cover/9781598450576?hash=7af7084&amp;width=170",
+        "label": "Yes"
+    },
+    "478": {
+        "name": "image_478.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_478.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0200/2422/9952/products/mockup-a0f80101_grande.jpg?v=1605306938",
+        "label": "No"
+    },
+    "479": {
+        "name": "image_479.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_479.jpg",
+        "url": "https://ak1.ostkcdn.com/images/products//bmmg/ent/P024543711230.JPG",
+        "label": "No"
+    },
+    "480": {
+        "name": "image_480.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_480.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/67/09/09/240_F_67090954_005S03qOI6kWHu01zACI1NJcfC60MgND.jpg",
+        "label": "No"
+    },
+    "481": {
+        "name": "image_481.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_481.jpg",
+        "url": "https://www.seradata.com/wp-content/uploads/2017/09/Tianzhou1undockTiangong2CCTV.jpg",
+        "label": "No"
+    },
+    "482": {
+        "name": "image_482.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_482.jpg",
+        "url": "http://www.militaria-medailles.fr/23240-home_default/der-adler-journal-de-propagande-aviation-allemande-n25-du-14-decembre-1943-luftwaffe.jpg",
+        "label": "No"
+    },
+    "483": {
+        "name": "image_483.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_483.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0285/0747/1965/products/image_41c9da33-258f-4daa-bde8-390ded36dea2_110x110@2x.jpg?v=1589526111",
+        "label": "No"
+    },
+    "484": {
+        "name": "image_484.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_484.jpg",
+        "url": "https://dogg.cz/wp-content/uploads/2020/06/space-dog-26cm.png",
+        "label": "No"
+    },
+    "485": {
+        "name": "image_485.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_485.jpg",
+        "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2015/06/02/91ca2ea5-1f39-469d-904b-7dfb382b0597/resize/620x465/f343c8b4538920c90cb968aa7d03b5d4/gettyimages-109711659.jpg",
+        "label": "Yes"
+    },
+    "487": {
+        "name": "image_487.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_487.jpg",
+        "url": "https://www.badgerlearning.co.uk/media/product/290640a7/wow-facts-gold-primary-version-ebook-pdf-cd.jpg",
+        "label": "Yes"
+    },
+    "488": {
+        "name": "image_488.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_488.jpg",
+        "url": "https://image.shutterstock.com/image-vector/startup-business-concept-paper-plane-260nw-551564035.jpg",
+        "label": "No"
+    },
+    "489": {
+        "name": "image_489.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_489.jpg",
+        "url": "https://georgespigot.files.wordpress.com/2011/08/forbidden-planet-011.jpg?w=300&",
+        "label": "No"
+    },
+    "490": {
+        "name": "image_490.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_490.jpg",
+        "url": "https://www.impactbnd.com/hs-fs/hubfs/blog-image-uploads/impact-toolbox-nov-2018-16.jpg?t=1543267977378&",
+        "label": "No"
+    },
+    "493": {
+        "name": "image_493.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_493.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1006/6854/products/belka_stelka_1024x1024.jpg?v=1582401187",
+        "label": "No"
+    },
+    "495": {
+        "name": "image_495.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_495.jpg",
+        "url": "http://rlv.zcache.ca/teddy_bear_skiing_in_black_and_white_button-rf0fd74335be34a489c6f664a5ab248dd_x7j1a_8byvr_216.jpg",
+        "label": "No"
+    },
+    "496": {
+        "name": "image_496.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_496.jpg",
+        "url": "http://i2.cdn.turner.com/cnnnext/dam/assets/140314105441-irpt-blue-angels-6-horizontal-large-gallery.jpeg",
+        "label": "No"
+    },
+    "497": {
+        "name": "image_497.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_497.jpg",
+        "url": "https://images.squarespace-cdn.com/content/567aba060e4c11c6f59bded5/1471045184621-EGBIIWVA0Q8RGQIU2Y05/?format=1000w&content-type=image%2Fpng",
+        "label": "No"
+    },
+    "498": {
+        "name": "image_498.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_498.jpg",
+        "url": "https://crotchetyoldfan.files.wordpress.com/2008/09/1959-sfstories_5902.jpg?w=500",
+        "label": "No"
+    },
+    "499": {
+        "name": "image_499.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_499.jpg",
+        "url": "https://www.worldshop.biz/1516-home_default/sid-meier-s-civilization-beyond-earth-exoplanets-map-pack-steam-bundle-key.jpg",
+        "label": "Yes"
+    },
+    "500": {
+        "name": "image_500.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_500.jpg",
+        "url": "http://images.contentreserve.com/ImageType-100/0211-1/%7B4F136E01-989E-4F83-941B-0D51FF6179A4%7DImg100.jpg",
+        "label": "No"
+    },
+    "501": {
+        "name": "image_501.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_501.jpg",
+        "url": "http://cdn-3.cinemaparadiso.co.uk/clp/923293-39091-clp-212.jpg",
+        "label": "No"
+    },
+    "502": {
+        "name": "image_502.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_502.jpg",
+        "url": "https://blackwells.co.uk/jacket/s/14/1408704102.jpg",
+        "label": "No"
+    },
+    "503": {
+        "name": "image_503.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_503.jpg",
+        "url": "https://mikeweinstein.files.wordpress.com/2014/08/space-assassination.jpg?w=252&",
+        "label": "No"
+    },
+    "504": {
+        "name": "image_504.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_504.jpg",
+        "url": "http://promotionny.com/wp-content/uploads/2011/02/space-usa-bruce-mccandless-challenger-02-07-1984-300x161.jpg",
+        "label": "Yes"
+    },
+    "505": {
+        "name": "image_505.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_505.jpg",
+        "url": "https://cloud.firebrandtech.com/api/v2/img/111/9781847807489/L",
+        "label": "Yes"
+    },
+    "506": {
+        "name": "image_506.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_506.jpg",
+        "url": "http://images.contentreserve.com/ImageType-200/0887-1/%7B5E58DBA9-EF39-4C10-8E72-33AF64370434%7DImg200.jpg",
+        "label": "No"
+    },
+    "507": {
+        "name": "image_507.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_507.jpg",
+        "url": "https://drimjuguetes.vteximg.com.br/arquivos/ids/647659-398-458/Toy-Story-4-Buzz-Interactivo.jpg?v=637042239116770000",
+        "label": "Yes"
+    },
+    "508": {
+        "name": "image_508.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_508.jpg",
+        "url": "https://images.squarespace-cdn.com/content/55106a87e4b0561371d54bbf/1500349444384-STF52M9HMJ57NV8LFMG4/Armstrong?content-type=image%2Fjpeg",
+        "label": "Yes"
+    },
+    "509": {
+        "name": "image_509.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_509.jpg",
+        "url": "http://cdn-2.motorsport.com/static/img/mgl/400000/420000/425000/425000/425002/s9/dtm-le-mans-2006-bruno-spengler-and-mika-hakkinen.jpg",
+        "label": "No"
+    },
+    "510": {
+        "name": "image_510.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_510.jpg",
+        "url": "http://cbsnews2.cbsistatic.com/hub/i/r/2014/03/21/c125498a-97fe-4c41-a524-43a1e34e6059/resize/620x465/cfef4b4663d01d60a8a1beb20aadfdb7/currency-elvin-wong-edward-burczyk-armstrong.jpg",
+        "label": "Yes"
+    },
+    "511": {
+        "name": "image_511.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_511.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2110/1925/products/1bookmytech_6b027f0b-d085-4260-8afb-1376531e580b_2048x2048.jpg?v=1608111325",
+        "label": "No"
+    },
+    "512": {
+        "name": "image_512.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_512.jpg",
+        "url": "http://imgs.dvdempire.com/products/22/1683622m.jpg",
+        "label": "No"
+    },
+    "513": {
+        "name": "image_513.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_513.jpg",
+        "url": "http://cdn.shopify.com/s/files/1/0159/1514/products/Grand-Puba-Black-from-theFuture_medium.jpg?v=1460502264",
+        "label": "No"
+    },
+    "515": {
+        "name": "image_515.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_515.jpg",
+        "url": "https://mir-s3-cdn-cf.behance.net/projects/202/d51cef33816136.Y3JvcCw5NDUsNzQwLDIzMSww.png",
+        "label": "No"
+    },
+    "516": {
+        "name": "image_516.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_516.jpg",
+        "url": "http://www.bmwblog.com/wp-content/uploads/bmw-rll-petit-le-mans-121-120x120.jpg",
+        "label": "No"
+    },
+    "517": {
+        "name": "image_517.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_517.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0358/9733/products/SportWatch_5ec3a389-3641-445b-89a5-3bb49f06620f_medium.jpeg?v=1463001185",
+        "label": "Yes"
+    },
+    "518": {
+        "name": "image_518.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_518.jpg",
+        "url": "https://i.ytimg.com/vi/7osn_CqmsGQ/hqdefault.jpg",
+        "label": "No"
+    },
+    "520": {
+        "name": "image_520.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_520.jpg",
+        "url": "https://m.media-amazon.com/images/I/61RJUMJPMVL._AC_UY218_.jpg",
+        "label": "No"
+    },
+    "522": {
+        "name": "image_522.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_522.jpg",
+        "url": "https://lh3.googleusercontent.com/8qEP4_JPZ_FkoNrMeSK7CEP_OdonUhYnMHdbtpl7mf6lCG-THSXTBbcfcCBhHBE_3eRb=w170",
+        "label": "No"
+    },
+    "523": {
+        "name": "image_523.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_523.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.BpGFAAminB9Y681g65zWLQHaKl",
+        "label": "No"
+    },
+    "524": {
+        "name": "image_524.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_524.jpg",
+        "url": "https://media.biddr.com/media/img/auction_lots/619/638337.m.jpg",
+        "label": "No"
+    },
+    "525": {
+        "name": "image_525.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_525.jpg",
+        "url": "https://media.npr.org/assets/img/2013/09/30/gv-fp-0127r_wide-ec39801e8f94d6a90a1e24154cecc0e91d47b613.jpg?s=6",
+        "label": "Yes"
+    },
+    "527": {
+        "name": "image_527.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_527.jpg",
+        "url": "https://images.g2a.com/newlayout/600x351/1x1x0/336d3b5a7ec8/59e73f58ae653aa7b752ff84",
+        "label": "No"
+    },
+    "528": {
+        "name": "image_528.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_528.jpg",
+        "url": "https://talonbooks.com/images/1841t.jpg",
+        "label": "No"
+    },
+    "529": {
+        "name": "image_529.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_529.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/47/85/05/400_F_47850598_Rl93ZjgZbVzvTBO2bCD5mHW5VMifpbG7.jpg",
+        "label": "No"
+    },
+    "530": {
+        "name": "image_530.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_530.jpg",
+        "url": "http://d2arxad8u2l0g7.cloudfront.net/books/1441559230m/23518.jpg",
+        "label": "Yes"
+    },
+    "531": {
+        "name": "image_531.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_531.jpg",
+        "url": "https://d3myrwj42s63no.cloudfront.net/180/978/052/595/432/3/9780525954323.jpg",
+        "label": "No"
+    },
+    "533": {
+        "name": "image_533.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_533.jpg",
+        "url": "https://render.fineartamerica.com/images/rendered/medium/canvas-print/mirror/break/images-medium-5/2-mens-room-scott-listfield-canvas-print.jpg",
+        "label": "No"
+    },
+    "534": {
+        "name": "image_534.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_534.jpg",
+        "url": "https://ichef-1.bbci.co.uk/news/270/cpsprodpb/E9A3/production/_88411895_88411894.jpg",
+        "label": "No"
+    },
+    "537": {
+        "name": "image_537.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_537.jpg",
+        "url": "http://rlv.zcache.com/customize_this_happy_alien_john_galt_luggage_tag-rbd35a844fcd14a5b9b3932fcd20f397d_fuygx_8byvr_216.jpg",
+        "label": "No"
+    },
+    "538": {
+        "name": "image_538.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_538.jpg",
+        "url": "http://ecx.images-amazon.com/images/P/0060281464.01._SL160_SCLZZZZZZZ__.jpg",
+        "label": "Yes"
+    },
+    "539": {
+        "name": "image_539.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_539.jpg",
+        "url": "https://r.wheelers.co/bk/thumb/978108/9781086571028.jpg",
+        "label": "No"
+    },
+    "540": {
+        "name": "image_540.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_540.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0219/0136/products/Mercury_Flightsuit_Cover_Updated_PF_WEB_large.jpg?v=1619635090",
+        "label": "Yes"
+    },
+    "541": {
+        "name": "image_541.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_541.jpg",
+        "url": "http://render.fineartamerica.com/images/rendered/search/print/images-medium-5/2-the-coke-machine-scott-listfield.jpg",
+        "label": "No"
+    },
+    "542": {
+        "name": "image_542.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_542.jpg",
+        "url": "https://images.pond5.com/astronaut-spacewalk-earth-hd-footage-035194042_iconv.jpeg",
+        "label": "Yes"
+    },
+    "543": {
+        "name": "image_543.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_543.jpg",
+        "url": "http://media.case-iphone.eu/media/catalog/product/cache/3/small_image/235x172/9df78eab33525d08d6e5fb8d27136e95/z/z/zz_coque_y7-2018_cat-nasa_translu.jpg",
+        "label": "No"
+    },
+    "544": {
+        "name": "image_544.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_544.jpg",
+        "url": "https://i1.sndcdn.com/artworks-000045962308-xs4r0d-large.jpg?e76cf77",
+        "label": "No"
+    },
+    "545": {
+        "name": "image_545.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_545.jpg",
+        "url": "https://cdn.cnn.com/cnnnext/dam/assets/180720154331-apollo-11-teaser-cnn-films-00003025-large-169.jpg",
+        "label": "Yes"
+    },
+    "546": {
+        "name": "image_546.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_546.jpg",
+        "url": "https://s4.thcdn.com/productimg/300/300/11127522-1694309634095464.jpg",
+        "label": "No"
+    },
+    "547": {
+        "name": "image_547.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_547.jpg",
+        "url": "http://i.huffpost.com/gen/900113/thumbs/r-IKEA-MONKEY-large570.jpg?6",
+        "label": "No"
+    },
+    "548": {
+        "name": "image_548.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_548.jpg",
+        "url": "https://cdn.mos.cms.futurecdn.net/FZvxsFhnFFXYxTea8PvgnM-320-80.jpg",
+        "label": "Yes"
+    },
+    "549": {
+        "name": "image_549.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_549.jpg",
+        "url": "https://thumbs.dreamstime.com/t/man-young-son-walking-dog-13675132.jpg",
+        "label": "No"
+    },
+    "550": {
+        "name": "image_550.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_550.jpg",
+        "url": "https://content.etilize.com/images/100/1028976461.jpg",
+        "label": "No"
+    },
+    "551": {
+        "name": "image_551.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_551.jpg",
+        "url": "https://www.moviery.com/posters/100x150/62/12062.jpg",
+        "label": "No"
+    },
+    "552": {
+        "name": "image_552.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_552.jpg",
+        "url": "https://images.johnstonlibrary.com/177525@2x.jpg",
+        "label": "Yes"
+    },
+    "553": {
+        "name": "image_553.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_553.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0263/4884/7170/products/9781409599142_large.jpg?v=1597064687",
+        "label": "Yes"
+    },
+    "554": {
+        "name": "image_554.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_554.jpg",
+        "url": "https://images.flickdirect.com/cache/movies/secret-life-of-walter-mitty/5555550-secret-life-of-walter-mitty-poster.jpg",
+        "label": "Yes"
+    },
+    "555": {
+        "name": "image_555.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_555.jpg",
+        "url": "https://i.pinimg.com/originals/a3/79/99/a3799975edb12899c49f440e34085025.jpg",
+        "label": "No"
+    },
+    "557": {
+        "name": "image_557.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_557.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0284/5868/0365/products/space-pillow-solar-system-futura-space-169_600x.jpg?v=1586433789",
+        "label": "Yes"
+    },
+    "558": {
+        "name": "image_558.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_558.jpg",
+        "url": "https://t4.ftcdn.net/jpg/01/98/29/87/240_F_198298706_EtD8uPSFi70u8BIvMO50M7oyR0iTzYM3.jpg",
+        "label": "Yes"
+    },
+    "559": {
+        "name": "image_559.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_559.jpg",
+        "url": "https://img1.od-cdn.com/ImageType-400/2985-1/467/C1C/35/%7B467C1C35-C5B4-4B0B-8EC3-2176C18BF622%7DImg400.jpg",
+        "label": "No"
+    },
+    "560": {
+        "name": "image_560.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_560.jpg",
+        "url": "https://readerdad.files.wordpress.com/2013/12/the-explorer-james-smythe_thumb.jpg?w=154&",
+        "label": "Yes"
+    },
+    "561": {
+        "name": "image_561.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_561.jpg",
+        "url": "https://cdn.notonthehighstreet.com/fs/31/19/977a-4013-42c7-baaa-f5adb9122084/thumb_space-rockets-wall-stickers.jpg",
+        "label": "No"
+    },
+    "562": {
+        "name": "image_562.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_562.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/329141/329141._SX240_QL80_TTD_.jpg",
+        "label": "No"
+    },
+    "563": {
+        "name": "image_563.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_563.jpg",
+        "url": "https://filmreviews12.files.wordpress.com/2014/11/interstellar.jpg?w=676",
+        "label": "No"
+    },
+    "564": {
+        "name": "image_564.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_564.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51kwOA5x4JL._SL500_SS160_.jpg",
+        "label": "Yes"
+    },
+    "566": {
+        "name": "image_566.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_566.jpg",
+        "url": "https://d1q9av5b648rmv.cloudfront.net/v3/323x323/mini-clear-multi-case/m/clear/3875279/1591532510-1017x1680.png.jpg?h=726bdd3782c2738ff09f57b11da53a17e6943654&printed=true",
+        "label": "No"
+    },
+    "567": {
+        "name": "image_567.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_567.jpg",
+        "url": "https://images-fe.ssl-images-amazon.com/images/I/51OpgsM9cvL._SL160_.jpg",
+        "label": "Yes"
+    },
+    "568": {
+        "name": "image_568.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_568.jpg",
+        "url": "https://i.ytimg.com/vi/FV4XLhuRy2E/0.jpg",
+        "label": "No"
+    },
+    "569": {
+        "name": "image_569.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_569.jpg",
+        "url": "https://ecdn.teacherspayteachers.com/thumbitem/Space-Travel-Technology-Apollo-11-Mission-to-the-Moon-Timeline-NOTEBOOK-3732897-1522761568/original-3732897-1.jpg",
+        "label": "No"
+    },
+    "571": {
+        "name": "image_571.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_571.jpg",
+        "url": "http://cdn.bleacherreport.net/images_root/slides/photos/001/976/021/VirginiaTech_display_image.jpg?1330507324",
+        "label": "No"
+    },
+    "572": {
+        "name": "image_572.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_572.jpg",
+        "url": "https://media.comicbook.com/wp-content/uploads/2013/10/gravity-movie-poster-closeup-640x320.jpg",
+        "label": "Yes"
+    },
+    "573": {
+        "name": "image_573.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_573.jpg",
+        "url": "https://img.seriebox.com/films/74/74557/affich_74557_3.jpg",
+        "label": "No"
+    },
+    "574": {
+        "name": "image_574.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_574.jpg",
+        "url": "https://in.bmscdn.com/Events/Large/ET00047163.jpg",
+        "label": "No"
+    },
+    "575": {
+        "name": "image_575.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_575.jpg",
+        "url": "http://cdn0.sbnation.com/entry_photo_images/4173614/7275183844_7b03d20dce_b_large_medium.jpg",
+        "label": "No"
+    },
+    "578": {
+        "name": "image_578.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_578.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/Ws8AAOSwL4lbCKj8/s-l225.jpg",
+        "label": "No"
+    },
+    "579": {
+        "name": "image_579.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_579.jpg",
+        "url": "https://i1.wp.com/i469.photobucket.com/albums/rr51/MagicNumberSix/Vaca2007/z100_0592SolemnSpaceSuit.jpg",
+        "label": "Yes"
+    },
+    "581": {
+        "name": "image_581.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_581.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNzEyNTgyN15BMl5BanBnXkFtZTcwODk4NTU0Mg@@._V1_SX300.jpg",
+        "label": "No"
+    },
+    "582": {
+        "name": "image_582.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_582.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51Rccgm4d5L._SL160_.jpg",
+        "label": "Yes"
+    },
+    "583": {
+        "name": "image_583.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_583.jpg",
+        "url": "https://i1.wp.com/katzenworld.co.uk/wp-content/uploads/2016/07/cat-in-space-mural.jpg?resize=760%2C553&ssl=1",
+        "label": "No"
+    },
+    "584": {
+        "name": "image_584.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_584.jpg",
+        "url": "https://s26162.pcdn.co/wp-content/uploads/2018/12/71E-Zj-D57L-205x300.jpg",
+        "label": "No"
+    },
+    "585": {
+        "name": "image_585.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_585.jpg",
+        "url": "https://emperorcupcakecom.files.wordpress.com/2018/07/night-flight-orchestra-2.jpg?w=300&h=300",
+        "label": "Yes"
+    },
+    "586": {
+        "name": "image_586.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_586.jpg",
+        "url": "https://ae01.alicdn.com/kf/H88067ad010c64267bf11820b67f4f0c7M/bamoer-Moon-Stone-Astronaut-Stud-Earrings-for-Women-925-Sterling-Silver-Ear-Pins-Jewelry-2020-New.jpg",
+        "label": "Yes"
+    },
+    "587": {
+        "name": "image_587.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_587.jpg",
+        "url": "https://www.moviery.com/posters/100x150/59/359.jpg",
+        "label": "Yes"
+    },
+    "588": {
+        "name": "image_588.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_588.jpg",
+        "url": "http://img.youtube.com/vi/ePbKGoIGAXY/0.jpg",
+        "label": "Yes"
+    },
+    "589": {
+        "name": "image_589.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_589.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0473/1712/3234/products/IMG_2835_160x160.jpg?v=1605266959",
+        "label": "No"
+    },
+    "591": {
+        "name": "image_591.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_591.jpg",
+        "url": "http://s1.thcdn.com/productimg/0/180/180/19/10881419-1390560205-977444.jpg",
+        "label": "Yes"
+    },
+    "592": {
+        "name": "image_592.jpg",
+        "path": "/root/home/agaile_datasets/astronaut_test/image_592.jpg",
+        "url": "https://www.sfbok.se/sites/default/files/styles/teaser/sfbok/sfbokbilder/190/190379.jpg?bust=1545226329&itok=IwNcEWdA",
+        "label": "Yes"
+    }
+}

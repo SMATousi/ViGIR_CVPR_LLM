@@ -1,0 +1,3338 @@
+{
+    "0": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "1": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_1.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut on the moon.",
+        "query_prompt": "Yes, the image shows an astronaut on the moon."
+    },
+    "2": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_2.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "3": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "4": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "5": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "6": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "8": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_8.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "9": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_9.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "10": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_10.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "12": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_12.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "15": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "16": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_16.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "17": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_17.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "18": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "19": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_19.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "20": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_20.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "21": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "22": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_22.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "24": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_24.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "25": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_25.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "26": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_26.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "27": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_27.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "29": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "30": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "31": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_31.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "33": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_33.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "34": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_34.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "35": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_35.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "36": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_36.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "37": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "39": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_39.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "40": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_40.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "42": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_42.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "43": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_43.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "44": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_44.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "45": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_45.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "48": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "49": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "50": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "51": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_51.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "52": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "53": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_53.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "54": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_54.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "55": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_55.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "56": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_56.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "57": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_57.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "58": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_58.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "59": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "60": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_60.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "61": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_61.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "62": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_62.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "63": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_63.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "65": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_65.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "67": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_67.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "68": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_68.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "69": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_69.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "70": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_70.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "71": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "73": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_73.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "74": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "75": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_75.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "76": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "77": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_77.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "78": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "79": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "80": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_80.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "83": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "84": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "85": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_85.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "86": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_86.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "88": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_88.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "89": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_89.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "90": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_90.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "91": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_91.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "93": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_93.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "94": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "95": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_95.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "96": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_96.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "97": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "98": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_98.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "99": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_99.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "100": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_100.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "101": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_101.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "102": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_102.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "105": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "106": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_106.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "107": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_107.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "108": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_108.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "109": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_109.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "110": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "111": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "112": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_112.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "113": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_113.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "114": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_114.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "115": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_115.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "116": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_116.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "117": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_117.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "118": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_118.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "119": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_119.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "120": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "121": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_121.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "122": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_122.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "123": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "124": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_124.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "125": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "126": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_126.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "128": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "129": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "131": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "132": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "133": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_133.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "134": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_134.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "135": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_135.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "136": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_136.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "137": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_137.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "138": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_138.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "139": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_139.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "140": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "141": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "143": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_143.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "145": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_145.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "146": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_146.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "147": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_147.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "148": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "149": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_149.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "151": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_151.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "152": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_152.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "153": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_153.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "154": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_154.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "155": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_155.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "157": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_157.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "159": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "161": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_161.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "163": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_163.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "164": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "165": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_165.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "168": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_168.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "171": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_171.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "174": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_174.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "175": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "177": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_177.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "178": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "179": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "180": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_180.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "181": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_181.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "182": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_182.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "183": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_183.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "184": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_184.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "185": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_185.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "186": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_186.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "190": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_190.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "192": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_192.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "194": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_194.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "195": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_195.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "197": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_197.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "198": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "199": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_199.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "200": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_200.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "201": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_201.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "202": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_202.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "204": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_204.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "205": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "207": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_207.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "208": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "209": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "210": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "211": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_211.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "212": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_212.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "215": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_215.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "216": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_216.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "218": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "219": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_219.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "220": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_220.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "221": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_221.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "222": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_222.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "223": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_223.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "224": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_224.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "225": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "226": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_226.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "227": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_227.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "229": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_229.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "230": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_230.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "231": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "232": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "233": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_233.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "234": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "235": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_235.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "236": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "237": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_237.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "238": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_238.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "239": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_239.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "240": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_240.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "241": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_241.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "242": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_242.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "243": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "244": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "245": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_245.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "246": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_246.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "247": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_247.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "248": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_248.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "249": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_249.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "250": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_250.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "251": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_251.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "252": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_252.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "253": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_253.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "254": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_254.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "255": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_255.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "256": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_256.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "259": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_259.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "260": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "261": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_261.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "262": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "263": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "265": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "268": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_268.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "269": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_269.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "271": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "272": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "273": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_273.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "274": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "275": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "277": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "278": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "279": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_279.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "280": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "281": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_281.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "282": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_282.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "283": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_283.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "284": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_284.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "285": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_285.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "286": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "287": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_287.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "288": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_288.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "290": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_290.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "292": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_292.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "293": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_293.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "294": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_294.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "295": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "296": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_296.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "297": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_297.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "298": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "299": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "301": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_301.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "304": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_304.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "305": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_305.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "306": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_306.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "307": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_307.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "309": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "310": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_310.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "311": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "312": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_312.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "313": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_313.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "314": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_314.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "315": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "316": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_316.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "317": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "318": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_318.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, the image shows a robot on what appears to be a notebook cover.",
+        "query_prompt": "No, the image shows a robot on what appears to be a notebook cover."
+    },
+    "319": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_319.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "320": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "321": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "322": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_322.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "323": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_323.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "324": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_324.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "325": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_325.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "326": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_326.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "327": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "328": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_328.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "329": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "330": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "331": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "333": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_333.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "334": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_334.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "335": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "336": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_336.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "337": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "338": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "340": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_340.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "341": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_341.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "342": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "343": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "344": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_344.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "345": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_345.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "346": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_346.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "347": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "348": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "349": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "350": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_350.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "351": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_351.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "352": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_352.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "353": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "354": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_354.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "355": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "357": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_357.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "358": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "359": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_359.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "360": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_360.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "361": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_361.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "362": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_362.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "364": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "365": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_365.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "366": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_366.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "367": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_367.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "369": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_369.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "370": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_370.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "371": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_371.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "372": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_372.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "373": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "374": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_374.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "376": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_376.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "377": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_377.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "378": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "379": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_379.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "380": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "381": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "382": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_382.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "383": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_383.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "384": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_384.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "385": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_385.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "386": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_386.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "387": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_387.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "388": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "389": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_389.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "390": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_390.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "391": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_391.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "392": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "394": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_394.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "395": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_395.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "396": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_396.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "397": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_397.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "398": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "399": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_399.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "400": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_400.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "401": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_401.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "402": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "403": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_403.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "404": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "405": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_405.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "406": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_406.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "407": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "408": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_408.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "409": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_409.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "410": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_410.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "411": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "412": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_412.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "413": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_413.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "414": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_414.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "415": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_415.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "416": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_416.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "417": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_417.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "418": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_418.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "419": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "420": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_420.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "421": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_421.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "422": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_422.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "423": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_423.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "424": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_424.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "425": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_425.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "426": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_426.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "428": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_428.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "429": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_429.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "431": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_431.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "432": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_432.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "433": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "434": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_434.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "435": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_435.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "436": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_436.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "437": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "438": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "439": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_439.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "440": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_440.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "441": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_441.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "443": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "444": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "447": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_447.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "448": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "449": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "450": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "451": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_451.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "454": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_454.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "456": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "457": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_457.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "458": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_458.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "459": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_459.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "460": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_460.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "461": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_461.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "462": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_462.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "463": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "464": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_464.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "465": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_465.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "466": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_466.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "467": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_467.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No. The image shows a painting on an easel, not an astronaut.",
+        "query_prompt": "No. The image shows a painting on an easel, not an astronaut."
+    },
+    "468": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "469": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_469.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "470": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_470.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "471": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_471.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "472": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_472.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "474": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "475": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_475.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "477": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_477.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "478": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_478.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "479": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_479.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "480": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "481": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_481.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "482": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_482.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "483": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_483.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "484": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_484.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "485": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_485.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "487": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_487.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "488": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "489": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "490": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "493": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "495": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_495.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "496": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_496.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "497": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_497.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "498": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_498.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "499": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_499.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "500": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_500.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "501": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_501.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "502": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_502.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "503": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "504": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_504.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "505": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_505.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "506": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_506.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "507": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_507.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "508": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_508.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "509": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_509.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "510": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_510.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut.",
+        "query_prompt": "Yes, the image shows an astronaut."
+    },
+    "511": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "512": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_512.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "513": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "515": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "516": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_516.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "517": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_517.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "518": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "520": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "522": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "523": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_523.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "524": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_524.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "525": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_525.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut in space.",
+        "query_prompt": "Yes, the image shows an astronaut in space."
+    },
+    "527": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "528": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_528.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "529": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_529.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "530": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_530.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "531": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_531.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "533": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "534": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_534.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "537": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "538": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "539": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_539.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "540": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_540.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "541": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "542": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "543": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "544": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_544.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "545": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_545.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "546": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "547": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_547.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No. The image shows a monkey dressed in clothing, not an astronaut.",
+        "query_prompt": "No. The image shows a monkey dressed in clothing, not an astronaut."
+    },
+    "548": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_548.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "549": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_549.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "550": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_550.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "551": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_551.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes, the image shows an astronaut in space.",
+        "query_prompt": "Yes, the image shows an astronaut in space."
+    },
+    "552": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_552.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "553": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_553.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "554": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_554.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "555": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_555.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "557": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_557.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "558": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_558.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "559": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "560": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_560.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "561": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_561.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "562": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_562.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "563": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_563.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "564": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_564.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "566": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_566.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "567": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "568": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "569": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "571": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_571.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "572": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_572.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "573": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_573.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "574": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "575": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_575.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "578": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_578.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "579": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_579.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "581": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_581.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "582": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_582.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "583": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_583.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "584": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_584.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "585": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_585.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "586": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "587": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_587.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "588": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_588.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "589": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_589.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "591": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_591.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "592": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_592.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    }
+}

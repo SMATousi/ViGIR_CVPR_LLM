@@ -1,0 +1,3470 @@
+{
+    "0": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_0.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "1": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_1.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "3": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_3.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. The image you've provided is of an animated character, Buzz Lightyear from the Toy Story franchise, not an astronaut. ",
+        "query_prompt": " No. The image you've provided is of an animated character, Buzz Lightyear from the Toy Story franchise, not an astronaut. "
+    },
+    "4": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_4.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "5": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_5.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "6": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_6.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "8": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_8.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "9": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_9.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "10": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_10.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "12": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_12.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut standing next to a man in a spacesuit. The man appears to be an astronaut as well, given his attire and the context provided by the text on the cover. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut standing next to a man in a spacesuit. The man appears to be an astronaut as well, given his attire and the context provided by the text on the cover. "
+    },
+    "15": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_15.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "16": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_16.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "17": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_17.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "18": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_18.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "20": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_20.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "21": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "22": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_22.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "24": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_24.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "25": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_25.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "26": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_26.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "27": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_27.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It is an album cover for \"The Night Flight Orchestra.\" The person depicted on the cover is wearing a space suit and standing in front of a cosmic background, but it is not a real photograph of an astronaut. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is an album cover for \"The Night Flight Orchestra.\" The person depicted on the cover is wearing a space suit and standing in front of a cosmic background, but it is not a real photograph of an astronaut. "
+    },
+    "29": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_29.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "30": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_30.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image you've provided is not a photo of an astronaut. It appears to be a graphic or promotional material related to the video game \"Adrift.\" ",
+        "query_prompt": " No. The image you've provided is not a photo of an astronaut. It appears to be a graphic or promotional material related to the video game \"Adrift.\" "
+    },
+    "31": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_31.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "33": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_33.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "34": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_34.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "35": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_35.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "36": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_36.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "37": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_37.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "39": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_39.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "40": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_40.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "42": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_42.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "43": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_43.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image shows a movie cover for the film \"Mortal Engines.\" It features characters from the movie, but none of them are depicted as astronauts. ",
+        "query_prompt": " No. The image shows a movie cover for the film \"Mortal Engines.\" It features characters from the movie, but none of them are depicted as astronauts. "
+    },
+    "44": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_44.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "45": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_45.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "48": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_48.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image shows a DVD cover for the movie \"Rio.\" It features animated characters from the film, which is set in Rio de Janeiro and involves a group of animals on an adventure. The characters include Tulip, Linda, Pedro, Nico, and other members of the \"Crazy Family\" from the movie. ",
+        "query_prompt": " No. The image shows a DVD cover for the movie \"Rio.\" It features animated characters from the film, which is set in Rio de Janeiro and involves a group of animals on an adventure. The characters include Tulip, Linda, Pedro, Nico, and other members of the \"Crazy Family\" from the movie. "
+    },
+    "49": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_49.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "50": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_50.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "51": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_51.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It is a book cover for \"Artemis Fowl: The Atlantis Complex\" by Eoin Colfer. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It is a book cover for \"Artemis Fowl: The Atlantis Complex\" by Eoin Colfer. "
+    },
+    "52": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_52.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "53": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_53.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "54": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_54.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "55": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_55.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "56": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_56.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "57": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_57.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "58": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_58.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is digitally manipulated to show an astronaut on the moon holding a flag. In reality, there are no flags planted on the moon by humans. The image is likely created for artistic or humorous purposes. ",
+        "query_prompt": " No, the image is digitally manipulated to show an astronaut on the moon holding a flag. In reality, there are no flags planted on the moon by humans. The image is likely created for artistic or humorous purposes. "
+    },
+    "59": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_59.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "60": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_60.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "61": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_61.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "62": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_62.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "63": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_63.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "65": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_65.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "67": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_67.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "68": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_68.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "69": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_69.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "70": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_70.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "71": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_71.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "73": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_73.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "74": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_74.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "75": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_75.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "76": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_76.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "77": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_77.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "78": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_78.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "79": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_79.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "80": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_80.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "83": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_83.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "84": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_84.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "85": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_85.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "86": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_86.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "88": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_88.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image shows a video game cover for \"Alien: Isolation.\" It features an astronaut in a space suit, but it is not a real person. ",
+        "query_prompt": " No. The image shows a video game cover for \"Alien: Isolation.\" It features an astronaut in a space suit, but it is not a real person. "
+    },
+    "89": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_89.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "90": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_90.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "91": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_91.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "93": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_93.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "94": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_94.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image you've provided is not a photo of an astronaut. It appears to be a promotional graphic for the movie \"Alien: Covenant.\" The image features a stylized depiction of an alien creature, which is a central element in the \"Alien\" film series. ",
+        "query_prompt": " No. The image you've provided is not a photo of an astronaut. It appears to be a promotional graphic for the movie \"Alien: Covenant.\" The image features a stylized depiction of an alien creature, which is a central element in the \"Alien\" film series. "
+    },
+    "95": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_95.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "96": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_96.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "97": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "98": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_98.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be a poster for an event related to space and science. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be a poster for an event related to space and science. "
+    },
+    "99": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_99.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "100": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_100.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "101": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_101.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "102": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_102.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "105": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_105.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "106": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_106.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "107": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_107.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut on Earth. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut on Earth. "
+    },
+    "108": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_108.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "109": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_109.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut on the cover. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut on the cover. "
+    },
+    "110": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_110.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "111": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_111.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "112": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_112.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "113": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_113.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "114": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_114.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. The image you've provided is of a book cover, not a photograph of an astronaut. The book cover features artwork that includes a person who appears to be an astronaut, but it is not a real photograph of an astronaut. ",
+        "query_prompt": " No. The image you've provided is of a book cover, not a photograph of an astronaut. The book cover features artwork that includes a person who appears to be an astronaut, but it is not a real photograph of an astronaut. "
+    },
+    "115": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_115.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "116": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_116.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "117": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_117.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "118": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_118.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "119": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_119.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "120": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_120.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "121": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_121.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "122": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_122.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "123": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_123.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "124": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_124.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "125": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_125.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It is an illustration of a spacecraft and a depiction of a science fiction scene. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is an illustration of a spacecraft and a depiction of a science fiction scene. "
+    },
+    "126": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_126.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "128": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_128.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "129": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_129.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "131": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_131.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "132": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_132.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "133": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_133.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "134": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_134.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "135": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_135.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "136": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_136.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "137": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_137.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "138": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_138.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "139": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_139.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "140": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_140.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "141": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_141.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "143": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_143.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "145": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_145.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "146": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_146.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be a graphic design or artwork featuring an astronaut in space. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be a graphic design or artwork featuring an astronaut in space. "
+    },
+    "147": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_147.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "148": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_148.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photograph. It appears to be an artistic representation or illustration of an astronaut and a spacecraft on Mars, with text overlaying the image. ",
+        "query_prompt": " No, the image is not a photograph. It appears to be an artistic representation or illustration of an astronaut and a spacecraft on Mars, with text overlaying the image. "
+    },
+    "149": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_149.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "151": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_151.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "152": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_152.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "153": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_153.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "154": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_154.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "155": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_155.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "157": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_157.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "159": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_159.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No, the image is not of an astronaut. It appears to be a movie poster for \"Containment,\" which features a person in protective gear standing amidst what looks like a hazardous environment. ",
+        "query_prompt": " No, the image is not of an astronaut. It appears to be a movie poster for \"Containment,\" which features a person in protective gear standing amidst what looks like a hazardous environment. "
+    },
+    "161": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_161.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a promotional poster for a movie or television show featuring an astronaut in space. The text on the poster indicates that it is related to the \"Apollo's New Moon\" project. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a promotional poster for a movie or television show featuring an astronaut in space. The text on the poster indicates that it is related to the \"Apollo's New Moon\" project. "
+    },
+    "163": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_163.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "164": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_164.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "165": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_165.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "168": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_168.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "171": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_171.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "172": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_172.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "174": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_174.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "175": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_175.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "177": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_177.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "178": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_178.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "179": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_179.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "180": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_180.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "181": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_181.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "182": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_182.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "183": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_183.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "184": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_184.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "185": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_185.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "186": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_186.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "190": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_190.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "192": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_192.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "194": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_194.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No, the image is not a photo of an astronaut. It is a book cover for \"Midnight on the Moon\" by Mary Pope Osborne. The cover features two astronauts in space suits, but it is an illustration and not a photograph. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is a book cover for \"Midnight on the Moon\" by Mary Pope Osborne. The cover features two astronauts in space suits, but it is an illustration and not a photograph. "
+    },
+    "195": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_195.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be an album cover for \"X Minus One Complete.\" The artwork features a space theme with a character in a spacesuit and a spacecraft, but it does not depict an actual astronaut. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be an album cover for \"X Minus One Complete.\" The artwork features a space theme with a character in a spacesuit and a spacecraft, but it does not depict an actual astronaut. "
+    },
+    "197": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_197.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "198": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_198.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "199": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_199.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "200": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_200.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "201": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_201.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "202": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_202.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No, the image is not a photo of an astronaut. It is a digitally altered image that combines elements of an astronaut with a person in a space suit and a waving hand. The text \"Happy Smiles\" suggests it might be related to a greeting card or similar product. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is a digitally altered image that combines elements of an astronaut with a person in a space suit and a waving hand. The text \"Happy Smiles\" suggests it might be related to a greeting card or similar product. "
+    },
+    "203": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_203.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "204": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_204.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "205": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_205.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "207": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_207.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be a digitally altered image that includes an American flag and a spacecraft, but there are no astronauts visible in the picture. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be a digitally altered image that includes an American flag and a spacecraft, but there are no astronauts visible in the picture. "
+    },
+    "208": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_208.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "209": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_209.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "210": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "211": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_211.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "212": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_212.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "215": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_215.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "216": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_216.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "218": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_218.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "219": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_219.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image you've provided is a movie poster for \"Treasure Planet,\" which features an animated character on a spaceship, not an astronaut. ",
+        "query_prompt": " No. The image you've provided is a movie poster for \"Treasure Planet,\" which features an animated character on a spaceship, not an astronaut. "
+    },
+    "220": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_220.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "221": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_221.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "222": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_222.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "223": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_223.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image depicts an illustration of an alien and a human, not actual astronauts. It is a cover for a comic book titled \"UFO Flying Saucers.\" ",
+        "query_prompt": " No. The image depicts an illustration of an alien and a human, not actual astronauts. It is a cover for a comic book titled \"UFO Flying Saucers.\" "
+    },
+    "224": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_224.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "225": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_225.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "226": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_226.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "227": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_227.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "229": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_229.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image is a movie poster for the film \"Space Station.\" It features an illustration of an astronaut inside a spacecraft, but it is not a photograph of a real person. ",
+        "query_prompt": " No. The image is a movie poster for the film \"Space Station.\" It features an illustration of an astronaut inside a spacecraft, but it is not a photograph of a real person. "
+    },
+    "230": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_230.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "231": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_231.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "232": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_232.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "233": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_233.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "234": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_234.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. The image shows a poster for the band Man With A Mission, which features a group of people dressed in costumes that resemble animal heads. This is not an image of an astronaut. ",
+        "query_prompt": " No. The image shows a poster for the band Man With A Mission, which features a group of people dressed in costumes that resemble animal heads. This is not an image of an astronaut. "
+    },
+    "235": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_235.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "236": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_236.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "237": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_237.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "238": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_238.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be a digitally altered image that combines elements of space and astronomy with text overlaying it. The text reads \"ONLY ASTRONAUTS CAN PASS THIS DIFFICULT ASTROPHYSICS QUIZ\" which suggests that the image is meant to be humorous or educational, rather than a depiction of an actual astronaut. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be a digitally altered image that combines elements of space and astronomy with text overlaying it. The text reads \"ONLY ASTRONAUTS CAN PASS THIS DIFFICULT ASTROPHYSICS QUIZ\" which suggests that the image is meant to be humorous or educational, rather than a depiction of an actual astronaut. "
+    },
+    "239": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_239.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image you've provided is not a photo of an astronaut. It appears to be a movie poster for \"The Martian,\" which is a film about an astronaut stranded on Mars. ",
+        "query_prompt": " No. The image you've provided is not a photo of an astronaut. It appears to be a movie poster for \"The Martian,\" which is a film about an astronaut stranded on Mars. "
+    },
+    "240": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_240.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "241": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_241.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "242": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_242.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "243": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_243.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a digitally altered image featuring a person in a space suit standing next to a large alien creature. The setting looks like it could be from a science fiction movie or game, but there are no actual astronauts present in the image. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a digitally altered image featuring a person in a space suit standing next to a large alien creature. The setting looks like it could be from a science fiction movie or game, but there are no actual astronauts present in the image. "
+    },
+    "244": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_244.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "245": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_245.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "246": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_246.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "247": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_247.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "248": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_248.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "249": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_249.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "250": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_250.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "251": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_251.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image you've provided is not a photo of an astronaut. It appears to be a movie poster for the film \"Planet of the Apes.\" ",
+        "query_prompt": " No. The image you've provided is not a photo of an astronaut. It appears to be a movie poster for the film \"Planet of the Apes.\" "
+    },
+    "252": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_252.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a screenshot from a video or a digital rendering of an astronaut in a space suit, labeled as \"Digitizing Neil Armstrong's Space Suit.\" ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a screenshot from a video or a digital rendering of an astronaut in a space suit, labeled as \"Digitizing Neil Armstrong's Space Suit.\" "
+    },
+    "253": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_253.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "254": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_254.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image shows a comic book cover for \"DC Super Stars of Space.\" It features an illustration of a superhero in space, but there is no depiction of an actual astronaut on the cover. ",
+        "query_prompt": " No. The image shows a comic book cover for \"DC Super Stars of Space.\" It features an illustration of a superhero in space, but there is no depiction of an actual astronaut on the cover. "
+    },
+    "255": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_255.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "256": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_256.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not of an astronaut. It appears to be a space suit helmet and possibly some equipment related to space exploration, but it does not depict a full astronaut in a spacesuit. ",
+        "query_prompt": " No, the image is not of an astronaut. It appears to be a space suit helmet and possibly some equipment related to space exploration, but it does not depict a full astronaut in a spacesuit. "
+    },
+    "259": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_259.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It is a cover for a DVD titled \"Pain: We Come in Peace.\" The cover features an astronaut in space, but it is an artistic representation and not a photograph of a real person. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It is a cover for a DVD titled \"Pain: We Come in Peace.\" The cover features an astronaut in space, but it is an artistic representation and not a photograph of a real person. "
+    },
+    "260": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_260.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "261": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_261.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "262": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_262.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of astronauts. It is an album cover for \"Pilots of the Millennium\" by KARIM S FEATURING LOUISAN. The artwork depicts three spacecraft in space, but there are no astronauts visible in this image. ",
+        "query_prompt": " No, the image is not a photo of astronauts. It is an album cover for \"Pilots of the Millennium\" by KARIM S FEATURING LOUISAN. The artwork depicts three spacecraft in space, but there are no astronauts visible in this image. "
+    },
+    "263": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_263.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "265": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_265.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "268": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_268.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image shows a person in a space suit, but they are not an astronaut. They appear to be a character from the Marvel movie \"Captain Marvel.\" ",
+        "query_prompt": " No. The image shows a person in a space suit, but they are not an astronaut. They appear to be a character from the Marvel movie \"Captain Marvel.\" "
+    },
+    "269": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_269.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "271": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "272": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_272.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "273": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_273.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "274": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_274.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "275": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_275.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "277": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_277.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "278": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_278.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "279": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_279.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "280": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_280.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "281": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_281.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "282": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_282.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "283": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_283.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "284": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_284.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be a promotional graphic for a television show or documentary, featuring a Mars rover and text related to the show's content. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be a promotional graphic for a television show or documentary, featuring a Mars rover and text related to the show's content. "
+    },
+    "285": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_285.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "286": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_286.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "287": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_287.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "288": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_288.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "290": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_290.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "292": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_292.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "293": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_293.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "294": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_294.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "295": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_295.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "296": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_296.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "297": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_297.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, this is not a photo of an astronaut. It's a digital image or artwork depicting a character in an astronaut suit standing on a Martian landscape with a spacecraft in the background. ",
+        "query_prompt": " No, this is not a photo of an astronaut. It's a digital image or artwork depicting a character in an astronaut suit standing on a Martian landscape with a spacecraft in the background. "
+    },
+    "298": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_298.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "299": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_299.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "304": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_304.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "305": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_305.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "306": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_306.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "307": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_307.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "309": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_309.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "310": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_310.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "311": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_311.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "312": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_312.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "313": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_313.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "314": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_314.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "315": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_315.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "316": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_316.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a movie poster for \"The Wandering Earth,\" which features characters in space suits, but they are not actual astronauts. The characters are likely fictional and part of the film's narrative. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a movie poster for \"The Wandering Earth,\" which features characters in space suits, but they are not actual astronauts. The characters are likely fictional and part of the film's narrative. "
+    },
+    "317": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "318": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_318.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "319": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_319.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a book cover featuring two characters in space suits, which suggests a science fiction theme. The characters are depicted in a stylized manner typical for comic book covers. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a book cover featuring two characters in space suits, which suggests a science fiction theme. The characters are depicted in a stylized manner typical for comic book covers. "
+    },
+    "320": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_320.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "321": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_321.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "322": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_322.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "323": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_323.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "324": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_324.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "325": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_325.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "326": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_326.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "327": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_327.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "328": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_328.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "329": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_329.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "330": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_330.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "331": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_331.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "333": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_333.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "334": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_334.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "335": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_335.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "336": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_336.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "337": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_337.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "338": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_338.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "340": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_340.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "341": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_341.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "342": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_342.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "343": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "344": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_344.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "345": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_345.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "346": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_346.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "347": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_347.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "348": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_348.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "349": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_349.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It is a book cover for \"My Journey to the Stars\" by Scott Kelly. The cover features an illustration of an astronaut in space, but it is not a photograph of a real person. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It is a book cover for \"My Journey to the Stars\" by Scott Kelly. The cover features an illustration of an astronaut in space, but it is not a photograph of a real person. "
+    },
+    "350": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_350.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "351": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_351.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "352": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_352.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "353": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_353.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "354": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_354.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "355": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_355.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "357": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_357.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "358": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "359": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_359.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "360": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_360.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "361": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_361.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "362": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_362.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "364": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_364.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "365": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_365.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "366": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_366.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "367": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_367.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "369": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_369.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "370": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_370.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "371": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_371.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "372": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_372.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "373": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_373.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "374": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_374.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "376": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_376.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "377": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_377.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "378": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_378.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "379": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_379.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "380": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_380.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "381": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_381.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "382": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_382.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "383": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_383.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "384": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_384.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "385": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_385.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "386": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_386.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "387": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_387.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "388": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_388.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "389": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_389.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "390": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_390.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "391": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_391.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "392": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_392.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "394": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_394.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "395": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_395.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "396": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_396.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "397": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_397.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "398": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_398.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "399": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_399.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "400": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_400.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "401": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_401.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "402": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_402.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It is a movie poster for \"The Last Days on Mars.\" The characters depicted are fictional and do not represent real astronauts. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It is a movie poster for \"The Last Days on Mars.\" The characters depicted are fictional and do not represent real astronauts. "
+    },
+    "403": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_403.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "404": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_404.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "405": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_405.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "406": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_406.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "407": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_407.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "408": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_408.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "409": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_409.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "410": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_410.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut on Earth. The book is titled \"An Astronaut's Guide to Life on Earth\" by Chris Hadfield. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut on Earth. The book is titled \"An Astronaut's Guide to Life on Earth\" by Chris Hadfield. "
+    },
+    "411": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "412": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_412.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "413": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_413.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It is an illustration of a dog in an astronaut suit standing next to a spacecraft. The text on the image says \"Max Goes to Mars: A Science Adventure with Max the Dog.\" ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is an illustration of a dog in an astronaut suit standing next to a spacecraft. The text on the image says \"Max Goes to Mars: A Science Adventure with Max the Dog.\" "
+    },
+    "414": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_414.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be an artistic representation or illustration, possibly related to space themes or science fiction. The character depicted in the image is not a real astronaut but rather a stylized or fictional one. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be an artistic representation or illustration, possibly related to space themes or science fiction. The character depicted in the image is not a real astronaut but rather a stylized or fictional one. "
+    },
+    "415": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_415.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "416": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_416.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "417": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_417.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "418": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_418.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It is a promotional graphic for a video game called \"Space Station Simulator 2.0.\" The image features an astronaut in space gear, but it is a digital representation and not a real person. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is a promotional graphic for a video game called \"Space Station Simulator 2.0.\" The image features an astronaut in space gear, but it is a digital representation and not a real person. "
+    },
+    "419": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_419.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "420": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_420.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "421": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_421.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "422": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_422.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "423": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_423.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "424": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_424.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "425": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_425.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "426": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_426.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "428": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_428.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "429": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_429.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "431": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_431.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. The image you've provided is a movie poster for the film \"Bring Him Home.\" It features an astronaut, but it is not a photograph of an actual astronaut. ",
+        "query_prompt": " No. The image you've provided is a movie poster for the film \"Bring Him Home.\" It features an astronaut, but it is not a photograph of an actual astronaut. "
+    },
+    "432": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_432.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "433": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_433.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "434": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_434.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image you've provided is an album cover for \"The Rebirth\" by Eric Bellinger, not a photo of an astronaut. It features a stylized graphic of a person in a space suit with the album title and artist name displayed prominently. ",
+        "query_prompt": " No. The image you've provided is an album cover for \"The Rebirth\" by Eric Bellinger, not a photo of an astronaut. It features a stylized graphic of a person in a space suit with the album title and artist name displayed prominently. "
+    },
+    "435": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_435.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "436": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_436.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "437": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_437.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "438": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_438.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "439": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_439.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "440": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_440.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "441": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_441.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "443": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_443.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a promotional graphic for a music album or single, featuring an illustration of a person sitting on the ground and looking up at a large UFO hovering in the sky. The artwork is stylized and does not depict a real-life scenario. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a promotional graphic for a music album or single, featuring an illustration of a person sitting on the ground and looking up at a large UFO hovering in the sky. The artwork is stylized and does not depict a real-life scenario. "
+    },
+    "444": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_444.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "447": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_447.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "448": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_448.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "449": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "450": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_450.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "451": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_451.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "454": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_454.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "456": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_456.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not of an astronaut. It shows a child dressed in a space suit, which is a costume designed to look like an astronaut's outfit. The child is posing for the photograph and is not an actual astronaut. ",
+        "query_prompt": " No, the image is not of an astronaut. It shows a child dressed in a space suit, which is a costume designed to look like an astronaut's outfit. The child is posing for the photograph and is not an actual astronaut. "
+    },
+    "457": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_457.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "458": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_458.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "459": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_459.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "460": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_460.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "461": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_461.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "462": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_462.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be a graphic design or promotional material for an event related to space exploration. The person in the image is wearing a spacesuit and helmet, but it's not a real photograph of an astronaut. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be a graphic design or promotional material for an event related to space exploration. The person in the image is wearing a spacesuit and helmet, but it's not a real photograph of an astronaut. "
+    },
+    "463": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_463.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be an illustration or artwork related to the \"Astra Lost in Space\" anime series. The characters depicted are from the show and are not real people. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be an illustration or artwork related to the \"Astra Lost in Space\" anime series. The characters depicted are from the show and are not real people. "
+    },
+    "464": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_464.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "465": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_465.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "466": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_466.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "467": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_467.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "468": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_468.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a promotional graphic for a video game, specifically \"Mass Effect,\" which features a character in space armor standing in front of a planet. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a promotional graphic for a video game, specifically \"Mass Effect,\" which features a character in space armor standing in front of a planet. "
+    },
+    "469": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_469.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "470": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_470.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "471": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_471.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be an album cover for \"Hollow Haze\" by \"Wintermoon Orchestra.\" The artwork features two humanoid figures that resemble robots or androids, with one figure in the foreground looking towards the other figure in the background. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be an album cover for \"Hollow Haze\" by \"Wintermoon Orchestra.\" The artwork features two humanoid figures that resemble robots or androids, with one figure in the foreground looking towards the other figure in the background. "
+    },
+    "472": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_472.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "473": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_473.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "474": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_474.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "475": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_475.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "477": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_477.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "478": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_478.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "479": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_479.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "480": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_480.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "481": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_481.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "482": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_482.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "483": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_483.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "484": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_484.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "485": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_485.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "487": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_487.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "488": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_488.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "489": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_489.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "490": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_490.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "493": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_493.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "495": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_495.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "496": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_496.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "497": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_497.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "498": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_498.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "499": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_499.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a graphic design or logo for a game or product related to space exploration. The central figure in the image is not an astronaut but rather a stylized representation of a person standing on a hexagonal platform with a planet and stars in the background. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a graphic design or logo for a game or product related to space exploration. The central figure in the image is not an astronaut but rather a stylized representation of a person standing on a hexagonal platform with a planet and stars in the background. "
+    },
+    "500": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_500.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "501": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_501.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "502": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_502.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "503": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_503.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "504": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_504.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "505": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_505.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "506": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_506.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "507": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_507.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "508": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_508.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "509": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_509.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "510": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_510.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "511": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_511.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "512": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_512.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "513": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_513.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "515": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_515.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "516": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_516.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "517": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_517.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "518": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_518.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "520": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_520.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "522": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_522.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "523": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_523.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "524": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_524.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "525": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_525.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "527": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_527.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. The image shows a character from the video game \"Prey.\" It is not an actual astronaut. ",
+        "query_prompt": " No. The image shows a character from the video game \"Prey.\" It is not an actual astronaut. "
+    },
+    "528": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_528.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "529": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_529.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "530": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_530.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be a book cover for \"Bad Astronomy\" by Philip Plait. The cover features an illustration of two astronauts in space suits standing next to each other and what looks like a satellite dish or antenna. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be a book cover for \"Bad Astronomy\" by Philip Plait. The cover features an illustration of two astronauts in space suits standing next to each other and what looks like a satellite dish or antenna. "
+    },
+    "531": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_531.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "533": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_533.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "534": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_534.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "537": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_537.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "538": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_538.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "539": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_539.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "540": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_540.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "541": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_541.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "542": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "543": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_543.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "544": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_544.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "545": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_545.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "546": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_546.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "547": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_547.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "548": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_548.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "549": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_549.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "550": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_550.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "551": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_551.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "552": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_552.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "553": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_553.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "554": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_554.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "555": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_555.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "557": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_557.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "558": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_558.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "559": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_559.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "560": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_560.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "561": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_561.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "562": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_562.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "563": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_563.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "564": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_564.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. The image you've provided is a movie poster for \"Apollo 18,\" which is a fictional film about an alien invasion during the Apollo 18 mission to the moon. It features an astronaut in space, but it is not a real photo of an astronaut. ",
+        "query_prompt": " No. The image you've provided is a movie poster for \"Apollo 18,\" which is a fictional film about an alien invasion during the Apollo 18 mission to the moon. It features an astronaut in space, but it is not a real photo of an astronaut. "
+    },
+    "566": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_566.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "567": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_567.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No, the image is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut and text that reads \"I WANT TO BE AN ASTRONAUT.\" ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is a book cover featuring an illustration of an astronaut and text that reads \"I WANT TO BE AN ASTRONAUT.\" "
+    },
+    "568": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_568.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "569": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_569.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "571": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_571.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "572": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_572.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a movie poster featuring an actress in a space suit, which is a common promotional material for films set in space or involving astronauts. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a movie poster featuring an actress in a space suit, which is a common promotional material for films set in space or involving astronauts. "
+    },
+    "573": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_573.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No. The image shows a person dressed in a costume that resembles an astronaut, but it is not a real astronaut. It appears to be a promotional poster for a movie or event. ",
+        "query_prompt": " No. The image shows a person dressed in a costume that resembles an astronaut, but it is not a real astronaut. It appears to be a promotional poster for a movie or event. "
+    },
+    "574": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_574.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "575": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_575.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "578": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_578.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "579": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_579.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes ",
+        "query_prompt": " Yes "
+    },
+    "581": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_581.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "582": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_582.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "583": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_583.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "584": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_584.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No. ",
+        "query_prompt": " No. "
+    },
+    "585": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_585.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It is an album cover for \"The Night Flight Orchestra.\" The person depicted on the cover is wearing a space suit and standing in front of a cosmic background, but it is not a real photograph of an astronaut. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It is an album cover for \"The Night Flight Orchestra.\" The person depicted on the cover is wearing a space suit and standing in front of a cosmic background, but it is not a real photograph of an astronaut. "
+    },
+    "586": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "587": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_587.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image is not a photo of an astronaut. It appears to be a movie poster for \"For All Mankind.\" The image on the poster shows a person standing on what looks like the moon's surface, but it is not an actual photograph of an astronaut. ",
+        "query_prompt": " No, the image is not a photo of an astronaut. It appears to be a movie poster for \"For All Mankind.\" The image on the poster shows a person standing on what looks like the moon's surface, but it is not an actual photograph of an astronaut. "
+    },
+    "588": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_588.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a digitally altered image of a man in a spacesuit, likely from a movie or television show, rather than an actual astronaut. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a digitally altered image of a man in a spacesuit, likely from a movie or television show, rather than an actual astronaut. "
+    },
+    "589": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_589.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No ",
+        "query_prompt": " No "
+    },
+    "591": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_591.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It is a movie cover for \"Gravity,\" which features a spacecraft and Earth in the background. The characters depicted are not real people but rather actors portraying astronauts in the film. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It is a movie cover for \"Gravity,\" which features a spacecraft and Earth in the background. The characters depicted are not real people but rather actors portraying astronauts in the film. "
+    },
+    "592": {
+        "path": "/root/home/agaile_datasets/astronaut_test/image_592.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " No, the image you've provided is not a photo of an astronaut. It appears to be a graphic novel cover for \"Knights of Sidonia\" titled \"Master Edition Volume 1.\" The artwork features two characters in space suits, but they are not depicted as astronauts; rather, they seem to be characters from the comic series. ",
+        "query_prompt": " No, the image you've provided is not a photo of an astronaut. It appears to be a graphic novel cover for \"Knights of Sidonia\" titled \"Master Edition Volume 1.\" The artwork features two characters in space suits, but they are not depicted as astronauts; rather, they seem to be characters from the comic series. "
+    }
+}
