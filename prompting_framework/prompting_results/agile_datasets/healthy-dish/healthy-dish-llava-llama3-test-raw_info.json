@@ -1,0 +1,3194 @@
+{
+    "2": {
+        "name": "image_2.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_2.jpg",
+        "url": "https://us.123rf.com/450wm/belchonock/belchonock1301/belchonock130104397/17362821-chinese-soup.jpg",
+        "label": "Yes"
+    },
+    "3": {
+        "name": "image_3.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_3.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0003/3842/7962/products/HunterGatherer5Pack_400x400_crop_center.jpg?v=1594252030",
+        "label": "No"
+    },
+    "4": {
+        "name": "image_4.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_4.jpg",
+        "url": "http://i2.ytimg.com/vi/yoH7ILMGaFI/0.jpg",
+        "label": "Yes"
+    },
+    "6": {
+        "name": "image_6.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_6.jpg",
+        "url": "http://st.depositphotos.com/1859627/1491/i/170/depositphotos_14912759-Roast-Dinner---Roast-Partridge--Vegetables.jpg",
+        "label": "Yes"
+    },
+    "7": {
+        "name": "image_7.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_7.jpg",
+        "url": "https://i.pinimg.com/736x/28/93/7d/28937d5f40100dd203d493eb9c7735ef.jpg",
+        "label": "No"
+    },
+    "8": {
+        "name": "image_8.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_8.jpg",
+        "url": "https://www.kitchentreaty.com/wp-content/uploads/2015/05/white-strawberry-mango-sangria3.jpg",
+        "label": "No"
+    },
+    "9": {
+        "name": "image_9.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_9.jpg",
+        "url": "https://thumbs.dreamstime.com/t/smoke-chicken-grates-26121993.jpg",
+        "label": "No"
+    },
+    "11": {
+        "name": "image_11.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_11.jpg",
+        "url": "https://i.pinimg.com/236x/02/36/5f/02365fbca70b26007dc246fbd00068a3--blt-dip-recipes-appetizer-recipes.jpg",
+        "label": "No"
+    },
+    "12": {
+        "name": "image_12.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_12.jpg",
+        "url": "http://mda.bigoven.com/pics/rs/256/sea-bass-with-white-beans-in-tomato.jpg",
+        "label": "Yes"
+    },
+    "14": {
+        "name": "image_14.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_14.jpg",
+        "url": "https://img.freepik.com/free-photo/famous-thai-food-called-pad-thai-white-plate_28943-358.jpg?size=626&ext=jpg",
+        "label": "No"
+    },
+    "15": {
+        "name": "image_15.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_15.jpg",
+        "url": "http://www.thegrocerygirls.com/media/catalog/product/cache/1/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/D/3/D3TJI.jpg.jpg",
+        "label": "No"
+    },
+    "16": {
+        "name": "image_16.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_16.jpg",
+        "url": "https://realhousemoms.com/wp-content/uploads/Black-Bean-Sweet-Potato-Enchiladas-Easy-Dinner-Recipe-HERO.jpg",
+        "label": "No"
+    },
+    "17": {
+        "name": "image_17.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_17.jpg",
+        "url": "http://2.bp.blogspot.com/-Z1UxHV1NOqY/TiPbBkY-MbI/AAAAAAAAASs/oGg5bmiGRWY/s374/butyl%2Bacetate-BAC-butyl-BA-%2Bsapachemical-dung-moi-son-muc%2Bin.jpg",
+        "label": "No"
+    },
+    "18": {
+        "name": "image_18.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_18.jpg",
+        "url": "https://d194ip2226q57d.cloudfront.net/images/Fresh_Catch.44a396d8.fill-500x300.png",
+        "label": "Yes"
+    },
+    "19": {
+        "name": "image_19.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_19.jpg",
+        "url": "https://myfamilydinner.com/wp-content/uploads/2020/06/IMG_0459.jpg",
+        "label": "No"
+    },
+    "20": {
+        "name": "image_20.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_20.jpg",
+        "url": "https://i.pinimg.com/736x/23/06/c1/2306c1d68efea62c90460b934f986a26--world--recipe-ideas.jpg",
+        "label": "No"
+    },
+    "21": {
+        "name": "image_21.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_21.jpg",
+        "url": "http://aroundmangalore.com/wp-content/uploads/2014/04/Lobster-Sizzler-Sizzler-Ranch-Lalbagh-Mangalore.jpg",
+        "label": "No"
+    },
+    "22": {
+        "name": "image_22.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_22.jpg",
+        "url": "https://d2k9njawademcf.cloudfront.net/slides/8322/original/food52_02-21-12-8734.jpg?1330066964",
+        "label": "No"
+    },
+    "23": {
+        "name": "image_23.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_23.jpg",
+        "url": "https://thumbs.dreamstime.com/t/iberian-pork-shish-kebab-onion-salad-sauce-seved-stone-board-88982554.jpg",
+        "label": "No"
+    },
+    "24": {
+        "name": "image_24.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_24.jpg",
+        "url": "http://s3.amazonaws.com/gmi-digital-library/41a400fe-db76-4c59-85dd-481bc70b3eb2.jpg",
+        "label": "No"
+    },
+    "26": {
+        "name": "image_26.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_26.jpg",
+        "url": "https://d2k9njawademcf.cloudfront.net/indeximages/25870/thumb_square/scallion_red_onion_min_souffle_4-26-2012.jpg?1403266859",
+        "label": "No"
+    },
+    "27": {
+        "name": "image_27.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_27.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0274/3694/1409/products/81vdImP9mGL_530x@2x.jpg?v=1578615537",
+        "label": "Yes"
+    },
+    "28": {
+        "name": "image_28.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_28.jpg",
+        "url": "https://images.squarespace-cdn.com/content/v1/5bb3fda3840b160b9e8f7699/1568217997773-HLCOAX3BBE6VVN467N5E/ke17ZwdGBToddI8pDm48kGhg2xGtIf6jozj3vrCYOYZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxcJ8F-bR_kR7_1ZAmzG_cgPAxBM5mN9ipZoH4Aj-28546YbVr_Lo2M9bdy6bXPdZc/image-asset.jpeg",
+        "label": "Yes"
+    },
+    "29": {
+        "name": "image_29.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_29.jpg",
+        "url": "https://i0.wp.com/thewoodenskillet.com/wp-content/uploads/2018/01/The-Ultimate-Shrimp-and-Chicken-Green-Curry-Edited-1.jpg?resize=600%2C900",
+        "label": "Yes"
+    },
+    "30": {
+        "name": "image_30.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_30.jpg",
+        "url": "http://s3.amazonaws.com/gmi-digital-library/04511a90-144a-47ff-a3c5-22b29c180641.jpg",
+        "label": "No"
+    },
+    "31": {
+        "name": "image_31.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_31.jpg",
+        "url": "https://www.ticklingpalates.com/wp-content/uploads/2015/03/potato-thuvarai-curry-320x321.jpg",
+        "label": "No"
+    },
+    "32": {
+        "name": "image_32.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_32.jpg",
+        "url": "https://i.pinimg.com/736x/c9/c6/99/c9c699510ce78dfba28ef0477095f856--basque-country-cuscus.jpg",
+        "label": "No"
+    },
+    "33": {
+        "name": "image_33.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_33.jpg",
+        "url": "https://thumbs.dreamstime.com/t/succulent-seafood-buffet-5498128.jpg",
+        "label": "No"
+    },
+    "35": {
+        "name": "image_35.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_35.jpg",
+        "url": "https://lh3.googleusercontent.com/W39OYjhq8Ry_jtOYJvtSvdIGM8eyL3yu4aofgvkpZsaLSy_Fw2w3fZbUgFB96xt_CAAAMS20WreDPbTR0X5ObA=s320-c-e365",
+        "label": "No"
+    },
+    "37": {
+        "name": "image_37.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_37.jpg",
+        "url": "https://i2.wp.com/threeovens.files.wordpress.com/2014/05/stir-fried-wheat-berries.jpg?resize=200%2C200",
+        "label": "Yes"
+    },
+    "38": {
+        "name": "image_38.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_38.jpg",
+        "url": "https://i.pinimg.com/236x/60/65/94/606594d3d0447ce1b297d667c5fe2225--christmas-table-settings-christmas-tables.jpg",
+        "label": "No"
+    },
+    "39": {
+        "name": "image_39.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_39.jpg",
+        "url": "http://foodwhirl.com/wp-content/uploads/2010/07/sushi-helper-300x400.jpg",
+        "label": "No"
+    },
+    "40": {
+        "name": "image_40.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_40.jpg",
+        "url": "https://i.pinimg.com/236x/5e/71/d6/5e71d67c53d20b2a0ae5762db838fc9a.jpg",
+        "label": "Yes"
+    },
+    "41": {
+        "name": "image_41.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_41.jpg",
+        "url": "https://i1.wp.com/plantivores.com/wp-content/uploads/2017/04/Easy-Fried-Rice-V2b.jpg?fit=800%2C1067",
+        "label": "No"
+    },
+    "42": {
+        "name": "image_42.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_42.jpg",
+        "url": "http://static8.depositphotos.com/1489960/1026/i/110/depositphotos_10264341-Mozzarella-and-basil.jpg",
+        "label": "No"
+    },
+    "43": {
+        "name": "image_43.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_43.jpg",
+        "url": "https://thumbs.dreamstime.com/t/heirloom-tomato-edible-often-red-fruit-berry-nightshade-solanum-lycopersicum-42371599.jpg",
+        "label": "No"
+    },
+    "44": {
+        "name": "image_44.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_44.jpg",
+        "url": "https://thumbs.dreamstime.com/t/smiling-couple-breakfast-table-young-having-home-30598413.jpg",
+        "label": "No"
+    },
+    "45": {
+        "name": "image_45.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_45.jpg",
+        "url": "http://2.bp.blogspot.com/_DPqKQp9pCA8/SN-AO77ljeI/AAAAAAAACUo/IRcTsmCOYGo/s400/IMG_5498.jpg",
+        "label": "No"
+    },
+    "46": {
+        "name": "image_46.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_46.jpg",
+        "url": "https://intentionaltravelers.files.wordpress.com/2014/08/dsc03072.jpg?w=379&h=253",
+        "label": "No"
+    },
+    "47": {
+        "name": "image_47.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_47.jpg",
+        "url": "https://i1.wp.com/pilipinasrecipes.com/wp-content/uploads/2018/02/Adobong-Kangkong-with-Chicken.jpg?resize=324%2C235&ssl=1",
+        "label": "Yes"
+    },
+    "48": {
+        "name": "image_48.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_48.jpg",
+        "url": "https://thumbs.dreamstime.com/x/table-setting-purple-flowers-24881595.jpg",
+        "label": "No"
+    },
+    "49": {
+        "name": "image_49.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_49.jpg",
+        "url": "https://lh3.googleusercontent.com/bQFkbIBplKbhcRNE9xASlPmfWI_1aFUUFjmkxJ2FPnvTqZTsFqyjXy0HzELBJtvttZ0NSGBk4NPixf1Mg309=s360",
+        "label": "Yes"
+    },
+    "51": {
+        "name": "image_51.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_51.jpg",
+        "url": "https://2.bp.blogspot.com/-FO2UWCmMrvA/W6Jjh5o_CBI/AAAAAAAAiz0/GezWk81G4Ig2k7AlQM-5XYRlX0RYgevxwCLcBGAs/s640/IMG_3494_%25E5%2589%25AF%25E6%259C%25AC.jpg",
+        "label": "Yes"
+    },
+    "52": {
+        "name": "image_52.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_52.jpg",
+        "url": "https://steamykitchen.com/wp-content/uploads/2013/04/bok-choy-with-ground-chicken-stir-fry-recipe-featured-1651.jpg",
+        "label": "Yes"
+    },
+    "53": {
+        "name": "image_53.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_53.jpg",
+        "url": "https://rlv.zcache.co.uk/faux_gold_foil_confetti_dots_wedding_invitation-r567bc312f5764659968b0fbd0e35d4a6_zkrqe_324.jpg?rlvnet=1",
+        "label": "No"
+    },
+    "54": {
+        "name": "image_54.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_54.jpg",
+        "url": "https://thumbs.dreamstime.com/m/fruit-ice-cream-sundae-25486791.jpg",
+        "label": "No"
+    },
+    "55": {
+        "name": "image_55.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_55.jpg",
+        "url": "https://i2.wp.com/lifecurrentsblog.com/wp-content/uploads/2012/05/IMG_9715_1.jpg?resize=150%2C150&ssl=1",
+        "label": "Yes"
+    },
+    "56": {
+        "name": "image_56.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_56.jpg",
+        "url": "http://lh6.ggpht.com/EmIesOjA37qSTCRYWKefMpe78EPx2Z2PGrfEWNvhCpf0nYX0sNQm_RTS3kCnKQv7MWs50wZUkV169OjzKUN3ecI=s400-c",
+        "label": "No"
+    },
+    "57": {
+        "name": "image_57.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_57.jpg",
+        "url": "https://i.pinimg.com/236x/7f/a3/e4/7fa3e48aebae68b72e62bff1b8fcd05f.jpg",
+        "label": "No"
+    },
+    "58": {
+        "name": "image_58.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_58.jpg",
+        "url": "https://www.entyvio.com/images/recipes/recipe.6/featured.jpg",
+        "label": "No"
+    },
+    "60": {
+        "name": "image_60.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_60.jpg",
+        "url": "https://thebamasteelmagnoliasbistro.files.wordpress.com/2010/05/fusillicornpepper_thumb.jpg?w=504&h=379",
+        "label": "No"
+    },
+    "62": {
+        "name": "image_62.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_62.jpg",
+        "url": "https://farm4.staticflickr.com/3676/9597339192_cbf60e916f_z.jpg",
+        "label": "Yes"
+    },
+    "63": {
+        "name": "image_63.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_63.jpg",
+        "url": "https://us.123rf.com/450wm/rawpixel/rawpixel1605/rawpixel160517329/56711656-eat-well-live-well-healthy-food-party-restaurant-concept.jpg?ver=6",
+        "label": "No"
+    },
+    "64": {
+        "name": "image_64.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_64.jpg",
+        "url": "https://farm2.static.flickr.com/1294/534934564_e9cb07b515_m.jpg",
+        "label": "No"
+    },
+    "65": {
+        "name": "image_65.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_65.jpg",
+        "url": "https://s3.amazonaws.com/static.smiletemplates.com/uploads/screenshots/73/0000073721/s20.jpg",
+        "label": "No"
+    },
+    "67": {
+        "name": "image_67.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_67.jpg",
+        "url": "https://static.chope.co/uploads/2018/11/Grilled_Giant_River_Prawn_jpg_1541323858.jpg?date=20200117100512",
+        "label": "Yes"
+    },
+    "68": {
+        "name": "image_68.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_68.jpg",
+        "url": "http://1.bp.blogspot.com/-h4jsl64Pupc/VlGIxcNgYDI/AAAAAAAAN_g/xDnJd5PGr4Q/s640/stewCover.jpg",
+        "label": "Yes"
+    },
+    "69": {
+        "name": "image_69.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_69.jpg",
+        "url": "https://vulcanstable.files.wordpress.com/2011/01/dsc_0473.jpg",
+        "label": "Yes"
+    },
+    "70": {
+        "name": "image_70.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_70.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/62/83/45/400_F_62834574_r2fzbIR0i607OCOOtVUicGi0y8Rs0f0i.jpg",
+        "label": "Yes"
+    },
+    "71": {
+        "name": "image_71.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_71.jpg",
+        "url": "https://thumbs.dreamstime.com/t/handsome-man-preparing-salad-his-son-17279199.jpg",
+        "label": "Yes"
+    },
+    "73": {
+        "name": "image_73.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_73.jpg",
+        "url": "https://hips.hearstapps.com/ame-prod-goodhousekeeping-assets.s3.amazonaws.com/main/galleries/8813/92-canapes-pumpernickel-bites-meike-de.jpg?resize=480:*",
+        "label": "Yes"
+    },
+    "74": {
+        "name": "image_74.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_74.jpg",
+        "url": "https://i.pinimg.com/236x/c2/db/3f/c2db3f4ae6dafe56f73cd5755321f0d8.jpg",
+        "label": "Yes"
+    },
+    "75": {
+        "name": "image_75.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_75.jpg",
+        "url": "http://images-gmi-pmc.edge-generalmills.com/84a3690f-f16f-46b0-a1af-926388c6b738.jpg",
+        "label": "Yes"
+    },
+    "78": {
+        "name": "image_78.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_78.jpg",
+        "url": "http://lh4.ggpht.com/5Et1NA2ZaNTyit0Ygf-4iwykfbEyHoJPtSeZXrYcOfBMzjaKZadZ9oQu6qjFFMv4lJVRwu9IRsaXB_ynRLEYjw=s400-c",
+        "label": "Yes"
+    },
+    "79": {
+        "name": "image_79.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_79.jpg",
+        "url": "https://i.pinimg.com/236x/1b/87/36/1b8736a01b1211107e9d2d7788b30a7c.jpg",
+        "label": "No"
+    },
+    "81": {
+        "name": "image_81.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_81.jpg",
+        "url": "https://i0.wp.com/en.blog.kkday.com/wp-content/uploads/sg_cny_party_platters.jpg?resize=640%2C480&ssl=1",
+        "label": "Yes"
+    },
+    "83": {
+        "name": "image_83.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_83.jpg",
+        "url": "https://i.pinimg.com/736x/91/fa/8e/91fa8e663dee3f96a4976742c618b700.jpg",
+        "label": "No"
+    },
+    "85": {
+        "name": "image_85.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_85.jpg",
+        "url": "https://thumbs.dreamstime.com/t/red-cabbage-salad-mayonnaise-14367332.jpg",
+        "label": "Yes"
+    },
+    "86": {
+        "name": "image_86.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_86.jpg",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/9e2d3999-eca7-41c9-a0fb-635eb235b566.jpg",
+        "label": "No"
+    },
+    "87": {
+        "name": "image_87.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_87.jpg",
+        "url": "https://static3.bigstockphoto.com/thumbs/6/4/9/large2/94694285.jpg",
+        "label": "No"
+    },
+    "88": {
+        "name": "image_88.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_88.jpg",
+        "url": "http://st.depositphotos.com/1218908/1203/i/110/depositphotos_12038380-Bowl-of-fresh-ripened-and-juicy-strawberries..jpg",
+        "label": "Yes"
+    },
+    "89": {
+        "name": "image_89.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_89.jpg",
+        "url": "http://www.bibliocook.com/airdriedbeef.jpg",
+        "label": "Yes"
+    },
+    "90": {
+        "name": "image_90.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_90.jpg",
+        "url": "https://poshplate.us/wp-content/uploads/2020/12/pomegranate-seeds-in-a-bowl-320x200.jpg",
+        "label": "Yes"
+    },
+    "91": {
+        "name": "image_91.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_91.jpg",
+        "url": "https://images.pond5.com/children-eating-breakfast-dad-photo-021654776_iconv.jpeg",
+        "label": "No"
+    },
+    "92": {
+        "name": "image_92.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_92.jpg",
+        "url": "https://thumbs.dreamstime.com/x/bowl-corn-flakes-fresh-blueberries-14534875.jpg",
+        "label": "No"
+    },
+    "93": {
+        "name": "image_93.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_93.jpg",
+        "url": "https://s-media-cache-ak0.pinimg.com/736x/7d/46/c1/7d46c1c1592c652919c56975ef05f152.jpg",
+        "label": "Yes"
+    },
+    "94": {
+        "name": "image_94.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_94.jpg",
+        "url": "https://farm8.staticflickr.com/7061/6887663007_c11c944d23_m.jpg",
+        "label": "No"
+    },
+    "95": {
+        "name": "image_95.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_95.jpg",
+        "url": "http://lh3.ggpht.com/JU941zHsCAY-LUNoUp5LCh-Xj7F7K52x8JT0nPHfRfrfpIyBC5LKA8w4fcdIVpmmehKfJuMDR3iBvpq1RSlR=s230-c",
+        "label": "No"
+    },
+    "96": {
+        "name": "image_96.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_96.jpg",
+        "url": "http://images-gmi-pmc.edge-generalmills.com/f3b267ca-2fc4-45d2-900a-f996a71b8476.jpg",
+        "label": "No"
+    },
+    "97": {
+        "name": "image_97.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_97.jpg",
+        "url": "https://lh3.googleusercontent.com/WzK7LYCbhbpKYDdFthp7PpeTTUEDNXgkkRhn3368SbMBXntonD6rQRQrlaODjBh_UZ-zjO8JbFracpVoLD97zQ=s320-c-e365",
+        "label": "Yes"
+    },
+    "98": {
+        "name": "image_98.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_98.jpg",
+        "url": "https://paninihappy.com/wp-content/uploads/2011/08/Grilled-Peach-Salad-close-490.jpg",
+        "label": "Yes"
+    },
+    "99": {
+        "name": "image_99.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_99.jpg",
+        "url": "http://images.edge-generalmills.com/93811747-fede-4259-b9e2-aaf86b1be96f.jpg",
+        "label": "No"
+    },
+    "100": {
+        "name": "image_100.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_100.jpg",
+        "url": "https://i.ytimg.com/vi/KTae0w79dAI/hqdefault.jpg",
+        "label": "No"
+    },
+    "101": {
+        "name": "image_101.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_101.jpg",
+        "url": "https://i.pinimg.com/236x/bb/fe/bc/bbfebc7f829df17d24e453036d8d5795.jpg",
+        "label": "No"
+    },
+    "102": {
+        "name": "image_102.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_102.jpg",
+        "url": "https://i1.wp.com/keepinitkind.com/wp-content/uploads/2014/01/Vanilla-Almind-Fig-Granola-Parfaits-w-Blood-Oranges-3-682x1024.jpg?resize=500%2C751",
+        "label": "Yes"
+    },
+    "103": {
+        "name": "image_103.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_103.jpg",
+        "url": "https://thumb1.shutterstock.com/image-photo/stock-photo-cheese-and-olive-tomato-platter-with-vegetable-and-herbs-450w-151898903.jpg",
+        "label": "Yes"
+    },
+    "104": {
+        "name": "image_104.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_104.jpg",
+        "url": "http://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/2/37/23711f48-0f04-11e5-aa26-f78ecdf9499d/55777ed759c61.image.jpg?resize=300%2C413",
+        "label": "No"
+    },
+    "105": {
+        "name": "image_105.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_105.jpg",
+        "url": "https://i1.wp.com/www.nutrition-elevated.com/wp-content/uploads/2017/11/IMG_5963-1-150x150.jpg?resize=150%2C150&",
+        "label": "No"
+    },
+    "106": {
+        "name": "image_106.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_106.jpg",
+        "url": "https://yummyaddiction.com/wp-content/uploads/2017/01/chicken-florentine-soup-2-5.jpg",
+        "label": "No"
+    },
+    "108": {
+        "name": "image_108.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_108.jpg",
+        "url": "https://farm8.staticflickr.com/7156/6559317221_677b76b90d.jpg",
+        "label": "Yes"
+    },
+    "109": {
+        "name": "image_109.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_109.jpg",
+        "url": "https://i1.wp.com/upbeetkitchen.com/wp-content/uploads/2019/07/IMG_6667.jpg?resize=720%2C960&ssl=1",
+        "label": "Yes"
+    },
+    "110": {
+        "name": "image_110.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_110.jpg",
+        "url": "https://honestcooking.com/wp-content/uploads/2011/10/Sweet-Potato-Bisque.jpg",
+        "label": "No"
+    },
+    "111": {
+        "name": "image_111.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_111.jpg",
+        "url": "http://www.livingnaturally.com/promog/Gillhams/13968/artile.jpg",
+        "label": "Yes"
+    },
+    "112": {
+        "name": "image_112.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_112.jpg",
+        "url": "https://www.dontgobaconmyheart.co.uk/wp-content/uploads/2017/05/Grilled-Garlic-Parmesan-Asparagus-with-Hollandaise-Sauce8a-1-350x460.jpg",
+        "label": "No"
+    },
+    "113": {
+        "name": "image_113.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_113.jpg",
+        "url": "http://i2.wp.com/www.unexpectedelegance.com/wp-content/uploads/2016/10/22-MOUTH-WATERING-THANKSGIVING-SIDE-DISHES-FEATURE.jpg?resize=125%2C125",
+        "label": "No"
+    },
+    "114": {
+        "name": "image_114.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_114.jpg",
+        "url": "https://ecs7-p.tokopedia.net/img/cache/200-square/product-1/2020/4/22/100613529/100613529_6ad5bce6-01a0-44a7-9ef1-dbfd8c9a3c6b_653_653",
+        "label": "No"
+    },
+    "115": {
+        "name": "image_115.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_115.jpg",
+        "url": "http://lh4.ggpht.com/mNDXiWiP7ZiOX9QIqUdZgdBqpUQ7ygPkL6RmZr75VhB8MHoidbJKRhWjdpOLv9MiYBeuFsDX3wrotCjZcAXTHg=s400-c",
+        "label": "No"
+    },
+    "117": {
+        "name": "image_117.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_117.jpg",
+        "url": "https://bigoven-res.cloudinary.com/image/upload/t_recipe-256/crab-cakes-with-lemon-herb-aioli-1846133.jpg",
+        "label": "Yes"
+    },
+    "118": {
+        "name": "image_118.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_118.jpg",
+        "url": "http://lh3.ggpht.com/LSvCgwCw6vpjMxv36q9KlyotSPR83mQ4qXO1P7JyLTvfmlyW7WSIDk7aFziqFmiACLyOw_WfbkIf3ujMC38LTBg=h200",
+        "label": "No"
+    },
+    "119": {
+        "name": "image_119.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_119.jpg",
+        "url": "https://images.stockfreeimages.com/523/sfi226w/5238898.jpg",
+        "label": "Yes"
+    },
+    "120": {
+        "name": "image_120.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_120.jpg",
+        "url": "https://14weeksworthofsocks.files.wordpress.com/2014/11/dscn3361.jpg?w=723",
+        "label": "No"
+    },
+    "121": {
+        "name": "image_121.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_121.jpg",
+        "url": "https://www.ilfiordicappero.com/wp-content/uploads/2017/07/ostriche-80-520x465.jpg",
+        "label": "Yes"
+    },
+    "122": {
+        "name": "image_122.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_122.jpg",
+        "url": "https://stopdropandtravel.files.wordpress.com/2013/10/southwest-orange-20131019-00121.jpg?w=529&",
+        "label": "No"
+    },
+    "123": {
+        "name": "image_123.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_123.jpg",
+        "url": "https://thumbs.dreamstime.com/t/food-meat-barbecue-vegetables-wooden-surface-steak-beef-steak-bbq-tomatoes-peppers-spices-cooking-38975607.jpg",
+        "label": "No"
+    },
+    "124": {
+        "name": "image_124.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_124.jpg",
+        "url": "https://www.thespruceeats.com/thmb/chmUBk3rcFwOBpfyQej_jTRZ6ek=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/bananas-589dee645f9b58819c9e987c.jpeg",
+        "label": "No"
+    },
+    "126": {
+        "name": "image_126.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_126.jpg",
+        "url": "https://1.bp.blogspot.com/-8GcbyNdzHMM/UnKg1KGC0bI/AAAAAAAAHMU/Jd0BFuv_SpY/s640/BeefMelEnd.jpg",
+        "label": "No"
+    },
+    "128": {
+        "name": "image_128.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_128.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51kasR6FGLL.01_SL200_.jpg",
+        "label": "Yes"
+    },
+    "129": {
+        "name": "image_129.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_129.jpg",
+        "url": "https://i.pinimg.com/originals/a2/37/a6/a237a6b37943031d619a647b36efbd50.jpg",
+        "label": "No"
+    },
+    "130": {
+        "name": "image_130.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_130.jpg",
+        "url": "https://i.pinimg.com/236x/79/0d/99/790d995ea109c7f112f95bbef7364e46.jpg",
+        "label": "No"
+    },
+    "131": {
+        "name": "image_131.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_131.jpg",
+        "url": "https://happyathome681.files.wordpress.com/2018/02/fat-blasting-italian-soup-collage-min.jpg?w=359&h=580",
+        "label": "Yes"
+    },
+    "132": {
+        "name": "image_132.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_132.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/55/13/95/110_F_55139595_R0pLTQr0GqQzMMboa2jSKUF6WlK3kMr2.jpg",
+        "label": "No"
+    },
+    "133": {
+        "name": "image_133.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_133.jpg",
+        "url": "http://media.morristechnology.com/mediafilesvr/upload/santa_clarita/article/2013/02/26/0227_food_1.jpg",
+        "label": "No"
+    },
+    "134": {
+        "name": "image_134.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_134.jpg",
+        "url": "http://media01.stockfood.com/thumbs/170/11136114.jpg",
+        "label": "No"
+    },
+    "135": {
+        "name": "image_135.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_135.jpg",
+        "url": "https://i.pinimg.com/236x/05/e6/38/05e638cc837112986bfaecd0dd5c8c15.jpg",
+        "label": "No"
+    },
+    "136": {
+        "name": "image_136.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_136.jpg",
+        "url": "https://i1.wp.com/galleypirate.com/wp-content/uploads/2015/04/carnitas-ingredients1.jpg?w=241&",
+        "label": "No"
+    },
+    "137": {
+        "name": "image_137.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_137.jpg",
+        "url": "https://i2.wp.com/busymomshelper.com/wp-content/uploads/2016/03/Honey-Lime-Fruit-Salad-is-an-easy-and-elegant-brunch-dish.jpg?resize=590%2C393&",
+        "label": "Yes"
+    },
+    "138": {
+        "name": "image_138.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_138.jpg",
+        "url": "https://i.pinimg.com/736x/7d/9d/96/7d9d96509beb9f14022e11d93fa06b53--colby-cheese-provolone-cheese.jpg",
+        "label": "Yes"
+    },
+    "139": {
+        "name": "image_139.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_139.jpg",
+        "url": "http://cache.graphicslib.viator.com/graphicslib/5830/SITours/madrid-cooking-class-learn-how-to-make-paella-and-tapas-in-madrid-127066.jpg",
+        "label": "Yes"
+    },
+    "140": {
+        "name": "image_140.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_140.jpg",
+        "url": "https://i.pinimg.com/236x/12/24/3b/12243b11e7f816443b7e1c1458ca927b--healthy-eating-healthy-food.jpg",
+        "label": "No"
+    },
+    "141": {
+        "name": "image_141.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_141.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/67/88/01/240_F_67880171_TX7LpP2HljvsOsOWR0G4uyoAhDNrqs9A.jpg",
+        "label": "No"
+    },
+    "142": {
+        "name": "image_142.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_142.jpg",
+        "url": "https://1.bp.blogspot.com/-pj5lrTuKezY/Wdo-rIP6HYI/AAAAAAADDiM/sxoGVOtB4tsyQox_V_3ga29SEj39ufnmACLcBGAs/s1600/sweet%2Bpotato%2Bsalad%2Bfont.png",
+        "label": "No"
+    },
+    "143": {
+        "name": "image_143.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_143.jpg",
+        "url": "http://images4.fanpop.com/image/photos/17000000/Royal-Pains-Season-1-episode-2-royal-pains-17053635-120-67.jpg",
+        "label": "No"
+    },
+    "144": {
+        "name": "image_144.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_144.jpg",
+        "url": "http://2.bp.blogspot.com/-K3jbTl7rabA/VSKnlICKtRI/AAAAAAAAc-A/e4jEaUzvOHo/s1600/IMG_0900.JPG",
+        "label": "No"
+    },
+    "145": {
+        "name": "image_145.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_145.jpg",
+        "url": "http://www.catchingfireflies.com/product_images/v/044/GIB08reg__97218_thumb.jpg",
+        "label": "Yes"
+    },
+    "146": {
+        "name": "image_146.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_146.jpg",
+        "url": "http://img.youtube.com/vi/AjBQdjfqzfk/0.jpg",
+        "label": "No"
+    },
+    "147": {
+        "name": "image_147.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_147.jpg",
+        "url": "https://mommahealth.com/wp-content/uploads/2012/08/Cucumbers-in-Vinegar.jpg",
+        "label": "Yes"
+    },
+    "148": {
+        "name": "image_148.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_148.jpg",
+        "url": "http://ot-foodspotting-production.s3.amazonaws.com/reviews/1208421/thumb_600.jpg?1326328620",
+        "label": "No"
+    },
+    "149": {
+        "name": "image_149.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_149.jpg",
+        "url": "http://static5.depositphotos.com/1010050/438/i/110/depositphotos_4386209-Farfalle-with-mushrooms.jpg",
+        "label": "No"
+    },
+    "151": {
+        "name": "image_151.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_151.jpg",
+        "url": "https://us.123rf.com/450wm/thanarat27/thanarat271812/thanarat27181200032/115477988-noodle-soup-with-pork-meat-ball-in-bowl-top-view.jpg?ver=6",
+        "label": "No"
+    },
+    "153": {
+        "name": "image_153.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_153.jpg",
+        "url": "https://eateatwalkwalk.files.wordpress.com/2014/09/2014-09-26-19-43-37.jpg?w=299&h=299",
+        "label": "No"
+    },
+    "155": {
+        "name": "image_155.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_155.jpg",
+        "url": "https://dd978y4vwod92.cloudfront.net/uploads/photos/images/427/1cc01999dac01bd53c5009852faba394-medium.jpg?1369399369",
+        "label": "Yes"
+    },
+    "156": {
+        "name": "image_156.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_156.jpg",
+        "url": "http://3.bp.blogspot.com/_AmoUsMxyKHc/TPRi-H1ajzI/AAAAAAAADvg/7TOE-NKMcXQ/s400/November+26th+2010+001.jpg",
+        "label": "No"
+    },
+    "157": {
+        "name": "image_157.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_157.jpg",
+        "url": "https://thumbs.dreamstime.com/t/homemade-chicken-soup-pasta-8757822.jpg",
+        "label": "Yes"
+    },
+    "159": {
+        "name": "image_159.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_159.jpg",
+        "url": "https://www.habe-ich-selbstgemacht.de/wp-content/uploads/2020/09/Gesund-Superfood-Kekse-24.jpg",
+        "label": "Yes"
+    },
+    "160": {
+        "name": "image_160.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_160.jpg",
+        "url": "https://www.101cookbooks.com/mt-static/images/food/orange_glazed_tempeh.jpg",
+        "label": "No"
+    },
+    "161": {
+        "name": "image_161.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_161.jpg",
+        "url": "https://i.ebayimg.com/00/s/NzY4WDEwMjQ=/z/w6EAAOSwOgdYselL/$_99.JPG",
+        "label": "No"
+    },
+    "162": {
+        "name": "image_162.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_162.jpg",
+        "url": "http://lh5.ggpht.com/qMmSI8qNa4cqe4ITb0KzZWCPIuO2JggiUaX2Lymun7ZDSfpRYYjCZxCUw7vUHAEcg0a495lv-ceQFC-G1nc=s230-c",
+        "label": "No"
+    },
+    "163": {
+        "name": "image_163.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_163.jpg",
+        "url": "http://static6.depositphotos.com/1123951/630/i/110/depositphotos_6303968-Shashlik.jpg",
+        "label": "No"
+    },
+    "164": {
+        "name": "image_164.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_164.jpg",
+        "url": "https://thumbs.dreamstime.com/t/curly-green-salad-25030318.jpg",
+        "label": "Yes"
+    },
+    "166": {
+        "name": "image_166.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_166.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/3218019/300/200/m1/fpc/wm0/oobqigglkwpe56dlcjbcydicedq5vm4egvmmsv0mimt32xvnebykjzspspzmpbce-.jpg?1504809308&s=23f653bbefd08c93f2648eaf885763b6",
+        "label": "No"
+    },
+    "167": {
+        "name": "image_167.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_167.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/56/14/85/160_F_56148566_Q5Wgvcs22O7jxf4XW90djIGtYdbeR3Sh.jpg",
+        "label": "No"
+    },
+    "168": {
+        "name": "image_168.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_168.jpg",
+        "url": "https://image.over-blog.com/Z7MLcruwW8dDaCNmOPlpz3qn7sk=/400x260/smart/filters:no_upscale()/image%2F2009314%2F20170419%2Fob_f0147c_salade-de-fruits-exotique.jpg",
+        "label": "Yes"
+    },
+    "169": {
+        "name": "image_169.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_169.jpg",
+        "url": "https://i.pinimg.com/236x/15/4f/c7/154fc763f6509eea8452891cc2c989a7.jpg",
+        "label": "No"
+    },
+    "170": {
+        "name": "image_170.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_170.jpg",
+        "url": "http://lh4.ggpht.com/DuZpP4twPK2nMscRePOnkztqfqN_lt7DsASCqGC9iIdyhEUxzNeY5rWzVJFUWKrtmnYRtlzx9Y7xz5zaQhxNxw=s230-c",
+        "label": "No"
+    },
+    "172": {
+        "name": "image_172.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_172.jpg",
+        "url": "https://familyspice.com/wp-content/uploads/2018/05/instapot_gormeh_sabzi_680-200x200.jpg",
+        "label": "No"
+    },
+    "174": {
+        "name": "image_174.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_174.jpg",
+        "url": "http://lh3.googleusercontent.com/uwSux-MXq4Mq9vmZpSv71McvgduIqVivo-Bd7e0p1o0TH95ud5zh3pFnHVQZ0ulrYln-PFbaH2ESxmOrocxE=s480-c-e365",
+        "label": "Yes"
+    },
+    "175": {
+        "name": "image_175.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_175.jpg",
+        "url": "https://thumbs.dreamstime.com/t/wheat-grains-bowl-wooden-table-34915163.jpg",
+        "label": "No"
+    },
+    "176": {
+        "name": "image_176.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_176.jpg",
+        "url": "https://thumbs.dreamstime.com/t/woman-eggplant-8502229.jpg",
+        "label": "No"
+    },
+    "177": {
+        "name": "image_177.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_177.jpg",
+        "url": "https://thumbs.dreamstime.com/t/fried-artichokes-top-view-table-kitchen-paper-decorated-slices-lemon-mint-leaves-garlic-69315488.jpg",
+        "label": "No"
+    },
+    "178": {
+        "name": "image_178.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_178.jpg",
+        "url": "https://i2.wp.com/thewineloverskitchen.com/wp-content/uploads/2018/11/DSC_8011-e1542145059167.jpg?resize=700%2C463",
+        "label": "Yes"
+    },
+    "179": {
+        "name": "image_179.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_179.jpg",
+        "url": "http://static6.depositphotos.com/1005629/606/i/170/depositphotos_6063771-Risotto-with-italian-meet---Risotto-alla-Mantovana.jpg",
+        "label": "No"
+    },
+    "180": {
+        "name": "image_180.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_180.jpg",
+        "url": "https://www.chef-in-training.com/blog/wp-content/uploads/2012/09/IMG_2775-1.jpg",
+        "label": "No"
+    },
+    "181": {
+        "name": "image_181.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_181.jpg",
+        "url": "https://i.pinimg.com/736x/d3/23/c0/d323c060e7f64895e5b1d03e43b57de5.jpg",
+        "label": "No"
+    },
+    "182": {
+        "name": "image_182.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_182.jpg",
+        "url": "https://i.pinimg.com/236x/77/b5/53/77b553cd6f741003b6361c15404a685f.jpg",
+        "label": "No"
+    },
+    "184": {
+        "name": "image_184.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_184.jpg",
+        "url": "http://lh4.ggpht.com/g02SBjWL4r6Qii6kc78_uD0J0rJ6sTmor5MX70FBhlg3vbT34no_e3kE8c3ON7K9Wx0mCaTVuyX-v9QQPUFE=s230-c",
+        "label": "No"
+    },
+    "185": {
+        "name": "image_185.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_185.jpg",
+        "url": "https://i0.wp.com/www.missallieskitchen.com/wp-content/uploads/2017/09/IMG_8971.jpg?resize=667%2C1000",
+        "label": "No"
+    },
+    "186": {
+        "name": "image_186.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_186.jpg",
+        "url": "http://www.trueplayerflavor.com/wp-content/uploads/2012/02/DSC_0441-150x150.jpg",
+        "label": "No"
+    },
+    "187": {
+        "name": "image_187.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_187.jpg",
+        "url": "https://viaggioinindonesia.com/simona-warnerin/2018/06/viaggioinindonesia_journeytoindonesia_Ubud1.jpg",
+        "label": "No"
+    },
+    "188": {
+        "name": "image_188.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_188.jpg",
+        "url": "http://images.meredith.com/content/dam/bhg/Images/recipe/39/37401.jpg.rendition.largest.ss.jpg",
+        "label": "No"
+    },
+    "189": {
+        "name": "image_189.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_189.jpg",
+        "url": "https://i.pinimg.com/236x/2c/60/46/2c6046a622df0f91d873a16bab2c6c05--rotisserie-chicken-soup-chicken-soups.jpg",
+        "label": "Yes"
+    },
+    "192": {
+        "name": "image_192.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_192.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/63/20/92/110_F_63209217_rwSrfzdWbsuj8h7bfszfWlQoj1u7501m.jpg",
+        "label": "No"
+    },
+    "194": {
+        "name": "image_194.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_194.jpg",
+        "url": "https://i.pinimg.com/736x/38/82/97/3882971d900b5047f9f60713554b8a72--side-dishes-for-thanksgiving-thanksgiving-feast.jpg",
+        "label": "No"
+    },
+    "196": {
+        "name": "image_196.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_196.jpg",
+        "url": "https://ehc-west-0-bucket.s3.us-west-2.amazonaws.com/web/documents/azburgershoppe/menu_item_images/item_image_8e53e107-d2de-4e49-b42a-409b6aa37dc4.jpg?5f0a128240e38",
+        "label": "No"
+    },
+    "197": {
+        "name": "image_197.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_197.jpg",
+        "url": "https://www.thisgalcooks.com/wp-content/uploads/2014/12/Baked-Pears-with-Honey-Cranberries-and-Pecans2.jpg",
+        "label": "No"
+    },
+    "198": {
+        "name": "image_198.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_198.jpg",
+        "url": "https://i.pinimg.com/736x/86/67/0b/86670b421235d61623c5bd67428337e2--slow-cooker-kung-pao-chicken-paleo-dinner.jpg",
+        "label": "Yes"
+    },
+    "199": {
+        "name": "image_199.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_199.jpg",
+        "url": "https://i.pinimg.com/236x/e1/1a/11/e11a110d3137f3b63d0c2ef8c06d092b.jpg",
+        "label": "No"
+    },
+    "200": {
+        "name": "image_200.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_200.jpg",
+        "url": "https://www.thewanderfulme.com/wp-content/uploads/2018/02/IMG_5307.jpg",
+        "label": "No"
+    },
+    "201": {
+        "name": "image_201.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_201.jpg",
+        "url": "http://www.indusladies.com/wp/wp-content/uploads/2014/01/south-indian-thali-e1389059379740-300x250.jpg",
+        "label": "No"
+    },
+    "202": {
+        "name": "image_202.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_202.jpg",
+        "url": "http://lh3.googleusercontent.com/jVREsJQhZC3-Ivdq9m36hw6pvaLw-1fLvIkITZzAcp1J8Hdpq9PKD71fxV0XtgPoCVeyM9aJ_7LH3GDhxZ9uOA=s320-c-e365",
+        "label": "No"
+    },
+    "203": {
+        "name": "image_203.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_203.jpg",
+        "url": "https://tblg.k-img.com/restaurant/images/Rvw/129714/150x150_square_129714581.jpg",
+        "label": "No"
+    },
+    "204": {
+        "name": "image_204.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_204.jpg",
+        "url": "https://images.101cookbooks.com/spicy-tahini-noodles-3.jpg?w=620&amp;auto=format",
+        "label": "No"
+    },
+    "205": {
+        "name": "image_205.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_205.jpg",
+        "url": "https://querciabella.com/wp-content/uploads/2020/10/Blog-Panzanella-Sunny.jpg",
+        "label": "Yes"
+    },
+    "206": {
+        "name": "image_206.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_206.jpg",
+        "url": "http://lh3.ggpht.com/nQahpgl5BXaVV_0NqCNMMKGXIgUxgsSJNqjZZ8IR0k0VBqcnnVLlEPKJsjp5m7cvueT8oUWvc7JKiuyeYdHNAg=s230-c",
+        "label": "Yes"
+    },
+    "207": {
+        "name": "image_207.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_207.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1676/8011/products/image_c0549920-dfb4-4cf7-882a-4851ca6796bb_530x.jpg?v=1511736592",
+        "label": "No"
+    },
+    "208": {
+        "name": "image_208.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_208.jpg",
+        "url": "http://d2k9njawademcf.cloudfront.net/indeximages/31914/three_col/egg_drop_soup_2.jpg?1380099484",
+        "label": "Yes"
+    },
+    "209": {
+        "name": "image_209.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_209.jpg",
+        "url": "https://elchinolatinococina.files.wordpress.com/2015/11/corn-poblano-chowder-pm.jpg?w=1200&resize=200%2C200",
+        "label": "No"
+    },
+    "210": {
+        "name": "image_210.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_210.jpg",
+        "url": "https://s-media-cache-ak0.pinimg.com/236x/c6/cb/85/c6cb85f625cd50979f66e35d8499626e.jpg",
+        "label": "No"
+    },
+    "211": {
+        "name": "image_211.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_211.jpg",
+        "url": "https://thumbs.dreamstime.com/t/almonds-wooden-bowl-32111946.jpg",
+        "label": "No"
+    },
+    "212": {
+        "name": "image_212.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_212.jpg",
+        "url": "https://i.pinimg.com/236x/a2/63/21/a26321818ca007acb492a8e2fa32f55c.jpg",
+        "label": "No"
+    },
+    "213": {
+        "name": "image_213.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_213.jpg",
+        "url": "https://c1.staticflickr.com/5/4026/4483113387_bc4f5c826a_b.jpg",
+        "label": "No"
+    },
+    "216": {
+        "name": "image_216.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_216.jpg",
+        "url": "https://www.allaboutsushiguide.com/images/sushi_grade_fish_250.jpg",
+        "label": "Yes"
+    },
+    "217": {
+        "name": "image_217.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_217.jpg",
+        "url": "https://hellonutritarian.com/wp-content/uploads/2015/01/Day-42-Dr-Fuhrman-Nutritarian-6-week-plan-everything-I-ate-for-6-weeks.jpg",
+        "label": "Yes"
+    },
+    "218": {
+        "name": "image_218.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_218.jpg",
+        "url": "https://s3.amazonaws.com/assets.cce.cornell.edu/events/10717/spotlight_image/sized/Grab___Go_Breakfast_banner.jpg?1518805487",
+        "label": "No"
+    },
+    "221": {
+        "name": "image_221.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_221.jpg",
+        "url": "https://img-global.cpcdn.com/recipes/5021754950942720/751x532cq70/vickys-chocolate-granola-gf-df-ef-sf-nf-recipe-main-photo.jpg",
+        "label": "No"
+    },
+    "222": {
+        "name": "image_222.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_222.jpg",
+        "url": "https://static7.bigstockphoto.com/thumbs/1/1/5/small2/51138037.jpg",
+        "label": "No"
+    },
+    "223": {
+        "name": "image_223.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_223.jpg",
+        "url": "https://i0.wp.com/ahealthylifeforme.com/wp-content/uploads/2016/12/Weekly-Meal-Plan-Week-50_.jpg?resize=180%2C245&amp;ssl=1",
+        "label": "No"
+    },
+    "224": {
+        "name": "image_224.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_224.jpg",
+        "url": "https://static8.bigstockphoto.com/thumbs/5/4/5/small2/54539798.jpg",
+        "label": "Yes"
+    },
+    "225": {
+        "name": "image_225.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_225.jpg",
+        "url": "https://farm4.staticflickr.com/3799/10663008194_782fd69d92.jpg",
+        "label": "Yes"
+    },
+    "226": {
+        "name": "image_226.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_226.jpg",
+        "url": "http://www.homemadeginger.com/wordpress/wp-content/uploads/2013/06/tilapia-recipe-1024x682.jpg",
+        "label": "Yes"
+    },
+    "227": {
+        "name": "image_227.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_227.jpg",
+        "url": "https://www.bloominghomestead.com/wp-content/uploads/2018/02/Turn-that-cluttered-closet-and-turn-it-into-a-functional-and-beautiful-mudroom-to-keep-your-home-organized.jpg",
+        "label": "No"
+    },
+    "229": {
+        "name": "image_229.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_229.jpg",
+        "url": "https://www.kitchentreaty.com/wp-content/uploads/2014/11/Herbed-Wild-Rice-and-Quinoa-Stuffing4sq-160x160.jpg",
+        "label": "No"
+    },
+    "230": {
+        "name": "image_230.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_230.jpg",
+        "url": "https://www.valpak.com/img/bpp/TenjiHibBBox.JPG",
+        "label": "Yes"
+    },
+    "231": {
+        "name": "image_231.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_231.jpg",
+        "url": "https://thumbs.dreamstime.com/t/fresh-vibrant-roma-tomatoes-colander-wate-15813940.jpg",
+        "label": "No"
+    },
+    "232": {
+        "name": "image_232.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_232.jpg",
+        "url": "https://emilybites.com/wp-content/uploads/2014/07/Pesto-Chicken-Roulades-3b-190x145.jpg",
+        "label": "Yes"
+    },
+    "233": {
+        "name": "image_233.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_233.jpg",
+        "url": "https://asianinspirations.com.au/wp-content/uploads/2020/09/R02673_Stir_Fry_Garlic_Chives_Flies_Head-4-300x200.jpg",
+        "label": "Yes"
+    },
+    "234": {
+        "name": "image_234.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_234.jpg",
+        "url": "https://thumbs.dreamstime.com/t/smiling-woman-making-fruits-beverages-domestic-kitchen-34767026.jpg",
+        "label": "No"
+    },
+    "235": {
+        "name": "image_235.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_235.jpg",
+        "url": "https://edibletcetera.files.wordpress.com/2014/10/pork-sweet-potato-mushroom-stew-001.jpg?w=203&",
+        "label": "No"
+    },
+    "236": {
+        "name": "image_236.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_236.jpg",
+        "url": "https://tse4.mm.bing.net/th?id=OIP.cnv04Bjj4L0IR5tf7NFOfwHaJ4",
+        "label": "No"
+    },
+    "237": {
+        "name": "image_237.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_237.jpg",
+        "url": "https://i.pinimg.com/236x/01/65/29/01652967b43fcf33c56d5c45fd444931--frozen-puff-pastry-puff-pastry-baked-eggs.jpg",
+        "label": "No"
+    },
+    "238": {
+        "name": "image_238.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_238.jpg",
+        "url": "https://thumbs.dreamstime.com/t/childs-little-hand-healthy-vegetable-lunch-vegetarian-kids-vegetables-fruit-served-as-animals-corn-broccoli-carrots-fresh-42479663.jpg",
+        "label": "No"
+    },
+    "239": {
+        "name": "image_239.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_239.jpg",
+        "url": "http://www.cookingsensemag.com/wp-content/uploads/2016/07/IMG_3461-800x600.jpg",
+        "label": "No"
+    },
+    "240": {
+        "name": "image_240.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_240.jpg",
+        "url": "https://i2.wp.com/foodapparel.com/wp-content/uploads/2017/07/Bushs-Black-Beans-34-of-38.jpg?resize=150%2C150",
+        "label": "Yes"
+    },
+    "241": {
+        "name": "image_241.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_241.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/21/29/72/400_F_21297206_L14to054X4OEKAkda0DORYjhtsIxWTnh.jpg",
+        "label": "Yes"
+    },
+    "242": {
+        "name": "image_242.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_242.jpg",
+        "url": "http://lh6.ggpht.com/QyC-rLtcYs-KqJVIp9prlxhUUrxth1dj30wBDhgrWftJHlyZlc-nQnzN2eAAkg35oOhBgW77UFRlCJWMyhNR7g=s230-c",
+        "label": "Yes"
+    },
+    "243": {
+        "name": "image_243.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_243.jpg",
+        "url": "https://pinkyfingerup.files.wordpress.com/2015/06/20150617_201111.jpg?w=375&h=211",
+        "label": "No"
+    },
+    "244": {
+        "name": "image_244.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_244.jpg",
+        "url": "http://lh5.ggpht.com/Cme4JrY2xX3nZutJX7pE_r5KDMwmIxqYPrr5WlpNbeEpUJ6GZNmYJnS28GapWK4FGL2gTbRzta_-8Kb_F0COv6w=s230-c",
+        "label": "Yes"
+    },
+    "245": {
+        "name": "image_245.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_245.jpg",
+        "url": "https://1.bp.blogspot.com/-H1qYFy9Qut8/VsW1_V4sm-I/AAAAAAAAPio/KbqycnLCOWc/s640/yakisoba%2Blandscape.jpg",
+        "label": "No"
+    },
+    "246": {
+        "name": "image_246.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_246.jpg",
+        "url": "https://i.pinimg.com/736x/fb/e5/3d/fbe53d1612559e93df372d0166e35548--bread-crumbs-sea-food.jpg",
+        "label": "No"
+    },
+    "248": {
+        "name": "image_248.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_248.jpg",
+        "url": "https://images.squarespace-cdn.com/content/v1/54611cb7e4b01809e28916e6/1533652181905-A6A18A6YT94WPR03IM8U/ke17ZwdGBToddI8pDm48kG87Sfbgg29A4BYEDq3OXvgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcf4OxbJOyh_wHUnyc4kQLQ6SBshRGOku7c30Y_IRDNPta8R2IY5BHMaEj1zOWoDTZ/shrimp+station+kauai+hawaii",
+        "label": "No"
+    },
+    "249": {
+        "name": "image_249.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_249.jpg",
+        "url": "https://foto.wuestenigel.com/wp-content/uploads/thumb/flatlay-of-asian-meatless-dish-with-balanced-vegetables-and-orange-in-a-vegan-curry-turmeric-sauce-next-to-a-bowl-of-rice-.jpeg",
+        "label": "No"
+    },
+    "250": {
+        "name": "image_250.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_250.jpg",
+        "url": "https://fastly.4sqi.net/img/general/699x268/7634300_AKOV45eajhRR9ebNo0k-UIcXC7OuQZd3awiJPSa_U4M.jpg",
+        "label": "Yes"
+    },
+    "251": {
+        "name": "image_251.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_251.jpg",
+        "url": "http://gbc-cdn-public-media.azureedge.net/img61541.1426x713.jpg",
+        "label": "Yes"
+    },
+    "252": {
+        "name": "image_252.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_252.jpg",
+        "url": "https://avocadopesto.com/wp-content/uploads/2016/07/Authentic-Peruvian-Ceviche-with-Mahi-Mahi-1-250x250.jpg",
+        "label": "No"
+    },
+    "253": {
+        "name": "image_253.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_253.jpg",
+        "url": "https://i.ytimg.com/vi/PiIxF5Uq3fY/mqdefault.jpg",
+        "label": "No"
+    },
+    "255": {
+        "name": "image_255.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_255.jpg",
+        "url": "http://i.pinimg.com/236x/c4/5f/7d/c45f7d1844b042d92d96e5509989633b.jpg",
+        "label": "No"
+    },
+    "256": {
+        "name": "image_256.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_256.jpg",
+        "url": "https://i0.wp.com/theherbeevore.com/wp-content/uploads/2021/04/wp-16176743669898352011282723620823.jpg?fit=179%2C300",
+        "label": "No"
+    },
+    "257": {
+        "name": "image_257.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_257.jpg",
+        "url": "https://i.pinimg.com/736x/67/1a/b6/671ab634579750a35e860aa0d470a97b.jpg",
+        "label": "No"
+    },
+    "258": {
+        "name": "image_258.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_258.jpg",
+        "url": "https://i.ebayimg.com/00/s/MzJYMzI=/z/sT0AAOSwSWtZk5Ed/$_86.JPG",
+        "label": "No"
+    },
+    "260": {
+        "name": "image_260.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_260.jpg",
+        "url": "https://clarysage.files.wordpress.com/2013/03/dsc_09271.jpg?w=490&",
+        "label": "No"
+    },
+    "263": {
+        "name": "image_263.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_263.jpg",
+        "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/be/a8/0a/bea80ab7-2b27-6456-08a6-ab3006e0a80e/pr_source.jpg/300x0w.jpg",
+        "label": "No"
+    },
+    "264": {
+        "name": "image_264.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_264.jpg",
+        "url": "https://thumbs.dreamstime.com/m/beans-sausages-sauce-parsley-27335247.jpg",
+        "label": "No"
+    },
+    "266": {
+        "name": "image_266.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_266.jpg",
+        "url": "https://farm3.static.flickr.com/2022/2102073347_771a6246c6_m.jpg",
+        "label": "No"
+    },
+    "267": {
+        "name": "image_267.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_267.jpg",
+        "url": "https://thumbs.dreamstime.com/t/sun-dried-tomatoes-olives-crusty-bread-10216252.jpg",
+        "label": "No"
+    },
+    "268": {
+        "name": "image_268.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_268.jpg",
+        "url": "https://live.staticflickr.com/31/63716582_d7e946064c_n.jpg",
+        "label": "No"
+    },
+    "269": {
+        "name": "image_269.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_269.jpg",
+        "url": "https://media02.stockfood.com/wmpreviews/MTQ5NjQwMjMx/11510787.jpg",
+        "label": "Yes"
+    },
+    "270": {
+        "name": "image_270.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_270.jpg",
+        "url": "https://1.bp.blogspot.com/-qb7bIp3qPRU/V2McbFU5leI/AAAAAAABGlo/U23xpgvCwrgqUf1OJg4OgUC9xroVdhWpgCLcB/s1600/Low-carb-recipe-love-6-17-16-kalynskitchen.jpg",
+        "label": "No"
+    },
+    "271": {
+        "name": "image_271.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_271.jpg",
+        "url": "https://thumbs.dreamstime.com/t/sushi-tuna-13973723.jpg",
+        "label": "Yes"
+    },
+    "272": {
+        "name": "image_272.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_272.jpg",
+        "url": "http://lh3.ggpht.com/P5osl0PAdD9023O1pDSV2w-0KASttoqzky0O_hpvkiCvjMHR8qoURcft13mq70dD9noNPnZkIZbp-vwysp57wvE=s230-c",
+        "label": "Yes"
+    },
+    "273": {
+        "name": "image_273.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_273.jpg",
+        "url": "https://i2.wp.com/www.thepetitecook.com/wp-content/uploads/2018/08/primmavera-sound-food-festival-5.jpg?resize=700%2C1000&ssl=1",
+        "label": "Yes"
+    },
+    "274": {
+        "name": "image_274.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_274.jpg",
+        "url": "https://thumbs.dreamstime.com/t/close-up-raw-ground-beef-cutting-board-28924779.jpg",
+        "label": "No"
+    },
+    "275": {
+        "name": "image_275.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_275.jpg",
+        "url": "https://thumbs.dreamstime.com/t/chevrolet-1955-metal-scale-toy-car-1837882.jpg",
+        "label": "No"
+    },
+    "276": {
+        "name": "image_276.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_276.jpg",
+        "url": "https://us.123rf.com/450wm/angorius/angorius1211/angorius121100028/16312463-two-trunk-of-raw-trout-with-lemon-and-bay-leaf-on-the-wooden-board.jpg",
+        "label": "No"
+    },
+    "277": {
+        "name": "image_277.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_277.jpg",
+        "url": "https://0bb8856ba8259ec33e3d-a40599a114f3a4c6d0979c3ffe0b2bf5.ssl.cf2.rackcdn.com/0238895000000_CL_hyvee_default_thumb.png",
+        "label": "Yes"
+    },
+    "278": {
+        "name": "image_278.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_278.jpg",
+        "url": "https://i.pinimg.com/236x/be/06/e9/be06e93e4dcf98b2287b8b910e92f9ed--thai-green-chicken-curry-green-chilli.jpg",
+        "label": "No"
+    },
+    "279": {
+        "name": "image_279.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_279.jpg",
+        "url": "https://cdn.receptnajidlo.cz/vvv/cz/tomatov%C3%A1-bruschetta-%28brusketa%29.jpg",
+        "label": "Yes"
+    },
+    "280": {
+        "name": "image_280.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_280.jpg",
+        "url": "http://covers.booktopia.com.au/big/9780593069943/a-salad-for-all-seasons.jpg",
+        "label": "Yes"
+    },
+    "282": {
+        "name": "image_282.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_282.jpg",
+        "url": "https://www.gffoodservice.com.au/content/uploads/2019/03/1896X1066-CW.jpg",
+        "label": "No"
+    },
+    "284": {
+        "name": "image_284.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_284.jpg",
+        "url": "http://st.depositphotos.com/1761942/2404/i/110/depositphotos_24041875-Variation-of--tasty-sushi-rolls.jpg",
+        "label": "No"
+    },
+    "285": {
+        "name": "image_285.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_285.jpg",
+        "url": "http://lh4.ggpht.com/kalWkyJRjcs3iyMrFl2lGQ8kMNJBmoPArLP5lbxT-nWSi5PD93ckChSPVhGdi80MmZPPXPrQbgZH0LZIQhVVCg=s400-c",
+        "label": "Yes"
+    },
+    "286": {
+        "name": "image_286.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_286.jpg",
+        "url": "http://i3.ytimg.com/vi/0Ns1-2r4gnA/mqdefault.jpg",
+        "label": "Yes"
+    },
+    "287": {
+        "name": "image_287.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_287.jpg",
+        "url": "https://thumbs.dreamstime.com/t/young-woman-having-breakfast-balanced-diet-45659474.jpg",
+        "label": "No"
+    },
+    "288": {
+        "name": "image_288.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_288.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/140x140/985459.jpg",
+        "label": "No"
+    },
+    "289": {
+        "name": "image_289.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_289.jpg",
+        "url": "http://lh4.ggpht.com/n9xPwDEMfP2NbAGAn4p5J0WgBDn0QfHN9ND8q5CF33oRnQBvKuAuUVYl7g13oTYhfnGvFpMnJwE2ejmSZGl0=s320-c-e365",
+        "label": "Yes"
+    },
+    "290": {
+        "name": "image_290.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_290.jpg",
+        "url": "https://i.pinimg.com/custom_covers/216x146/357191882885296801_1480852497.jpg",
+        "label": "Yes"
+    },
+    "291": {
+        "name": "image_291.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_291.jpg",
+        "url": "https://lh3.googleusercontent.com/-J-cEpozycfs/UXwCwnuvAOI/AAAAAAAAKVE/Odv5I-61TBM/w640-h480/6+pesto.jpg",
+        "label": "No"
+    },
+    "292": {
+        "name": "image_292.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_292.jpg",
+        "url": "http://ekladata.com/3IIt4kWvCdqUADaVZcGIxwTA04M@500x375.jpg",
+        "label": "No"
+    },
+    "293": {
+        "name": "image_293.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_293.jpg",
+        "url": "http://s3.amazonaws.com/grecipes/public/pictures/recipes/991147/_9caa2b69_medium.jpg",
+        "label": "Yes"
+    },
+    "294": {
+        "name": "image_294.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_294.jpg",
+        "url": "https://i1.wp.com/www.bombshellbling.com/wp-content/uploads/2013/06/summer-progressive-dinner-pinnable-image-1.jpg?resize=500%2C959&ssl=1",
+        "label": "No"
+    },
+    "296": {
+        "name": "image_296.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_296.jpg",
+        "url": "https://static3.bigstockphoto.com/thumbs/8/1/9/large2/91822325.jpg",
+        "label": "Yes"
+    },
+    "297": {
+        "name": "image_297.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_297.jpg",
+        "url": "https://us.123rf.com/450wm/dizanna/dizanna1601/dizanna160100594/51036281-kpi-key-performance-indicator-word-cloud-business-concept.jpg?ver=6",
+        "label": "No"
+    },
+    "298": {
+        "name": "image_298.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_298.jpg",
+        "url": "http://lh6.ggpht.com/jaRtBr-PQN9YKj2yHS_BY3paxM8w0DNx9BGTajt-Ix7Tl_cXrFJxzdHFNlvA16FjSHI1_wFRrL01bOISLtyKsQ=s240-c",
+        "label": "No"
+    },
+    "299": {
+        "name": "image_299.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_299.jpg",
+        "url": "http://lh4.ggpht.com/NnIyZDK9koe1At_8KhNofe5vhjF99evghT4bTOKP9o_aNkR0YtcjBi4n58CdH40pvjTPrAhayBoZEGCs50UwgUM=s230-c",
+        "label": "Yes"
+    },
+    "300": {
+        "name": "image_300.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_300.jpg",
+        "url": "https://lh3.googleusercontent.com/ZNFbsseYMveMZllMSSlbQJrnYKHO5a-K_fYu9QvyywTcTdcFElj_NzFixkTrZRMY-QeXQWV5tHgjP3rM_Bq2kQ=s320-c-e365",
+        "label": "Yes"
+    },
+    "301": {
+        "name": "image_301.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_301.jpg",
+        "url": "https://3.bp.blogspot.com/-dE8qEuY35_g/VvVz2oriGJI/AAAAAAAAGro/Qm_8RmHyGzEI2mfMc50fr6hP3ne-5HdOg/s1600/Sushi%2BKing%2BMENU%2BSUSHI%2BPurple%2BPlate.jpg",
+        "label": "No"
+    },
+    "302": {
+        "name": "image_302.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_302.jpg",
+        "url": "http://s3.amazonaws.com/tastyfix/recipe/52993229e4b0d0d9e9c1bd36-100_1291_full.jpg",
+        "label": "No"
+    },
+    "303": {
+        "name": "image_303.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_303.jpg",
+        "url": "https://i.pinimg.com/736x/36/24/0a/36240ae8ccb2f3a1ffdc5bc5e17c0b9c.jpg",
+        "label": "No"
+    },
+    "304": {
+        "name": "image_304.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_304.jpg",
+        "url": "http://s3.amazonaws.com/gmi-digital-library/a92cea13-05ba-4532-b566-4d246a2bce43.jpg",
+        "label": "No"
+    },
+    "306": {
+        "name": "image_306.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_306.jpg",
+        "url": "https://thumbs.dreamstime.com/m/healthy-food-heart-cholesterol-diet-concept-vintage-boards-61841247.jpg",
+        "label": "No"
+    },
+    "307": {
+        "name": "image_307.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_307.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1231/9832/products/SummerCookbook-pg3_grande.jpg?v=1522706909",
+        "label": "No"
+    },
+    "308": {
+        "name": "image_308.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_308.jpg",
+        "url": "https://www.dhresource.com/0x0s/f2-albu-g1-M01-D8-F1-rBVaGFVW8veALDJRAAKjOCTLDQI445.jpg/led-wristband-watch-waterproof-luminous-bracelet.jpg",
+        "label": "No"
+    },
+    "309": {
+        "name": "image_309.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_309.jpg",
+        "url": "http://1.bp.blogspot.com/-0MkKJoK4Tuo/UQp6Gc4DqoI/AAAAAAAAA9c/Qi_yXXib3kc/s400/Shrimp%2BOkra%2BGumbo%2BDish%2B77295244.jpg",
+        "label": "No"
+    },
+    "310": {
+        "name": "image_310.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_310.jpg",
+        "url": "https://www.recipesthatcrock.com/wp-content/uploads/2020/05/Grilled-Basil-Lime-Chicken-SQ-150x150.jpg",
+        "label": "Yes"
+    },
+    "312": {
+        "name": "image_312.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_312.jpg",
+        "url": "https://static6.bigstockphoto.com/thumbs/9/9/6/small2/69983386.jpg",
+        "label": "Yes"
+    },
+    "313": {
+        "name": "image_313.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_313.jpg",
+        "url": "https://i.ytimg.com/vi/xWshGPokL4c/mqdefault.jpg",
+        "label": "No"
+    },
+    "314": {
+        "name": "image_314.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_314.jpg",
+        "url": "https://thumbs.dreamstime.com/t/lunch-box-6550720.jpg",
+        "label": "No"
+    },
+    "316": {
+        "name": "image_316.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_316.jpg",
+        "url": "https://s3.amazonaws.com/mk-site-prod/assets/cooking-school/advanced-chilli-paste/raw-chillies-for-chilli-paste-78a638c7f3d565432f14f9ee18da4125.jpg",
+        "label": "No"
+    },
+    "317": {
+        "name": "image_317.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_317.jpg",
+        "url": "https://thepointsguy.com/wp-content/uploads/2012/04/Starter-salmon-caviar-150x150.jpg?3363ed",
+        "label": "Yes"
+    },
+    "318": {
+        "name": "image_318.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_318.jpg",
+        "url": "https://i.pinimg.com/originals/03/50/01/035001e96235fb435dc34719c4eb74dd.jpg",
+        "label": "No"
+    },
+    "319": {
+        "name": "image_319.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_319.jpg",
+        "url": "https://livingtoolarge.files.wordpress.com/2012/09/carrot-hummus-7.jpg?w=300&",
+        "label": "No"
+    },
+    "320": {
+        "name": "image_320.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_320.jpg",
+        "url": "https://i.pinimg.com/236x/30/d1/63/30d163bd9866f3affd6ebd1fd4876cec.jpg",
+        "label": "No"
+    },
+    "321": {
+        "name": "image_321.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_321.jpg",
+        "url": "https://thumbs.dreamstime.com/t/sandwich-wrap-organic-style-7330545.jpg",
+        "label": "Yes"
+    },
+    "322": {
+        "name": "image_322.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_322.jpg",
+        "url": "http://lh6.ggpht.com/ZMnrqNHfCKaL3vAzvK4JAB4bTeUMEbhPCUJsChR81f-nv9eny66MWhz7Fg4wlAcwfK9vSkN3pcUJLyMsZKtK7A=s230-c",
+        "label": "No"
+    },
+    "323": {
+        "name": "image_323.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_323.jpg",
+        "url": "https://imageresizer.static9.net.au/YmYmqYugeg4rw_wSkBySd72BIwA=/600x338/smart/https%3A%2F%2Fprod.static9.net.au%2F_%2Fmedia%2F2017%2F08%2F08%2F16%2F57%2FBarkers-blackcurrant-breakfast-crumble.jpg",
+        "label": "No"
+    },
+    "324": {
+        "name": "image_324.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_324.jpg",
+        "url": "http://st.depositphotos.com/1177973/2192/i/110/depositphotos_21922241-Fish-in-frying-pan-with-herbs-and-lemon-on-board-on-wooden-table-on-fire-background.jpg",
+        "label": "No"
+    },
+    "325": {
+        "name": "image_325.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_325.jpg",
+        "url": "https://s3.amazonaws.com/foodfornet/wp-content/uploads/2017/11/Sun-Basket7.png",
+        "label": "Yes"
+    },
+    "326": {
+        "name": "image_326.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_326.jpg",
+        "url": "https://i.pinimg.com/736x/ff/9b/95/ff9b955452a40e44068beaa8a6a5dc60.jpg",
+        "label": "Yes"
+    },
+    "327": {
+        "name": "image_327.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_327.jpg",
+        "url": "https://spaceplacehouse.files.wordpress.com/2010/06/dsc_0022.jpg?w=1024&",
+        "label": "No"
+    },
+    "328": {
+        "name": "image_328.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_328.jpg",
+        "url": "https://images.saymedia-content.com/.image/t_share/MTczODQxMjIzMTMwNzUyODcy/great-greek-salad.png",
+        "label": "No"
+    },
+    "329": {
+        "name": "image_329.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_329.jpg",
+        "url": "https://t3921.cpcdn.com/recipes/2541119/200x200cq30/d86d9d247be19a3e6c8412448f17df8e.jpg",
+        "label": "Yes"
+    },
+    "331": {
+        "name": "image_331.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_331.jpg",
+        "url": "https://farm8.staticflickr.com/7774/26196042243_202b4d60b7_c.jpg",
+        "label": "No"
+    },
+    "332": {
+        "name": "image_332.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_332.jpg",
+        "url": "https://www.foodgem.sg/wp-content/uploads/2018/08/niku-kappo-Token-Niko-Sushi-Mori-500x383.jpg",
+        "label": "No"
+    },
+    "333": {
+        "name": "image_333.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_333.jpg",
+        "url": "http://i2.wp.com/parsleysagesweet.com/wp-content/uploads/2014/04/cs3.jpg?resize=600%2C660",
+        "label": "No"
+    },
+    "335": {
+        "name": "image_335.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_335.jpg",
+        "url": "http://lh3.googleusercontent.com/K3k0Ouvw6AaC0cyqAWvsLn50hOcseYttH51YiP119maUFqS9DFOMGZoSXJSGAc7LdSRzNEjdMCCN98CzNXJc=s480-c-e365",
+        "label": "Yes"
+    },
+    "336": {
+        "name": "image_336.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_336.jpg",
+        "url": "http://books.google.com/books/content?id=1HqBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "label": "No"
+    },
+    "337": {
+        "name": "image_337.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_337.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/17175.jpg",
+        "label": "No"
+    },
+    "338": {
+        "name": "image_338.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_338.jpg",
+        "url": "https://i.pinimg.com/736x/89/61/4e/89614eb25e3396b1980fe887991ef788.jpg",
+        "label": "No"
+    },
+    "339": {
+        "name": "image_339.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_339.jpg",
+        "url": "https://lh3.googleusercontent.com/7iZ3ng-IwCXuz8xO2Z2hYRm-Epko1Z4SzSDPuYV6Yqfq0H3nZGD-qIIMfFdWTHyVsrnRl3dIWVgV4HlN5l4=s320-c-e365",
+        "label": "Yes"
+    },
+    "340": {
+        "name": "image_340.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_340.jpg",
+        "url": "https://boatiefood.files.wordpress.com/2015/01/p1070533.jpg?w=474&",
+        "label": "No"
+    },
+    "341": {
+        "name": "image_341.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_341.jpg",
+        "url": "https://i.pinimg.com/736x/35/89/d5/3589d52d090307adf0d04d5eb120a092.jpg",
+        "label": "No"
+    },
+    "343": {
+        "name": "image_343.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_343.jpg",
+        "url": "https://4.bp.blogspot.com/-o9zpTpAcPcA/XB7duEggFtI/AAAAAAAAEXA/I8vgoDgyGbwYmD5D_OTI3ElpgL6ay3q8QCLcBGAs/s1600/Quick-Corn-Relish-3717-websize-x500.jpg",
+        "label": "Yes"
+    },
+    "344": {
+        "name": "image_344.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_344.jpg",
+        "url": "https://storage.googleapis.com/mgf-cdn/1/2020/01/SergeIbakaxGoodfood.png",
+        "label": "Yes"
+    },
+    "346": {
+        "name": "image_346.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_346.jpg",
+        "url": "http://freebies4mom.com/wp-content/uploads/2016/03/Guac-Post.jpg",
+        "label": "No"
+    },
+    "347": {
+        "name": "image_347.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_347.jpg",
+        "url": "https://i.pinimg.com/736x/3c/9e/38/3c9e38e92bb140183d0bd1d2abc762f0--james-sommerin-croquettes-recipe.jpg",
+        "label": "No"
+    },
+    "349": {
+        "name": "image_349.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_349.jpg",
+        "url": "https://thumbs.dreamstime.com/m/delicious-sweet-chestnut-soup-bread-light-background-36980159.jpg",
+        "label": "No"
+    },
+    "350": {
+        "name": "image_350.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_350.jpg",
+        "url": "https://i.pinimg.com/736x/92/a9/d7/92a9d751e9bd8e7be342718ee26d1af9.jpg",
+        "label": "No"
+    },
+    "351": {
+        "name": "image_351.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_351.jpg",
+        "url": "https://thumbs.dreamstime.com/t/fresh-cut-vegetables-13857138.jpg",
+        "label": "No"
+    },
+    "352": {
+        "name": "image_352.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_352.jpg",
+        "url": "https://2.bp.blogspot.com/-o_p5hOuQCmE/WiFhIwgJElI/AAAAAAAAC4o/2c25e138rYgbFW7QbwJBhATtRHGz7PqywCLcBGAs/s640/FullSizeRender%2B2.jpg",
+        "label": "No"
+    },
+    "353": {
+        "name": "image_353.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_353.jpg",
+        "url": "http://st.depositphotos.com/1473066/1361/i/110/depositphotos_13616268-Sushi-with-eel.jpg",
+        "label": "Yes"
+    },
+    "354": {
+        "name": "image_354.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_354.jpg",
+        "url": "https://i0.wp.com/thesubversivetable.com/wp-content/uploads/2019/05/snapseed-178.jpg?resize=340%2C450&ssl=1",
+        "label": "No"
+    },
+    "356": {
+        "name": "image_356.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_356.jpg",
+        "url": "https://saramakessoup.files.wordpress.com/2013/08/img_3040-wolffys.jpg?w=444&h=332",
+        "label": "No"
+    },
+    "358": {
+        "name": "image_358.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_358.jpg",
+        "url": "https://foodiefling.files.wordpress.com/2014/09/img_2483.jpg?w=226&",
+        "label": "No"
+    },
+    "359": {
+        "name": "image_359.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_359.jpg",
+        "url": "http://i.pinimg.com/236x/70/6c/90/706c90fc3bb84743f4c46af59a3cb4ba.jpg",
+        "label": "Yes"
+    },
+    "360": {
+        "name": "image_360.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_360.jpg",
+        "url": "https://ai-i1.infcdn.net/icons_siandroid/png/124/15565/15565941.png",
+        "label": "No"
+    },
+    "361": {
+        "name": "image_361.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_361.jpg",
+        "url": "https://1.bp.blogspot.com/-AbKTA40YTk0/V02hXv3HdgI/AAAAAAABF7Q/et_2P6X46UkcGfGHnTnDWbzWHTSCQvUbwCLcB/s1600/kalyns-low-carb-snacks-kalynskitchen.jpg",
+        "label": "Yes"
+    },
+    "362": {
+        "name": "image_362.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_362.jpg",
+        "url": "https://farm4.static.flickr.com/3412/3266631938_763e1a5384.jpg",
+        "label": "Yes"
+    },
+    "363": {
+        "name": "image_363.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_363.jpg",
+        "url": "http://i.pinimg.com/236x/53/a2/76/53a276c2d5318bdfdd7d1d4bc6c7a5f4--chicken-ranch-wrap-recipes-chicken-wraps-healthy.jpg?b=t",
+        "label": "No"
+    },
+    "364": {
+        "name": "image_364.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_364.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/27/62/25/240_F_27622548_VegDa87gM9PcTZUOXZuUOLkTwNBufoC0.jpg",
+        "label": "Yes"
+    },
+    "365": {
+        "name": "image_365.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_365.jpg",
+        "url": "http://lh3.ggpht.com/l8Dwce-0Q2k88DecbA-ELgZz-13CByJu68Iz-fh-7Js1_gbQUCXPvxAMujKf0GB7PVqs2O3EB7723yKhyf1u3Q=s400-c",
+        "label": "No"
+    },
+    "366": {
+        "name": "image_366.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_366.jpg",
+        "url": "https://i0.wp.com/lovethesecretingredient.net/wp-content/uploads/2017/04/Get-Dressed-Sesame-Sensation-Roasted-Eggplant-Noodles-finished-plate.jpg?resize=140%2C140&amp;ssl=1",
+        "label": "No"
+    },
+    "367": {
+        "name": "image_367.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_367.jpg",
+        "url": "http://3.bp.blogspot.com/-ga7Qrvibqmk/Uc9VCMovdDI/AAAAAAAAFG4/uCr_KFGLWQ0/s400/Grilled+Stone+Fruit+Parfait_Overhead+View-1-5.jpg",
+        "label": "No"
+    },
+    "368": {
+        "name": "image_368.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_368.jpg",
+        "url": "https://img1.etsystatic.com/139/0/5697610/il_340x270.862904957_e0ul.jpg",
+        "label": "No"
+    },
+    "370": {
+        "name": "image_370.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_370.jpg",
+        "url": "https://c2.staticflickr.com/8/7353/27288057582_d1e9aa0870_c.jpg",
+        "label": "Yes"
+    },
+    "373": {
+        "name": "image_373.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_373.jpg",
+        "url": "https://lh3.googleusercontent.com/XS4UFFMCJ_UwLHEdD2cDpKd7urkdyQrc-MKLMPhgrFs7KGBA7Z3w7ONjGuvh9kK2HV9vqjYQlxUZdWzGOZGD=s320-c-e365",
+        "label": "Yes"
+    },
+    "374": {
+        "name": "image_374.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_374.jpg",
+        "url": "https://thumbs.dreamstime.com/t/set-thai-northeastern-cuisine-style-38320094.jpg",
+        "label": "No"
+    },
+    "375": {
+        "name": "image_375.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_375.jpg",
+        "url": "https://thumbs.dreamstime.com/t/asian-rice-noodle-chicken-meat-chili-star-top-view-30105179.jpg",
+        "label": "No"
+    },
+    "376": {
+        "name": "image_376.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_376.jpg",
+        "url": "https://yestocooking.files.wordpress.com/2013/06/dsc_0578copy.jpg?w=390&h=259",
+        "label": "No"
+    },
+    "377": {
+        "name": "image_377.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_377.jpg",
+        "url": "https://us.123rf.com/450wm/timolina/timolina1601/timolina160100135/51630926-mexican-tacos-with-meat-corn-and-olives-on-wooden-background-top-view.jpg?ver=6",
+        "label": "No"
+    },
+    "378": {
+        "name": "image_378.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_378.jpg",
+        "url": "https://beatcancer2010.files.wordpress.com/2014/10/shrimp-and-andouille-sausage-jambalaya-and-baked-california-sour-006.jpg?w=300&",
+        "label": "No"
+    },
+    "379": {
+        "name": "image_379.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_379.jpg",
+        "url": "https://ot-foodspotting-production.s3.amazonaws.com/reviews/5220908/thumb_600.jpg",
+        "label": "No"
+    },
+    "380": {
+        "name": "image_380.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_380.jpg",
+        "url": "http://static6.depositphotos.com/1000142/547/i/170/depositphotos_5479393-Roast-chicken-with-fresh-vegetables.jpg",
+        "label": "Yes"
+    },
+    "381": {
+        "name": "image_381.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_381.jpg",
+        "url": "http://static9.depositphotos.com/1605528/1176/i/170/depositphotos_11765912-Salsa-And-Tortilla-Chips-Close-Up.jpg",
+        "label": "Yes"
+    },
+    "382": {
+        "name": "image_382.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_382.jpg",
+        "url": "https://familylifetips.com/wp-content/uploads/2017/07/13876-detail-intro-image-324x160.jpg",
+        "label": "Yes"
+    },
+    "383": {
+        "name": "image_383.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_383.jpg",
+        "url": "http://lh6.ggpht.com/oWb6-fMnKyrevTg258Y0LOpkOw0s0GJLwxmy91ktXhAA_H9oDDLPRW__d1pkYTAlrqhrKRnOYZJjPABo402AtQ=s480-c-e365",
+        "label": "Yes"
+    },
+    "384": {
+        "name": "image_384.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_384.jpg",
+        "url": "http://lh6.ggpht.com/RQMVloMPr7YqU9sSkngI5uVq23J5extx5F7G6y820oH0hmiisVv3duMXX2BAWZorJp8fxBdDb9U88mQAOTI-4g=s400-c",
+        "label": "Yes"
+    },
+    "385": {
+        "name": "image_385.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_385.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/250x250/671812.jpg",
+        "label": "No"
+    },
+    "386": {
+        "name": "image_386.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_386.jpg",
+        "url": "https://teenytinyfoodie.com/wp-content/uploads/2014/07/IMG_5067-1024x747.jpg",
+        "label": "No"
+    },
+    "387": {
+        "name": "image_387.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_387.jpg",
+        "url": "https://www.fukushimatrip.com/wp-content/uploads/wordpress-popular-posts/6006-featured-170x170.jpg",
+        "label": "Yes"
+    },
+    "388": {
+        "name": "image_388.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_388.jpg",
+        "url": "https://i2.wp.com/philosokitchen.com/wp-content/uploads/2017/11/thai-clams-saute.jpg",
+        "label": "Yes"
+    },
+    "389": {
+        "name": "image_389.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_389.jpg",
+        "url": "https://thumbs.dreamstime.com/m/ingredients-group-tomyum-thai-food-29294056.jpg",
+        "label": "Yes"
+    },
+    "390": {
+        "name": "image_390.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_390.jpg",
+        "url": "http://lh3.ggpht.com/42HvelCM9PyNQzFEQXdkr9J5qtFQ1JhJJ3gMcAE8BIZgoPT3CCEgdNor9lwjhTSjGIL2fozcmVxTjF2oRGZMbw=s480-c-e365",
+        "label": "Yes"
+    },
+    "391": {
+        "name": "image_391.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_391.jpg",
+        "url": "https://i.pinimg.com/236x/93/a9/bc/93a9bc2f7020ba01ca223783566529e0--fruit-salad-recipes-fruit-salads.jpg",
+        "label": "Yes"
+    },
+    "393": {
+        "name": "image_393.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_393.jpg",
+        "url": "https://thumbs.dreamstime.com/b/salmon-sandwich-44848041.jpg",
+        "label": "No"
+    },
+    "394": {
+        "name": "image_394.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_394.jpg",
+        "url": "https://i.pinimg.com/236x/a4/8f/f9/a48ff9c5596568fccf68432aca2a3dbc--garlic-spinach-spinach-dal-recipe.jpg",
+        "label": "No"
+    },
+    "395": {
+        "name": "image_395.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_395.jpg",
+        "url": "https://us.123rf.com/450wm/lenyvavsha/lenyvavsha1402/lenyvavsha140200201/25908352-green-beans-with-sliced-carrots-in-a-pot-for-baking-closeup.jpg",
+        "label": "Yes"
+    },
+    "396": {
+        "name": "image_396.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_396.jpg",
+        "url": "http://st.depositphotos.com/1363472/4451/i/170/depositphotos_44519781-Traditional-mexican-salsas.jpg",
+        "label": "No"
+    },
+    "397": {
+        "name": "image_397.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_397.jpg",
+        "url": "https://img.taste.com.au/HDZkyj0v/w354-h236-cfill-q80/taste/2018/06/july-18_chicken-pea-sweet-potato-pot-pies-138688-1.jpg",
+        "label": "No"
+    },
+    "398": {
+        "name": "image_398.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_398.jpg",
+        "url": "https://lubnascookbook.com/wp-content/uploads/2019/09/DSC_2202-690x900.jpg",
+        "label": "No"
+    },
+    "399": {
+        "name": "image_399.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_399.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/300x220/2437988.jpg",
+        "label": "No"
+    },
+    "400": {
+        "name": "image_400.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_400.jpg",
+        "url": "https://thumbs.dreamstime.com/t/homard-d-aquarelle-60455272.jpg",
+        "label": "Yes"
+    },
+    "401": {
+        "name": "image_401.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_401.jpg",
+        "url": "https://us.123rf.com/450wm/bhofack2/bhofack21603/bhofack2160300544/53875202-homemade-slow-cooker-pot-roast-with-carrots-and-potatoes.jpg?ver=6",
+        "label": "No"
+    },
+    "402": {
+        "name": "image_402.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_402.jpg",
+        "url": "https://3.bp.blogspot.com/-VqqX8i3-Lsk/U1WPRfaV5oI/AAAAAAAAEgE/30NzCivgt5A/s1600/IMG_5627.JPG",
+        "label": "No"
+    },
+    "405": {
+        "name": "image_405.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_405.jpg",
+        "url": "http://i2.cdn.cnn.com/cnnnext/dam/assets/140904123902-13-world-gourmet-festival-bangkok-horizontal-large-gallery.jpg",
+        "label": "Yes"
+    },
+    "406": {
+        "name": "image_406.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_406.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/51/02/90/240_F_51029007_FseuPbNDgAS1RNR9CfStgH6USIJ7LujR.jpg",
+        "label": "No"
+    },
+    "408": {
+        "name": "image_408.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_408.jpg",
+        "url": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/sweety-sweety2018081216353462.jpg",
+        "label": "No"
+    },
+    "409": {
+        "name": "image_409.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_409.jpg",
+        "url": "https://thereallife921.files.wordpress.com/2016/05/angry-zengo-roll.jpg?w=620",
+        "label": "Yes"
+    },
+    "410": {
+        "name": "image_410.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_410.jpg",
+        "url": "https://i.pinimg.com/736x/6d/db/55/6ddb55a42ed0c670e45e8d9a60327d57--salad-with-tuna-salad-with-chicken.jpg",
+        "label": "Yes"
+    },
+    "413": {
+        "name": "image_413.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_413.jpg",
+        "url": "https://ak.picdn.net/offset/photos/5756e7afba6f6bfc1a4851cb/medium/offset_382255.jpg?DFghwDcb",
+        "label": "No"
+    },
+    "414": {
+        "name": "image_414.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_414.jpg",
+        "url": "http://d2droglu4qf8st.cloudfront.net/2016/10/301978/Southern-Shrimp-and-Grits_Large600_ID-1900530.jpg?v=1900530",
+        "label": "No"
+    },
+    "415": {
+        "name": "image_415.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_415.jpg",
+        "url": "https://img.grouponcdn.com/deal/idQ1mxieqjfjWv4RWuER/dh-2048x1229/v1/t440x300.jpg",
+        "label": "No"
+    },
+    "417": {
+        "name": "image_417.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_417.jpg",
+        "url": "http://lh4.ggpht.com/LIXCjeHy7Ewx8JlKhfLYhy44hAlEOoa4pYMV54RK0aeMJWwXNX8hevPqMR2vXjZMwC7kvw9GquJqqcAKgmZL-Q=s230-c",
+        "label": "Yes"
+    },
+    "420": {
+        "name": "image_420.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_420.jpg",
+        "url": "http://mda.bigoven.com/pics/rs/256/herbed-butterfly-pork-chops-3.jpg",
+        "label": "No"
+    },
+    "421": {
+        "name": "image_421.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_421.jpg",
+        "url": "http://watermarked.cutcaster.com/cutcaster-photo-100319064-Slice-of-Pork-Pie-with-Blue-Cheese-and-Fork.jpg",
+        "label": "No"
+    },
+    "422": {
+        "name": "image_422.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_422.jpg",
+        "url": "http://i300.photobucket.com/albums/nn18/Tolepb/DSC03986.jpg?t=1271107885",
+        "label": "No"
+    },
+    "423": {
+        "name": "image_423.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_423.jpg",
+        "url": "http://lh3.ggpht.com/YRUJE6sW6ZUgTyQgU_LGqV3Q_JfXpoltabVCSXMzyiceM6ptHAsfrIZYVb6ZCBnyZXAcusyKKvyZ4JUOo97kjGI=s400-c",
+        "label": "No"
+    },
+    "424": {
+        "name": "image_424.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_424.jpg",
+        "url": "https://images.squarespace-cdn.com/content/50bab248e4b05b20d2dc560d/1446432682643-IOTAVQDXZDZBFYAAGGB4/Friendsgiving+Styled+Shoot-0015.jpg?format=1000w&content-type=image%2Fjpeg",
+        "label": "Yes"
+    },
+    "425": {
+        "name": "image_425.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_425.jpg",
+        "url": "http://images.edge-generalmills.com/aeeb0b5b-a89a-4ff4-9437-24bae3ed4a50.jpg",
+        "label": "No"
+    },
+    "426": {
+        "name": "image_426.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_426.jpg",
+        "url": "https://thumbs.dreamstime.com/t/salade-de-fruits-38417832.jpg",
+        "label": "Yes"
+    },
+    "427": {
+        "name": "image_427.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_427.jpg",
+        "url": "http://lh4.ggpht.com/pBChPnvXCNF__kf2WTP7a3ZQp9wsAQY6VOP-l4Sqvrdmnf7F7U-XDzOW7eA9lceWI1PctlyvYa9zAqU1_WY=s126-c",
+        "label": "No"
+    },
+    "428": {
+        "name": "image_428.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_428.jpg",
+        "url": "https://us.123rf.com/450wm/klenova/klenova1306/klenova130600010/20193595-raw-beef-steak-and-vegetables-over-white.jpg",
+        "label": "No"
+    },
+    "429": {
+        "name": "image_429.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_429.jpg",
+        "url": "https://us.123rf.com/450wm/igordutina/igordutina1309/igordutina130900023/22301678-chana-masala-chickpeas-with-cooked-rice-classic-indian-meal.jpg?ver=6",
+        "label": "Yes"
+    },
+    "430": {
+        "name": "image_430.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_430.jpg",
+        "url": "https://i2.wp.com/rachlmansfield.com/wp-content/uploads/2017/10/FullSizeRender-132.jpg?resize=520%2C400&ssl=1",
+        "label": "Yes"
+    },
+    "431": {
+        "name": "image_431.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_431.jpg",
+        "url": "http://st.depositphotos.com/1000230/3664/i/110/depositphotos_36640727-Ribs-with-rice.jpg",
+        "label": "Yes"
+    },
+    "432": {
+        "name": "image_432.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_432.jpg",
+        "url": "http://3.bp.blogspot.com/_PwJi8kol570/R5fEka7wqFI/AAAAAAAABKg/ZJeJG8AZzww/s320/2008+A+Veggie+Venture+Parmesan+Sweet+Potato+Fries+416-400.JPG",
+        "label": "No"
+    },
+    "433": {
+        "name": "image_433.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_433.jpg",
+        "url": "https://livingonarestricteddiet.files.wordpress.com/2015/10/celtic-knot-salad.jpg?w=225&",
+        "label": "Yes"
+    },
+    "434": {
+        "name": "image_434.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_434.jpg",
+        "url": "https://images.squarespace-cdn.com/content/5640f70de4b0303075fe83c5/1457040263765-8NI04WKGAGBF9QZF6C3X/Wills+Fargo+Carmel+Valley?content-type=image%2Fpng",
+        "label": "Yes"
+    },
+    "435": {
+        "name": "image_435.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_435.jpg",
+        "url": "http://images.harryanddavid.com/is/image/HarryandDavid/content4col/1530_3-family-affair-royal-riviera-pears.jpg",
+        "label": "No"
+    },
+    "436": {
+        "name": "image_436.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_436.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/140x140/1042563.jpg",
+        "label": "No"
+    },
+    "437": {
+        "name": "image_437.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_437.jpg",
+        "url": "https://foodgeekblog.co.uk/wp-content/uploads/2015/11/06-ChickenLiverRisotto.jpg",
+        "label": "No"
+    },
+    "438": {
+        "name": "image_438.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_438.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0092/4424/6052/products/peppermint-tea-sq-z_110x110@2x.jpg?v=1568142095",
+        "label": "No"
+    },
+    "439": {
+        "name": "image_439.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_439.jpg",
+        "url": "https://lh3.ggpht.com/Ylh98YKKrJzuQVJQ37LQlT1lTYQnvSA0GYsKeZI9-cTkPIJT8z-pbqh5ipZpSmeFtpE=h900",
+        "label": "No"
+    },
+    "440": {
+        "name": "image_440.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_440.jpg",
+        "url": "http://agirlhastoeat.com/wp-content/uploads/2012/05/P1080124.jpg",
+        "label": "No"
+    },
+    "441": {
+        "name": "image_441.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_441.jpg",
+        "url": "https://steveguidettieatinghealthy.files.wordpress.com/2012/04/tips_fruits_vegetables.jpg?w=150",
+        "label": "No"
+    },
+    "442": {
+        "name": "image_442.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_442.jpg",
+        "url": "https://alittlelunch.files.wordpress.com/2011/03/stirfry31.jpg?w=500",
+        "label": "No"
+    },
+    "443": {
+        "name": "image_443.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_443.jpg",
+        "url": "https://birchstreamfarms.com/wp-content/uploads/2015/08/SLICED-TURKEY-WITH-GRAVY-2-1080x675.jpg",
+        "label": "No"
+    },
+    "444": {
+        "name": "image_444.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_444.jpg",
+        "url": "https://pomegranatesandhoney.files.wordpress.com/2012/10/1-p91104741.jpg?w=190&h=190&crop=1",
+        "label": "No"
+    },
+    "445": {
+        "name": "image_445.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_445.jpg",
+        "url": "http://static8.depositphotos.com/1001855/985/i/950/depositphotos_9855071-Holiday-table-setting.jpg",
+        "label": "No"
+    },
+    "446": {
+        "name": "image_446.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_446.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/1474594/300/200/m1/fpc/wm0/wvabhdbj1mcmnm0fnvq6unrszl5uasxcgcm27q7tdvyzb1xqfcy4nyvq6frsgpqk-.jpg?1469206408&s=2c1e2c1bfea8512b7aa94839e254ee79",
+        "label": "No"
+    },
+    "447": {
+        "name": "image_447.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_447.jpg",
+        "url": "https://taste.co.za/wp-content/uploads/2017/11/Zanzibar-fish-curry-150x150.jpg",
+        "label": "No"
+    },
+    "449": {
+        "name": "image_449.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_449.jpg",
+        "url": "https://i1.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/02/img_3226.jpg?fit=460%2C288",
+        "label": "Yes"
+    },
+    "450": {
+        "name": "image_450.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_450.jpg",
+        "url": "https://recipeswelove.net/wp-content/uploads/2014/01/Oven-Rosted-Veggies-2-150x100.jpg",
+        "label": "Yes"
+    },
+    "451": {
+        "name": "image_451.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_451.jpg",
+        "url": "http://s3.amazonaws.com/tastyfix/recipe/52d739c2e4b01fc900f5c45a-pic5vngz0.jpg",
+        "label": "Yes"
+    },
+    "452": {
+        "name": "image_452.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_452.jpg",
+        "url": "https://thumbs.dreamstime.com/m/salted-salmon-red-fish-sliced-19274700.jpg",
+        "label": "Yes"
+    },
+    "455": {
+        "name": "image_455.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_455.jpg",
+        "url": "https://s-media-cache-ak0.pinimg.com/originals/c8/1e/92/c81e9281748451c370be80e139191b62.jpg",
+        "label": "No"
+    },
+    "456": {
+        "name": "image_456.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_456.jpg",
+        "url": "https://i0.wp.com/i.ndtvimg.com/i/2016-03/fig_625x350_71459273742.jpg?w=735",
+        "label": "No"
+    },
+    "457": {
+        "name": "image_457.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_457.jpg",
+        "url": "https://img.freepik.com/free-photo/single-father-child-eating-cereals_23-2148500760.jpg?size=626&ext=jpg",
+        "label": "No"
+    },
+    "458": {
+        "name": "image_458.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_458.jpg",
+        "url": "https://3.bp.blogspot.com/-tSgzs015fUY/W6JDdJye00I/AAAAAAAABug/irkUjkK2OEEoqGoewM1wczxqKxSipQ9BgCLcBGAs/s1600/haileys-seafood-and-barbecue-tiger-beer-and-bucket.jpg",
+        "label": "No"
+    },
+    "459": {
+        "name": "image_459.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_459.jpg",
+        "url": "https://scm-assets.constant.co/scm/ahold/1d89ee8b7b228a83e121d5e8ac2ff95f/8c266592-cec8-4f58-b699-d0a5a8781878.jpg",
+        "label": "No"
+    },
+    "460": {
+        "name": "image_460.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_460.jpg",
+        "url": "https://i.pinimg.com/236x/0c/03/0f/0c030f3d33499907016f5bf5c38f383d.jpg",
+        "label": "Yes"
+    },
+    "461": {
+        "name": "image_461.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_461.jpg",
+        "url": "https://farm9.staticflickr.com/8526/8469949776_4865d90b2d_o.jpg",
+        "label": "Yes"
+    },
+    "462": {
+        "name": "image_462.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_462.jpg",
+        "url": "http://static6.depositphotos.com/1083286/634/i/110/depositphotos_6341008-Sushi-and-soy-sauce.jpg",
+        "label": "Yes"
+    },
+    "463": {
+        "name": "image_463.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_463.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/250x250/4831.jpg",
+        "label": "No"
+    },
+    "465": {
+        "name": "image_465.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_465.jpg",
+        "url": "https://lh3.googleusercontent.com/4cMPzk_B2iaA6LWhINyrh6gviyoE08fO76r_z7fu12GhMsULL223BPJO025CAn9_XvTBwdXJFK84Bv3Ag4bk8Q=s320-c-e365",
+        "label": "No"
+    },
+    "466": {
+        "name": "image_466.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_466.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1395/5579/articles/IMG_3583_300x.jpeg?v=1550309984",
+        "label": "No"
+    },
+    "467": {
+        "name": "image_467.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_467.jpg",
+        "url": "https://i2.wp.com/theshanghaikid.com/wp-content/uploads/2016/08/coquille-escargot.jpeg?resize=840%2C630",
+        "label": "No"
+    },
+    "468": {
+        "name": "image_468.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_468.jpg",
+        "url": "https://i.pinimg.com/736x/7e/06/6b/7e066b4a617ef4166cbf1fff3696eb5f.jpg",
+        "label": "Yes"
+    },
+    "469": {
+        "name": "image_469.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_469.jpg",
+        "url": "https://www.thenomadicvegan.com/wp-content/uploads/2018/03/Kaiseki-meal-at-Arashiyama-Bamboo-Forest-vegan-in-Japan.jpg",
+        "label": "No"
+    },
+    "470": {
+        "name": "image_470.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_470.jpg",
+        "url": "https://i1.wp.com/angsarap.net/wp-content/uploads/2014/12/Stuffed-Peppers-720x1080.jpg?resize=720%2C1080",
+        "label": "No"
+    },
+    "471": {
+        "name": "image_471.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_471.jpg",
+        "url": "https://i.pinimg.com/236x/e2/c1/33/e2c13311c21cf231f5803d1de11a1f4f.jpg",
+        "label": "No"
+    },
+    "472": {
+        "name": "image_472.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_472.jpg",
+        "url": "https://guysandgoodhealth.files.wordpress.com/2016/08/probiotics-yogurt.jpg?w=500",
+        "label": "No"
+    },
+    "473": {
+        "name": "image_473.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_473.jpg",
+        "url": "https://s1.it.atcdn.net/wp-content/uploads/2016/06/ZhengHe_005-10-340x227.jpg",
+        "label": "No"
+    },
+    "474": {
+        "name": "image_474.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_474.jpg",
+        "url": "https://img.theepochtimes.com/assets/uploads/2019/12/19/Latkes-Being-Made.jpg",
+        "label": "No"
+    },
+    "475": {
+        "name": "image_475.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_475.jpg",
+        "url": "https://d2k9njawademcf.cloudfront.net/indeximages/26645/original/IMG_1827.JPG?1403267933",
+        "label": "Yes"
+    },
+    "477": {
+        "name": "image_477.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_477.jpg",
+        "url": "https://edibletcetera.files.wordpress.com/2014/10/blog-kedgeree-006.jpg?w=180&h=144",
+        "label": "No"
+    },
+    "478": {
+        "name": "image_478.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_478.jpg",
+        "url": "https://i.pinimg.com/736x/bb/cd/fd/bbcdfdd629714f7eda3187ad7f990a23.jpg",
+        "label": "No"
+    },
+    "479": {
+        "name": "image_479.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_479.jpg",
+        "url": "https://thumbs.dreamstime.com/m/vegetable-meat-stew-chili-pepers-selective-focus-35663155.jpg",
+        "label": "No"
+    },
+    "480": {
+        "name": "image_480.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_480.jpg",
+        "url": "http://st.depositphotos.com/1027198/4897/i/170/depositphotos_48976079-Pork-chop.jpg",
+        "label": "No"
+    },
+    "481": {
+        "name": "image_481.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_481.jpg",
+        "url": "https://i2.wp.com/www.thehealthytoast.com/wp-content/uploads/2016/12/Basted-Eggs-Featured.jpg?fit=911%2C1200&",
+        "label": "No"
+    },
+    "482": {
+        "name": "image_482.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_482.jpg",
+        "url": "https://thumb101.shutterstock.com/image-photo/stock-photo-seafood-paella-in-pan-450w-44239057.jpg",
+        "label": "No"
+    },
+    "483": {
+        "name": "image_483.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_483.jpg",
+        "url": "https://lh3.ggpht.com/sqf2LeNayn5iQPo-yZAcBPLQiPDLQWW_-9_GhAscupxlKVH4LnXFg4LU2ARnq0b2RCbVpF8cNl9-ATHZhFmMmw=s320-c-e365",
+        "label": "No"
+    },
+    "484": {
+        "name": "image_484.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_484.jpg",
+        "url": "https://us.123rf.com/450wm/nulekkk/nulekkk1209/nulekkk120900013/15288260-thai-style-dessert-pumpkin-in-coconut-milk.jpg",
+        "label": "No"
+    },
+    "485": {
+        "name": "image_485.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_485.jpg",
+        "url": "https://t3921.cpcdn.com/recipes/2321305/200x200cq30/80bc8f22ac61ccbaea877e76df0971e0.jpg",
+        "label": "No"
+    },
+    "487": {
+        "name": "image_487.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_487.jpg",
+        "url": "https://myannoyingopinions.files.wordpress.com/2019/07/angry-trout-whitefish-chowder.jpg?w=285&h=214",
+        "label": "No"
+    },
+    "488": {
+        "name": "image_488.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_488.jpg",
+        "url": "https://i1.wp.com/petersfoodadventures.com/wp-content/uploads/2016/08/IMG_0185-1.jpg?fit=300%2C300&ssl=1",
+        "label": "Yes"
+    },
+    "489": {
+        "name": "image_489.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_489.jpg",
+        "url": "https://s3.amazonaws.com/migrainereliefrecipes/wp-content/uploads/2010/11/08145546/StuffedAcornSquash-150x150.jpg",
+        "label": "Yes"
+    },
+    "490": {
+        "name": "image_490.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_490.jpg",
+        "url": "https://media01.stockfood.com/thumbs/170/00959086.jpg",
+        "label": "Yes"
+    },
+    "491": {
+        "name": "image_491.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_491.jpg",
+        "url": "https://www.ourfamilyworld.com/wp-content/uploads/2016/05/7-Tasty-Baby-Shower-Food-Ideas-For-The-Perfect-Party.jpg",
+        "label": "No"
+    },
+    "492": {
+        "name": "image_492.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_492.jpg",
+        "url": "https://lh6.ggpht.com/xNtkJJTndn7FGfehEArp7BTZk-Ez2qOYmjyDh-tM-apyVspJoYTFpndGej_VWIvUlDaXRzcmCZbmDd8a9S61jQ=s320-c-e365",
+        "label": "No"
+    },
+    "493": {
+        "name": "image_493.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_493.jpg",
+        "url": "https://t3921.cpcdn.com/recipes/1987018/200x200cq30/10999c5924983b8345cd423b922d9806.jpg",
+        "label": "No"
+    },
+    "494": {
+        "name": "image_494.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_494.jpg",
+        "url": "http://mlm-s2-p.mlstatic.com/recreacion-hobbies-oficios-cocina-recetarios-metodos-libros-22801-MLM7786796711_012015-Y.jpg",
+        "label": "No"
+    },
+    "495": {
+        "name": "image_495.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_495.jpg",
+        "url": "https://i.pinimg.com/236x/1d/5c/f7/1d5cf7fb76ffe8c430100ae61ad54bcf.jpg",
+        "label": "Yes"
+    },
+    "496": {
+        "name": "image_496.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_496.jpg",
+        "url": "http://lh6.ggpht.com/lLPPq5loP7XLA2aR54K3Jk-RjE6dPDllA3Nesk8ydvh7qltMJTFWsuemPPSF6c_SPThc_xqqn-iTC_C6alChh80=s320-c-e365",
+        "label": "Yes"
+    },
+    "497": {
+        "name": "image_497.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_497.jpg",
+        "url": "http://lh4.ggpht.com/_nizoM_K-TO2HzOBlzU12MmzZRiRWG5DR0U42zVqvnZ5PJLujfW92zSdqSjfmLPlc9KkqiOtbw5WWeEQflY3onQ=s230-c",
+        "label": "No"
+    },
+    "498": {
+        "name": "image_498.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_498.jpg",
+        "url": "https://i.pinimg.com/736x/be/52/38/be5238b5dc3dda7f559a3e1e297c61a2--outdoor-cooking-grilling.jpg",
+        "label": "Yes"
+    },
+    "499": {
+        "name": "image_499.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_499.jpg",
+        "url": "http://lh3.googleusercontent.com/IkuJi2LZQwdvUtDW7Xh-qcgDrKEn9msiGFm-ZbwS7EjFFhJJsJcDmyhj4v4ZWF1LHK-FntH5QfsitlN70O6gtg=s480-c-e365",
+        "label": "Yes"
+    },
+    "500": {
+        "name": "image_500.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_500.jpg",
+        "url": "https://photos.smugmug.com/Agriculture/i-zTc6tk7/0/626ac103/M/Bushels%20of%20Fresh%20Picked%20Green%20Beans%20dn-M.jpg",
+        "label": "No"
+    },
+    "502": {
+        "name": "image_502.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_502.jpg",
+        "url": "https://i.pinimg.com/236x/3a/e5/31/3ae531c2b03bdd8e3f886c3bf6c02863--hard-boiled-egg-recipes-hard-boiled-egg-sandwich.jpg",
+        "label": "Yes"
+    },
+    "503": {
+        "name": "image_503.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_503.jpg",
+        "url": "https://3.bp.blogspot.com/-aVUXmXDD1YY/V_F9fZYBlQI/AAAAAAAAbLI/194oYBpzfJ0C6IadLiZzFbQhZ-2X1qb7ACLcB/s1600/Chicken%2B%2526%2BPineapple%2BTeriyaki%2BSkewer%2BKebabs%2B%25285%2529.JPG",
+        "label": "Yes"
+    },
+    "504": {
+        "name": "image_504.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_504.jpg",
+        "url": "https://us.123rf.com/450wm/dianazh/dianazh1404/dianazh140400356/27863462-fennel-seeds-isolated-on-white-background.jpg",
+        "label": "No"
+    },
+    "505": {
+        "name": "image_505.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_505.jpg",
+        "url": "https://pickyglutton.files.wordpress.com/2012/08/grilled-aubergine-with-sweet-miso-on-hummus.jpg?w=610",
+        "label": "No"
+    },
+    "506": {
+        "name": "image_506.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_506.jpg",
+        "url": "https://i.pinimg.com/736x/1d/39/5b/1d395bb7bc88726c5a6e9535601bd539--manderine-orange-salad-manderine-orange-recipes.jpg",
+        "label": "No"
+    },
+    "507": {
+        "name": "image_507.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_507.jpg",
+        "url": "http://i1.wp.com/lh5.ggpht.com/-rXSSI8C8aJ0/TxuEZaAoYYI/AAAAAAAAEX0/qX97XUaTi24/beet-orange-kumquat-and-quinoa-salad%25255B7%25255D.jpg?resize=544%2C409",
+        "label": "Yes"
+    },
+    "508": {
+        "name": "image_508.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_508.jpg",
+        "url": "https://thumbs.dreamstime.com/m/tomatoes-plate-24833771.jpg",
+        "label": "Yes"
+    },
+    "509": {
+        "name": "image_509.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_509.jpg",
+        "url": "https://lauriesadowski.files.wordpress.com/2013/07/raw-tomato-sunflower-tart2.jpg?w=778&h=583",
+        "label": "No"
+    },
+    "511": {
+        "name": "image_511.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_511.jpg",
+        "url": "https://i2.wp.com/www.vegkitchen.com/wp-content/uploads/2007/11/TriPastaTomato1.jpg?resize=576%2C381",
+        "label": "Yes"
+    },
+    "512": {
+        "name": "image_512.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_512.jpg",
+        "url": "https://i0.wp.com/www.stuckonsweet.com/wp-content/uploads/2015/09/Roasted-Butternut-Squash-1.jpg?fit=200%2C300&amp;ssl=1",
+        "label": "Yes"
+    },
+    "513": {
+        "name": "image_513.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_513.jpg",
+        "url": "https://stephaniedreyer.com/wp-content/uploads/2019/09/7-Layer-Taco-Bowls-Blog-min-160x160.png",
+        "label": "No"
+    },
+    "514": {
+        "name": "image_514.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_514.jpg",
+        "url": "http://static9.depositphotos.com/1518767/1084/i/110/depositphotos_10846310-Woman-hugging-her-husband-while-he-is-cooking.jpg",
+        "label": "No"
+    },
+    "515": {
+        "name": "image_515.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_515.jpg",
+        "url": "http://lh6.ggpht.com/_4QiUi2jHOGRk6WY3YRQTG91jID8wDPLiVM_jBYxZvnth6OxdibXhn_CuRRKo8FaEokBsZmxy1WfDX6qzbwRpA=s320-c-e365",
+        "label": "Yes"
+    },
+    "516": {
+        "name": "image_516.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_516.jpg",
+        "url": "https://3.bp.blogspot.com/-jZC4NI7EVkU/WIYPXNmoktI/AAAAAAAAfzs/69eQSfLRZ_QITyYmRBuLzyaoVLBx7j7uQCEw/s640/P1015404.JPG",
+        "label": "No"
+    },
+    "517": {
+        "name": "image_517.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_517.jpg",
+        "url": "http://lh3.ggpht.com/UmE9GXZw6MxWSTMsmuyEGWFudfeGCN57MsDPH2FydQ64X9Sk6SG2hcYq0num0qSVUUbaCBe8IP9EiFvKAjwoZg=s230-c",
+        "label": "No"
+    },
+    "518": {
+        "name": "image_518.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_518.jpg",
+        "url": "https://indiancurryshack.files.wordpress.com/2015/06/bharwa-bhindi-in-the-making-indian-curry-shack.jpg?w=300&",
+        "label": "Yes"
+    },
+    "519": {
+        "name": "image_519.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_519.jpg",
+        "url": "https://dentistvschef.files.wordpress.com/2013/05/stuffed-lamb-chop-stuff-lamb-loin-recipe.jpg?w=300&",
+        "label": "No"
+    },
+    "520": {
+        "name": "image_520.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_520.jpg",
+        "url": "http://1.bp.blogspot.com/-8Q7kPXWpF-0/Uvw3XxV_2uI/AAAAAAAAr0c/ONQcGftkr0Y/s1600/Red+Thai+Curry+Noodle+Soup-001.JPG",
+        "label": "No"
+    },
+    "521": {
+        "name": "image_521.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_521.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/4335454/300/200/m1/fpc/wm0/dpp_2951-.jpg?1524382297&s=f12f692dc0348f3618d41df5729de96b",
+        "label": "No"
+    },
+    "522": {
+        "name": "image_522.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_522.jpg",
+        "url": "https://i.pinimg.com/236x/4d/eb/3f/4deb3f3d95aa572549bc17bb2e7fd266.jpg",
+        "label": "No"
+    },
+    "523": {
+        "name": "image_523.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_523.jpg",
+        "url": "https://sc02.alicdn.com/kf/UTB87VAGshHEXKJk43Jeq6yeeXXag/Natural-Mung-Bean-Vermicelli.jpg_200x200.jpg",
+        "label": "No"
+    },
+    "524": {
+        "name": "image_524.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_524.jpg",
+        "url": "http://rlv.zcache.co.nz/kennedy_johnson_campaign_mouse_pads-rb3a27a61684440a8a622ec0ffe719b7b_x74vi_8byvr_216.jpg",
+        "label": "No"
+    },
+    "525": {
+        "name": "image_525.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_525.jpg",
+        "url": "https://www.recipedose.com/wp-content/uploads/2011/10/Grilled-Whole-Chicken.jpg",
+        "label": "Yes"
+    },
+    "526": {
+        "name": "image_526.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_526.jpg",
+        "url": "https://louisiana.kitchenandculture.com/sites/default/files/styles/medium/public/recipes/Louisiana%20Kitchen%20%26amp%3B%20Culture/reggios-blackened-redfish.jpg?itok=ZjjFSEdC",
+        "label": "No"
+    },
+    "527": {
+        "name": "image_527.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_527.jpg",
+        "url": "https://www.jamaica-no-problem.com/images/ackee-and-saltfish.jpg",
+        "label": "No"
+    },
+    "528": {
+        "name": "image_528.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_528.jpg",
+        "url": "https://www.carlosokellys.com//media/k2/items/cache/542390225756f78888142d54f3d17e01_L.jpg",
+        "label": "No"
+    },
+    "529": {
+        "name": "image_529.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_529.jpg",
+        "url": "http://images.edge-generalmills.com/93538d0b-1f9d-469f-9c58-cbe89432df04.jpg",
+        "label": "No"
+    },
+    "530": {
+        "name": "image_530.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_530.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/250x250/859559.jpg",
+        "label": "No"
+    },
+    "531": {
+        "name": "image_531.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_531.jpg",
+        "url": "https://images.squarespace-cdn.com/content/51f7e921e4b06892daa75968/1376180542467-G2XEJTYF8EPF8Y6MGUR1/roasted_strawberries_t.jpg?content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "532": {
+        "name": "image_532.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_532.jpg",
+        "url": "https://t3.ftcdn.net/jpg/02/87/59/84/240_F_287598442_LabRMyIoICq0OwKNh6LBFXBa4XNm3dBF.jpg",
+        "label": "Yes"
+    },
+    "533": {
+        "name": "image_533.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_533.jpg",
+        "url": "https://lh3.googleusercontent.com/W2t7SnvNYEUtJgnTtK94WsPZrzqQ7xfLwAyhXVZNhKcKW6mP-yClKt1mVPUcvZSg9tpRLMpDTvZ-KENFqw=w293-h220",
+        "label": "No"
+    },
+    "534": {
+        "name": "image_534.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_534.jpg",
+        "url": "https://i.huffpost.com/gen/1380807/thumbs/s-SOUP-large.jpg",
+        "label": "No"
+    },
+    "535": {
+        "name": "image_535.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_535.jpg",
+        "url": "https://www.recipetineats.com/wp-content/uploads/2019/06/Crispy-Grilled-Shrimp-Lemon-Butter-Sauce_1-206x206.jpg",
+        "label": "No"
+    },
+    "536": {
+        "name": "image_536.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_536.jpg",
+        "url": "https://media.npr.org/books/holidays/2008/chang/masterclass_200-82f81d592bec42ccbf28f37ac860f1700e53b8d1-s6-c30.jpg",
+        "label": "No"
+    },
+    "537": {
+        "name": "image_537.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_537.jpg",
+        "url": "http://1.bp.blogspot.com/-tZ-QX8_-J8g/TXrYz7l1AgI/AAAAAAAAJKA/F5UhJUB8fDo/s320/Pierogi_Fried_Onions.JPG",
+        "label": "No"
+    },
+    "538": {
+        "name": "image_538.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_538.jpg",
+        "url": "https://img.freepik.com/free-vector/creative-grid-recipe-food-facebook-post_23-2148909098.jpg?size=338&ext=jpg",
+        "label": "Yes"
+    },
+    "539": {
+        "name": "image_539.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_539.jpg",
+        "url": "https://static3.bigstockphoto.com/0/4/1/large2/140002172.jpg",
+        "label": "Yes"
+    },
+    "540": {
+        "name": "image_540.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_540.jpg",
+        "url": "https://images.squarespace-cdn.com/content/5565d0f7e4b0750ee3aa21b9/1477402279082-9Y36FGLV9OK0FL20Z264/THE+ART+OF+THE+MASHUP_Isaan+Steak+Pasta+Salad_BRIAN+SAMUELS+PHOTOGRAPHY-6682.jpg?format=1000w&content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "541": {
+        "name": "image_541.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_541.jpg",
+        "url": "http://lh5.ggpht.com/33j5KcACyG07fKDcGyeHJ-Ym6jXt-7Xkq4YqUYE5XVU5WPv_GvTfMN62bdSGeBrFD6EIhybqtufD4TfqnfB97Ds=s270-c",
+        "label": "No"
+    },
+    "542": {
+        "name": "image_542.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_542.jpg",
+        "url": "https://static1.bigstockphoto.com/3/8/1/large2/183348793.jpg",
+        "label": "No"
+    },
+    "543": {
+        "name": "image_543.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_543.jpg",
+        "url": "https://pollanfamilytable.com/wp-content/uploads/2014/10/tortilla.jpg",
+        "label": "No"
+    },
+    "544": {
+        "name": "image_544.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_544.jpg",
+        "url": "http://www.nyhabitat.com/picture-ny-apt/15482/15482D08.jpg",
+        "label": "No"
+    },
+    "545": {
+        "name": "image_545.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_545.jpg",
+        "url": "http://www.exsloth.com/wp-content/uploads/2016/01/orange-kale-quinoa-smoothie-bowl2.jpg",
+        "label": "Yes"
+    },
+    "546": {
+        "name": "image_546.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_546.jpg",
+        "url": "https://thumbs.dreamstime.com/m/grilled-meat-steak-fresh-vegetables-salad-31296669.jpg",
+        "label": "No"
+    },
+    "547": {
+        "name": "image_547.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_547.jpg",
+        "url": "https://www.craftcreatecook.com/wp-content/uploads/2018/05/IPHerbChickenFeatured.jpg",
+        "label": "Yes"
+    },
+    "548": {
+        "name": "image_548.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_548.jpg",
+        "url": "https://i2.wp.com/supperinthesuburbs.com/wp-content/uploads/2016/01/Raspberry-and-Mango-Smoothie-with-Chia-Seeds-is-a-fantastic-breakfast-recipe.jpg?resize=800%2C533",
+        "label": "Yes"
+    },
+    "550": {
+        "name": "image_550.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_550.jpg",
+        "url": "https://d2evkimvhatqav.cloudfront.net/images/_1440x720_crop_center-center_none/chef_preparing_vegetables_110080634.jpg?mtime=20200917144037&focal=39.3%25+70.35%25&tmtime=20210407103938",
+        "label": "No"
+    },
+    "551": {
+        "name": "image_551.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_551.jpg",
+        "url": "https://www.taste.com.au/images/recipes/tas/2014/02/poached-chicken-waldorf-tartlets-27833_m.jpeg",
+        "label": "Yes"
+    },
+    "552": {
+        "name": "image_552.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_552.jpg",
+        "url": "https://i.pinimg.com/236x/c5/9b/ab/c59babdae607651c0ea909e4228847fa--cold-lunches-for-toddlers-lunch-box-ideas-for-adults-cold.jpg",
+        "label": "Yes"
+    },
+    "553": {
+        "name": "image_553.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_553.jpg",
+        "url": "http://mda.bigoven.com/pics/rs/200/rosemary-sage-pork-chops-20.jpg",
+        "label": "No"
+    },
+    "554": {
+        "name": "image_554.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_554.jpg",
+        "url": "http://www.ateriet.com/wp-content/uploads/2015/07/Caesar-salad-157-2.jpg",
+        "label": "Yes"
+    },
+    "555": {
+        "name": "image_555.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_555.jpg",
+        "url": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2016/01/crispy-sweet-potato-fries-with-avocado-coriander-dip-topview-800x1200.jpg",
+        "label": "No"
+    },
+    "556": {
+        "name": "image_556.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_556.jpg",
+        "url": "https://www.redhandledscissors.com/wp-content/uploads/2009/12/Potato_White_Bean_Soup_of_Many_Colors1-150x150.jpg",
+        "label": "Yes"
+    },
+    "557": {
+        "name": "image_557.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_557.jpg",
+        "url": "http://p7.storage.canalblog.com/76/69/189678/39946450_q.jpg",
+        "label": "No"
+    },
+    "558": {
+        "name": "image_558.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_558.jpg",
+        "url": "https://assets.epicurious.com/photos/5f99a923dda393d6f500ffa5/1:1/w_400%2Cc_limit/DoAble_Olives_RECIPE_101920_1017_VOG_final.jpg",
+        "label": "Yes"
+    },
+    "559": {
+        "name": "image_559.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_559.jpg",
+        "url": "https://neilshealthymeals.com/wp-content/uploads/2017/05/Spiralized-Sweet-Potato-Salad-Pin.jpg",
+        "label": "No"
+    },
+    "561": {
+        "name": "image_561.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_561.jpg",
+        "url": "https://i.pinimg.com/236x/8f/67/95/8f6795a1ffcce59e22617e3aee527a42.jpg",
+        "label": "Yes"
+    },
+    "562": {
+        "name": "image_562.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_562.jpg",
+        "url": "http://lh3.ggpht.com/3Ck8J3cU8bya1Y5o3mRvaeSGDj3ZnCZf1EofLchYPJASJSutGEAHRZQwj5dy5W_Zz4BjDxP_9ELVJaOpqfzYbA=s230-c",
+        "label": "No"
+    },
+    "563": {
+        "name": "image_563.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_563.jpg",
+        "url": "http://grecipes.s3.amazonaws.com/recipe_picture/1451597/medium_s-roll.jpg",
+        "label": "No"
+    },
+    "564": {
+        "name": "image_564.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_564.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/3975159/300/200/m1/fpc/wm0/grgvhpbjdeonfffdpiikfpb0cuxcxo0b8yjwphec7xa4tdenhuotzgwfrzmmpspm-.jpg?1518119292&s=f3933b97168a8d2ae4c4f240cc86c511",
+        "label": "No"
+    },
+    "565": {
+        "name": "image_565.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_565.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/560x315/1113624.jpg",
+        "label": "No"
+    },
+    "566": {
+        "name": "image_566.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_566.jpg",
+        "url": "http://www.dineouthere.com/images/ki-sushi-new-west-05.jpg",
+        "label": "Yes"
+    },
+    "569": {
+        "name": "image_569.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_569.jpg",
+        "url": "https://ayearinthecountry.co.uk/wp-content/uploads/2018/03/Judy-Dyble-Andy-Lewis-Summer-Dancing-Acid-Jazz-album-He-Said-I-Said-CD-promo-single-575x274.jpg",
+        "label": "No"
+    },
+    "570": {
+        "name": "image_570.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_570.jpg",
+        "url": "http://s3.amazonaws.com/grecipes/public/pictures/recipes/694472/_d9f8267e_medium.jpg",
+        "label": "No"
+    },
+    "572": {
+        "name": "image_572.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_572.jpg",
+        "url": "https://foodandstyle.com/wp-content/uploads/2014/09/IMG_6230-Grilled-avocados-with-tomato-basil-salsa-750-440x294.jpg",
+        "label": "Yes"
+    },
+    "573": {
+        "name": "image_573.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_573.jpg",
+        "url": "https://i0.wp.com/creativecookinggf.files.wordpress.com/2014/05/img_0060.jpg?resize=200%2C200",
+        "label": "Yes"
+    },
+    "574": {
+        "name": "image_574.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_574.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0181/0561/products/Assam_852a4db7-21a2-4b8b-83eb-fbcec6245237_grande.JPG?v=1399047685",
+        "label": "No"
+    },
+    "575": {
+        "name": "image_575.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_575.jpg",
+        "url": "http://s3.amazonaws.com/tastyfix/recipe/52d72cdbe4b01fc900f592ae-picuxaami.jpg",
+        "label": "Yes"
+    },
+    "576": {
+        "name": "image_576.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_576.jpg",
+        "url": "https://lh3.ggpht.com/IqdYqpp3TCvaft2eHWsnuodLA3io3Wp3-aJz6m6K7Icg4XtkV93Ur6WkLFW57boUGUuq9sn5POn9gu97XQgDSsw=s320-c-rj-v1-e365",
+        "label": "No"
+    },
+    "577": {
+        "name": "image_577.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_577.jpg",
+        "url": "https://annarborwithkids.com/wp-content/uploads/2018/01/black-rock-lobster-bisque-474x400.jpg",
+        "label": "No"
+    },
+    "579": {
+        "name": "image_579.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_579.jpg",
+        "url": "https://d3m7xw68ay40x8.cloudfront.net/assets/2016/09/09101520/apple-chicken.jpg",
+        "label": "Yes"
+    },
+    "580": {
+        "name": "image_580.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_580.jpg",
+        "url": "https://irs3.4sqi.net/img/general/152x152/71541786_1FPzzfQsqH6v2vM0fYeNJhHDxKjRjb1QaKf_pU3WAhM.jpg",
+        "label": "No"
+    },
+    "581": {
+        "name": "image_581.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_581.jpg",
+        "url": "https://i.pinimg.com/136x136/54/3f/c2/543fc2e05fb30c2495e3652d4e4eb2af.jpg",
+        "label": "No"
+    },
+    "582": {
+        "name": "image_582.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_582.jpg",
+        "url": "https://lh3.googleusercontent.com/49SqzoobXoyzjpv5gYHDZn9JxsjozBEPCb1HpNlezacYT4s3YVBWyIz2Fjjv9wfhrj3Yl-9RTnBCXoc0rXKfZA=s320-c-e365",
+        "label": "No"
+    },
+    "584": {
+        "name": "image_584.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_584.jpg",
+        "url": "https://bigsislittledish.files.wordpress.com/2015/02/img_5182.jpg?w=1200&resize=200%2C200",
+        "label": "No"
+    },
+    "585": {
+        "name": "image_585.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_585.jpg",
+        "url": "https://forksnflipflops.com/wp-content/uploads/2016/12/Steak-Salad-Close-Up-150x150.jpg",
+        "label": "No"
+    },
+    "586": {
+        "name": "image_586.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_586.jpg",
+        "url": "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/08/balinese-delights-400x266.jpg",
+        "label": "Yes"
+    },
+    "587": {
+        "name": "image_587.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_587.jpg",
+        "url": "http://images.meredith.com/rrmag/images/recipe/l_R182573.jpg",
+        "label": "No"
+    },
+    "589": {
+        "name": "image_589.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_589.jpg",
+        "url": "https://www.throughherlookingglass.com/wp-content/uploads/2016/11/Brown-Butter-Almond-Green-Beans99.jpg",
+        "label": "Yes"
+    },
+    "590": {
+        "name": "image_590.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_590.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61nb39tb%2BDL.jpg",
+        "label": "No"
+    },
+    "591": {
+        "name": "image_591.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_591.jpg",
+        "url": "https://livluna.com/wp-content/uploads/2015/05/IMG_7560-150x150.jpg",
+        "label": "No"
+    },
+    "592": {
+        "name": "image_592.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_592.jpg",
+        "url": "https://www.gannett-cdn.com/-mm-/5aea818f908b750ef5c7103556d1da5eccd9d3eb/c=0-19-770-597/local/-/media/2017/10/26/USATODAY/usatsports/BlueApron_Box_01-770x616.jpg?width=534&height=401&fit=crop",
+        "label": "No"
+    },
+    "593": {
+        "name": "image_593.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_593.jpg",
+        "url": "https://i.poweredtemplates.com/i/wd/02/582/word_template_s.jpg",
+        "label": "No"
+    },
+    "594": {
+        "name": "image_594.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_594.jpg",
+        "url": "https://www.phoenixmag.co.uk/wp-content/uploads/2016/02/thumbnail-recipe.png",
+        "label": "Yes"
+    },
+    "595": {
+        "name": "image_595.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_595.jpg",
+        "url": "https://linzerskitchen.files.wordpress.com/2014/02/20140218-165615.jpg?w=585&",
+        "label": "Yes"
+    },
+    "597": {
+        "name": "image_597.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_597.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0272/8289/9009/articles/Black_Pepper_Prawn_Recipe_340x228_crop_center.png?v=1603110214",
+        "label": "Yes"
+    },
+    "598": {
+        "name": "image_598.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_598.jpg",
+        "url": "http://saltandspice.org/wp-content/uploads/2012/10/szechuan-fried-rice2-150x150.jpg",
+        "label": "No"
+    },
+    "599": {
+        "name": "image_599.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_599.jpg",
+        "url": "https://i.chzbgr.com/full/3528973824/h109C3D2E/",
+        "label": "No"
+    },
+    "600": {
+        "name": "image_600.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_600.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0259/9003/7582/products/turkish-taste-hafiz-mustafa-double-pistachio-rose_1024x.jpg?v=1592311043",
+        "label": "No"
+    },
+    "601": {
+        "name": "image_601.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_601.jpg",
+        "url": "http://lh5.ggpht.com/irVU_BZ3blIFajcqDn4d7YdRQAJa2qnJ4Lc7zRm-rr-idYgXoKM7HUJtWt_vkXPod81fIHzVLOYeF9feeemNNdQ=s230-c",
+        "label": "No"
+    },
+    "602": {
+        "name": "image_602.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_602.jpg",
+        "url": "https://farm8.staticflickr.com/7695/17335800856_33dd314c7b_z.jpg",
+        "label": "Yes"
+    },
+    "603": {
+        "name": "image_603.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_603.jpg",
+        "url": "https://i0.wp.com/sweetlifebake.com/wp-content/uploads/2011/11/breakfast-tostada-2.jpg?resize=400%2C400",
+        "label": "No"
+    },
+    "604": {
+        "name": "image_604.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_604.jpg",
+        "url": "https://i.pinimg.com/236x/ac/8d/58/ac8d5887ae70d230c16c009299f83ce5--brunch-for-two-bubble-and-squeak-recipe.jpg",
+        "label": "No"
+    },
+    "605": {
+        "name": "image_605.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_605.jpg",
+        "url": "https://thumbs.dreamstime.com/t/crab-cakes-salad-28907199.jpg",
+        "label": "Yes"
+    },
+    "606": {
+        "name": "image_606.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_606.jpg",
+        "url": "https://lh3.googleusercontent.com/29F8-bGzaF0NuAKB1IRfzUvWLTGMk7xMMA2fFcnFFLU9FOlx3IG2hpCcCgsSsPgh-UBr2iu97mtLywSrV5OAFQ=s320-c-e365",
+        "label": "Yes"
+    },
+    "607": {
+        "name": "image_607.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_607.jpg",
+        "url": "https://media.blueapron.com/recipes/22434/recipe_steps/36683/1565193639-34-0147-0709/0909_2PF_WW02_Pasta-E-Fagoli_068_Web.jpg?width=512",
+        "label": "Yes"
+    },
+    "608": {
+        "name": "image_608.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_608.jpg",
+        "url": "https://www.fabbribrasil.com/imgpub/1188131/300/0/GELATO_DI_SALMONE_AFFUMICATO.jpg",
+        "label": "No"
+    },
+    "609": {
+        "name": "image_609.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_609.jpg",
+        "url": "http://s3.amazonaws.com/gmi-digital-library/5492521d-50a6-45cc-a09a-a94ffe171a38.jpg",
+        "label": "No"
+    },
+    "610": {
+        "name": "image_610.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_610.jpg",
+        "url": "http://thebestnest.co.nz/wp-content/uploads/2016/09/IMG_5851-e1472859856983.jpg",
+        "label": "No"
+    },
+    "611": {
+        "name": "image_611.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_611.jpg",
+        "url": "https://farm8.staticflickr.com/7125/13374804814_9f09a0b7e0_o.jpg",
+        "label": "Yes"
+    },
+    "612": {
+        "name": "image_612.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_612.jpg",
+        "url": "https://img.thrivemarket.com/store/full/r/e/rezipseallunchmoss.jpg?w=265",
+        "label": "No"
+    },
+    "613": {
+        "name": "image_613.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_613.jpg",
+        "url": "https://www.goodworksfurniture.com/wp-content/uploads/2017/12/kitchen-paint-the-best-paint-colors-for-every-type-of-kitchen-huffpost-bfllxfe-.jpg",
+        "label": "No"
+    },
+    "614": {
+        "name": "image_614.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_614.jpg",
+        "url": "http://1.bp.blogspot.com/-pX849V7e_rk/Vp8ClHkOuAI/AAAAAAAAvQE/eeN6y10_BBs/s640/Whole%2BMasoor%2BDal%2BSabji.JPG",
+        "label": "Yes"
+    },
+    "615": {
+        "name": "image_615.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_615.jpg",
+        "url": "https://thumbs.dreamstime.com/t/vegetarian-design-over-background-vector-illustration-38706989.jpg",
+        "label": "No"
+    },
+    "616": {
+        "name": "image_616.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_616.jpg",
+        "url": "http://d2k9njawademcf.cloudfront.net/indeximages/28168/three_col/20120804_food52_08-21-12-2799.jpg?1346340304",
+        "label": "Yes"
+    },
+    "617": {
+        "name": "image_617.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_617.jpg",
+        "url": "https://lh3.googleusercontent.com/cfVwdosG1o9hgg7bjnQ7ngl1Unc1Fs_qPOJv7JDVUNm65HlhbaDMZzDuCgr9PXbKrDA=w170",
+        "label": "Yes"
+    },
+    "618": {
+        "name": "image_618.jpg",
+        "path": "/root/home/agaile_datasets/healthy-dish_test/image_618.jpg",
+        "url": "http://s3.amazonaws.com/gmi-digital-library/307bbad8-fbd9-469e-b65a-9474487279da.jpg",
+        "label": "No"
+    }
+}

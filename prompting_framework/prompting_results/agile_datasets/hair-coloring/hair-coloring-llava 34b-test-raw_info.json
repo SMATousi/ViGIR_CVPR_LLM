@@ -1,0 +1,2828 @@
+{
+    "1": {
+        "name": "image_1.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_1.jpg",
+        "url": "https://cdn11.bigcommerce.com/s-7k7lbbk7jr/images/stencil/500x659/products/17127/17488/lg83848-tempting-tin-man-costume-large__62148.1592259392.jpg?c=1",
+        "label": "No"
+    },
+    "2": {
+        "name": "image_2.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_2.jpg",
+        "url": "https://ii.paulayoung.com/fcgi-bin/iipsrv.fcgi?FIF=/images/paulayoung/source/A0046_1.tif&qlt=75&wid=440&cvt=jpeg",
+        "label": "Yes"
+    },
+    "4": {
+        "name": "image_4.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_4.jpg",
+        "url": "https://3.bp.blogspot.com/-GXqjkfcnKrA/W5_v9v3osuI/AAAAAAACbsA/BYLWTFGw0UQQHFtN6XnDl-dNq0RmYVDUgCLcBGAs/s1600/gigi-hadid-messika-jewelry-campaign-2018-03.jpg",
+        "label": "No"
+    },
+    "5": {
+        "name": "image_5.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_5.jpg",
+        "url": "https://static1.funidelia.com/17044-f6_list/desire-red-wig.jpg",
+        "label": "Yes"
+    },
+    "6": {
+        "name": "image_6.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_6.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.6gk00-XEAl0PczSKjVN6fgD3Es",
+        "label": "No"
+    },
+    "7": {
+        "name": "image_7.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_7.jpg",
+        "url": "http://i1.wp.com/stylesweekly.com/wp-content/uploads/2015/11/Victoria-Beckham-Asymmetrical-Bob-Haircut-for-Short-Hair.jpg?resize=500%2C809",
+        "label": "Yes"
+    },
+    "8": {
+        "name": "image_8.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_8.jpg",
+        "url": "https://bookloverslaceycat.files.wordpress.com/2019/06/blog-button.png",
+        "label": "No"
+    },
+    "9": {
+        "name": "image_9.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_9.jpg",
+        "url": "http://partycity1.scene7.com/is/image/PartyCity/_ml_p2p_pc_carousel_badge?$_ml_p2p_pc_carousel_zoom$&$product=PartyCity/591943",
+        "label": "Yes"
+    },
+    "10": {
+        "name": "image_10.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_10.jpg",
+        "url": "https://i.pinimg.com/236x/d6/72/f1/d672f14e92bc5ceb65480dc3e115518e--scary-halloween-makeup-scary-makeup.jpg",
+        "label": "No"
+    },
+    "11": {
+        "name": "image_11.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_11.jpg",
+        "url": "https://static1.funidelia.com/34764-f6_list/blue-mermaid-wig-with-fringe.jpg",
+        "label": "Yes"
+    },
+    "12": {
+        "name": "image_12.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_12.jpg",
+        "url": "https://i.pinimg.com/originals/49/9f/a6/499fa63f16234f8c8b6f8fcdc7b54d27.jpg",
+        "label": "Yes"
+    },
+    "13": {
+        "name": "image_13.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_13.jpg",
+        "url": "https://supya.co/wp-content/uploads/2018/01/20-short-bob-hairstyles-for-black-women-short-hairstyles-2016-intended-for-womens-bob-haircuts.jpg",
+        "label": "Yes"
+    },
+    "14": {
+        "name": "image_14.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_14.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1424/6352/products/The-Mom-Capsule-Happy-Hour-Simplified-123-Look-Orange-Navy-Striped-Top-High-Waisted-Jeans-Blue-Scarf-TOP-back_8e71e4b5-6b76-441c-8d15-25f3bcd11176_1024x1024.jpg?v=1602563228",
+        "label": "Yes"
+    },
+    "15": {
+        "name": "image_15.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_15.jpg",
+        "url": "https://lovehairstyles.com/wp-content/uploads/2016/11/short-hairstyles-for-women-over-50-4.jpg",
+        "label": "Yes"
+    },
+    "16": {
+        "name": "image_16.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_16.jpg",
+        "url": "https://i.pinimg.com/736x/da/90/d7/da90d76203b7ea18ff6b4ea42202dbf1.jpg",
+        "label": "Yes"
+    },
+    "17": {
+        "name": "image_17.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_17.jpg",
+        "url": "https://www.looktothestars.org/photo/13175-meet-the-amazing-sheryl-crow-with-2-tickets-to-a-show-during-her-summer-2020-to-be-announced-tour/story_wide-1574306767.jpg",
+        "label": "No"
+    },
+    "18": {
+        "name": "image_18.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_18.jpg",
+        "url": "https://i.pinimg.com/1200x/94/c6/3d/94c63d81d1f8e18fa4cb5c639f957d1a.jpg",
+        "label": "Yes"
+    },
+    "20": {
+        "name": "image_20.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_20.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0073/3380/6162/products/Untitleddesign-998_cd5fa352-acd5-4a30-b189-805b1c1b34e9_1000x1000.jpg?v=1614959991",
+        "label": "No"
+    },
+    "21": {
+        "name": "image_21.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_21.jpg",
+        "url": "https://ancientalienpedia.files.wordpress.com/2019/08/man-made-monsters-a-field-guide-to-golems-patchwork-solders-homunculi-and-other-created-creatures.jpg?w=150&h=224",
+        "label": "No"
+    },
+    "22": {
+        "name": "image_22.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_22.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0046/4394/6594/products/product-image-797522433_300x300.jpg?v=1570019030",
+        "label": "No"
+    },
+    "23": {
+        "name": "image_23.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_23.jpg",
+        "url": "https://i.pinimg.com/originals/3e/66/a6/3e66a68141ba8b71fa122c09189bec18.jpg",
+        "label": "Yes"
+    },
+    "24": {
+        "name": "image_24.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_24.jpg",
+        "url": "https://img.grouponcdn.com/deal/iScXX1H52EpBDDTEeut5/Py-440x267/v1/t440x300.jpg",
+        "label": "No"
+    },
+    "25": {
+        "name": "image_25.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_25.jpg",
+        "url": "https://www.latest-hairstyles.com/wp-content/uploads/2012/05/short-hair-styles-women-50.jpg",
+        "label": "Yes"
+    },
+    "26": {
+        "name": "image_26.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_26.jpg",
+        "url": "https://i.pinimg.com/originals/a3/8e/a6/a38ea6f47d417a7733963059b1391f3c.jpg",
+        "label": "Yes"
+    },
+    "27": {
+        "name": "image_27.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_27.jpg",
+        "url": "https://i2.wp.com/therighthairstyles.com/wp-content/uploads/2015/10/10-extreme-green-beehive.jpg?w=500&#038;ssl=1",
+        "label": "Yes"
+    },
+    "28": {
+        "name": "image_28.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_28.jpg",
+        "url": "http://static8.depositphotos.com/1007995/1018/i/450/dep_10185028-Young-female-face-with-long-beauty-hair.jpg",
+        "label": "No"
+    },
+    "29": {
+        "name": "image_29.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_29.jpg",
+        "url": "http://www.city-data.com/forum/attachments/hair-care/39319d1239057348-hairstyles-pics-hairpic2.jpg",
+        "label": "Yes"
+    },
+    "30": {
+        "name": "image_30.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_30.jpg",
+        "url": "https://i.pinimg.com/236x/82/71/b4/8271b48da7a58da1891db24177c969a7--fine-hair-hairstyles-trending-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "31": {
+        "name": "image_31.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_31.jpg",
+        "url": "https://i.pinimg.com/originals/9a/88/61/9a88613d4e73baed5d1cf6203cd624cd.jpg",
+        "label": "Yes"
+    },
+    "32": {
+        "name": "image_32.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_32.jpg",
+        "url": "https://i.pinimg.com/236x/8f/5e/13/8f5e137140642519b4fb58e195ccc465--short-hairstyles-over--unique-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "33": {
+        "name": "image_33.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_33.jpg",
+        "url": "https://i.pinimg.com/236x/0a/3f/d5/0a3fd57eea345cdd64a003ab0c90c40e--red-s-style-hair.jpg",
+        "label": "Yes"
+    },
+    "34": {
+        "name": "image_34.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_34.jpg",
+        "url": "https://pics.drugstore.com/prodimg/608820/900.jpg",
+        "label": "No"
+    },
+    "36": {
+        "name": "image_36.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_36.jpg",
+        "url": "https://www.clarksvilleonline.com/wp-content/uploads/2013/04/Jo-Dee-Messina2-480x319.jpg",
+        "label": "No"
+    },
+    "37": {
+        "name": "image_37.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_37.jpg",
+        "url": "http://www.gannett-cdn.com/media/USATODAY/USATODAY/2013/03/04/gty-162802294-16_9_rx408_c720x405.jpg?01f9e124cd1cdcbb4bc747fed716e421e6feff85",
+        "label": "No"
+    },
+    "38": {
+        "name": "image_38.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_38.jpg",
+        "url": "https://s-media-cache-ak0.pinimg.com/216x146/46/75/fa/4675faceeada3f08ee0c67d2b1d02fef.jpg",
+        "label": "Yes"
+    },
+    "40": {
+        "name": "image_40.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_40.jpg",
+        "url": "https://i.pinimg.com/originals/6b/ac/f7/6bacf7b68dc0d95842b4c29f834976e5.jpg",
+        "label": "Yes"
+    },
+    "41": {
+        "name": "image_41.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_41.jpg",
+        "url": "http://img2.timeinc.net/people/i/2014/news/140310/tamera-240.jpg",
+        "label": "No"
+    },
+    "42": {
+        "name": "image_42.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_42.jpg",
+        "url": "https://i.insider.com/4eda42b46bb3f7650f00003c?width=1200",
+        "label": "No"
+    },
+    "43": {
+        "name": "image_43.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_43.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyle_views/front_view_images/3380/original/CL_065-Cutting-Loose-Salon.jpg",
+        "label": "Yes"
+    },
+    "44": {
+        "name": "image_44.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_44.jpg",
+        "url": "https://tse2.mm.bing.net/th/id/OIP.eodOZj3PJMTSD9nXylOTwwHaHa?w=230",
+        "label": "No"
+    },
+    "45": {
+        "name": "image_45.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_45.jpg",
+        "url": "http://i.ytimg.com/vi/HDdklAT06uw/0.jpg",
+        "label": "Yes"
+    },
+    "46": {
+        "name": "image_46.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_46.jpg",
+        "url": "http://media4.onsugar.com/files/upl1/2/20652/26_2008/RileyKHair.xlarge/i/Do-You-Prefer-Riley-Keough-Brunette-Blonde.jpg",
+        "label": "Yes"
+    },
+    "47": {
+        "name": "image_47.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_47.jpg",
+        "url": "https://blog.wella.com/sites/default/files/big-image/wellaproblogblondehairimage18.jpg",
+        "label": "Yes"
+    },
+    "48": {
+        "name": "image_48.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_48.jpg",
+        "url": "https://i.pinimg.com/236x/03/c2/e3/03c2e35e26de7180496cecf84b2a1129.jpg",
+        "label": "Yes"
+    },
+    "49": {
+        "name": "image_49.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_49.jpg",
+        "url": "http://i.ytimg.com/vi/YltHGKX80Y8/mqdefault.jpg",
+        "label": "Yes"
+    },
+    "51": {
+        "name": "image_51.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_51.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/48/72/41/240_F_48724162_NO3Zt1bXDBekmvob9MGqHVWLK4htqWt4.jpg",
+        "label": "No"
+    },
+    "53": {
+        "name": "image_53.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_53.jpg",
+        "url": "https://media.meindm.at/asset/dmshop/noindex/10032332_B_P?$product_carousel_small$&amp;bgc=ffffff",
+        "label": "No"
+    },
+    "54": {
+        "name": "image_54.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_54.jpg",
+        "url": "http://media2.onsugar.com/files/2011/05/18/5/192/1922153/32f5cb81c683df17_wedding-hair-ideas-julianne-hough.large/i/Wedding-Hairstyles-Up-dos.jpg",
+        "label": "Yes"
+    },
+    "56": {
+        "name": "image_56.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_56.jpg",
+        "url": "https://i.pinimg.com/236x/c3/7c/f6/c37cf6c474b53f0e33ca852c7e0d84cb--cosplay-anime-cosplay-costume.jpg",
+        "label": "No"
+    },
+    "57": {
+        "name": "image_57.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_57.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1070/0598/products/WIF_LF771_Gallery_1024x.jpg?v=1583436078",
+        "label": "No"
+    },
+    "59": {
+        "name": "image_59.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_59.jpg",
+        "url": "https://static1.imagecollect.com/preview/385/b71bd9833d84006",
+        "label": "No"
+    },
+    "60": {
+        "name": "image_60.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_60.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/51/36/78/240_F_51367880_ihdM2zfuibILw2TydLWuU4JrEMdDkmsI.jpg",
+        "label": "Yes"
+    },
+    "61": {
+        "name": "image_61.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_61.jpg",
+        "url": "https://i.pinimg.com/736x/f0/82/ba/f082bab6b0d4c21fd1646e73b32f1552--halloween-costume-makeup-sexy-halloween.jpg",
+        "label": "No"
+    },
+    "62": {
+        "name": "image_62.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_62.jpg",
+        "url": "https://i.pinimg.com/originals/41/ec/7b/41ec7bfbf27c0ce5860f12d35e73cdc3.jpg",
+        "label": "Yes"
+    },
+    "63": {
+        "name": "image_63.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_63.jpg",
+        "url": "https://i2.wp.com/www.hadviser.com/wp-content/uploads/2018/11/45-fine-hair-blonde-bob-with-side-bangs-50.jpg?resize=832%2C850&ssl=1",
+        "label": "Yes"
+    },
+    "64": {
+        "name": "image_64.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_64.jpg",
+        "url": "http://static4.depositphotos.com/1018174/459/i/450/dep_4596194-Portrait-of-a-young-woman-with-long-hair.jpg",
+        "label": "No"
+    },
+    "65": {
+        "name": "image_65.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_65.jpg",
+        "url": "http://2.bp.blogspot.com/-LUhZpVzMyGM/TafjD4g5N_I/AAAAAAAADis/IaqJ77wUDyI/s1600/Sexy%20Halle%20Berry%20Images%20%287%29.JPG",
+        "label": "No"
+    },
+    "68": {
+        "name": "image_68.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_68.jpg",
+        "url": "https://i.pinimg.com/736x/0c/03/0b/0c030b933c6aa86506005e1bfc184230--morena-baccarin-deadpool-sketching.jpg",
+        "label": "No"
+    },
+    "70": {
+        "name": "image_70.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_70.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0668/1603/products/IMG_8571_grande.jpg?v=1583878911",
+        "label": "Yes"
+    },
+    "71": {
+        "name": "image_71.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_71.jpg",
+        "url": "http://cdn.shopify.com/s/files/1/1410/9094/products/hdslch_03_lg_large.jpg?v=1494882563",
+        "label": "Yes"
+    },
+    "72": {
+        "name": "image_72.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_72.jpg",
+        "url": "http://static3.depositphotos.com/1000943/144/i/450/dep_1441482-Miss-Autumn.jpg",
+        "label": "No"
+    },
+    "73": {
+        "name": "image_73.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_73.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1307/4273/products/image_59371d0b-e335-4e65-a262-7a56d483d2f1_1024x1024.jpg?v=1571439038",
+        "label": "Yes"
+    },
+    "74": {
+        "name": "image_74.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_74.jpg",
+        "url": "http://images5.fanpop.com/image/forum/160000/160864_1326530023574_271_186.jpg",
+        "label": "No"
+    },
+    "75": {
+        "name": "image_75.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_75.jpg",
+        "url": "http://4.bp.blogspot.com/-6jrB-QTuOa8/TtcNWY7kEQI/AAAAAAAAAKQ/BSAeD6u3O_s/s1600/blood_on_the_dance_floor_3_by_liztheemoboylover-d34flpn.jpg#BOTDF",
+        "label": "No"
+    },
+    "76": {
+        "name": "image_76.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_76.jpg",
+        "url": "https://i.pinimg.com/236x/f6/d8/1d/f6d81de85e7e451d482fc349911198f5.jpg",
+        "label": "Yes"
+    },
+    "77": {
+        "name": "image_77.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_77.jpg",
+        "url": "https://i.pinimg.com/236x/3e/8b/9d/3e8b9de09778e6afb8b4f488b5ad1237--wedding-hairstyle-inspiration-hairstyle-wedding.jpg",
+        "label": "Yes"
+    },
+    "79": {
+        "name": "image_79.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_79.jpg",
+        "url": "http://i.pinimg.com/236x/a1/57/f9/a157f91db8cca419cb41d28e5d08f97e.jpg",
+        "label": "Yes"
+    },
+    "80": {
+        "name": "image_80.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_80.jpg",
+        "url": "https://static1.squarespace.com/static/5550a3b6e4b08a0248d23032/58b45cf93e00be935768df44/5c5ccbf9e5a68b301cf96016/1549585405890/",
+        "label": "Yes"
+    },
+    "81": {
+        "name": "image_81.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_81.jpg",
+        "url": "https://i.pinimg.com/236x/0f/33/46/0f334673e34f5e496d1354934262a762--honey-blonde-highlights-gorge.jpg",
+        "label": "Yes"
+    },
+    "82": {
+        "name": "image_82.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_82.jpg",
+        "url": "https://i.pinimg.com/236x/18/09/02/180902d627d2b04fb469550a107215ab--waterfall-braids-the-waterfall.jpg",
+        "label": "Yes"
+    },
+    "83": {
+        "name": "image_83.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_83.jpg",
+        "url": "https://li8.rightinthebox.com/images/190x250/201709/jmvcih1505787610752.jpg",
+        "label": "Yes"
+    },
+    "84": {
+        "name": "image_84.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_84.jpg",
+        "url": "https://hairstyles.thehairstyler.com/hairstyle_views/left_view_images/6105/original/Jessie-J.jpg",
+        "label": "Yes"
+    },
+    "85": {
+        "name": "image_85.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_85.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0836/9167/products/rockstar-wigs-curly-powder-pink-wig-1_6fd1034f-9510-4a3b-8819-308c2f1acbca_226x226.jpg?v=1603647788",
+        "label": "Yes"
+    },
+    "86": {
+        "name": "image_86.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_86.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.hNH9cpJFc7mdq96cWuA80QHaJf",
+        "label": "Yes"
+    },
+    "87": {
+        "name": "image_87.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_87.jpg",
+        "url": "https://mymidlifemayhem.files.wordpress.com/2014/05/download.jpeg?w=529",
+        "label": "Yes"
+    },
+    "88": {
+        "name": "image_88.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_88.jpg",
+        "url": "https://a7e51bf92662e795aef8-f139b7e0190a944c296720f41a25f0a3.ssl.cf1.rackcdn.com/live_feed_image/image/844065/large_School_Lunch_Hero_Day_post.jpg",
+        "label": "No"
+    },
+    "89": {
+        "name": "image_89.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_89.jpg",
+        "url": "https://thumbs.dreamstime.com/t/young-smiling-woman-standing-25333072.jpg",
+        "label": "No"
+    },
+    "90": {
+        "name": "image_90.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_90.jpg",
+        "url": "https://i.pinimg.com/236x/e7/9e/7f/e79e7f11a5fc831bfec072f65efe13a4--cute-braided-hairstyles-gorgeous-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "91": {
+        "name": "image_91.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_91.jpg",
+        "url": "https://www.koko-hair.co.uk/wp-content/uploads/2015/08/6367-Bob-Baby-Pink1-220x286.jpg",
+        "label": "No"
+    },
+    "93": {
+        "name": "image_93.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_93.jpg",
+        "url": "http://d202m5krfqbpi5.cloudfront.net/books/1335326646l/13561341.jpg",
+        "label": "Yes"
+    },
+    "94": {
+        "name": "image_94.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_94.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.-kiTbm5dwelb5v-EkCPH2QEsEs",
+        "label": "Yes"
+    },
+    "95": {
+        "name": "image_95.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_95.jpg",
+        "url": "https://i.pinimg.com/736x/c1/ea/07/c1ea07301a42d548c7a88c3d0ea4fe15--purple-ombre-light-purple-hair-dye.jpg",
+        "label": "Yes"
+    },
+    "96": {
+        "name": "image_96.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_96.jpg",
+        "url": "https://1.bp.blogspot.com/-MFSFiyJ-lfw/WBeEGn7HtvI/AAAAAAABMdc/hfvHboJ2g9QqNrZ4TAzUGsL-gu55A1G6wCEw/s640/Cathy%2BDoll%2BCushion%2BBlusher%2Breview-sugar-pink-Nikki%2BTiu-AMW.JPG",
+        "label": "Yes"
+    },
+    "99": {
+        "name": "image_99.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_99.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyles/images/18275/original/Rose-Byrne.jpg",
+        "label": "No"
+    },
+    "100": {
+        "name": "image_100.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_100.jpg",
+        "url": "https://i.pinimg.com/236x/59/fa/9d/59fa9d022008c1dfe043f9bab408341f--short-green-hair-short-dyed-hair.jpg",
+        "label": "Yes"
+    },
+    "101": {
+        "name": "image_101.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_101.jpg",
+        "url": "https://i.pinimg.com/originals/3f/8b/bc/3f8bbc31dda6839d7189c195a4be829b.jpg",
+        "label": "Yes"
+    },
+    "102": {
+        "name": "image_102.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_102.jpg",
+        "url": "https://cdn1.bigcommerce.com/server1200/19eb3/products/1622/images/7035/1553_33H130__75542.1355367855.220.290.jpg?c=2",
+        "label": "Yes"
+    },
+    "103": {
+        "name": "image_103.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_103.jpg",
+        "url": "http://2.bp.blogspot.com/_30PRmkOl4ro/StHOTK4WitI/AAAAAAAAWs0/4wYAqAoaG6c/s400/short-hairstyle2.jpg",
+        "label": "Yes"
+    },
+    "104": {
+        "name": "image_104.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_104.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1055/4244/products/107848188_2984599308326626_269824669995601077_n_620x.jpg?v=1594579931",
+        "label": "No"
+    },
+    "105": {
+        "name": "image_105.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_105.jpg",
+        "url": "https://i.pinimg.com/736x/49/b9/fe/49b9fe8a0f7f963c26c546054fb5a916.jpg?1511494223",
+        "label": "No"
+    },
+    "107": {
+        "name": "image_107.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_107.jpg",
+        "url": "https://loveweddingsng.com/wp-content/uploads/2016/10/Nigerian-Bridal-Makeover-Before-and-After-Bellevous-Makeovers-LoveweddingsNG.png",
+        "label": "No"
+    },
+    "108": {
+        "name": "image_108.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_108.jpg",
+        "url": "https://tse2.mm.bing.net/th?id=OIP.Ry5SMBZWhkKAZ2MLF6oRqgHaLH&pid=15.1",
+        "label": "No"
+    },
+    "109": {
+        "name": "image_109.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_109.jpg",
+        "url": "https://2.bp.blogspot.com/-xg9Bi53vH6g/VcLMkljPvuI/AAAAAAAAIAc/Fio4RQ4ZBig/s1600/Floppy_Hat.jpg",
+        "label": "Yes"
+    },
+    "110": {
+        "name": "image_110.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_110.jpg",
+        "url": "https://i.pinimg.com/736x/30/1d/16/301d164b14c1415aacf20cf3989c7994.jpg",
+        "label": "Yes"
+    },
+    "111": {
+        "name": "image_111.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_111.jpg",
+        "url": "https://i2.wp.com/celebrityinside.com/wp-content/uploads/2015/07/Alicia-Fox.jpg?fit=204%2C260",
+        "label": "Yes"
+    },
+    "112": {
+        "name": "image_112.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_112.jpg",
+        "url": "https://i.pinimg.com/736x/ba/fe/35/bafe359021e258f0068ce4828b170212--cute-braided-hairstyles-popular-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "113": {
+        "name": "image_113.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_113.jpg",
+        "url": "https://inflexa.com/wp-content/uploads/2019/12/50-fabulous-medium-length-layered-hairstyles-hair-adviser-in-golden-bronde-bob-hairstyles-with-piecey-layers.jpeg",
+        "label": "Yes"
+    },
+    "115": {
+        "name": "image_115.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_115.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0032/5245/3443/products/PhotoGrid_1598915866794_compact.jpg?v=1598916435",
+        "label": "No"
+    },
+    "116": {
+        "name": "image_116.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_116.jpg",
+        "url": "https://inflexa.com/wp-content/uploads/2017/09/beautiful-long-hairstyles-for-prom-pictures-best-hairstyles-in-for-long-hairstyles-for-prom.jpg",
+        "label": "Yes"
+    },
+    "117": {
+        "name": "image_117.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_117.jpg",
+        "url": "https://i2.wp.com/favehairstyles.com/wp-content/uploads/2016/01/short-pixie-hairstyle-for-women-over-501.jpg?resize=474%2C711",
+        "label": "Yes"
+    },
+    "118": {
+        "name": "image_118.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_118.jpg",
+        "url": "http://hair-photo.com/wp-content/uploads/2018/03/trendyhair-1521639773k4gn8-200x267.jpg",
+        "label": "Yes"
+    },
+    "120": {
+        "name": "image_120.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_120.jpg",
+        "url": "https://i.pinimg.com/236x/1b/cd/09/1bcd095c9b7cc636aa4495af84c1433b--down-wedding-hairstyles-bridal-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "121": {
+        "name": "image_121.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_121.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.bqLK93Jn_3NMsLQ2F_FUqwHaJH",
+        "label": "Yes"
+    },
+    "122": {
+        "name": "image_122.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_122.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2318/5147/files/Hannah_3_480x480.jpg?v=1606219430",
+        "label": "No"
+    },
+    "123": {
+        "name": "image_123.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_123.jpg",
+        "url": "https://i.pinimg.com/originals/71/f8/d3/71f8d33f4c43c349b495724bba42ba1f.jpg",
+        "label": "No"
+    },
+    "124": {
+        "name": "image_124.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_124.jpg",
+        "url": "http://www.pixie-cut.com/wp-content/uploads/2016/11/Shaved-Pixie-Haircut.jpg",
+        "label": "Yes"
+    },
+    "125": {
+        "name": "image_125.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_125.jpg",
+        "url": "http://cdn.shopify.com/s/files/1/1025/3631/products/Tony_of_Beverly_Wigs_Britt_6_28_1_grande.jpg?v=1472157552",
+        "label": "Yes"
+    },
+    "127": {
+        "name": "image_127.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_127.jpg",
+        "url": "https://gadget-device.ru/pictures/product/small/41686_small.jpg",
+        "label": "No"
+    },
+    "128": {
+        "name": "image_128.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_128.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP.iU49p9wZV_d0x2tt7w3ydAHaHa",
+        "label": "Yes"
+    },
+    "129": {
+        "name": "image_129.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_129.jpg",
+        "url": "http://images6.fanpop.com/image/photos/40600000/Girls-Generation-Holiday-Night-Teaser-Image-SUNNY-girls-generation-snsd-40608899-849-1200.jpg",
+        "label": "Yes"
+    },
+    "130": {
+        "name": "image_130.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_130.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1102/1612/products/Brave_The_Wave_-_Side_2_c87f0ef0-193b-4d80-841d-84af1daceb6f.jpg?v=1571439413",
+        "label": "Yes"
+    },
+    "132": {
+        "name": "image_132.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_132.jpg",
+        "url": "https://thumbs.dreamstime.com/t/girl-lemon-slices-ears-dreaming-28623985.jpg",
+        "label": "Yes"
+    },
+    "133": {
+        "name": "image_133.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_133.jpg",
+        "url": "https://i.pinimg.com/236x/f0/1d/a8/f01da89be57a9ee7dee975e8c60e9958--ways-to-style-short-hair-short-hair-up-do.jpg",
+        "label": "Yes"
+    },
+    "134": {
+        "name": "image_134.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_134.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1420/6180/products/DSC01682_1600x.jpg?v=1545343215",
+        "label": "Yes"
+    },
+    "135": {
+        "name": "image_135.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_135.jpg",
+        "url": "https://hips.hearstapps.com/mac.h-cdn.co/assets/cm/14/49/548526b83c6c6_-_mcx-best-lobs-of-2014-009-de.jpg",
+        "label": "Yes"
+    },
+    "136": {
+        "name": "image_136.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_136.jpg",
+        "url": "https://onceleb.wiki/wp-content/uploads/images2/gina-gershon-writers-guild-awards-in-new-york.jpg",
+        "label": "Yes"
+    },
+    "138": {
+        "name": "image_138.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_138.jpg",
+        "url": "https://i.pinimg.com/236x/8a/86/1d/8a861dfb619ac64df6da36b16105d2c5--haircolor-short-cuts.jpg",
+        "label": "Yes"
+    },
+    "139": {
+        "name": "image_139.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_139.jpg",
+        "url": "https://i.pinimg.com/736x/7a/a4/06/7aa406b6cc143715414e70a255a5fe47.jpg",
+        "label": "No"
+    },
+    "140": {
+        "name": "image_140.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_140.jpg",
+        "url": "https://lh3.googleusercontent.com/HvYNmvrdvKVNB4doi-JIWsboQmEwF2PNnsZVhjoDSk_d5hTw1KqtSVb-pwWD0MzWLgSF5hXAXJ5xAJvDag2pTczkeoBWIerZ=w960-rj-nu-e365",
+        "label": "Yes"
+    },
+    "141": {
+        "name": "image_141.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_141.jpg",
+        "url": "https://static.wixstatic.com/media/67be14_fef61aed024d47b9bf5450d5b7701532.jpg",
+        "label": "No"
+    },
+    "143": {
+        "name": "image_143.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_143.jpg",
+        "url": "https://i.pinimg.com/originals/c8/50/09/c8500983610171a4cca8d985a7768dda.jpg",
+        "label": "Yes"
+    },
+    "144": {
+        "name": "image_144.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_144.jpg",
+        "url": "https://vinyloteka.ru/sites/default/files/styles/238x238/public/73af3f2137b713ec17d684450996bc72.jpeg?itok=4VrG9mPu&amp;v=1522849082",
+        "label": "No"
+    },
+    "147": {
+        "name": "image_147.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_147.jpg",
+        "url": "http://us.123rf.com/450wm/ferli/ferli1310/ferli131000029/22671191-fashion-portrait-of-young-beautiful-muslim-woman-with-purple-costume-wearing-hijab.jpg",
+        "label": "No"
+    },
+    "148": {
+        "name": "image_148.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_148.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyle_views/front_view_images/2219/original/Maria-Elena-Salinas.jpg",
+        "label": "Yes"
+    },
+    "149": {
+        "name": "image_149.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_149.jpg",
+        "url": "https://i.pinimg.com/236x/d4/17/3e/d4173e12f88c3741ad3d1e3361ddd55a.jpg",
+        "label": "Yes"
+    },
+    "150": {
+        "name": "image_150.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_150.jpg",
+        "url": "https://fashionisers.com/wp-content/uploads/2016/09/86_braided_hairstyles_braids_for_every_hair_length_boho_diagonal_braids.jpg",
+        "label": "Yes"
+    },
+    "151": {
+        "name": "image_151.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_151.jpg",
+        "url": "https://0c8cb687701631b1ff0b-235fb5f4c073f90b275664b2611330fd.ssl.cf5.rackcdn.com/re_sized_rainbowhair_1347998805.jpg",
+        "label": "Yes"
+    },
+    "152": {
+        "name": "image_152.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_152.jpg",
+        "url": "https://us.123rf.com/450wm/viki2win/viki2win1204/viki2win120400007/13208368-happy-hair-salon-owner-or-employee-with-customers-in-the-background.jpg?ver=6",
+        "label": "Yes"
+    },
+    "153": {
+        "name": "image_153.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_153.jpg",
+        "url": "https://d2uvynux30dg3.cloudfront.net/grapercosmeticsurgery.com/wp-content/uploads/2019/09/24101633/young-girl-touching-her-face-medium-image-375x375.jpg",
+        "label": "No"
+    },
+    "154": {
+        "name": "image_154.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_154.jpg",
+        "url": "https://i.pinimg.com/originals/13/1c/bf/131cbf2897544e10ddedc98f7eabdfdb.jpg",
+        "label": "Yes"
+    },
+    "155": {
+        "name": "image_155.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_155.jpg",
+        "url": "https://i.pinimg.com/236x/1e/f9/39/1ef939db0389e24df69e8f2945468b8f.jpg",
+        "label": "Yes"
+    },
+    "156": {
+        "name": "image_156.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_156.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0003/6962/3084/products/lola-watermark004_620x.jpg?v=1559672213",
+        "label": "Yes"
+    },
+    "157": {
+        "name": "image_157.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_157.jpg",
+        "url": "https://media.allure.com/photos/5c76cfe2dd6ee2146e3dcf17/1:1/w_400%2Cc_limit/sarah-paulson-blonde-hair-color.jpg",
+        "label": "Yes"
+    },
+    "158": {
+        "name": "image_158.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_158.jpg",
+        "url": "http://i2.wp.com/therighthairstyles.com/wp-content/uploads/2014/07/1-medium-salt-and-pepper-hairstyle-with-bangs.jpg?w=500",
+        "label": "Yes"
+    },
+    "159": {
+        "name": "image_159.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_159.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0533/5597/products/Thin-Headstock-2_large.jpg?v=1479941105",
+        "label": "No"
+    },
+    "161": {
+        "name": "image_161.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_161.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1173/9114/products/B8A5238-1.jpg?v=1605202355",
+        "label": "Yes"
+    },
+    "162": {
+        "name": "image_162.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_162.jpg",
+        "url": "https://thumbs.dreamstime.com/t/young-woman-vintage-look-telephone-laying-blanket-30575480.jpg",
+        "label": "Yes"
+    },
+    "163": {
+        "name": "image_163.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_163.jpg",
+        "url": "http://1.bp.blogspot.com/-HFWj4W6c5c0/UYtjK8yTzbI/AAAAAAAAAls/SkSDvcQQGw0/s640/bob-haircut-with-bangs-Cute+and+Cool+Short+Hairstyles+For+Women7.jpg",
+        "label": "Yes"
+    },
+    "166": {
+        "name": "image_166.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_166.jpg",
+        "url": "https://i.pinimg.com/originals/6a/35/1a/6a351a93818854f29c062e4c5e83fa93.jpg",
+        "label": "Yes"
+    },
+    "167": {
+        "name": "image_167.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_167.jpg",
+        "url": "https://i.pinimg.com/736x/f3/a7/24/f3a724c2c036d975964b2776a898f3ce.jpg",
+        "label": "Yes"
+    },
+    "171": {
+        "name": "image_171.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_171.jpg",
+        "url": "https://i2.wp.com/www.prettydesigns.com/wp-content/uploads/2015/12/sexy-shoulder-length-wavy-bob-hairstyle-for-thick-hair.jpg",
+        "label": "Yes"
+    },
+    "172": {
+        "name": "image_172.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_172.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.YAHaHu--NHugCLMybnRDaAHaKW",
+        "label": "Yes"
+    },
+    "173": {
+        "name": "image_173.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_173.jpg",
+        "url": "https://i2.wp.com/mynewhairstyles.net/wp-content/uploads/2016/06/Summer-Blonde-Ash-Hair-2.jpg?resize=500%2C500",
+        "label": "Yes"
+    },
+    "174": {
+        "name": "image_174.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_174.jpg",
+        "url": "https://us.123rf.com/450wm/grekov/grekov1202/grekov120200235/12604278-girl-with-gerbera-flower-in-studio.jpg",
+        "label": "No"
+    },
+    "175": {
+        "name": "image_175.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_175.jpg",
+        "url": "https://i.pinimg.com/236x/a6/53/f3/a653f31ff24d905675a5a4d13f92b2fa.jpg",
+        "label": "Yes"
+    },
+    "178": {
+        "name": "image_178.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_178.jpg",
+        "url": "https://i.pinimg.com/236x/0e/bc/d5/0ebcd5eba975bf86d20af54158731d7f--grunge-girl-pastel-grunge.jpg",
+        "label": "Yes"
+    },
+    "180": {
+        "name": "image_180.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_180.jpg",
+        "url": "https://i.pinimg.com/originals/0f/52/c9/0f52c95b07d69d9073e15a782daafe0b.jpg",
+        "label": "Yes"
+    },
+    "181": {
+        "name": "image_181.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_181.jpg",
+        "url": "https://images.halloweencostumes.eu/products/35791/1-21/womens-incredible-superhero-wig.jpg",
+        "label": "Yes"
+    },
+    "182": {
+        "name": "image_182.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_182.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.dGRd_r_miE_KfPTh0wPlpwHaJx",
+        "label": "No"
+    },
+    "184": {
+        "name": "image_184.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_184.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0274/1389/files/slicked_back_hairstyle_with_blonde_hair_suavecito_pomade_in_hair.jpg?v=1503098722",
+        "label": "No"
+    },
+    "185": {
+        "name": "image_185.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_185.jpg",
+        "url": "https://i.pinimg.com/236x/79/27/e6/7927e6b42df022a17a409c0f9703f048--long-angled-bob-hairstyles-trendy-hairstyles.jpg",
+        "label": "No"
+    },
+    "186": {
+        "name": "image_186.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_186.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.VR2XjqezY1vKu-2aau1hqQEsDS",
+        "label": "Yes"
+    },
+    "187": {
+        "name": "image_187.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_187.jpg",
+        "url": "https://i.pinimg.com/736x/74/04/a7/7404a77f2bcdfdb59a0f64a57f99d286--cute-asian-girls-pretty-girls.jpg",
+        "label": "Yes"
+    },
+    "188": {
+        "name": "image_188.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_188.jpg",
+        "url": "https://i.pinimg.com/736x/a2/87/92/a28792605c3bf8eca54cd9da33ff26d7--natural-hair-care-tips-natural-hair-care-products.jpg",
+        "label": "Yes"
+    },
+    "190": {
+        "name": "image_190.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_190.jpg",
+        "url": "https://m.media-amazon.com/images/I/61GyOsFBN9L._SL160_.jpg",
+        "label": "No"
+    },
+    "191": {
+        "name": "image_191.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_191.jpg",
+        "url": "https://us.123rf.com/450wm/iimages/iimages1308/iimages130800453/21235704-illustration-of-a-bee-near-the-giant-red-mushroom-on-a-white-background.jpg",
+        "label": "No"
+    },
+    "192": {
+        "name": "image_192.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_192.jpg",
+        "url": "https://i.pinimg.com/736x/78/d1/0d/78d10d6ff6838fa8030f547133a80055--medium-length-curly-hairstyles-natural-curly-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "193": {
+        "name": "image_193.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_193.jpg",
+        "url": "http://1.bp.blogspot.com/_DEqAarwXKS0/TAhjItO8L6I/AAAAAAAAATo/7TRc1LLSLI0/s1600/Paris+Hilton+Beauty+Short+Blonde+Hairstyles+3.jpg",
+        "label": "Yes"
+    },
+    "194": {
+        "name": "image_194.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_194.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1410/9094/products/rp1677_04_lg_medium.jpg?v=1503330569",
+        "label": "Yes"
+    },
+    "196": {
+        "name": "image_196.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_196.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1891/6205/products/4560_2000x.jpg?v=1571713543",
+        "label": "Yes"
+    },
+    "197": {
+        "name": "image_197.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_197.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0024/8243/8210/products/hcr11023---Pretty-Flamingo---Classic---jar-on-swatch-red8.13.20_1024x1024.jpg?v=1599909562",
+        "label": "No"
+    },
+    "198": {
+        "name": "image_198.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_198.jpg",
+        "url": "http://img2.timeinc.net/people/i/2009/video/091409/victoria-beckham-150.jpg",
+        "label": "Yes"
+    },
+    "199": {
+        "name": "image_199.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_199.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.Rnpxms6q4tZF79jE7p04VAHaHa",
+        "label": "Yes"
+    },
+    "200": {
+        "name": "image_200.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_200.jpg",
+        "url": "https://i.pinimg.com/736x/59/82/3c/59823c38a68cb5ed25e57e2749f79321--pretty-halloween-halloween-mermaid.jpg",
+        "label": "No"
+    },
+    "201": {
+        "name": "image_201.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_201.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP.CT6ikADzqdLJf27TAiJg0AHaJ4",
+        "label": "Yes"
+    },
+    "204": {
+        "name": "image_204.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_204.jpg",
+        "url": "https://static.wixstatic.com/media/e1e6bf_d9e6054cff5a4682a37a7aa5d98d8cf5~mv2.jpeg",
+        "label": "Yes"
+    },
+    "205": {
+        "name": "image_205.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_205.jpg",
+        "url": "https://cdn.dashhudson.com/media/640/1573567218.78639053097.jpeg",
+        "label": "No"
+    },
+    "207": {
+        "name": "image_207.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_207.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0067/4444/0884/products/2_24cd2c41-3a45-431d-9fbf-b88bacea019e_530x@2x.jpg?v=1587457724",
+        "label": "No"
+    },
+    "208": {
+        "name": "image_208.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_208.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP.U-SwxVisn0PNK_g9jM6tfQHaKY",
+        "label": "Yes"
+    },
+    "209": {
+        "name": "image_209.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_209.jpg",
+        "url": "https://wallsdesk.com:443/wp-content/uploads/2016/04/Khloe-Kardashian-Wallpapers-HD.jpg",
+        "label": "Yes"
+    },
+    "210": {
+        "name": "image_210.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_210.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.Lb4BelHWXpaToz-j3aAT0AHaJP",
+        "label": "No"
+    },
+    "211": {
+        "name": "image_211.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_211.jpg",
+        "url": "https://i.pinimg.com/236x/d6/68/45/d66845df0ff3570359655a70424e5a3e.jpg",
+        "label": "Yes"
+    },
+    "212": {
+        "name": "image_212.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_212.jpg",
+        "url": "https://neuetechs.com/wp-content/uploads/2019/03/Hairstyles-for-long-hair-are-very-popular-at-this-time-150x150.jpg",
+        "label": "Yes"
+    },
+    "213": {
+        "name": "image_213.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_213.jpg",
+        "url": "http://img2.timeinc.net/people/i/2014/news/140331/ireland-baldwin-600x450.jpg",
+        "label": "Yes"
+    },
+    "215": {
+        "name": "image_215.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_215.jpg",
+        "url": "http://images.thehairstyler.com/articles/article_images/631/large/hairstyle-help-preparing-your-hair-for-an-updo-side.jpg",
+        "label": "No"
+    },
+    "217": {
+        "name": "image_217.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_217.jpg",
+        "url": "https://i.pinimg.com/originals/37/e2/e6/37e2e63587826e70cf494d62c4e48e4f.jpg",
+        "label": "Yes"
+    },
+    "218": {
+        "name": "image_218.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_218.jpg",
+        "url": "http://st.depositphotos.com/1030375/1214/i/450/depositphotos_12140922-Classic-retro-style-portrait-of-young-blonde-pin-up-girl.jpg",
+        "label": "Yes"
+    },
+    "219": {
+        "name": "image_219.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_219.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0800/4863/products/Pink_and_Blue_Plaid_Top_3_1600x.jpg?v=1534913969",
+        "label": "Yes"
+    },
+    "220": {
+        "name": "image_220.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_220.jpg",
+        "url": "http://4.bp.blogspot.com/-J6UVpm2cLho/VQdg5wJGsPI/AAAAAAAALpA/9zD1otMdj7s/s1600/c30f0500ad4bc3e780b37a840aa3bcc5.jpg",
+        "label": "Yes"
+    },
+    "222": {
+        "name": "image_222.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_222.jpg",
+        "url": "http://4.bp.blogspot.com/-9UQfj627SoQ/VqZiKdzr5JI/AAAAAAAAAr0/Jfe71pglTDY/s1600/Good%2Bvs%2Bbad%2Bhair%2Bextebsions_bad%2Bombre_Hair%2Bextensions_extensions%2Bri_jaclynn%2Bkate_jaclynn%2Bkate%2Bhair%2Bmakeup%2Bartistry_north%2Bkingstown%2Bri_extensions%2Bin%2Bri_hair%2Bextensions%2Bin%2Bri_salon%2Bthat%2Bdoes%2Bextensions%2Bin%2BRhode%2Bisland_the%2Bknot%2Bbest%2Bof%2Bweddings_.JPG",
+        "label": "Yes"
+    },
+    "223": {
+        "name": "image_223.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_223.jpg",
+        "url": "http://media4.popsugar-assets.com/files/2012/09/37/5/192/1922153/bd9f7e2207b8c810_Tam_bks_I_RS13_1111.xxxlarge/i/Runway-Inspired-Ponytails-Chignons.jpg",
+        "label": "No"
+    },
+    "224": {
+        "name": "image_224.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_224.jpg",
+        "url": "https://i.pinimg.com/736x/dc/f8/a1/dcf8a1f1e8b741c74dc02d349029dce5--waterfall-braid-curls-waterfall-hairstyle.jpg",
+        "label": "Yes"
+    },
+    "225": {
+        "name": "image_225.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_225.jpg",
+        "url": "https://i.pinimg.com/736x/ee/b3/12/eeb3121f7d0915bad297db5de5c6e610.jpg",
+        "label": "No"
+    },
+    "228": {
+        "name": "image_228.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_228.jpg",
+        "url": "https://inflexa.com/wp-content/uploads/2018/10/10-latest-pixie-haircut-designs-for-women-short-hairstyles-2018-with-newest-messy-tapered-pixie-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "229": {
+        "name": "image_229.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_229.jpg",
+        "url": "https://i.pinimg.com/originals/57/01/16/570116f3acf398568104ea942a0eb43e.png",
+        "label": "Yes"
+    },
+    "231": {
+        "name": "image_231.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_231.jpg",
+        "url": "https://i.pinimg.com/236x/96/5e/79/965e798021a3723151b0ffb67be5d82a--perfect-hair-hair-looks.jpg",
+        "label": "Yes"
+    },
+    "233": {
+        "name": "image_233.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_233.jpg",
+        "url": "https://i.pinimg.com/originals/64/13/a5/6413a5799c5c56d2512ddf405ea483bc.jpg",
+        "label": "Yes"
+    },
+    "234": {
+        "name": "image_234.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_234.jpg",
+        "url": "http://img2.timeinc.net/instyle/images/2010/GalxMonth/01/012010-christina-aguilera-400.jpg",
+        "label": "Yes"
+    },
+    "235": {
+        "name": "image_235.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_235.jpg",
+        "url": "https://i.pinimg.com/originals/e8/c7/9e/e8c79ebba4c3ea3c9c1ac26917e3d0ea.jpg",
+        "label": "Yes"
+    },
+    "236": {
+        "name": "image_236.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_236.jpg",
+        "url": "https://i.pinimg.com/236x/56/78/a8/5678a84c00ac43b7edca6cecb3d0d8fb--underneath-hair-shaved-hidden-undercut-bob.jpg",
+        "label": "Yes"
+    },
+    "237": {
+        "name": "image_237.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_237.jpg",
+        "url": "https://cdn.acidcow.com/pics/20190602/1559485471_lgfctes6g1.jpg",
+        "label": "No"
+    },
+    "239": {
+        "name": "image_239.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_239.jpg",
+        "url": "https://i.pinimg.com/236x/dd/97/a5/dd97a5b85288a7c29cc02af65831a671--blonde-color-blonde-highlights.jpg",
+        "label": "Yes"
+    },
+    "241": {
+        "name": "image_241.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_241.jpg",
+        "url": "https://www.spicylegs.com/images/product/icon/BW-BW093DB.jpg",
+        "label": "Yes"
+    },
+    "242": {
+        "name": "image_242.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_242.jpg",
+        "url": "http://i.pinimg.com/236x/ea/95/d8/ea95d8052d07b15a0efe42f18dce6906.jpg",
+        "label": "Yes"
+    },
+    "243": {
+        "name": "image_243.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_243.jpg",
+        "url": "https://tse2.mm.bing.net/th?id=OIP.VGBE71eGVYvhRnn1V-0pAgHaJ4&pid=15.1&P=0&w=300&h=300",
+        "label": "Yes"
+    },
+    "244": {
+        "name": "image_244.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_244.jpg",
+        "url": "http://i.ysi.bz/Assets/08/797/M_p0053679708.jpg",
+        "label": "Yes"
+    },
+    "245": {
+        "name": "image_245.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_245.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyle_views/left_view_images/9029/icon/Lady-Gaga-2014-grammys.jpg",
+        "label": "Yes"
+    },
+    "246": {
+        "name": "image_246.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_246.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyle_views/right_view_images/1835/original/Elon-Salon_224.jpg",
+        "label": "Yes"
+    },
+    "247": {
+        "name": "image_247.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_247.jpg",
+        "url": "https://pyxis.nymag.com/v1/imgs/017/92e/a1937c6d3b1727dad846a04c7903de8e04-20-kirstie-alley.rsocial.w1200.jpg",
+        "label": "Yes"
+    },
+    "248": {
+        "name": "image_248.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_248.jpg",
+        "url": "https://inflexa.com/wp-content/uploads/2017/12/shoulder-length-bob-hairstyles-2013-inside-most-recently-released-judy-greer-shoulder-length-bob-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "249": {
+        "name": "image_249.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_249.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0560/3373/products/Rasberry-Red-Weave-Hair-Extensions-Silky-straight-Set-01-650_1024x.jpg?v=1468594913",
+        "label": "No"
+    },
+    "250": {
+        "name": "image_250.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_250.jpg",
+        "url": "https://4.bp.blogspot.com/-zBbw5QFg1gI/VvQsuovMqlI/AAAAAAAAA1Y/VeeGdWVDCgEq5jVDJ_OGCwvFlj1btL3nQ/s320/5.jpg",
+        "label": "Yes"
+    },
+    "251": {
+        "name": "image_251.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_251.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyle_views/left_view_images/5962/original/001_Kathy-Adams-Salon_-Buford_-GA.jpg",
+        "label": "Yes"
+    },
+    "252": {
+        "name": "image_252.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_252.jpg",
+        "url": "https://images.squarespace-cdn.com/content/57a37eb520099e5233bca0e2/1534611791855-PLKOD93DZ6BMIVE84BDD/how-to-style-hair-accessories-bobby-pin-hairstyles-ways-to-wear-pastel-pink-purple.jpg?content-type=image%2Fjpeg",
+        "label": "Yes"
+    },
+    "253": {
+        "name": "image_253.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_253.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/417HasAPa8L._SL500_AA280_.jpg",
+        "label": "No"
+    },
+    "254": {
+        "name": "image_254.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_254.jpg",
+        "url": "https://ifttt.com/applet_embeds/5506p/image?width=660&height=340",
+        "label": "No"
+    },
+    "255": {
+        "name": "image_255.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_255.jpg",
+        "url": "https://i.pinimg.com/originals/79/29/16/79291688b3fe456b0967ea548de1c50e.jpg",
+        "label": "Yes"
+    },
+    "256": {
+        "name": "image_256.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_256.jpg",
+        "url": "http://images6.fanpop.com/image/photos/32100000/ira-vampira-emo-girl-emo-scene-queen-model-emo-girls-32172793-367-500.jpg",
+        "label": "Yes"
+    },
+    "257": {
+        "name": "image_257.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_257.jpg",
+        "url": "https://i.pinimg.com/236x/b6/65/e6/b665e6cda7fb15f2f43f2c8668dfebcb--pretty-hair-color-ombre-hair-color.jpg",
+        "label": "Yes"
+    },
+    "258": {
+        "name": "image_258.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_258.jpg",
+        "url": "https://static0.bigstockphoto.com/thumbs/9/2/5/small2/52945630.jpg",
+        "label": "Yes"
+    },
+    "259": {
+        "name": "image_259.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_259.jpg",
+        "url": "https://hairstyles.thehairstyler.com/hairstyles/images/14135/icon/002_Sheer-Professionals-Salon.jpg",
+        "label": "Yes"
+    },
+    "260": {
+        "name": "image_260.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_260.jpg",
+        "url": "https://i.pinimg.com/736x/82/62/80/82628058a41f2aa750e4835ae8c0cbaa--angled-bobs-short-stacked-bobs.jpg",
+        "label": "Yes"
+    },
+    "261": {
+        "name": "image_261.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_261.jpg",
+        "url": "http://img.grouponcdn.com/deal/iUYYtaYUcbo4UzCrCuLt/29-2048x1242/v1/t440x300.jpg",
+        "label": "Yes"
+    },
+    "263": {
+        "name": "image_263.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_263.jpg",
+        "url": "https://i.pinimg.com/originals/d2/0d/ac/d20dace67e03497174fdc8a894e19425.jpg",
+        "label": "Yes"
+    },
+    "264": {
+        "name": "image_264.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_264.jpg",
+        "url": "https://saloncloudsplus.com/uploads/blog_14926669062030721111.png",
+        "label": "Yes"
+    },
+    "265": {
+        "name": "image_265.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_265.jpg",
+        "url": "http://img2.timeinc.net/people/i/2012/stylewatch/gallery/extreme-hair/dakota-fanning-435.jpg",
+        "label": "Yes"
+    },
+    "266": {
+        "name": "image_266.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_266.jpg",
+        "url": "https://i.pinimg.com/736x/42/7a/d0/427ad0e2c07b41ef531c2aeb49c18009--cute-romantic.jpg",
+        "label": "Yes"
+    },
+    "267": {
+        "name": "image_267.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_267.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0332/9261/products/Farrah-siren-3.jpg?v=1460567507",
+        "label": "Yes"
+    },
+    "268": {
+        "name": "image_268.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_268.jpg",
+        "url": "https://i.pinimg.com/originals/0b/37/e1/0b37e1b17c9ec4b4dcfd49912ad38bb6.jpg",
+        "label": "Yes"
+    },
+    "269": {
+        "name": "image_269.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_269.jpg",
+        "url": "https://www.mynewhair.info/wp-content/uploads/2008/12/24-victoria-beckham-hairstyle-short-blonde.jpg",
+        "label": "Yes"
+    },
+    "270": {
+        "name": "image_270.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_270.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0889/8420/products/Rhapsody-Pastel-Rainbow-2_900x.jpg?v=1557427746",
+        "label": "Yes"
+    },
+    "271": {
+        "name": "image_271.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_271.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB1dFk2OFXXXXcGapXXq6xXFXXXS/Cheap-Hot-Sale-Straight-Black-Ombre-Sliver-Grey-Synthetic-Lace-Front-Wig-Gray-Glueless-Heat-Resistant.jpg_120x120.jpg",
+        "label": "Yes"
+    },
+    "272": {
+        "name": "image_272.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_272.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.3WSz7n_rIo3SDDw8_3wYHwAAAA",
+        "label": "No"
+    },
+    "274": {
+        "name": "image_274.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_274.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP.gYJNTj2U4mYqPgoFaSSMcwHaM_",
+        "label": "Yes"
+    },
+    "275": {
+        "name": "image_275.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_275.jpg",
+        "url": "https://thumbs.dreamstime.com/m/mannequin-met-purpere-manicure-en-make-up-27688597.jpg",
+        "label": "Yes"
+    },
+    "276": {
+        "name": "image_276.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_276.jpg",
+        "url": "https://i.pinimg.com/originals/da/34/e6/da34e6a3fba9dde103881110d9ff1a58.jpg",
+        "label": "Yes"
+    },
+    "277": {
+        "name": "image_277.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_277.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyle_views/left_view_images/8336/original/Julianne-Hough.jpg",
+        "label": "Yes"
+    },
+    "279": {
+        "name": "image_279.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_279.jpg",
+        "url": "https://www.hairjungle.co.uk/wp-content/uploads/2016/04/Purple-400x284.jpg",
+        "label": "Yes"
+    },
+    "280": {
+        "name": "image_280.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_280.jpg",
+        "url": "https://images.halloweencostumes.ca/products/3770/1-2/womens-clown-wig.jpg",
+        "label": "Yes"
+    },
+    "281": {
+        "name": "image_281.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_281.jpg",
+        "url": "https://cdn11.bigcommerce.com/s-bb2b7/images/stencil/590x590/products/5683/9955/black_grande_96096_1340382054_1280_1280__41481.1578950895.jpg?c=2",
+        "label": "Yes"
+    },
+    "282": {
+        "name": "image_282.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_282.jpg",
+        "url": "https://i.pinimg.com/236x/ba/4e/7d/ba4e7daa7da949eb4606d83a15e973a6.jpg",
+        "label": "Yes"
+    },
+    "284": {
+        "name": "image_284.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_284.jpg",
+        "url": "http://3.bp.blogspot.com/-A2_dLK9jb3A/TdJCdaDNjAI/AAAAAAAALhU/r4iJLeH5hR0/s1600/shoulder_length_hairstyles_for_teens_medium-length-bob-hairstyles-trends-for-women.jpg",
+        "label": "Yes"
+    },
+    "286": {
+        "name": "image_286.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_286.jpg",
+        "url": "https://aniportalimages.s3.amazonaws.com/media/details/Jennifer_ANnistonoct17.jpg",
+        "label": "No"
+    },
+    "287": {
+        "name": "image_287.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_287.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2494/4242/products/Long_Ancient_Pink_Ombre_Straight_Synthetic_Lace_Front_Wig_3_grande.jpg?v=1529571855",
+        "label": "No"
+    },
+    "288": {
+        "name": "image_288.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_288.jpg",
+        "url": "https://i.pinimg.com/236x/f3/2c/0c/f32c0cb45d5184c6b80c2c836743f0b0--haircuts-for-fine-hair-hairstyles-haircuts.jpg",
+        "label": "Yes"
+    },
+    "289": {
+        "name": "image_289.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_289.jpg",
+        "url": "https://i.pinimg.com/736x/27/0a/b4/270ab47420a03c29077ed8850279561f.jpg",
+        "label": "Yes"
+    },
+    "290": {
+        "name": "image_290.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_290.jpg",
+        "url": "http://static6.depositphotos.com/1064745/543/i/450/dep_5430425-Face-of-a-beautiful-redhead-woman-with-perfect-makeup.jpg",
+        "label": "Yes"
+    },
+    "291": {
+        "name": "image_291.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_291.jpg",
+        "url": "https://alchetron.com/cdn/alice-wetterlund-a9a90f8f-2db4-41b4-9872-39075b5b17b-resize-750.jpeg",
+        "label": "Yes"
+    },
+    "292": {
+        "name": "image_292.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_292.jpg",
+        "url": "https://i.pinimg.com/236x/6a/19/46/6a1946228733b7b58109b26cea2098d2.jpg",
+        "label": "Yes"
+    },
+    "293": {
+        "name": "image_293.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_293.jpg",
+        "url": "http://1.bp.blogspot.com/-SGjl_w-g_tk/TiZ-rCZP0XI/AAAAAAAADRU/Nz2NJP-0yCw/s1600/glamorous-bob-hairstyles-2011-2.jpg",
+        "label": "Yes"
+    },
+    "295": {
+        "name": "image_295.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_295.jpg",
+        "url": "https://farm9.static.flickr.com/8126/8671286304_152dbd6542_m.jpg",
+        "label": "Yes"
+    },
+    "298": {
+        "name": "image_298.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_298.jpg",
+        "url": "https://thumbs.dreamstime.com/t/hair-make-up-20891812.jpg",
+        "label": "No"
+    },
+    "299": {
+        "name": "image_299.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_299.jpg",
+        "url": "https://i.pinimg.com/564x/de/ef/e1/deefe117c1533664788a8409b2602b2d.jpg",
+        "label": "Yes"
+    },
+    "302": {
+        "name": "image_302.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_302.jpg",
+        "url": "https://4.bp.blogspot.com/-f36EB2dPnKQ/UzBRsbkJhqI/AAAAAAAABAM/Cyn8dmwk0_s/s1600/long+wedding+hairstyles+2014+(5).jpg%09",
+        "label": "Yes"
+    },
+    "304": {
+        "name": "image_304.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_304.jpg",
+        "url": "https://inflexa.com/wp-content/uploads/2018/03/most-recently-released-crop-pixie-haircuts-for-hairxstatic-crops-pixies-gallery-8-of-9hairxstatic-crops-pixies-gallery-8-of-9-within-best-and-newest-crop-pixie-haircuts.jpg",
+        "label": "No"
+    },
+    "305": {
+        "name": "image_305.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_305.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1273/1815/products/IMG_0875_800x.jpg?v=1569369591",
+        "label": "No"
+    },
+    "306": {
+        "name": "image_306.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_306.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0153/0481/8774/products/1b_99j_body_4x4_001_grande.jpg?v=1571726003",
+        "label": "No"
+    },
+    "308": {
+        "name": "image_308.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_308.jpg",
+        "url": "https://image.shutterstock.com/image-photo/stock-photo-eva-longoria-parker-at-the-premiere-of-over-her-dead-body-held-at-the-arclight-cinema-in-450w-9137761.jpg",
+        "label": "No"
+    },
+    "309": {
+        "name": "image_309.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_309.jpg",
+        "url": "http://media2.popsugar-assets.com/files/2013/08/23/900/n/1922564/864846c6b1088447_thumb_temp312485521377282329.xxxlarge/i/Most-Outrageous-All-Time-Fashion-MTV-VMAs-Video.jpg",
+        "label": "Yes"
+    },
+    "310": {
+        "name": "image_310.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_310.jpg",
+        "url": "http://4.bp.blogspot.com/_hcdU7oMUTo0/TJkdrCeAdHI/AAAAAAAAA6Q/hEOtYn1HGCw/s1600/37022_Nicole_Richie_-Tesh_Deluxe_9_122_861lo.jpg",
+        "label": "No"
+    },
+    "311": {
+        "name": "image_311.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_311.jpg",
+        "url": "http://images6.fanpop.com/image/photos/34600000/Jade-for-my-JadeTwinny-rusher29-34656794-83-120.png",
+        "label": "Yes"
+    },
+    "312": {
+        "name": "image_312.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_312.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0085/7066/7079/products/sugar-cookie-with-hazelnut-belle-tress_6bf2c200-d965-40f0-80be-a91e4de4c02a.jpg?v=1602098767",
+        "label": "No"
+    },
+    "313": {
+        "name": "image_313.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_313.jpg",
+        "url": "https://files.hubhopper.com/podcast/256654/my-natural-hair-podcast.jpg",
+        "label": "No"
+    },
+    "314": {
+        "name": "image_314.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_314.jpg",
+        "url": "https://img.etsystatic.com/il/715fef/138201956/il_340x270.138201956.jpg?version=0",
+        "label": "Yes"
+    },
+    "315": {
+        "name": "image_315.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_315.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0056/4487/7924/products/Cool_Grey_Skies_Beanie2_1024x1024.jpg?v=1574371292",
+        "label": "No"
+    },
+    "316": {
+        "name": "image_316.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_316.jpg",
+        "url": "https://wallsdesk.com/wp-content/uploads/2016/05/Freckled-Girls-Images.jpg",
+        "label": "Yes"
+    },
+    "317": {
+        "name": "image_317.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_317.jpg",
+        "url": "https://us.123rf.com/450wm/dasha11/dasha112004/dasha11200400008/143770068-positive-young-blonde-female-in-hat-and-stylish-red-earrings-sin-summer-day-in-garden.jpg?ver=6",
+        "label": "No"
+    },
+    "319": {
+        "name": "image_319.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_319.jpg",
+        "url": "https://glaminati.com/wp-content/uploads/2016/06/short-hairstyles-for-black-women-19-334x500.jpg",
+        "label": "Yes"
+    },
+    "320": {
+        "name": "image_320.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_320.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.IVnhGcOvduWiiTQVZ8c9PwHaHM",
+        "label": "Yes"
+    },
+    "322": {
+        "name": "image_322.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_322.jpg",
+        "url": "https://i0.wp.com/stayglam.com/wp-content/uploads/2016/05/spectraltones_13166679_1737089193170851_946554232_n.jpg?w=200",
+        "label": "Yes"
+    },
+    "323": {
+        "name": "image_323.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_323.jpg",
+        "url": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2014/05/3-short-layered-haircut-for-thick-hair.jpg?w=500&ssl=1",
+        "label": "Yes"
+    },
+    "324": {
+        "name": "image_324.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_324.jpg",
+        "url": "http://i.ytimg.com/vi/8mCSJ9PIVO4/0.jpg",
+        "label": "No"
+    },
+    "325": {
+        "name": "image_325.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_325.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0552/4997/products/image_6030d04f-7413-49cc-94f5-cc33b06448b0_959x959.jpg?v=1605631873",
+        "label": "No"
+    },
+    "326": {
+        "name": "image_326.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_326.jpg",
+        "url": "https://i.styleoholic.com/2017/08/05-black-jeans-a-printed-tee-an-olive-green-jacket-and-red-platform-boots.jpg",
+        "label": "No"
+    },
+    "327": {
+        "name": "image_327.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_327.jpg",
+        "url": "https://static.wixstatic.com/media/80b0a9_44011882859a4ecf868c54ed9a7285b6~mv2.jpg",
+        "label": "Yes"
+    },
+    "328": {
+        "name": "image_328.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_328.jpg",
+        "url": "https://inflexa.com/wp-content/uploads/2017/09/23-most-badass-shaved-hairstyles-for-women-stayglam-for-long-hairstyles-shaved-side.jpg",
+        "label": "No"
+    },
+    "329": {
+        "name": "image_329.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_329.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.q0oE9hLrxGysHv5GZQ12qgHaKL",
+        "label": "Yes"
+    },
+    "330": {
+        "name": "image_330.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_330.jpg",
+        "url": "https://www.simsnetwork.com/sites/simsnetwork.com/files/styles/box-downloads/public/downloads/the-sims-4/looks/media/20170116-maxismatching-pigtails-03.png?itok=nWlAl8x1",
+        "label": "No"
+    },
+    "331": {
+        "name": "image_331.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_331.jpg",
+        "url": "https://precisethemes.com/demo/blogasm/wp-content/uploads/sites/56/2019/02/blogasm-full-width.jpg",
+        "label": "No"
+    },
+    "332": {
+        "name": "image_332.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_332.jpg",
+        "url": "https://www.pixie-cut.com/wp-content/uploads/2016/12/Red-Pixie-Cut-Hair-Colors.jpg",
+        "label": "Yes"
+    },
+    "336": {
+        "name": "image_336.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_336.jpg",
+        "url": "https://thehousethatlarsbuilt.com/wp-content/uploads/2016/10/diy-unicorn-costume-from-craft-closet-14.jpg",
+        "label": "No"
+    },
+    "337": {
+        "name": "image_337.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_337.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyle_views/front_view_images/5806/original/Aubrey-O_Day.jpg",
+        "label": "Yes"
+    },
+    "338": {
+        "name": "image_338.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_338.jpg",
+        "url": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/p30616/emmylouharris-thesafetyofobjects-1.jpg",
+        "label": "Yes"
+    },
+    "339": {
+        "name": "image_339.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_339.jpg",
+        "url": "https://www.weddinginclude.com/wp-content/uploads/2017/02/Easy-Updos-for-Long-Hair.jpg",
+        "label": "Yes"
+    },
+    "341": {
+        "name": "image_341.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_341.jpg",
+        "url": "http://ghk.h-cdn.co/assets/16/20/gh_052016_hairdye_pin.jpg",
+        "label": "No"
+    },
+    "343": {
+        "name": "image_343.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_343.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.FCTuNjCNs3c1s88LhjdOxAHaHa",
+        "label": "Yes"
+    },
+    "346": {
+        "name": "image_346.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_346.jpg",
+        "url": "http://litbimg.rightinthebox.com/images/176x176/201306/pslbbg1370575701777.jpg",
+        "label": "Yes"
+    },
+    "347": {
+        "name": "image_347.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_347.jpg",
+        "url": "https://dy6g3i6a1660s.cloudfront.net/jGI8o-To5FldPgzY40ujswYHCto/cl-86/indian-princess.jpg",
+        "label": "No"
+    },
+    "349": {
+        "name": "image_349.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_349.jpg",
+        "url": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2014/06/12-loose-updos.jpg?w=500&ssl=1",
+        "label": "Yes"
+    },
+    "350": {
+        "name": "image_350.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_350.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0092/1842/4917/products/1_988c5f17-af39-4b61-9db6-fd4ea2ce9639_600x.jpg?v=1576546020",
+        "label": "No"
+    },
+    "351": {
+        "name": "image_351.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_351.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP.Mm1G9owd3wa_eoftJG5MYADJE2",
+        "label": "No"
+    },
+    "352": {
+        "name": "image_352.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_352.jpg",
+        "url": "https://hairstyles.thehairstyler.com/hairstyles/images/13300/icon/Tia-Mowry.jpg",
+        "label": "Yes"
+    },
+    "354": {
+        "name": "image_354.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_354.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0870/4292/products/TONY-AVA-0_grande.jpeg?v=1490370940",
+        "label": "Yes"
+    },
+    "355": {
+        "name": "image_355.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_355.jpg",
+        "url": "https://us.123rf.com/450wm/belchonock/belchonock1302/belchonock130202977/19342062-beautiful-female-eyes-with-bright-autumn-make-up.jpg",
+        "label": "No"
+    },
+    "356": {
+        "name": "image_356.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_356.jpg",
+        "url": "https://slashedbeauty.com/wp-content/uploads/2018/10/flowerchilddiyhalloweencostumemakeup.jpg",
+        "label": "No"
+    },
+    "358": {
+        "name": "image_358.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_358.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP.0bsTE-hTtHleRTWwuwgU0wHaHa",
+        "label": "Yes"
+    },
+    "360": {
+        "name": "image_360.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_360.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyle_views/front_view_images/9721/original/Katherine-Moennig.jpg",
+        "label": "Yes"
+    },
+    "361": {
+        "name": "image_361.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_361.jpg",
+        "url": "https://quicksilverhair.com/wp-content/uploads/2019/02/Tracey-Transition-To-Gray-Hair.jpg",
+        "label": "No"
+    },
+    "362": {
+        "name": "image_362.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_362.jpg",
+        "url": "http://2.bp.blogspot.com/-aYGpy-1AAXE/TeqTXqNDHuI/AAAAAAAACCw/TDyqhPm7uME/s1600/lady%2Bgaga%2Bwallpaper%2Bborn%2Bthis%2Bway.jpg",
+        "label": "Yes"
+    },
+    "363": {
+        "name": "image_363.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_363.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.D2KYY322w4wT2H5igME8kwHaHa",
+        "label": "No"
+    },
+    "365": {
+        "name": "image_365.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_365.jpg",
+        "url": "http://img.grouponcdn.com/deal/q4di84gLy15rNLGgv6Ex/t220x134/yf-440x267.jpg",
+        "label": "Yes"
+    },
+    "366": {
+        "name": "image_366.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_366.jpg",
+        "url": "http://i.ytimg.com/vi/k_4_ScRjZTk/hqdefault.jpg",
+        "label": "Yes"
+    },
+    "367": {
+        "name": "image_367.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_367.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/51XlZRoWP2L.jpg",
+        "label": "Yes"
+    },
+    "368": {
+        "name": "image_368.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_368.jpg",
+        "url": "https://3.bp.blogspot.com/-uevdAZoTjS8/Ucs7PtFer5I/AAAAAAAAASM/bzR8RTE05G8/s320/4th+of+july+hairstyle.jpg",
+        "label": "No"
+    },
+    "371": {
+        "name": "image_371.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_371.jpg",
+        "url": "https://res.cloudinary.com/allamerican/image/fetch/t_aasapi2/https://speakerdata2.s3.amazonaws.com/photo/image/900688/vc-3S1QN.jpg",
+        "label": "Yes"
+    },
+    "372": {
+        "name": "image_372.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_372.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.PJ7vygYkgi71nda0OwK_MAHaHa",
+        "label": "Yes"
+    },
+    "374": {
+        "name": "image_374.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_374.jpg",
+        "url": "https://www.lovethispic.com/uploaded_images/thumbs/74287-Purple-To-Pink-Gradient-Hair.jpg",
+        "label": "Yes"
+    },
+    "375": {
+        "name": "image_375.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_375.jpg",
+        "url": "https://2.bp.blogspot.com/-0Smx-Qb_oSI/V0dIVGqDUnI/AAAAAAAAbb8/U1G-Mz6WtSM3FEg43CZPO3Kg82k74b6jgCLcB/s1600/OOTD-outfit-Look-Style-Streetstyle-Off%2BShoulder-Gina%2BTricot-Dress-Knit%2BDress-Reebok-Metallic-Shoes-Sneakers-Zalando-Blogger-Modeblogger-Fashionblogger-Fashion-Lauralamode-2.png",
+        "label": "Yes"
+    },
+    "376": {
+        "name": "image_376.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_376.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0142/3448/4794/products/9_9f0090c0-3717-4382-b90f-c0730067aa15_1024x1024.jpg?v=1572347496",
+        "label": "Yes"
+    },
+    "378": {
+        "name": "image_378.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_378.jpg",
+        "url": "https://hips.hearstapps.com/cos.h-cdn.co/assets/15/48/1448477957-alessandra1.jpg",
+        "label": "Yes"
+    },
+    "380": {
+        "name": "image_380.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_380.jpg",
+        "url": "https://4.bp.blogspot.com/-KJRrPqFRv_Y/VaIY52N9xlI/AAAAAAAAAiA/UdKui5owBQM/s640/Trend-Model-Rambut-Pendek-Wanita-Terbaik-Tapered-Bob%2B%25282%2529.jpg",
+        "label": "Yes"
+    },
+    "382": {
+        "name": "image_382.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_382.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0099/3172/articles/Luxe_REMI_Everything_about_Color_Matching_Your_Hair_Extensions_IMAGE1_1024x1024.jpeg?v=1556450357",
+        "label": "No"
+    },
+    "384": {
+        "name": "image_384.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_384.jpg",
+        "url": "https://hairstyles.thehairstyler.com/hairstyle_views/front_view_images/9646/original/Krysta-Rodriguez.jpg",
+        "label": "No"
+    },
+    "385": {
+        "name": "image_385.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_385.jpg",
+        "url": "https://a57.foxnews.com/a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/05/544/306/544/306/Maria-Menounos-Getty.jpg?ve=1&tl=1?ve=1&tl=1",
+        "label": "No"
+    },
+    "387": {
+        "name": "image_387.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_387.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0444/6568/4629/products/051A3602_large.jpg?v=1606209299",
+        "label": "Yes"
+    },
+    "388": {
+        "name": "image_388.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_388.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyle_views/left_view_images/2517/icon/Sharon-Osbourne.jpg",
+        "label": "Yes"
+    },
+    "393": {
+        "name": "image_393.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_393.jpg",
+        "url": "https://cdn.abclocal.go.com/images/otrc/2010/photos/8755489_600x338.jpg",
+        "label": "Yes"
+    },
+    "396": {
+        "name": "image_396.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_396.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.nU958t71JUYgSLpRcNOOzAHaLG",
+        "label": "Yes"
+    },
+    "397": {
+        "name": "image_397.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_397.jpg",
+        "url": "https://cdn.supadupa.me/shop/2250/images/327063/il_fullxfull.291428406_large.jpg?1334189320",
+        "label": "No"
+    },
+    "398": {
+        "name": "image_398.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_398.jpg",
+        "url": "http://partycity6.scene7.com/is/image/PartyCity/_ml_p2p_pc_carousel_badge?$_ml_p2p_pc_carousel_zoom$&$product=PartyCity/591824",
+        "label": "Yes"
+    },
+    "399": {
+        "name": "image_399.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_399.jpg",
+        "url": "https://i0.wp.com/a.mktgcdn.com/p/QjDX44yOP0Pf1ttAyVD_8vi4StuVTzJ3oN6MBQ047XA/720x960.jpg?w=200",
+        "label": "No"
+    },
+    "400": {
+        "name": "image_400.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_400.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.CxnAodOaiI5PhAUcZESv7QHaJH",
+        "label": "No"
+    },
+    "401": {
+        "name": "image_401.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_401.jpg",
+        "url": "https://inflexa.com/wp-content/uploads/2018/11/short-nape-bob-haircuts-for-women-2018-womens-bob-haircuts-and-intended-for-layered-pixie-hairstyles-with-nape-undercut.jpg",
+        "label": "Yes"
+    },
+    "402": {
+        "name": "image_402.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_402.jpg",
+        "url": "http://pretty-hairstyles.com/wp-content/uploads/2017/04/best-hair-color-trends-2017-Fall-Winter-2018.jpg",
+        "label": "Yes"
+    },
+    "403": {
+        "name": "image_403.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_403.jpg",
+        "url": "https://tse2.mm.bing.net/th?id=OIP.WylodFhXgtEoRSaClTlB7gHaKC&pid=15.1",
+        "label": "Yes"
+    },
+    "404": {
+        "name": "image_404.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_404.jpg",
+        "url": "https://i2.wp.com/mormonlifehacker.com/wp-content/uploads/2017/12/4256e323ca05560c2807fa31b71b043e.jpg?resize=474%2C266&ssl=1",
+        "label": "No"
+    },
+    "405": {
+        "name": "image_405.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_405.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.ge-X8HzPoWS7Np5PKVU91wHaDt",
+        "label": "No"
+    },
+    "406": {
+        "name": "image_406.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_406.jpg",
+        "url": "https://i.pinimg.com/736x/12/72/00/12720048addc3967379dfed5d481ae5a--braided-updo-cornrow-hairstyles-ponytail.jpg",
+        "label": "No"
+    },
+    "407": {
+        "name": "image_407.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_407.jpg",
+        "url": "https://www.weddingforward.com/wp-content/uploads/2017/06/wedding-updos-for-medium-hair-totally-braided-updo-stella-stylist-334x500.jpg",
+        "label": "Yes"
+    },
+    "408": {
+        "name": "image_408.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_408.jpg",
+        "url": "https://i.pinimg.com/736x/fd/b5/04/fdb5040267275aa2aeaea01452d89e6c.jpg",
+        "label": "Yes"
+    },
+    "409": {
+        "name": "image_409.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_409.jpg",
+        "url": "https://i.pinimg.com/236x/d1/6e/92/d16e922f12286769cf0ef0107ae9d008--short-choppy-haircuts-short-layered-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "410": {
+        "name": "image_410.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_410.jpg",
+        "url": "https://www.masumiheadwear.com/wp-content/uploads/2017/05/Yanna-Camel-Bubble-2-1024x683.jpg",
+        "label": "No"
+    },
+    "411": {
+        "name": "image_411.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_411.jpg",
+        "url": "http://d1hw6n3yxknhky.cloudfront.net/032864299_iconv.jpeg",
+        "label": "No"
+    },
+    "412": {
+        "name": "image_412.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_412.jpg",
+        "url": "https://www.pixie-cut.com/wp-content/uploads/2017/01/Razor-Cut-Pixie-Hairstyles.jpg",
+        "label": "Yes"
+    },
+    "414": {
+        "name": "image_414.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_414.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/61/61/75/160_F_61617587_AXrd7fEmDq9HC6wcolmzhtwhtxgeUNCV.jpg",
+        "label": "No"
+    },
+    "415": {
+        "name": "image_415.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_415.jpg",
+        "url": "https://www.jenniffer-and-co.com/wp-content/uploads/2018/01/IMG-7083.jpg",
+        "label": "No"
+    },
+    "416": {
+        "name": "image_416.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_416.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.4iA6xMaJKknlo9gCtBwDgwDIEs",
+        "label": "Yes"
+    },
+    "418": {
+        "name": "image_418.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_418.jpg",
+        "url": "http://media-cdn.list.ly/production/37573/289863/1_185px.png",
+        "label": "Yes"
+    },
+    "422": {
+        "name": "image_422.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_422.jpg",
+        "url": "https://li0.rightinthebox.com/images/154x202/202011/sarxsi1605841323032.jpg",
+        "label": "No"
+    },
+    "423": {
+        "name": "image_423.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_423.jpg",
+        "url": "https://media.apnarm.net.au/media/images/2016/12/12/b88465880z1_20161212151743_000gfte5ccq4-0-tfep79v34dn1dr9wdn2_ct1880x930.jpg",
+        "label": "No"
+    },
+    "426": {
+        "name": "image_426.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_426.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0245/0561/4391/products/WIG-086_large.jpg?v=1574756828",
+        "label": "Yes"
+    },
+    "428": {
+        "name": "image_428.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_428.jpg",
+        "url": "https://i1.wp.com/therighthairstyles.com/wp-content/uploads/2014/04/14-box-braids-in-a-ponytail.jpg?w=500&",
+        "label": "No"
+    },
+    "429": {
+        "name": "image_429.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_429.jpg",
+        "url": "http://images.thehairstyler.com/blog_posts/post_images/604/large/how-to-do-katy-perry-colourful-makeup-side.jpg",
+        "label": "Yes"
+    },
+    "430": {
+        "name": "image_430.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_430.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.fZ4ZgWbb4o1PC-_qiyykXQHaIm",
+        "label": "No"
+    },
+    "433": {
+        "name": "image_433.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_433.jpg",
+        "url": "http://thumbs.dreamstime.com/t/red-hair-woman-hairstyle-portrait-elegant-fashion-model-face-30957872.jpg",
+        "label": "Yes"
+    },
+    "434": {
+        "name": "image_434.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_434.jpg",
+        "url": "https://0c8cb687701631b1ff0b-235fb5f4c073f90b275664b2611330fd.ssl.cf5.rackcdn.com/re_sized_5-minute-makeup-leighton-meester.jpg",
+        "label": "Yes"
+    },
+    "436": {
+        "name": "image_436.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_436.jpg",
+        "url": "http://img2.timeinc.net/people/i/2013/startracks/131104/demi-lovato-435.jpg",
+        "label": "Yes"
+    },
+    "437": {
+        "name": "image_437.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_437.jpg",
+        "url": "https://0c8cb687701631b1ff0b-235fb5f4c073f90b275664b2611330fd.ssl.cf5.rackcdn.com/re_sized_red%20hair%20curls%20_1353802439.jpg",
+        "label": "Yes"
+    },
+    "439": {
+        "name": "image_439.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_439.jpg",
+        "url": "https://the1tvjunkie.files.wordpress.com/2012/11/carrieunderwood300a.jpg?w=225&",
+        "label": "Yes"
+    },
+    "440": {
+        "name": "image_440.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_440.jpg",
+        "url": "https://wallsdesk.com/wp-content/uploads/2016/11/Hayley-Williams-HD-300x170.jpg",
+        "label": "Yes"
+    },
+    "441": {
+        "name": "image_441.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_441.jpg",
+        "url": "https://www.mahasoa.com/annuaires/wp-content/uploads/2017/08/brassy-blonde-blond-cuivre-coloration-rentree-2017-mahasoa-1-256x300.jpg",
+        "label": "Yes"
+    },
+    "442": {
+        "name": "image_442.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_442.jpg",
+        "url": "https://static.wixstatic.com/media/78ee5b_4e002d46c45f45a58a74b84f7a152ba3~mv2.jpg",
+        "label": "No"
+    },
+    "443": {
+        "name": "image_443.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_443.jpg",
+        "url": "https://i.ytimg.com/vi/1tc80F8Ez_A/hqdefault.jpg",
+        "label": "No"
+    },
+    "444": {
+        "name": "image_444.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_444.jpg",
+        "url": "https://i.ytimg.com/vi/7-exhlsE1A4/maxresdefault.jpg",
+        "label": "No"
+    },
+    "445": {
+        "name": "image_445.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_445.jpg",
+        "url": "http://3.bp.blogspot.com/-uj2ke8FUhUE/UFQeVgs6liI/AAAAAAAACc4/G7mnnOGPz-c/s320/Alessandra%2BAmbrosio%2B2.jpg",
+        "label": "Yes"
+    },
+    "446": {
+        "name": "image_446.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_446.jpg",
+        "url": "https://i.etsystatic.com/14277703/d/il/43d6fb/1350704171/il_340x270.1350704171_e2ze.jpg?version=0",
+        "label": "No"
+    },
+    "447": {
+        "name": "image_447.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_447.jpg",
+        "url": "http://3.bp.blogspot.com/-CgapOO7gSd4/Tbp41BTny3I/AAAAAAAAK4c/TDbOwX_VNmg/s1600/amazing_prom_hairstyle_ideas_promhairstyles4.jpg",
+        "label": "Yes"
+    },
+    "448": {
+        "name": "image_448.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_448.jpg",
+        "url": "https://blog.bubblessalons.com/wp-content/uploads/2019/03/27558-BB-BlogHero-LivingCoral_738x415.jpg",
+        "label": "Yes"
+    },
+    "449": {
+        "name": "image_449.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_449.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.xS3rbAhV22nVmuKcS6btewHaIJ",
+        "label": "Yes"
+    },
+    "450": {
+        "name": "image_450.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_450.jpg",
+        "url": "https://0.s3.envato.com/files/94558947/CEBR_0414_0947a.jpg",
+        "label": "No"
+    },
+    "451": {
+        "name": "image_451.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_451.jpg",
+        "url": "http://lh3.googleusercontent.com/AKw8WM24NL5b023zxeqMNrrONPjvq4NJaQheFVD_6KA-PoKHs8j7TXemWmTUhAvLH5o=w300",
+        "label": "No"
+    },
+    "452": {
+        "name": "image_452.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_452.jpg",
+        "url": "https://bolobooks.com/wp-content/uploads/2013/09/photo-67-1-240x300.jpg",
+        "label": "Yes"
+    },
+    "453": {
+        "name": "image_453.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_453.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.CPPuCTC7TOpc_IAkwoetaQEqEs",
+        "label": "Yes"
+    },
+    "455": {
+        "name": "image_455.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_455.jpg",
+        "url": "https://images.dunelm-mill.com/i/dm/1000023030_main.jpg?$mobilepdpmain$&amp;img404=noimagedefault",
+        "label": "No"
+    },
+    "457": {
+        "name": "image_457.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_457.jpg",
+        "url": "https://us.123rf.com/450wm/akz/akz1312/akz131201273/24525525-portrait-of-happy-smiling-woman-in-beauty-salon-blond-girl-with-hair-curlers-rollers-by-hairdresser-.jpg",
+        "label": "No"
+    },
+    "458": {
+        "name": "image_458.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_458.jpg",
+        "url": "https://i0.wp.com/girlgetglamorous.com/wp-content/uploads/2015/02/P1150603.jpg?resize=726%2C833",
+        "label": "Yes"
+    },
+    "461": {
+        "name": "image_461.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_461.jpg",
+        "url": "https://inflexa.com/wp-content/uploads/2019/12/pin-on-haircuts-pertaining-to-famous-brunette-wavy-razored-shag-haircuts.jpg",
+        "label": "Yes"
+    },
+    "463": {
+        "name": "image_463.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_463.jpg",
+        "url": "https://thumbs.dreamstime.com/t/woman-fashion-hairstyle-holding-hairdryer-18210017.jpg",
+        "label": "No"
+    },
+    "464": {
+        "name": "image_464.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_464.jpg",
+        "url": "https://cdn.amomama.com/8df7b73a7820f4aef47864f2a6c5fccf2969841561379429.jpg",
+        "label": "Yes"
+    },
+    "465": {
+        "name": "image_465.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_465.jpg",
+        "url": "https://supya.co/wp-content/uploads/2019/09/braid-styles-hair-inspiration-pictures-with-most-recent-mermaid-inception-braid-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "466": {
+        "name": "image_466.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_466.jpg",
+        "url": "http://cdn.trendhunterstatic.com/phpthumbnails/18/18919/18919_1_468.jpeg",
+        "label": "Yes"
+    },
+    "467": {
+        "name": "image_467.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_467.jpg",
+        "url": "https://images.squarespace-cdn.com/content/57b2e37ee58c62b96df8d395/1478692309441-6IGIUGDZWDQ3YD63M59R/100-Best-Hairstyles-for-2017-4.jpg?content-type=image%2Fjpeg",
+        "label": "Yes"
+    },
+    "468": {
+        "name": "image_468.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_468.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/62/38/90/160_F_62389051_cv7O7EpMJX2u7BLvg6mHRvgRTHtEEKRh.jpg",
+        "label": "Yes"
+    },
+    "469": {
+        "name": "image_469.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_469.jpg",
+        "url": "https://i2.wp.com/katiegoesplatinum.com/wp-content/uploads/2019/01/salt-pepper-curls-10-months.jpg",
+        "label": "Yes"
+    },
+    "471": {
+        "name": "image_471.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_471.jpg",
+        "url": "http://i2.cdn.turner.com/cnn/dam/assets/120611050555-deena-cortese-jersey-shore-march-2012-story-top.jpg",
+        "label": "Yes"
+    },
+    "472": {
+        "name": "image_472.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_472.jpg",
+        "url": "https://images.squarespace-cdn.com/content/563418cbe4b0b5a6e23b9907/1520467730446-J4EN9ZEOSRTLWZPNIXYE/Christina+Foret+-+Lifestyle+Blogger+-+Seven+Magic+Mountains+Las+Vegas+Nevada-41.jpg?format=1000w&content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "473": {
+        "name": "image_473.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_473.jpg",
+        "url": "https://findtattoodesign.net/storage/416/back-cover-up-small.jpg",
+        "label": "No"
+    },
+    "474": {
+        "name": "image_474.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_474.jpg",
+        "url": "https://i0.wp.com/maneinterest.com/wp-content/uploads/2015/11/bright-blonde-highlights.jpg?resize=293%2C597&ssl=1",
+        "label": "Yes"
+    },
+    "476": {
+        "name": "image_476.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_476.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0065/4416/2869/products/Cover_1_530x@2x.jpg?v=1566045554",
+        "label": "No"
+    },
+    "477": {
+        "name": "image_477.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_477.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.mVXpGBvcAG0IU61dTZvIRgHaLM&amp;rs=1&amp;pcl=dddddd&amp;o=5&amp;pid=1.1",
+        "label": "Yes"
+    },
+    "478": {
+        "name": "image_478.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_478.jpg",
+        "url": "http://www.modernstylemom.com/wp-content/uploads/2018/02/D5BA1703-E790-47A3-A4C3-BB59FA9E8953.jpeg",
+        "label": "Yes"
+    },
+    "479": {
+        "name": "image_479.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_479.jpg",
+        "url": "https://media1.popsugar-assets.com/files/thumbor/s_w0Ba51szRPScw-8sgzlDefaFw/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/08/17/977/n/1922153/tmp_q7NDdv_8ce5d03dd901f150_GettyImages-1191480048.jpg",
+        "label": "Yes"
+    },
+    "480": {
+        "name": "image_480.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_480.jpg",
+        "url": "https://i2.wp.com/behindthechair.com/wp-content/uploads/2018/12/balayage_quickie_gallery_3.png?fit=600%2C600&ssl=1",
+        "label": "Yes"
+    },
+    "481": {
+        "name": "image_481.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_481.jpg",
+        "url": "https://i0.wp.com/www.fashionisers.com/wp-content/uploads/2016/08/granny_silver_gray_hair_colors_ideas_tips_for_dyeing_hair_grey70.jpg?w=200",
+        "label": "Yes"
+    },
+    "483": {
+        "name": "image_483.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_483.jpg",
+        "url": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2014/05/7-red-to-blonde-ombre.jpg?w=500&ssl=1",
+        "label": "Yes"
+    },
+    "484": {
+        "name": "image_484.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_484.jpg",
+        "url": "https://i0.wp.com/creationhairstudiobyliz.com/wp-content/uploads/2019/09/haircolor4.jpg?fit=1080%2C1080&ssl=1",
+        "label": "Yes"
+    },
+    "485": {
+        "name": "image_485.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_485.jpg",
+        "url": "https://lh6.googleusercontent.com/-c0REKwknq7o/Ts-wXVBJGBI/AAAAAAAAF2I/8q-gwQPph0I/s525/vocaloid_2_-_kamui_gakupo_and_megurine_luka.png",
+        "label": "No"
+    },
+    "486": {
+        "name": "image_486.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_486.jpg",
+        "url": "https://i2.wp.com/mayalamode.com/wp-content/uploads/2017/05/DSC_0676editbw.jpg?resize=1080%2C1626",
+        "label": "Yes"
+    },
+    "488": {
+        "name": "image_488.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_488.jpg",
+        "url": "https://thumbs.dreamstime.com/t/blond-girl-pink-tunic-9159717.jpg",
+        "label": "Yes"
+    },
+    "491": {
+        "name": "image_491.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_491.jpg",
+        "url": "http://hair-photo.com/wp-content/uploads/2018/03/trendyhair-1521475276kn8g4-200x253.jpg",
+        "label": "Yes"
+    },
+    "492": {
+        "name": "image_492.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_492.jpg",
+        "url": "http://popbytes.com/wp-content/uploads/2012/04/left-eye.jpg",
+        "label": "Yes"
+    },
+    "493": {
+        "name": "image_493.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_493.jpg",
+        "url": "http://2.bp.blogspot.com/-gaBmGcXeK6A/TnTvSy0BdrI/AAAAAAAAB9Q/BQ1hGLrzijU/s400/trendy-hairstyles-2012.jpg",
+        "label": "Yes"
+    },
+    "495": {
+        "name": "image_495.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_495.jpg",
+        "url": "https://hairstyles.thehairstyler.com/hairstyle_views/right_view_images/510/original/8952_straight-Medium.jpg",
+        "label": "Yes"
+    },
+    "496": {
+        "name": "image_496.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_496.jpg",
+        "url": "http://4.bp.blogspot.com/_P1aSfh7IEUE/TQFumiXVl6I/AAAAAAAABLc/Df8ne2DsnRk/s1600/Rachel+hairstyle+-+Jennifer+Aniston.jpg",
+        "label": "Yes"
+    },
+    "498": {
+        "name": "image_498.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_498.jpg",
+        "url": "https://img.huffingtonpost.com/asset/5bb5fcb22600002d0182dcef.jpeg?ops=scalefit_720_noupscale",
+        "label": "Yes"
+    },
+    "500": {
+        "name": "image_500.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_500.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0012/0422/4094/products/WL00218-PI-1_1024x1024.jpg?v=1573184496",
+        "label": "No"
+    },
+    "501": {
+        "name": "image_501.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_501.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0379/3800/4106/products/VivicaFoxPureStretchCapMapleColors2_4_34.99ItemMAPLE-V_530x@2x.jpg?v=1596918836",
+        "label": "Yes"
+    },
+    "502": {
+        "name": "image_502.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_502.jpg",
+        "url": "https://img.cinemablend.com/filter:scale/quill/d/1/7/0/c/c/d170cc7a0f40e3ca7c73d5f1611c7d98385f7482.jpg?mw=600",
+        "label": "Yes"
+    },
+    "504": {
+        "name": "image_504.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_504.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0003/6962/3084/products/lola-watermark003_740x.jpg?v=1559672213",
+        "label": "Yes"
+    },
+    "505": {
+        "name": "image_505.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_505.jpg",
+        "url": "http://images6.fanpop.com/image/photos/35500000/Ramona-Flowers-female-ass-kickers-35565281-75-75.png",
+        "label": "Yes"
+    },
+    "506": {
+        "name": "image_506.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_506.jpg",
+        "url": "https://dtpmhvbsmffsz.cloudfront.net/posts/2017/04/11/58ed7eb578b31c352808903c/m_58ed7eba981829a8530272c5.jpg",
+        "label": "Yes"
+    },
+    "509": {
+        "name": "image_509.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_509.jpg",
+        "url": "https://li1.rightinthebox.com/images/190x250/201601/eimbgz1453199378248.jpg",
+        "label": "Yes"
+    },
+    "510": {
+        "name": "image_510.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_510.jpg",
+        "url": "https://img.grouponcdn.com/deal/5457d36fcad542fb98a774bf04d6bff0/f0/v1/c700x420.jpg",
+        "label": "No"
+    },
+    "512": {
+        "name": "image_512.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_512.jpg",
+        "url": "https://assets.capitalfm.com/2014/28/kesha-ludacris-photobomb-1405503620-view-1.jpg",
+        "label": "Yes"
+    },
+    "513": {
+        "name": "image_513.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_513.jpg",
+        "url": "https://images.squarespace-cdn.com/content/596340c98419c269d9ceab44/1520165778978-LO5RA9UMDCJVZECPW9SQ/Happy+As+A+Songbird%2C+Winchester+photographer%2C+UK+fashion+blogger%2C+Fblogger%2C+Sarah+Bacchus%2C+Piquant+Winchester%2C+Lifestyle+blogger%2C+Winchester+Makeup+artist?content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "514": {
+        "name": "image_514.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_514.jpg",
+        "url": "https://media.glamour.com/photos/569579778fa134644ec21b96/master/w_400%2Cc_limit/beauty-2010-12-1208-15-winter-beauty-tricks-keri-hilson-white-teeth_li.jpg",
+        "label": "Yes"
+    },
+    "515": {
+        "name": "image_515.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_515.jpg",
+        "url": "https://s.abcnews.com/images/Entertainment/gty_paula_deen_mi_130624_wmain.jpg",
+        "label": "Yes"
+    },
+    "517": {
+        "name": "image_517.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_517.jpg",
+        "url": "https://media1.popsugar-assets.com/files/thumbor/Dht6S-tkYwfK2gANcvR_tofLpkg/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/04/27/872/n/1922153/tmp_1HOSDd_7cef5288aef3d016_GettyImages-515290012.jpg",
+        "label": "Yes"
+    },
+    "519": {
+        "name": "image_519.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_519.jpg",
+        "url": "https://coochiecrunch.files.wordpress.com/2013/07/purple-and-blue.jpg?w=744&",
+        "label": "No"
+    },
+    "520": {
+        "name": "image_520.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_520.jpg",
+        "url": "https://lh3.googleusercontent.com/vSs0kuy0NV7FcxGlh-aL3aUW6eWhMaAuEpKPPegNdtR73oTSCNk9Yh8jDgHA5g27ni8=w170",
+        "label": "No"
+    },
+    "522": {
+        "name": "image_522.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_522.jpg",
+        "url": "http://www.artnet.de/WebServices/images/ll00050lldpu0GFgvPECfDrCWvaHBOcVCxD/robert-shana-parkeharrison-guardian.jpg",
+        "label": "No"
+    },
+    "523": {
+        "name": "image_523.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_523.jpg",
+        "url": "https://tse4.mm.bing.net/th?id=OIP.bvWkDb0FbsmLemu9c-58uQHaI8&amp;w=230&amp;h=230&amp;rs=1&amp;pcl=dddddd&amp;o=5&amp;pid=1.1",
+        "label": "Yes"
+    },
+    "524": {
+        "name": "image_524.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_524.jpg",
+        "url": "https://portal.ezymathtutoring.com.au/images/UserPhoto/thumb/219.jpg?t=1511190689",
+        "label": "Yes"
+    },
+    "525": {
+        "name": "image_525.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_525.jpg",
+        "url": "https://thumbs.dreamstime.com/t/woman-thick-grey-hair-portrait-33512024.jpg",
+        "label": "Yes"
+    },
+    "526": {
+        "name": "image_526.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_526.jpg",
+        "url": "https://thumbs.dreamstime.com/b/colorful-make-up-shadows-nails-woman-beauty-portrait-isolated-white-studio-shot-73550951.jpg",
+        "label": "Yes"
+    },
+    "530": {
+        "name": "image_530.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_530.jpg",
+        "url": "http://1.bp.blogspot.com/-fs8bnC-VeT0/TdzloppzsSI/AAAAAAAALoU/43LNIBOLYF4/s320/emo-hairstyles-for-long-hair-6.jpg",
+        "label": "Yes"
+    },
+    "531": {
+        "name": "image_531.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_531.jpg",
+        "url": "https://cdn2.stylecraze.com/wp-content/uploads/2013/03/Light-Purple-Textured-Waves-with-Shaved-Sides.jpg",
+        "label": "Yes"
+    },
+    "533": {
+        "name": "image_533.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_533.jpg",
+        "url": "http://static4.depositphotos.com/1006846/368/i/170/depositphotos_3687524-Background-of-wavy-chestnut-hair.jpg",
+        "label": "No"
+    },
+    "535": {
+        "name": "image_535.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_535.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0306/6626/0611/products/product-image-1201799745_grande.jpg?v=1578443586",
+        "label": "Yes"
+    },
+    "536": {
+        "name": "image_536.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_536.jpg",
+        "url": "http://i1.wp.com/listverse.com/wp-content/uploads/2008/08/mohawk-tm.jpg?resize=262%2C350",
+        "label": "Yes"
+    },
+    "538": {
+        "name": "image_538.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_538.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.Ed_TyOGWYAkKGohYJoqqfAHaKh",
+        "label": "Yes"
+    },
+    "541": {
+        "name": "image_541.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_541.jpg",
+        "url": "https://content.latest-hairstyles.com/wp-content/uploads/2012/11/Bold-Low-Maintenance-Pixie-Back.jpg",
+        "label": "No"
+    },
+    "542": {
+        "name": "image_542.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_542.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2494/4242/products/Short_Violet_Rosemary_Mixed_Bob_Synthetic_Lace_Front_Wig_6_grande.jpg?v=1571611026",
+        "label": "No"
+    },
+    "543": {
+        "name": "image_543.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_543.jpg",
+        "url": "http://lostinaspotlessmind.com/wp-content/uploads/2013/07/Pixie-hair-cut-salon-checklist-tips.jpg",
+        "label": "No"
+    },
+    "544": {
+        "name": "image_544.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_544.jpg",
+        "url": "https://images.squarespace-cdn.com/content/5550a3b6e4b08a0248d23032/1497805778129-IUR352GGW46SXU90AQL3/wig+unbosing+review?format=1000w&content-type=image%2Fpng",
+        "label": "Yes"
+    },
+    "545": {
+        "name": "image_545.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_545.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.xE-rPG5q7dLVYkq6g3lZGwHaIs",
+        "label": "Yes"
+    },
+    "546": {
+        "name": "image_546.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_546.jpg",
+        "url": "https://images.saymedia-content.com/.image/t_share/MTc2MjM2Nzg5OTk1MDIxNzM3/how-to-fix-dry-hair.jpg",
+        "label": "Yes"
+    },
+    "547": {
+        "name": "image_547.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_547.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0331/6354/2660/products/image_209d452f-9e74-4c7a-8df7-201622643e93_110x110@2x.jpg?v=1601684262",
+        "label": "Yes"
+    },
+    "549": {
+        "name": "image_549.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_549.jpg",
+        "url": "https://img1.hotnessrater.com/399944/adriana-lima.jpg?w=300&h=450",
+        "label": "No"
+    },
+    "550": {
+        "name": "image_550.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_550.jpg",
+        "url": "https://supya.co/wp-content/uploads/2019/10/29-gorgeous-braided-updo-ideas-for-2019-intended-for-most-recently-plaited-low-bun-braided-hairstyles.jpg",
+        "label": "Yes"
+    },
+    "551": {
+        "name": "image_551.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_551.jpg",
+        "url": "https://static.wixstatic.com/media/e1e6bf_6dbe8f964bab44f2bdc13c3a379e4149~mv2.jpeg",
+        "label": "Yes"
+    },
+    "553": {
+        "name": "image_553.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_553.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0256/4580/9744/products/ANEWOW1864_grande.jpg?v=1603093039",
+        "label": "No"
+    },
+    "554": {
+        "name": "image_554.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_554.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.Q1zRU76BOwpysSfAd2T5yAHaLG",
+        "label": "Yes"
+    },
+    "556": {
+        "name": "image_556.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_556.jpg",
+        "url": "https://i.ytimg.com/vi/xaZU1qV8Yuw/hqdefault.jpg",
+        "label": "Yes"
+    },
+    "557": {
+        "name": "image_557.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_557.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.THsXV7_7jdNYuIhaQqFp1AEWEs",
+        "label": "Yes"
+    },
+    "558": {
+        "name": "image_558.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_558.jpg",
+        "url": "http://4.bp.blogspot.com/_947DhuZQ-F0/S1ePspe4wFI/AAAAAAAAAWk/do6zN8-nago/s320/Modern+crazy+blue+short+hairstyles4+2010.jpg",
+        "label": "Yes"
+    },
+    "559": {
+        "name": "image_559.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_559.jpg",
+        "url": "https://thumbs.ebaystatic.com/images/g/bDIAAOxyyUtSbobB/s-l225.jpg",
+        "label": "Yes"
+    },
+    "560": {
+        "name": "image_560.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_560.jpg",
+        "url": "http://img.grouponcdn.com/deal/76zSs8eEqvqdiJTMxJmz/t220x134/s5-440x267.jpg",
+        "label": "Yes"
+    },
+    "563": {
+        "name": "image_563.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_563.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0062/3802/products/WIF_LFN819A_3_300x.jpg?v=1552642622",
+        "label": "No"
+    },
+    "567": {
+        "name": "image_567.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_567.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/63/90/73/240_F_63907315_XwuwjwmvDAu3Jq1gEO8NDV0rl0dAmhzA.jpg",
+        "label": "Yes"
+    },
+    "568": {
+        "name": "image_568.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_568.jpg",
+        "url": "https://www.victorias-vintage.co.uk/wp-content/uploads/2019/11/EBjtdAtWwAQATpp.jpg",
+        "label": "Yes"
+    },
+    "569": {
+        "name": "image_569.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_569.jpg",
+        "url": "http://3.bp.blogspot.com/-0ZEUhpdMv7s/TjkVaMmnX7I/AAAAAAAADZ8/kpdAm7voSJk/s400/Short%2BSpike%2BHairstyles%2Bfor%2BWomen.jpg",
+        "label": "Yes"
+    },
+    "570": {
+        "name": "image_570.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_570.jpg",
+        "url": "https://www.weddinginclude.com/wp-content/uploads/2019/03/Wedding-Hairstyles-for-Long-Hair-1303993043595158098.jpg",
+        "label": "Yes"
+    },
+    "572": {
+        "name": "image_572.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_572.jpg",
+        "url": "http://i.ytimg.com/vi/MgouxIvCRcc/mqdefault.jpg",
+        "label": "Yes"
+    },
+    "573": {
+        "name": "image_573.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_573.jpg",
+        "url": "https://i.pinimg.com/736x/86/61/d8/8661d890fdb4a914949d55c21140ad6c--wedding-day-wedding-bridesmaid-hair-half-up.jpg",
+        "label": "Yes"
+    },
+    "574": {
+        "name": "image_574.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_574.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.cHNtfl1xHIuC6dUmTE4iagHaIj",
+        "label": "Yes"
+    },
+    "575": {
+        "name": "image_575.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_575.jpg",
+        "url": "https://i.pinimg.com/236x/5a/92/92/5a9292c6093ebb45142c88bc274c8ff3--haircut-medium-medium-haircuts.jpg",
+        "label": "Yes"
+    },
+    "577": {
+        "name": "image_577.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_577.jpg",
+        "url": "http://hairstyles.thehairstyler.com/hairstyles/images/10553/icon/a0005-Attitude.jpg",
+        "label": "Yes"
+    },
+    "579": {
+        "name": "image_579.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_579.jpg",
+        "url": "https://i.pinimg.com/736x/11/22/ee/1122eea8898323db30bd715096057ed3.jpg",
+        "label": "No"
+    },
+    "580": {
+        "name": "image_580.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_580.jpg",
+        "url": "https://thumbs.dreamstime.com/t/blond-wet-hair-3940876.jpg",
+        "label": "No"
+    },
+    "582": {
+        "name": "image_582.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_582.jpg",
+        "url": "https://cdn-images.italist.com/image/upload/t_mini_mobile_dpr_2/ff022c1400cd3b16f1712173c15c85f3.jpg",
+        "label": "No"
+    },
+    "583": {
+        "name": "image_583.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_583.jpg",
+        "url": "http://i.ytimg.com/vi/8kGOCnFtsgQ/0.jpg",
+        "label": "Yes"
+    },
+    "585": {
+        "name": "image_585.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_585.jpg",
+        "url": "https://3.bp.blogspot.com/-WTKHVpmXK10/XH8VitqKLuI/AAAAAAAAHA0/Tkd9Eg7QJrILrawpSOAWn4k-oEPriQTgACLcBGAs/s640/top-pixie-style-haircuts-2019-0011.png",
+        "label": "Yes"
+    },
+    "586": {
+        "name": "image_586.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_586.jpg",
+        "url": "http://media1.popsugar-assets.com/files/2014/12/29/803/n/1922153/9e7119692ee570d0_thumb_temp_front_page_image_file157414991419342AcsDh.xxxlarge/i/Biggest-Celebrity-Hair-Changes-2014.jpg",
+        "label": "Yes"
+    },
+    "587": {
+        "name": "image_587.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_587.jpg",
+        "url": "https://us.123rf.com/450wm/imagesbykenny/imagesbykenny1305/imagesbykenny130500013/19959454-child-singing-with-microphone.jpg",
+        "label": "No"
+    },
+    "588": {
+        "name": "image_588.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_588.jpg",
+        "url": "https://i1.wp.com/s-media-cache-ak0.pinimg.com/736x/c9/90/6d/c9906db34445b43e83a9a79d6548ffa7.jpg",
+        "label": "Yes"
+    },
+    "589": {
+        "name": "image_589.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_589.jpg",
+        "url": "https://thumb1.shutterstock.com/image-photo/stock-photo-platinum-hair-beauty-portrait-studio-white-450w-461392834.jpg",
+        "label": "Yes"
+    },
+    "590": {
+        "name": "image_590.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_590.jpg",
+        "url": "http://www.thehearabouts.com/wp-content/uploads/2014/03/13228488234_c7a7bc5c68_z-440x350.jpg",
+        "label": "No"
+    },
+    "594": {
+        "name": "image_594.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_594.jpg",
+        "url": "https://images.squarespace-cdn.com/content/599eeabde6f2e18256e8d62a/1503651585580-IIEWUQ41KOEJO2ZJJ11E/phoenix_back_piece_tattoo.jpg?content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "595": {
+        "name": "image_595.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_595.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51BYNWAMP3L._SL160_.jpg",
+        "label": "No"
+    },
+    "596": {
+        "name": "image_596.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_596.jpg",
+        "url": "http://dj1hlxw0wr920.cloudfront.net/userfiles/wyzfiles/9585fc70-c6f1-48c1-8c4b-542e48fa734e.jpg",
+        "label": "No"
+    },
+    "597": {
+        "name": "image_597.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_597.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2569/7536/products/e53d5d2988f6e35ac1e02498441e896c_345x@2x.jpg?v=1571608985",
+        "label": "No"
+    },
+    "598": {
+        "name": "image_598.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_598.jpg",
+        "url": "http://i1.ytimg.com/vi/rNlju5uXd8U/hqdefault.jpg",
+        "label": "No"
+    },
+    "599": {
+        "name": "image_599.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_599.jpg",
+        "url": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2014/07/13-long-pixie-with-gray-highlights.jpg?w=500&",
+        "label": "Yes"
+    },
+    "601": {
+        "name": "image_601.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_601.jpg",
+        "url": "http://4.bp.blogspot.com/_mhQAVBs2dNs/TE6dWPIXe0I/AAAAAAAAATA/mP2pzPq-4lk/s400/2010+Beautiful+Hairstyles+Trends.jpg",
+        "label": "Yes"
+    },
+    "602": {
+        "name": "image_602.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_602.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.S7mdypsB6dvdwVmKuf5ASAHaHW",
+        "label": "Yes"
+    },
+    "606": {
+        "name": "image_606.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_606.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0042/3510/0258/products/H2aac62cb0c9a4782a71240d6fa1fa550m_800x.jpg?v=1613400082",
+        "label": "No"
+    },
+    "607": {
+        "name": "image_607.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_607.jpg",
+        "url": "https://m1.paperblog.com/i/323/3239065/beauty-style-julianne-hough-L-pitdpe-175x130.png",
+        "label": "Yes"
+    },
+    "608": {
+        "name": "image_608.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_608.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1729/6003/products/MG_1111_1024x.jpg?v=1530216214",
+        "label": "Yes"
+    },
+    "609": {
+        "name": "image_609.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_609.jpg",
+        "url": "https://raedawnj.files.wordpress.com/2013/04/hbz-hair-trends-ss13-braids-lgn.jpg?w=500",
+        "label": "No"
+    },
+    "610": {
+        "name": "image_610.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_610.jpg",
+        "url": "https://tse2.mm.bing.net/th?id=OIP.9GOJjeHL_aIVhtHJLkzJ6gHaJQ",
+        "label": "No"
+    },
+    "611": {
+        "name": "image_611.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_611.jpg",
+        "url": "https://doc.rmf.pl/media/img_muzyka/wykonawca/6/6207.jpg?0523",
+        "label": "Yes"
+    },
+    "615": {
+        "name": "image_615.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_615.jpg",
+        "url": "https://i2-prod.mirror.co.uk/incoming/article1321248.ece/ALTERNATES/s615/Colour%20mood%20chart",
+        "label": "No"
+    },
+    "617": {
+        "name": "image_617.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_617.jpg",
+        "url": "http://venus.com.py/wp-content/uploads/2015/05/CARLY-RAE-JEPSEN.jpg",
+        "label": "Yes"
+    },
+    "618": {
+        "name": "image_618.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_618.jpg",
+        "url": "https://us.123rf.com/450wm/doodkoalex/doodkoalex1304/doodkoalex130400052/19025468-redhead-woman-with-long-hair.jpg",
+        "label": "Yes"
+    },
+    "620": {
+        "name": "image_620.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_620.jpg",
+        "url": "https://masumiheadwear.com/wp-content/uploads/2018/03/YANNA-BRICK-CINNAMON-ALLORO.jpg",
+        "label": "No"
+    },
+    "621": {
+        "name": "image_621.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_621.jpg",
+        "url": "https://images.bigcartel.com/product_images/145847893/me.jpg?auto=format&fit=max&h=1000&w=1000",
+        "label": "No"
+    },
+    "622": {
+        "name": "image_622.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_622.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.XAQmZaD8chk8fQBXl2PpogHaJ4",
+        "label": "Yes"
+    },
+    "623": {
+        "name": "image_623.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_623.jpg",
+        "url": "https://www.myicklestars.com/s/cc_images/cache_3991167.jpg?t=1381686375",
+        "label": "No"
+    },
+    "624": {
+        "name": "image_624.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_624.jpg",
+        "url": "https://d2ul0w83gls0j4.cloudfront.net/products/70/200/705110.jpg",
+        "label": "No"
+    },
+    "626": {
+        "name": "image_626.jpg",
+        "path": "/root/home/agaile_datasets/hair-coloring_test/image_626.jpg",
+        "url": "https://luxe-den.com/wp-content/uploads/2017/11/balayage3-300x300.jpg",
+        "label": "Yes"
+    }
+}

@@ -1,0 +1,3014 @@
+{
+    "0": {
+        "name": "image_0.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_0.jpg",
+        "url": "https://www.gannett-cdn.com/presto/2019/03/11/PFTM/41628ce1-a546-4e3d-8db5-4426d4d9a535-Spoondrift.jpg?width=540&amp;height=&amp;fit=bounds&amp;auto=webp",
+        "label": "No"
+    },
+    "1": {
+        "name": "image_1.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_1.jpg",
+        "url": "http://ichibasushi.vn/images/repo/menu/HR10-SpicyAkamiHandRoll.jpg",
+        "label": "No"
+    },
+    "2": {
+        "name": "image_2.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_2.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/49/88/84/400_F_49888480_gtSe6hilv5OarzyJzd7QwZ2FsECB4ohb.jpg",
+        "label": "No"
+    },
+    "3": {
+        "name": "image_3.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_3.jpg",
+        "url": "https://s.hdnux.com/photos/20/27/24/4289811/3/628x471.jpg",
+        "label": "No"
+    },
+    "4": {
+        "name": "image_4.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_4.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/250x250/529529.jpg",
+        "label": "No"
+    },
+    "5": {
+        "name": "image_5.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_5.jpg",
+        "url": "https://64.media.tumblr.com/tumblr_m5jbnoq6bE1qbrylto1_500.jpg",
+        "label": "No"
+    },
+    "7": {
+        "name": "image_7.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_7.jpg",
+        "url": "https://meatmikecampbell.files.wordpress.com/2013/11/photo-3-19.jpg?w=210&#038;h=158",
+        "label": "Yes"
+    },
+    "9": {
+        "name": "image_9.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_9.jpg",
+        "url": "http://lh4.ggpht.com/d3xB-d91XmGLxY9H_TvcyYhvdL89yOOC6XrTHgfI2p32LrC4GaxT9dEZDZQuSbJjXq0t6I8drfX_oWJOQxP_54Q=s230-c",
+        "label": "No"
+    },
+    "10": {
+        "name": "image_10.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_10.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/480545/300/200/m1/fpc/wm0/qnoqgnvuunoq0ylvkbmmiftdnpmgezoqgau8smoadzexotcqwykkpyjs6hg5boec-.jpg?1431358938&s=0577af6c21167f1889f546559e45c83a",
+        "label": "No"
+    },
+    "11": {
+        "name": "image_11.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_11.jpg",
+        "url": "https://thumbs.dreamstime.com/t/tuna-salad-mais-white-shell-dish-43146207.jpg",
+        "label": "Yes"
+    },
+    "12": {
+        "name": "image_12.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_12.jpg",
+        "url": "https://i2.wp.com/farm7.static.flickr.com/6124/5991420229_1dcc7e1dc6.jpg",
+        "label": "No"
+    },
+    "13": {
+        "name": "image_13.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_13.jpg",
+        "url": "https://fashionsweek.files.wordpress.com/2019/04/sushi-sushi-tuna-lover-roll3653105922319383230..jpg?w=399&h=266",
+        "label": "Yes"
+    },
+    "14": {
+        "name": "image_14.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_14.jpg",
+        "url": "http://chopinandmysaucepan.com/wp-content/uploads/2012/07/P1240265_thumb1.jpg",
+        "label": "No"
+    },
+    "15": {
+        "name": "image_15.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_15.jpg",
+        "url": "https://livedoor.blogimg.jp/drikuo/imgs/2/f/2fee35c7.jpg",
+        "label": "Yes"
+    },
+    "16": {
+        "name": "image_16.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_16.jpg",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F93404069%2F120259276191%2F1%2Foriginal.20191228-121040?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C198%2C4898%2C2449&s=09d689a006d183d2f1dc0fd3cce371a1",
+        "label": "No"
+    },
+    "17": {
+        "name": "image_17.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_17.jpg",
+        "url": "http://static8.depositphotos.com/1036242/970/i/110/depositphotos_9704449-Hand-Roll-Sushi-with-eel-lettuce-avocado-cucumber-and-nori.jpg",
+        "label": "No"
+    },
+    "18": {
+        "name": "image_18.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_18.jpg",
+        "url": "https://verygoodrecipes.com/images/blogs/inside-a-british-mum-s-kitchen/spiced-grilled-pork-tenderloin-with-corn-and-blackbean-salsa.160x120.jpg",
+        "label": "No"
+    },
+    "19": {
+        "name": "image_19.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_19.jpg",
+        "url": "http://0.s3.envato.com/files/37703978/DSC_0081.jpg",
+        "label": "No"
+    },
+    "20": {
+        "name": "image_20.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_20.jpg",
+        "url": "http://images.lacucinaitaliana.it/wp-content/uploads/2016/05/igiene-in-cucina-51-800x530.jpg",
+        "label": "No"
+    },
+    "21": {
+        "name": "image_21.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_21.jpg",
+        "url": "http://preview.cutcaster.com/100137133-623c2f8667.jpg",
+        "label": "No"
+    },
+    "22": {
+        "name": "image_22.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_22.jpg",
+        "url": "https://lh4.ggpht.com/JoEZNq6LRjXz5USJn4FuQVNoNTlVcEZ5woqGZTOeYAnjm1cyXRR2Aqfs3CRofA3lQRY=h900",
+        "label": "No"
+    },
+    "23": {
+        "name": "image_23.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_23.jpg",
+        "url": "https://www.stonewoodgrill.com/zupload/library/90/-101-400x280-1.jpg?ztv=20180625155822",
+        "label": "Yes"
+    },
+    "24": {
+        "name": "image_24.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_24.jpg",
+        "url": "https://media1.fdncms.com/thecoast/imager/u/big/5179803/food_feature1-f1b111e977bee6c2.jpg",
+        "label": "No"
+    },
+    "25": {
+        "name": "image_25.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_25.jpg",
+        "url": "http://s3.amazonaws.com/gmi-digital-library/eb2fdf0e-4a19-4fe2-b7fb-ec6efed3c0b7.jpg",
+        "label": "No"
+    },
+    "26": {
+        "name": "image_26.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_26.jpg",
+        "url": "https://images.pond5.com/tuna-sesame-seed-crust-knife-photo-015703818_iconm.jpeg",
+        "label": "Yes"
+    },
+    "27": {
+        "name": "image_27.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_27.jpg",
+        "url": "https://static2.bigstockphoto.com/thumbs/9/4/2/large2/249814.jpg",
+        "label": "Yes"
+    },
+    "28": {
+        "name": "image_28.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_28.jpg",
+        "url": "https://www.bowlofdelicious.com/wp-content/uploads/2015/11/Ahi-Tuna-Steaks-1-360x361.jpg",
+        "label": "Yes"
+    },
+    "29": {
+        "name": "image_29.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_29.jpg",
+        "url": "https://thumbs.dreamstime.com/m/bistecca-di-color-salmone-cruda-29250461.jpg",
+        "label": "No"
+    },
+    "31": {
+        "name": "image_31.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_31.jpg",
+        "url": "https://i.ytimg.com/vi/sysJFuFou1I/hqdefault.jpg",
+        "label": "No"
+    },
+    "32": {
+        "name": "image_32.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_32.jpg",
+        "url": "http://lh3.ggpht.com/2IV_RI77EgsaVTUC9DCVj8CdSJx_Kzh8WvY-dG23k6YNu9CtflzZ3mYHc01PBkvpaf1nZQHWwnBZ9f1QUnbXyQ=s230-c",
+        "label": "No"
+    },
+    "33": {
+        "name": "image_33.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_33.jpg",
+        "url": "https://gurunavi.com/en/g853185/imgs/t_cm_01_005.jpg?20190321230113",
+        "label": "No"
+    },
+    "34": {
+        "name": "image_34.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_34.jpg",
+        "url": "https://s2.adlibris.com/images/2749574/sams-teach-yourself-ios-5-application-development-in-24-hours.jpg",
+        "label": "No"
+    },
+    "35": {
+        "name": "image_35.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_35.jpg",
+        "url": "https://villemagazine.com/images/easyblog_articles/264/b2ap3_large_August-Food-News.jpg",
+        "label": "Yes"
+    },
+    "36": {
+        "name": "image_36.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_36.jpg",
+        "url": "http://lh4.ggpht.com/4KB-WaQrCmr12r4ZgUeKUpsWWSTPB1XEo0oCXe3RcxG7VE4et2TpTkrdL4K7V-NcTxdYh0qgc4V7slzT7ToZ4A=s230-c",
+        "label": "No"
+    },
+    "37": {
+        "name": "image_37.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_37.jpg",
+        "url": "https://collaterallettuce.files.wordpress.com/2014/03/honolulu-poke-and-haupia-yoghurt.jpg?w=640&",
+        "label": "Yes"
+    },
+    "38": {
+        "name": "image_38.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_38.jpg",
+        "url": "https://fastly.4sqi.net/img/general/699x268/13621662_S4mjtIKc5Fonu38V-1Ls3nn6c835AgLmVN31LUq0c88.jpg",
+        "label": "Yes"
+    },
+    "40": {
+        "name": "image_40.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_40.jpg",
+        "url": "http://media.voog.com/0000/0037/3052/photos/kanto_medium.jpg",
+        "label": "No"
+    },
+    "41": {
+        "name": "image_41.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_41.jpg",
+        "url": "http://mda.bigoven.com/pics/rs/120/apple-tuna-sandwich.jpg",
+        "label": "No"
+    },
+    "42": {
+        "name": "image_42.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_42.jpg",
+        "url": "https://i.pinimg.com/736x/4c/15/22/4c1522f8598ff806caf6b56a67401ac0--ahi-tuna-recipe-poke-ahi-tuna-steak-recipes.jpg",
+        "label": "Yes"
+    },
+    "44": {
+        "name": "image_44.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_44.jpg",
+        "url": "https://media1.popsugar-assets.com/files/thumbor/PLjkGwbcLxLUL2uul-wOjOpeg8Y/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2010/06/22/3/192/1922195/09117f30fb83358b_crudo/i/What-Crudo.jpg",
+        "label": "No"
+    },
+    "45": {
+        "name": "image_45.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_45.jpg",
+        "url": "http://3.bp.blogspot.com/-TilDe1Y5JhM/UU41C6lKQlI/AAAAAAAAHY8/Oinl2wh5TRo/s400/Steak+Salad.jpg",
+        "label": "No"
+    },
+    "46": {
+        "name": "image_46.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_46.jpg",
+        "url": "https://i.pinimg.com/236x/b5/3f/97/b53f975b6af0641f98873202f1a5256f.jpg",
+        "label": "No"
+    },
+    "47": {
+        "name": "image_47.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_47.jpg",
+        "url": "https://img.wonderhowto.com/img/06/79/63573415214295/0/diy-dessert-sushi-3-irresistible-easy-make-recipes.w1456.jpg",
+        "label": "No"
+    },
+    "48": {
+        "name": "image_48.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_48.jpg",
+        "url": "https://img.grouponcdn.com/deal/j3odz9Hx6Y7dQYFbtU9m/dU-700x420/v1/t440x300.jpg",
+        "label": "No"
+    },
+    "49": {
+        "name": "image_49.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_49.jpg",
+        "url": "https://farm1.staticflickr.com/608/22769667553_a1411b843a_z.jpg",
+        "label": "No"
+    },
+    "50": {
+        "name": "image_50.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_50.jpg",
+        "url": "http://media02.stockfood.com/thumbs/170/11050143.jpg",
+        "label": "No"
+    },
+    "51": {
+        "name": "image_51.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_51.jpg",
+        "url": "https://pickyglutton.files.wordpress.com/2013/01/close-up-of-lobster-sashimi-at-pearl-liang.jpg?w=610&",
+        "label": "No"
+    },
+    "52": {
+        "name": "image_52.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_52.jpg",
+        "url": "https://i2.wp.com/myfunfoodiary.com/wp-content/uploads/2015/01/Crunchy-Salmon-Grill-at-Sushi-Matsu-BSD-City-Serpong-01.jpg?resize=614%2C409",
+        "label": "No"
+    },
+    "53": {
+        "name": "image_53.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_53.jpg",
+        "url": "https://d2k9njawademcf.cloudfront.net/indeximages/2551/original/Steak_Rucola_and_parmesan.jpg?1403237470",
+        "label": "No"
+    },
+    "54": {
+        "name": "image_54.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_54.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/250x250/967147.jpg",
+        "label": "No"
+    },
+    "55": {
+        "name": "image_55.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_55.jpg",
+        "url": "https://thumbs.dreamstime.com/t/tomato-beef-carpaccio-balsamic-vinegar-31173954.jpg",
+        "label": "No"
+    },
+    "56": {
+        "name": "image_56.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_56.jpg",
+        "url": "https://i0.wp.com/www.chathammillsfarmersmarket.com/wp-content/uploads/2021/04/blackened-steak-salad.jpg?resize=620%2C413&ssl=1",
+        "label": "No"
+    },
+    "57": {
+        "name": "image_57.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_57.jpg",
+        "url": "https://www.exercises.com.au/wp-content/uploads/2016/08/quinoa-sushi-300x200-1.jpg",
+        "label": "No"
+    },
+    "58": {
+        "name": "image_58.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_58.jpg",
+        "url": "https://c1.staticflickr.com/3/2013/32807112472_0a43d6c256_b.jpg",
+        "label": "Yes"
+    },
+    "59": {
+        "name": "image_59.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_59.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1610/3863/articles/How_to_Make_Nigirizushi_1_2000x.jpg?v=1605661453",
+        "label": "Yes"
+    },
+    "60": {
+        "name": "image_60.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_60.jpg",
+        "url": "https://thejapanesekitchen.com/wp-content/uploads/2018/02/preparing-koji-marinated-salmon-1.jpg",
+        "label": "No"
+    },
+    "61": {
+        "name": "image_61.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_61.jpg",
+        "url": "https://images.squarespace-cdn.com/content/50318203e4b0dbdecd40218f/1363661478963-CMEZMU0JCYQ2YHKPH1WQ/Trey+Ratcliff+-+Road+to+Glenorchy-M.jpg?content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "62": {
+        "name": "image_62.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_62.jpg",
+        "url": "https://pickyglutton.files.wordpress.com/2016/03/barramundi-with-daikon-radish-in-dashi-at-dickie-fitz.jpg?w=610&h=456",
+        "label": "No"
+    },
+    "63": {
+        "name": "image_63.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_63.jpg",
+        "url": "http://lh5.ggpht.com/25fgNH-TfuA_PNwQeUP1QZeLCo1veoCV5MwqA3bdlbmd0cQNnur6f_8EdlzZQsXZ9iBHBH7eKqtlZQRJGg1gJFo=s230-c",
+        "label": "Yes"
+    },
+    "65": {
+        "name": "image_65.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_65.jpg",
+        "url": "https://thumbs.dreamstime.com/m/sushi-chopsticks-14639922.jpg",
+        "label": "No"
+    },
+    "66": {
+        "name": "image_66.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_66.jpg",
+        "url": "https://gurunavi.com/en/b846503/imgs/t_cm_01_009.jpg?dt=1617088285",
+        "label": "Yes"
+    },
+    "67": {
+        "name": "image_67.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_67.jpg",
+        "url": "https://i1.wp.com/calciodangolo.com/wp-content/uploads/2019/01/Paul-Pogba-Manchester-United.jpg?resize=400%2C240&ssl=1",
+        "label": "No"
+    },
+    "68": {
+        "name": "image_68.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_68.jpg",
+        "url": "https://jbf-media.s3.amazonaws.com/archive/jbf-2013/event-galleries/crudo_2.jpg",
+        "label": "No"
+    },
+    "69": {
+        "name": "image_69.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_69.jpg",
+        "url": "http://a.espncdn.com/combiner/i/?img=/photo/2018/1115/r464092_2_1296x729_16-9.jpg&amp;w=738&amp;site=espnfc",
+        "label": "No"
+    },
+    "70": {
+        "name": "image_70.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_70.jpg",
+        "url": "https://thumbs.dreamstime.com/t/passionfruit-ceviche-3912283.jpg",
+        "label": "Yes"
+    },
+    "71": {
+        "name": "image_71.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_71.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0001/3496/products/20191002_191023_195x195@2x.jpg?v=1570079679",
+        "label": "Yes"
+    },
+    "72": {
+        "name": "image_72.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_72.jpg",
+        "url": "http://static7.depositphotos.com/1004919/767/i/110/depositphotos_7678672-Cut-of--beef-steak-with-lemon-slice..jpg",
+        "label": "No"
+    },
+    "73": {
+        "name": "image_73.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_73.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/43/03/07/240_F_43030741_zqCy6UX6KpFDP8eGqHfQCBaVgzMocvAR.jpg",
+        "label": "No"
+    },
+    "74": {
+        "name": "image_74.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_74.jpg",
+        "url": "https://i0.wp.com/www.peanutbutterrunner.com/wp-content/uploads/2017/12/12.16.17oatmeals3.jpg?resize=600%2C448&",
+        "label": "No"
+    },
+    "75": {
+        "name": "image_75.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_75.jpg",
+        "url": "https://thumbs.dreamstime.com/t/salmon-sushi-appetizer-buffet-37529539.jpg",
+        "label": "No"
+    },
+    "76": {
+        "name": "image_76.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_76.jpg",
+        "url": "https://allthewriteplaces.files.wordpress.com/2016/01/img_3464.jpg?w=202&h=269",
+        "label": "Yes"
+    },
+    "77": {
+        "name": "image_77.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_77.jpg",
+        "url": "https://thumbs.dreamstime.com/t/fresh-raw-steaks-trout-wooden-cutting-board-sliced-lemon-basil-pepper-48750808.jpg",
+        "label": "No"
+    },
+    "78": {
+        "name": "image_78.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_78.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/250x250/465743.jpg",
+        "label": "Yes"
+    },
+    "79": {
+        "name": "image_79.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_79.jpg",
+        "url": "https://thumbs.dreamstime.com/t/appetizing-sliced-ham-close-up-18601204.jpg",
+        "label": "No"
+    },
+    "80": {
+        "name": "image_80.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_80.jpg",
+        "url": "https://i2.wp.com/gingerandscotch.com/wp_sd/wp-content/uploads/2016/02/img_0851.jpeg?resize=359%2C341&",
+        "label": "No"
+    },
+    "81": {
+        "name": "image_81.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_81.jpg",
+        "url": "https://verygoodrecipes.com/images/blogs/culinary-collage/sushi-rolls-with-crab-brown-rice.160x120.jpg",
+        "label": "No"
+    },
+    "82": {
+        "name": "image_82.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_82.jpg",
+        "url": "https://thumbs.dreamstime.com/t/figs-close-up-cut-wedges-olive-oil-34265564.jpg",
+        "label": "No"
+    },
+    "84": {
+        "name": "image_84.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_84.jpg",
+        "url": "https://metropolisjapan.com/wp-content/uploads/2016/11/Eel-1-860x480.jpg",
+        "label": "No"
+    },
+    "85": {
+        "name": "image_85.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_85.jpg",
+        "url": "https://img.grouponcdn.com/deal/otJycsz5UuWCNvuuWdyT/ED-440x267/v1/t440x300.jpg",
+        "label": "No"
+    },
+    "86": {
+        "name": "image_86.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_86.jpg",
+        "url": "https://lh3.ggpht.com/MTsOJgQI4p96UatqUO-bq7J9orRVm_2nwP2qNj-jqhLCwk0JXhpZEJEk3kTJOJsHRpyz4fosnww_TEyxnLm5IA=s320-c-e365",
+        "label": "No"
+    },
+    "87": {
+        "name": "image_87.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_87.jpg",
+        "url": "https://img.grouponcdn.com/deal/bsXLFDBCvcGaBLKaADAa/ed-440x267/v1/t440x300.jpg",
+        "label": "No"
+    },
+    "88": {
+        "name": "image_88.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_88.jpg",
+        "url": "https://www.atlantisofkilmorequay.ie/uploads/images/products/_525x350_crop_top-center_70_none/AT1602.jpg",
+        "label": "Yes"
+    },
+    "89": {
+        "name": "image_89.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_89.jpg",
+        "url": "https://image.shutterstock.com/image-photo/raw-chicken-fillet-basil-isolated-260nw-290534810.jpg",
+        "label": "No"
+    },
+    "90": {
+        "name": "image_90.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_90.jpg",
+        "url": "https://i2.wp.com/newcookking.com/wp-content/uploads/2018/06/20180623_104441.jpg?resize=525%2C394&ssl=1",
+        "label": "No"
+    },
+    "91": {
+        "name": "image_91.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_91.jpg",
+        "url": "https://trumanreview.truman.edu/files/2014/06/ATQ-Student-AlexSpike-Online-600x338.jpg",
+        "label": "No"
+    },
+    "92": {
+        "name": "image_92.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_92.jpg",
+        "url": "https://www.yinandyangliving.com/wp-content/uploads/2015/07/Vegan-Sushi-322-150x150.jpg",
+        "label": "No"
+    },
+    "93": {
+        "name": "image_93.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_93.jpg",
+        "url": "https://c8.alamy.com/comp/DHF5A6/still-life-with-prawn-potato-and-micro-greens-DHF5A6.jpg",
+        "label": "No"
+    },
+    "94": {
+        "name": "image_94.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_94.jpg",
+        "url": "http://lh3.ggpht.com/8hXh8UkYWhG-mdvWNb0jmvf80JrrZgDnvqT520XJOuB1DU2920tJ_Drad47dAR4TUZBz03GXhQBbmg5ORYM3hX0=s230-c",
+        "label": "No"
+    },
+    "95": {
+        "name": "image_95.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_95.jpg",
+        "url": "https://s.hdnux.com/photos/67/16/04/14475526/3/975x0.jpg",
+        "label": "No"
+    },
+    "96": {
+        "name": "image_96.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_96.jpg",
+        "url": "http://www.foodgal.com/wp-content/uploads/2009/07/rmm-tuna-tartare.jpg",
+        "label": "Yes"
+    },
+    "97": {
+        "name": "image_97.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_97.jpg",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/1a/15/23/carpaccio-of-veal.jpg",
+        "label": "No"
+    },
+    "98": {
+        "name": "image_98.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_98.jpg",
+        "url": "https://fafifotography.files.wordpress.com/2014/12/img_20141113_233852.jpg?w=276&h=276&crop=1",
+        "label": "No"
+    },
+    "99": {
+        "name": "image_99.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_99.jpg",
+        "url": "http://t1.ftcdn.net/jpg/00/64/15/18/240_F_64151859_PbZ0bxxmcSDaCJHLMCi6uSTn67f8tzC8.jpg",
+        "label": "Yes"
+    },
+    "100": {
+        "name": "image_100.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_100.jpg",
+        "url": "https://www.onthewater.com/assets/Race-Point-tuna-131.jpg",
+        "label": "Yes"
+    },
+    "101": {
+        "name": "image_101.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_101.jpg",
+        "url": "https://www.carolinescooking.com/wp-content/uploads/2017/11/Steak-crostini-with-mushroom-pate-and-truffle-oil-picture-2.jpg",
+        "label": "No"
+    },
+    "102": {
+        "name": "image_102.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_102.jpg",
+        "url": "https://us.123rf.com/450wm/ekaterinaoleshko/ekaterinaoleshko1905/ekaterinaoleshko190500083/124995349-sushi-rolls-uramaki-with-bacon-cucumber-cheese-meat-and-teriyaki-sauce-marinated-ginger-and-wasabi-w.jpg?ver=6",
+        "label": "Yes"
+    },
+    "103": {
+        "name": "image_103.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_103.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0842/8151/products/pork-tenderloin-green-mountain-food-service_large.jpg?v=1477058111",
+        "label": "No"
+    },
+    "105": {
+        "name": "image_105.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_105.jpg",
+        "url": "https://lh3.googleusercontent.com/proxy/tHHzgh6EXuRLx6vQQao4PBN8RU_2XAh-lWCemI39Mpi0WzTkzttXS7601LdxL25btiCnwiJOAd4QxW6pFcIIKWWuHkEkw2UHXEIblWOLsbCCYp40h_jPCXBxMdoEjc3xb4a64EQ1gRfJJaKmJ6GnGbEMAWEV2_-e6C4MObsY=s0-d",
+        "label": "No"
+    },
+    "107": {
+        "name": "image_107.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_107.jpg",
+        "url": "https://us.123rf.com/450wm/timolina/timolina1302/timolina130200074/18067565-appetizing-sandwich-with-salmon.jpg",
+        "label": "No"
+    },
+    "108": {
+        "name": "image_108.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_108.jpg",
+        "url": "http://static9.depositphotos.com/1489043/1115/i/110/depositphotos_11155199-Cooked-meat-with-vegetables-barbecue.jpg",
+        "label": "No"
+    },
+    "109": {
+        "name": "image_109.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_109.jpg",
+        "url": "https://nomadicchique.files.wordpress.com/2012/10/img_2679.jpg?w=316&#038;h=237",
+        "label": "No"
+    },
+    "111": {
+        "name": "image_111.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_111.jpg",
+        "url": "https://i.pinimg.com/736x/9c/11/90/9c119095e452e0fc8234294bca9dc356--paleo-chicken-salad-tarragon-chicken-salads.jpg",
+        "label": "No"
+    },
+    "112": {
+        "name": "image_112.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_112.jpg",
+        "url": "https://thumbs.dreamstime.com/t/salad-red-salmon-caviar-sea-star-23465929.jpg",
+        "label": "No"
+    },
+    "114": {
+        "name": "image_114.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_114.jpg",
+        "url": "http://lh6.ggpht.com/zHMYtAD_V421z5__YsnwUeF99sR58FaRYU2m1pfUOFUMdFyTmSMAUqUMTveODv5M_SaM440E946qI8KI5J17eg=s400-c",
+        "label": "No"
+    },
+    "115": {
+        "name": "image_115.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_115.jpg",
+        "url": "https://thumbs.dreamstime.com/t/canape-sandwich-prosciutto-cheese-bread-34907323.jpg",
+        "label": "No"
+    },
+    "116": {
+        "name": "image_116.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_116.jpg",
+        "url": "https://i2.wp.com/www.eatordrink.net/wp-content/uploads/2019/04/easy-weeknight-dinner-pasta-chicken-salad-recipe.jpg?resize=150%2C150&ssl=1",
+        "label": "No"
+    },
+    "117": {
+        "name": "image_117.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_117.jpg",
+        "url": "https://i2.wp.com/sarahsveganguide.com/wp-content/uploads/2020/01/IMG_8545.jpg?resize=690%2C690&ssl=1",
+        "label": "No"
+    },
+    "118": {
+        "name": "image_118.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_118.jpg",
+        "url": "http://static8.depositphotos.com/1000605/990/i/110/depositphotos_9909572-Japanese-Cuisine--Tempura-Maki-Sushi-Deep-Fried-Roll-made-of-sa.jpg",
+        "label": "No"
+    },
+    "119": {
+        "name": "image_119.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_119.jpg",
+        "url": "https://www.liveannapolis.com/wp-content/uploads/2016/04/wpid-Kaitenzushi_72_640.jpg",
+        "label": "No"
+    },
+    "120": {
+        "name": "image_120.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_120.jpg",
+        "url": "https://tse1.mm.bing.net/th?id=OIP.qeGOh41kiXs6U8H7B4uMcQHaHZ&amp;pid=15.1&amp;P=0&amp;w=300&amp;h=300",
+        "label": "No"
+    },
+    "121": {
+        "name": "image_121.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_121.jpg",
+        "url": "https://sushiandroll.com/wp-content/uploads/2021/01/Spicy-Deluxe-tempural-roll-scaled-e1613383775849-300x236.jpg",
+        "label": "No"
+    },
+    "122": {
+        "name": "image_122.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_122.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/60/51/11/110_F_60511180_Q4xVtAUMFO30mukhhbJa1TiwiTVfhQ3x.jpg",
+        "label": "No"
+    },
+    "123": {
+        "name": "image_123.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_123.jpg",
+        "url": "https://thumbs.dreamstime.com/t/tuna-meal-canned-chunks-tomato-cherries-olives-33136599.jpg",
+        "label": "Yes"
+    },
+    "124": {
+        "name": "image_124.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_124.jpg",
+        "url": "http://media-cdn.tripadvisor.com/media/photo-s/02/92/e2/f5/filename-img-5386-jpg.jpg",
+        "label": "No"
+    },
+    "125": {
+        "name": "image_125.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_125.jpg",
+        "url": "http://static8.depositphotos.com/1005586/911/i/110/depositphotos_9119754-Filet-of-fresh-tuna.jpg",
+        "label": "Yes"
+    },
+    "126": {
+        "name": "image_126.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_126.jpg",
+        "url": "https://marine-harvest.s3.amazonaws.com/recipes/smoked-salmon-with-ricotta/smoked-salmon-with-ricotta-and-herbs_320.jpg",
+        "label": "No"
+    },
+    "127": {
+        "name": "image_127.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_127.jpg",
+        "url": "http://lh3.ggpht.com/0uHiBuV87DV8se69DUoaXtvT_eC0ZZIRMRU1acxp9wMYNcHhWX9TZo66m0QRKe9RoYQH0gjg_YquKSAWeZyRBA=s230-c",
+        "label": "Yes"
+    },
+    "129": {
+        "name": "image_129.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_129.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/19/90/24/400_F_19902441_iRYh20RVrvh2nwV2zUupBf8hAUBxFc4n.jpg",
+        "label": "No"
+    },
+    "131": {
+        "name": "image_131.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_131.jpg",
+        "url": "http://a.abcnews.com/images/GMA/ht_Grilled_chicken_mango_salsa_100701_ms.jpg",
+        "label": "No"
+    },
+    "132": {
+        "name": "image_132.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_132.jpg",
+        "url": "http://farm1.static.flickr.com/34/99910542_6c0cb4d519_m.jpg",
+        "label": "No"
+    },
+    "133": {
+        "name": "image_133.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_133.jpg",
+        "url": "https://i.pinimg.com/236x/99/ce/e2/99cee2bd65cf286af99bd87c1d8b6da6--japanese-recipes-japanese-food.jpg",
+        "label": "Yes"
+    },
+    "134": {
+        "name": "image_134.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_134.jpg",
+        "url": "https://img.grouponcdn.com/deal/8kPthHLwgmTQ78qSbQYW/Hh-800x480/v1/t440x300.jpg",
+        "label": "No"
+    },
+    "135": {
+        "name": "image_135.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_135.jpg",
+        "url": "https://i.pinimg.com/236x/69/4a/5f/694a5fe26e6224f694ed39866bf5da2d.jpg",
+        "label": "No"
+    },
+    "136": {
+        "name": "image_136.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_136.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/61/49/75/160_F_61497528_Ne6rHCnOyBQaYFhdYZ2GHvbuvC3G2PTG.jpg",
+        "label": "No"
+    },
+    "137": {
+        "name": "image_137.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_137.jpg",
+        "url": "https://lh3.googleusercontent.com/oVXGn8L25WurFXCh8OwOQYFYzV7anA5vImTlKjy3xlr68YbbxI65PWtvcEQluWtoibUgzwY8X1MnKDGOVsF7FQ=s320-c-e365",
+        "label": "Yes"
+    },
+    "138": {
+        "name": "image_138.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_138.jpg",
+        "url": "http://media.guestofaguest.com/t_card_medium/gofg-media/2017/06/1/49115/18878891_1716746985290497_3564493332904148992_n.jpg",
+        "label": "Yes"
+    },
+    "139": {
+        "name": "image_139.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_139.jpg",
+        "url": "https://images.pond5.com/cheess-square-sushi-rolls-salmon-footage-075175968_iconm.jpeg",
+        "label": "No"
+    },
+    "141": {
+        "name": "image_141.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_141.jpg",
+        "url": "http://lh5.ggpht.com/fei-JNhvjUsICR03NyTtr8PyJdMA8z2xlYg--9sTAEndCbaLeO7SOc-REHNSNCIdUGHpaTgrEUZVJKg3xpI7=s230-c",
+        "label": "No"
+    },
+    "142": {
+        "name": "image_142.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_142.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0043/4146/5157/products/BluefinTuna2_620x.jpg?v=1563198161",
+        "label": "Yes"
+    },
+    "143": {
+        "name": "image_143.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_143.jpg",
+        "url": "https://thumbs.dreamstime.com/t/hosomaki-sushi-japanese-small-rolls-kappamaki-filled-cucumber-sakemaki-filled-salmon-served-wasabi-gari-32832902.jpg",
+        "label": "No"
+    },
+    "144": {
+        "name": "image_144.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_144.jpg",
+        "url": "http://d2k9njawademcf.cloudfront.net/indeximages/23642/five_col/winter_bread_salad.JPG?1326950559",
+        "label": "No"
+    },
+    "145": {
+        "name": "image_145.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_145.jpg",
+        "url": "https://thumbs.dreamstime.com/m/watermelon-appetizer-27006873.jpg",
+        "label": "No"
+    },
+    "146": {
+        "name": "image_146.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_146.jpg",
+        "url": "https://images.squarespace-cdn.com/content/54b1b8f7e4b027b16099c4b2/1464069572179-CE6IWEPL6QU7X9AUNAGY/7.jpg?format=1000w&content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "147": {
+        "name": "image_147.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_147.jpg",
+        "url": "https://thumbs.dreamstime.com/t/sushi-rolls-white-background-30276101.jpg",
+        "label": "Yes"
+    },
+    "148": {
+        "name": "image_148.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_148.jpg",
+        "url": "https://lh3.googleusercontent.com/tQ9okuQcLjhZlf3tqlcj0tEYkGuZQO8RgYymc86eYydRNyUtQX6EFyu_yiPOC7KFu6NGHjuZHyneiucBFiJd=s320-c-e365",
+        "label": "No"
+    },
+    "149": {
+        "name": "image_149.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_149.jpg",
+        "url": "https://farm8.staticflickr.com/7003/6580272859_3a330b0773_z.jpg",
+        "label": "No"
+    },
+    "150": {
+        "name": "image_150.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_150.jpg",
+        "url": "https://i2.wp.com/supperinthesuburbs.com/wp-content/uploads/2014/07/bbq-tuna-steak.jpg?fit=300%2C300",
+        "label": "Yes"
+    },
+    "151": {
+        "name": "image_151.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_151.jpg",
+        "url": "http://www.thecomfortofcooking.com/wp-content/uploads/2013/09/SpicyThaiSteakSalad-2.jpg",
+        "label": "No"
+    },
+    "152": {
+        "name": "image_152.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_152.jpg",
+        "url": "https://www.gannett-cdn.com/-mm-/4d290bbc2b0c3eee9726da37c28f1392fd3fcac5/c=0-94-545-821/local/-/media/2018/01/17/Rochester/Rochester/636517921008844004-M64-MW010318RM--046.jpg?width=180&amp;height=240&amp;fit=crop",
+        "label": "No"
+    },
+    "153": {
+        "name": "image_153.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_153.jpg",
+        "url": "https://i1.wp.com/www.chewsandbrews.ca/wp-content/uploads/2017/02/Chicken-Curry-2.jpg?resize=1038%2C576",
+        "label": "No"
+    },
+    "154": {
+        "name": "image_154.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_154.jpg",
+        "url": "https://i.ytimg.com/vi/C_MJj4o1eq4/hqdefault.jpg",
+        "label": "Yes"
+    },
+    "155": {
+        "name": "image_155.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_155.jpg",
+        "url": "http://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/8/a1/8a1397b4-01c9-509c-99c7-703a0ec2b6b4/51374cbaaed33.preview-300.jpg",
+        "label": "No"
+    },
+    "156": {
+        "name": "image_156.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_156.jpg",
+        "url": "https://2.bp.blogspot.com/-fNMZagXufuE/XVe2zaiANgI/AAAAAAAAB3c/uptSOK1KE6cjcld8OAmU11VUT-EAkFdiwCLcBGAs/s320/DSC_1611.jpg",
+        "label": "No"
+    },
+    "157": {
+        "name": "image_157.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_157.jpg",
+        "url": "https://i.pinimg.com/236x/a0/17/e7/a017e76ebc0d291a8d83e35144675748--avocado-recipes-lunch-recipes.jpg",
+        "label": "Yes"
+    },
+    "158": {
+        "name": "image_158.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_158.jpg",
+        "url": "https://img.grouponcdn.com/deal/4VDdhDsKXwsACQ3nZe8a/PG-440x267/v1/t440x300.jpg",
+        "label": "No"
+    },
+    "160": {
+        "name": "image_160.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_160.jpg",
+        "url": "https://i.pinimg.com/236x/73/f4/92/73f492729fd6a9ee88ad8c3a72707440--salmon-terrine-recipes-smoked-salmon-terrine.jpg",
+        "label": "No"
+    },
+    "161": {
+        "name": "image_161.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_161.jpg",
+        "url": "http://images.qvc.com/is/image/a/36/a283036.001?$usmedium$",
+        "label": "No"
+    },
+    "162": {
+        "name": "image_162.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_162.jpg",
+        "url": "https://www.zuvela.hr/uploads/thumbnails/7bf52cdf51c53cd9c632f817bbb268ba.jpg",
+        "label": "Yes"
+    },
+    "163": {
+        "name": "image_163.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_163.jpg",
+        "url": "https://lh3.googleusercontent.com/KQbz3hOoOUmmYQnRdjsLDCx0mttB2Ntnt8ycqL0KXvL77HxTy1knfRYlFLLaZPrPoc3QtJuEqyE83Ew69AlX=s320-c-e365",
+        "label": "No"
+    },
+    "164": {
+        "name": "image_164.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_164.jpg",
+        "url": "https://us.123rf.com/450wm/theerapoll/theerapoll1405/theerapoll140500349/28881844-salmon-sashimi-on-white-dish-food-background.jpg",
+        "label": "No"
+    },
+    "165": {
+        "name": "image_165.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_165.jpg",
+        "url": "https://wikacatering.pl/wp-content/uploads/2017/11/1873-e1511128545244-215x215.jpg",
+        "label": "No"
+    },
+    "166": {
+        "name": "image_166.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_166.jpg",
+        "url": "http://www.dineouthere.com/images/shuraku-japanese-09.jpg",
+        "label": "Yes"
+    },
+    "167": {
+        "name": "image_167.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_167.jpg",
+        "url": "https://us.123rf.com/450wm/niolox/niolox1501/niolox150100028/35956732-scallop-on-black-stone-plate.jpg?ver=6",
+        "label": "No"
+    },
+    "169": {
+        "name": "image_169.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_169.jpg",
+        "url": "http://www.eatbydate.com/wp-content/uploads/Ahi.jpg",
+        "label": "Yes"
+    },
+    "170": {
+        "name": "image_170.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_170.jpg",
+        "url": "https://images.squarespace-cdn.com/content/511dac8ee4b0adc428bf564e/1468283781002-CBRSPYVCJEJ4U7HER6Z9/Trokay+pork+belly.jpg?format=1000w&content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "171": {
+        "name": "image_171.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_171.jpg",
+        "url": "http://d1hw6n3yxknhky.cloudfront.net/022151857_iconv.jpeg",
+        "label": "No"
+    },
+    "172": {
+        "name": "image_172.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_172.jpg",
+        "url": "https://ehc-west-0-bucket.s3.us-west-2.amazonaws.com/web/documents/ntrdv/menu_item_images/item_image_5d4cc7ff65a73.jpg?5fc1455c180cf",
+        "label": "No"
+    },
+    "173": {
+        "name": "image_173.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_173.jpg",
+        "url": "https://i.pinimg.com/236x/b2/4c/58/b24c589fa734050b98437f05bc3e356b--salmon-queso.jpg",
+        "label": "No"
+    },
+    "174": {
+        "name": "image_174.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_174.jpg",
+        "url": "http://i1.ytimg.com/vi/I-W3jLmaMRw/0.jpg",
+        "label": "Yes"
+    },
+    "176": {
+        "name": "image_176.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_176.jpg",
+        "url": "https://image.shutterstock.com/image-photo/stock-photo-philadelphia-roll-sushi-with-salmon-prawn-avocado-cream-cheese-sushi-menu-japanese-food-450w-606590933.jpg",
+        "label": "No"
+    },
+    "177": {
+        "name": "image_177.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_177.jpg",
+        "url": "https://static2.bigstockphoto.com/thumbs/5/6/3/large2/36513391.jpg",
+        "label": "Yes"
+    },
+    "178": {
+        "name": "image_178.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_178.jpg",
+        "url": "http://ot-foodspotting-production.s3.amazonaws.com/reviews/4887851/thumb_600.jpg?1406501736?1477436708",
+        "label": "Yes"
+    },
+    "179": {
+        "name": "image_179.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_179.jpg",
+        "url": "http://lh4.ggpht.com/4KB-WaQrCmr12r4ZgUeKUpsWWSTPB1XEo0oCXe3RcxG7VE4et2TpTkrdL4K7V-NcTxdYh0qgc4V7slzT7ToZ4A=s320-c-e365",
+        "label": "No"
+    },
+    "181": {
+        "name": "image_181.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_181.jpg",
+        "url": "http://lh6.ggpht.com/KUhcYFHCz3L3p4MpPGr8mDl_A79owU-lvVfWk0UW_2deScsADtDhkYJTKDaWwyV1zVFT2-3vsdf-jHqhKmO7XA=s230-c",
+        "label": "No"
+    },
+    "182": {
+        "name": "image_182.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_182.jpg",
+        "url": "https://farm5.static.flickr.com/4043/4409886767_00384e5fa8.jpg",
+        "label": "Yes"
+    },
+    "184": {
+        "name": "image_184.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_184.jpg",
+        "url": "https://i1.wp.com/popsiclesociety.com/wp-content/uploads/2019/11/popsiclesociety-beetroot-and-feta-cheese-salad_5293.jpeg?resize=768%2C1024&ssl=1",
+        "label": "No"
+    },
+    "185": {
+        "name": "image_185.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_185.jpg",
+        "url": "http://ot-foodspotting-production.s3.amazonaws.com/reviews/2981034/thumb_600.jpg?1357846419",
+        "label": "No"
+    },
+    "186": {
+        "name": "image_186.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_186.jpg",
+        "url": "https://i0.wp.com/teaspoonofnose.com/wp-content/uploads/2019/08/Cantaloupe-and-prosciutto-12.jpg?resize=900%2C600&ssl=1",
+        "label": "No"
+    },
+    "187": {
+        "name": "image_187.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_187.jpg",
+        "url": "https://thumbs.dreamstime.com/t/sushi-do-atum-159076.jpg",
+        "label": "Yes"
+    },
+    "188": {
+        "name": "image_188.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_188.jpg",
+        "url": "https://livedoor.blogimg.jp/drikuo/imgs/d/3/d3c453c7.jpg",
+        "label": "No"
+    },
+    "189": {
+        "name": "image_189.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_189.jpg",
+        "url": "http://www.quidanoiblog.it/blog/wp-content/uploads/2018/05/cheesecakecrudoerucola-Grassi-2-150x150.jpg",
+        "label": "No"
+    },
+    "191": {
+        "name": "image_191.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_191.jpg",
+        "url": "https://i.pinimg.com/736x/e8/56/68/e85668caf5b579b0268a3dbe5df7b151.jpg",
+        "label": "No"
+    },
+    "192": {
+        "name": "image_192.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_192.jpg",
+        "url": "http://scene7.samsclub.com/is/image/samsclub/0040647178259_A?$img_size_200x200$",
+        "label": "Yes"
+    },
+    "193": {
+        "name": "image_193.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_193.jpg",
+        "url": "https://thumbs.dreamstime.com/t/crab-stick-sushi-26263404.jpg",
+        "label": "No"
+    },
+    "194": {
+        "name": "image_194.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_194.jpg",
+        "url": "https://i.pinimg.com/236x/70/f1/e7/70f1e7b53c0b0dbd0923e4a72b3cb2e6.jpg",
+        "label": "Yes"
+    },
+    "195": {
+        "name": "image_195.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_195.jpg",
+        "url": "https://static1.bigstockphoto.com/thumbs/5/6/7/large2/76530710.jpg",
+        "label": "Yes"
+    },
+    "196": {
+        "name": "image_196.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_196.jpg",
+        "url": "https://gurunavi.com/en/p761807/imgs/t_cm_01_070.jpg?20190822122020",
+        "label": "No"
+    },
+    "197": {
+        "name": "image_197.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_197.jpg",
+        "url": "https://3.bp.blogspot.com/-u5MdQQZ368k/U0wqFUuuWTI/AAAAAAAAP-Q/wTjQiyfZJk4/s1600/IMG_6236.JPG",
+        "label": "No"
+    },
+    "198": {
+        "name": "image_198.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_198.jpg",
+        "url": "https://thumbs.dreamstime.com/t/raw-organic-ahi-tuna-poke-bowl-rice-veggies-94090068.jpg",
+        "label": "Yes"
+    },
+    "199": {
+        "name": "image_199.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_199.jpg",
+        "url": "https://thumbs.dreamstime.com/t/crude-meat-spices-16460649.jpg",
+        "label": "No"
+    },
+    "200": {
+        "name": "image_200.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_200.jpg",
+        "url": "https://thediaryof2formerfatgirls.files.wordpress.com/2019/05/haravest-tuna-salad-4-copy.jpg?w=723",
+        "label": "Yes"
+    },
+    "201": {
+        "name": "image_201.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_201.jpg",
+        "url": "http://st.depositphotos.com/1070064/3226/i/110/depositphotos_32269889-tuna-salad-with-fresh-tuna-fillets.jpg",
+        "label": "Yes"
+    },
+    "202": {
+        "name": "image_202.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_202.jpg",
+        "url": "https://en.pimg.jp/024/332/454/0/24332454.jpg",
+        "label": "Yes"
+    },
+    "203": {
+        "name": "image_203.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_203.jpg",
+        "url": "https://www.joyineveryseason.com/wp-content/uploads/2017/03/Seared-Ahi-Salad-3-300x214.jpg",
+        "label": "Yes"
+    },
+    "204": {
+        "name": "image_204.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_204.jpg",
+        "url": "http://lh4.ggpht.com/-XiuBqOSCRFo/Uw5XA7QWKvI/AAAAAAAAmGw/mIw3pWuWsWk/Plum%252520Sauce%252520Chicken%252520Salad_thumb.jpg?imgmax=800",
+        "label": "No"
+    },
+    "206": {
+        "name": "image_206.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_206.jpg",
+        "url": "https://live.staticflickr.com/65535/48767227873_2b1dea9631_b.jpg",
+        "label": "Yes"
+    },
+    "207": {
+        "name": "image_207.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_207.jpg",
+        "url": "https://chefquak.files.wordpress.com/2013/06/dscn5320.jpg?w=300&h=225",
+        "label": "No"
+    },
+    "208": {
+        "name": "image_208.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_208.jpg",
+        "url": "http://img.grouponcdn.com/deal/hrfc1pYiG2BRHvoTSZnR/t460x279/dD-440x267.jpg",
+        "label": "No"
+    },
+    "209": {
+        "name": "image_209.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_209.jpg",
+        "url": "https://thumbs.dreamstime.com/t/tuna-olive-tomato-salad-25882632.jpg",
+        "label": "No"
+    },
+    "210": {
+        "name": "image_210.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_210.jpg",
+        "url": "https://chocolatechocolateandmore.com/wp-content/uploads/2014/12/Chocolate-Pecan-Encrusted-Bacon-Cheese-Ball-Jarlsberg-Chocolatechocolateandmore-13aa.jpg",
+        "label": "No"
+    },
+    "212": {
+        "name": "image_212.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_212.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0959/3126/articles/Duck-SQ-compressor_2048x2048.jpg?v=1552202364",
+        "label": "No"
+    },
+    "213": {
+        "name": "image_213.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_213.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0183/0155/products/Yellowtail_Nigiri_OL_1_medium.jpg?v=1368107324",
+        "label": "No"
+    },
+    "214": {
+        "name": "image_214.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_214.jpg",
+        "url": "https://whereweloveishome.files.wordpress.com/2014/02/dsc_4557.jpg?w=560&",
+        "label": "No"
+    },
+    "215": {
+        "name": "image_215.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_215.jpg",
+        "url": "http://lh6.ggpht.com/wxMUxGx-_3jFROERBrpnD2YrGSQQpSirUZ_QOQJm_VwmuDNUwZmt07P5NYKC87wQGppUwQb6itFkWdtWfPL3=s400-c",
+        "label": "No"
+    },
+    "216": {
+        "name": "image_216.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_216.jpg",
+        "url": "https://thumbs.dreamstime.com/t/thin-slices-red-fish-lie-plate-28490482.jpg",
+        "label": "Yes"
+    },
+    "217": {
+        "name": "image_217.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_217.jpg",
+        "url": "https://authentiktravel.com/media/ckeditor/top%2010%20dishes%20pho%20hanoi.jpg",
+        "label": "No"
+    },
+    "218": {
+        "name": "image_218.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_218.jpg",
+        "url": "https://igx.4sqi.net/img/general/600x600/9108160_EEJ-7k2ZrMTJdL4jUKMBlZnDA8lCYiVyF9GedJuXzQI.jpg",
+        "label": "No"
+    },
+    "219": {
+        "name": "image_219.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_219.jpg",
+        "url": "https://thumbs.dreamstime.com/t/terrine-chicken-vegetables-selective-focus-33637736.jpg",
+        "label": "No"
+    },
+    "220": {
+        "name": "image_220.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_220.jpg",
+        "url": "https://i.pinimg.com/736x/ba/03/d9/ba03d9e7cbcb009913b23d4ef683fda2--snacks-ideas-cute-kids-snacks.jpg",
+        "label": "No"
+    },
+    "221": {
+        "name": "image_221.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_221.jpg",
+        "url": "https://www.allaboutsushiguide.com/images/spicy-tuna-hand-roll-cucumber-ready-to-roll.jpg",
+        "label": "Yes"
+    },
+    "222": {
+        "name": "image_222.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_222.jpg",
+        "url": "http://lh6.ggpht.com/8RrJ6PIFsHYrKzp3isp4eOrWC0OKTuL-OtbFSDwcjAhGbQqId5yXwS21uLtAMARGd_yGU46o9dfLvF_6XC95Fw=s230-c",
+        "label": "No"
+    },
+    "224": {
+        "name": "image_224.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_224.jpg",
+        "url": "https://s.tmimgcdn.com/scr/102900/fattsuhi--japanese-sushi-restaurant-wordpress-theme_102983-original.jpg",
+        "label": "No"
+    },
+    "225": {
+        "name": "image_225.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_225.jpg",
+        "url": "https://thepracticalcook.files.wordpress.com/2013/09/20130903-232227.jpg?w=500",
+        "label": "Yes"
+    },
+    "226": {
+        "name": "image_226.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_226.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0126/6076/8825/articles/PFFM_Sesame_Crusted_Tuna-1-min_1_1024x1024.jpg?v=1539733450",
+        "label": "Yes"
+    },
+    "227": {
+        "name": "image_227.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_227.jpg",
+        "url": "https://thumbs.dreamstime.com/x/raw-beef-cutting-board-basil-31505311.jpg",
+        "label": "No"
+    },
+    "228": {
+        "name": "image_228.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_228.jpg",
+        "url": "https://static2.bigstockphoto.com/1/0/1/large2/101510084.jpg",
+        "label": "No"
+    },
+    "229": {
+        "name": "image_229.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_229.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/3597966/300/200/m1/fpnw/wm0/fgkm5mr8wsogjmwzfwcyu1939wrb5jqaejrwkpm8gkupcwkbovss35eqk6rdy9hz-.jpg?1511033023&s=5497cb148882e13790d88d6bfa4b8629",
+        "label": "No"
+    },
+    "230": {
+        "name": "image_230.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_230.jpg",
+        "url": "https://thumbs.dreamstime.com/t/fresh-raw-beef-23928824.jpg",
+        "label": "No"
+    },
+    "231": {
+        "name": "image_231.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_231.jpg",
+        "url": "https://ilfattoalimentare.it/wp-content/uploads/2017/05/tonno-fresco-crudo-filetti-pesce-Fotolia_124009702_Subscription_Monthly_M-310x205.jpg",
+        "label": "Yes"
+    },
+    "232": {
+        "name": "image_232.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_232.jpg",
+        "url": "https://us.123rf.com/450wm/nito500/nito5001306/nito500130600119/20323251-closeup-of-a-refreshing-pasta-salad-on-a-slate-background.jpg?ver=6",
+        "label": "No"
+    },
+    "233": {
+        "name": "image_233.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_233.jpg",
+        "url": "https://lh3.googleusercontent.com/proxy/fWja9O-30iL-Xt-dVkAXrkRV1WCZP2e1J1gkMWEQAKDHD_wwkVUAYSFDEcvetBTtduqQu65dr6aB_Tk5pDrgyiEWQFjTh9idaTWA-egf5mbfzEEnazQO6gBnA6_QgAxTbbZU4ygYeEil6gieyQ=w530-h354-p",
+        "label": "No"
+    },
+    "234": {
+        "name": "image_234.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_234.jpg",
+        "url": "http://mda.bigoven.com/pics/rs/120/snow-peas-with-sesame-seeds-4.jpg",
+        "label": "No"
+    },
+    "235": {
+        "name": "image_235.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_235.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/54/46/30/240_F_54463030_W4Y5jZHr3VM0ZRsfSzjdckR3tMuHa7Zw.jpg",
+        "label": "Yes"
+    },
+    "236": {
+        "name": "image_236.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_236.jpg",
+        "url": "https://i.pinimg.com/236x/fe/c4/4c/fec44cd2336e36a9bcd70f94a936b2cd.jpg",
+        "label": "Yes"
+    },
+    "237": {
+        "name": "image_237.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_237.jpg",
+        "url": "https://ims.maydream.com/r/w200-h200-f1/aHR0cDovL2Q1N2NiYjM5YmUxMDg3NTUxMWE1LWQ5M2U0ODM3ZmFmYzJmYmMwOGUwYjhjYjFmMjNlOWVlLnI5NC5jZjEucmFja2Nkbi5jb20vcGFnZS9wYWdlXzAwMDA2Njk1XzE1NDAyNDEyNTguanBn",
+        "label": "Yes"
+    },
+    "238": {
+        "name": "image_238.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_238.jpg",
+        "url": "https://www.3dinosaurs.com/images/blog/6-2016/swingintosummer-week5monster.jpg",
+        "label": "No"
+    },
+    "239": {
+        "name": "image_239.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_239.jpg",
+        "url": "http://lh3.googleusercontent.com/BcwgCAS6zuUbw2z8rxNftiV4vI94_XrJ43NZ_-2oC0-MNg0AhtCa6oCn8JTMMmXZwbFTNq4qoH2m9MfvZLBz=s480-c-e365",
+        "label": "No"
+    },
+    "240": {
+        "name": "image_240.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_240.jpg",
+        "url": "https://watermarked.cutcaster.com/901502212-sushi-set.jpg",
+        "label": "No"
+    },
+    "241": {
+        "name": "image_241.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_241.jpg",
+        "url": "https://thumbs.dreamstime.com/x/pangasius-filet-16760509.jpg",
+        "label": "No"
+    },
+    "243": {
+        "name": "image_243.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_243.jpg",
+        "url": "http://d2k9njawademcf.cloudfront.net/indeximages/26125/thumb/Grilled_Steak_Salad_with_Avocado_Buttermilk_Ranch_front_resubmit.jpg?1336501431",
+        "label": "No"
+    },
+    "244": {
+        "name": "image_244.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_244.jpg",
+        "url": "https://media02.stockfood.com/thumbs/170/11138449.jpg",
+        "label": "Yes"
+    },
+    "245": {
+        "name": "image_245.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_245.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/60/41/83/240_F_60418360_5P0xEnnxketUF6bitd2I6LDCrOTtsy9o.jpg",
+        "label": "No"
+    },
+    "246": {
+        "name": "image_246.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_246.jpg",
+        "url": "https://burgundy2beyond.files.wordpress.com/2013/07/p1050018.jpg?w=300&h=225",
+        "label": "No"
+    },
+    "247": {
+        "name": "image_247.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_247.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/67/16/99/240_F_67169960_z31Y24DTtH2NJKKIQLMhd71soB4Tiw8Y.jpg",
+        "label": "Yes"
+    },
+    "248": {
+        "name": "image_248.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_248.jpg",
+        "url": "https://munchies-images.vice.com/wp_upload/VICE_SPAM_Sushi_01.jpg",
+        "label": "No"
+    },
+    "249": {
+        "name": "image_249.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_249.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/46/40/68/240_F_46406882_TvFbrzgINTSue1fSgn7OnZUxgkDDqrw9.jpg",
+        "label": "No"
+    },
+    "250": {
+        "name": "image_250.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_250.jpg",
+        "url": "https://fantasticmemoriestravel.com/wp-content/uploads/2018/10/spam-musubi-300x200.jpg",
+        "label": "No"
+    },
+    "251": {
+        "name": "image_251.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_251.jpg",
+        "url": "https://blog.tableapp.com/wp-content/uploads/2018/07/elite-ishinjapanesedining_sushideluxe.jpg",
+        "label": "No"
+    },
+    "252": {
+        "name": "image_252.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_252.jpg",
+        "url": "https://i.pinimg.com/736x/98/19/bd/9819bd02c2b4639360d68acd546ed784--seared-tuna-steak-recipe-cooking-tuna-steaks.jpg",
+        "label": "Yes"
+    },
+    "253": {
+        "name": "image_253.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_253.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2457/3611/products/2017080400354985120_grande.jpg?v=1515430578",
+        "label": "No"
+    },
+    "254": {
+        "name": "image_254.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_254.jpg",
+        "url": "https://i.pinimg.com/736x/51/63/0b/51630bacd47beb269151349f361c3f39--seared-tuna-salad-sushi-salad.jpg",
+        "label": "Yes"
+    },
+    "255": {
+        "name": "image_255.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_255.jpg",
+        "url": "https://myfoodies.com/recipeadmin/static/uploads/img/1541019195_3907_thumb.jpg",
+        "label": "No"
+    },
+    "256": {
+        "name": "image_256.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_256.jpg",
+        "url": "https://thetinasituation.files.wordpress.com/2017/09/t7.jpg?w=176&h=176&crop=1",
+        "label": "No"
+    },
+    "257": {
+        "name": "image_257.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_257.jpg",
+        "url": "https://theglobalgirl.com/wp-content/uploads/the-global-girl-theglobalgirl-raw-vegan-recipes-falafel-burger-wrap-sprouts-tomato-carrot-collard-green-red-cabbage-2.jpg",
+        "label": "No"
+    },
+    "258": {
+        "name": "image_258.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_258.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1531/6957/files/Raw-Vegan-Sushi2.jpg?v=1605827609",
+        "label": "No"
+    },
+    "259": {
+        "name": "image_259.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_259.jpg",
+        "url": "http://images.lowes.com/product/converted/500838/50083828sm.jpg",
+        "label": "No"
+    },
+    "260": {
+        "name": "image_260.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_260.jpg",
+        "url": "https://i.ytimg.com/vi/605mfLxtLJY/maxresdefault.jpg",
+        "label": "Yes"
+    },
+    "261": {
+        "name": "image_261.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_261.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/55/02/25/240_F_55022516_k5ThctEz3gQQmIdhcePBNO1Tzv2EHiIs.jpg",
+        "label": "No"
+    },
+    "262": {
+        "name": "image_262.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_262.jpg",
+        "url": "https://3.bp.blogspot.com/-AgJyi1dzMag/WUIsPexAEII/AAAAAAAAXMs/Zzcb-0owkXA2R7NXao8vrSnjrPzvWnhYwCLcBGAs/s1600/good%2Bafternoon%2Btelugu%2Bgreetings%2Bdaily%2Bwishes%2Bquotes%2B-%2BAll%2BTop%2BGreetings.jpg",
+        "label": "No"
+    },
+    "263": {
+        "name": "image_263.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_263.jpg",
+        "url": "https://images.squarespace-cdn.com/content/v1/5b81aa0c7e3c3a2ba0dfdbbd/1560288252037-P1J3M3NZTE2BOBBNRLZE/ke17ZwdGBToddI8pDm48kEpVg-ILAPna1wRh-xAJ9fRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwEv36x-EUL2-BSQ5feDhwGCbXuJBFqZ-erYzVouT8yOb9TwqchglLQOCYTRn7ZGxI/image-asset.jpeg",
+        "label": "No"
+    },
+    "264": {
+        "name": "image_264.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_264.jpg",
+        "url": "http://www.adayinthekitchen.com/wp-content/uploads/2017/09/salmon-poke-bowls-640x640-640x435.jpg",
+        "label": "No"
+    },
+    "265": {
+        "name": "image_265.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_265.jpg",
+        "url": "https://img.grouponcdn.com/deal/vHpj2xvYp8DcjLC3YM1i/BF-440x267/v1/t440x300.jpg",
+        "label": "Yes"
+    },
+    "268": {
+        "name": "image_268.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_268.jpg",
+        "url": "https://farm9.staticflickr.com/8015/7701017060_140e1f2d7a_n.jpg",
+        "label": "No"
+    },
+    "269": {
+        "name": "image_269.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_269.jpg",
+        "url": "http://s3.amazonaws.com/gmi-digital-library/250ffe9e-2f37-4927-b049-e92d6ff807aa.jpg",
+        "label": "No"
+    },
+    "270": {
+        "name": "image_270.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_270.jpg",
+        "url": "https://livedoor.blogimg.jp/drikuo/imgs/0/f/0f1790b7.jpg",
+        "label": "No"
+    },
+    "271": {
+        "name": "image_271.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_271.jpg",
+        "url": "https://thumbs.dreamstime.com/t/spicy-sushi-salmon-tobiko-caviar-24038676.jpg",
+        "label": "No"
+    },
+    "272": {
+        "name": "image_272.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_272.jpg",
+        "url": "https://pickyglutton.files.wordpress.com/2017/01/beef-and-vegetables-at-hotel-nakanoshima-wakayama.jpg?w=610&h=456",
+        "label": "No"
+    },
+    "273": {
+        "name": "image_273.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_273.jpg",
+        "url": "http://img.grouponcdn.com/deal/mz677UL9nyqorzL6RHqa/t220x134/qs-440x267.jpg",
+        "label": "No"
+    },
+    "274": {
+        "name": "image_274.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_274.jpg",
+        "url": "http://lh6.ggpht.com/V4QSwSW4UgqpTkDs9rcKv6rYLAK_srp45ampMj15dYnPw29sEPySHptI0AEaTrcqdltlaErsDpgTriyuAobr0MA=s230-c",
+        "label": "Yes"
+    },
+    "275": {
+        "name": "image_275.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_275.jpg",
+        "url": "https://cultivatewellnessblog.files.wordpress.com/2015/11/clementine-cucumber-relish-fish.jpg?w=300&h=300",
+        "label": "No"
+    },
+    "276": {
+        "name": "image_276.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_276.jpg",
+        "url": "http://coverjunction.s3.amazonaws.com/2013/214/608fad77-d0f9-4e65-89b0-7e02d5dfd453.jpg",
+        "label": "No"
+    },
+    "277": {
+        "name": "image_277.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_277.jpg",
+        "url": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/jayshree-bhawalkar20180601125514315.jpg",
+        "label": "No"
+    },
+    "278": {
+        "name": "image_278.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_278.jpg",
+        "url": "https://thumbs.dreamstime.com/t/guava-fruit-salad-37581477.jpg",
+        "label": "No"
+    },
+    "279": {
+        "name": "image_279.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_279.jpg",
+        "url": "http://scene7.samsclub.com/is/image/samsclub/0040647178259_A?$img_size_222x222$",
+        "label": "Yes"
+    },
+    "280": {
+        "name": "image_280.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_280.jpg",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/61/b0/bc/fresh-nigiri-selection.jpg",
+        "label": "No"
+    },
+    "281": {
+        "name": "image_281.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_281.jpg",
+        "url": "https://i0.wp.com/intelligentdomestications.com/wp-content/uploads/2020/03/Baked-Ham-and-Egg-Muffin-Cups-over-easy.jpg?resize=948%2C709&ssl=1",
+        "label": "No"
+    },
+    "282": {
+        "name": "image_282.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_282.jpg",
+        "url": "https://sushiday.com/wp-content/2019/08/2019-08-26-bacon-wrapped-hot-dog-sushi-1620x1156.jpg",
+        "label": "No"
+    },
+    "283": {
+        "name": "image_283.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_283.jpg",
+        "url": "https://thumbs.dreamstime.com/m/sushi-roll-tempura-tuna-salmon-shrimp-37019509.jpg",
+        "label": "No"
+    },
+    "284": {
+        "name": "image_284.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_284.jpg",
+        "url": "http://media2.popsugar-assets.com/files/2013/01/02/3/192/1922195/d1b55801bfe6f0cf_sushi.large/i/Vegetable-Sushi-Roll.jpg",
+        "label": "No"
+    },
+    "285": {
+        "name": "image_285.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_285.jpg",
+        "url": "https://thumbs.dreamstime.com/t/toasted-bread-pate-29037957.jpg",
+        "label": "No"
+    },
+    "286": {
+        "name": "image_286.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_286.jpg",
+        "url": "https://live.staticflickr.com/3892/14964593067_6981354a4b_z.jpg",
+        "label": "No"
+    },
+    "287": {
+        "name": "image_287.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_287.jpg",
+        "url": "http://i0.wp.com/tatertotsandjello.com/wp-content/uploads/2013/12/New-Years-Eve-Shrimp-Dip.jpg?resize=250%2C208",
+        "label": "No"
+    },
+    "290": {
+        "name": "image_290.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_290.jpg",
+        "url": "https://thumbs.dreamstime.com/t/salmon-sushi-sashimi-18443243.jpg",
+        "label": "No"
+    },
+    "291": {
+        "name": "image_291.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_291.jpg",
+        "url": "http://mda.bigoven.com/pics/rs/200/grilled-salmon-steaks-with-lime-but.jpg",
+        "label": "No"
+    },
+    "292": {
+        "name": "image_292.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_292.jpg",
+        "url": "https://static.wixstatic.com/media/cd6e4d_3711a334d89641f292c8b09c3d5e16e3~mv2.jpg",
+        "label": "No"
+    },
+    "293": {
+        "name": "image_293.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_293.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/2052586/300/200/m1/fpc/wm0/hrsrnxorr4rfcbhnmdcy2gopm5uh7lumnfm1b8pe8lreghohuoe7kcq6zhvzovuz-.jpg?1482310096&s=22c4409c0bdf7e0469948865d70d813b",
+        "label": "No"
+    },
+    "294": {
+        "name": "image_294.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_294.jpg",
+        "url": "https://img.grouponcdn.com/deal/saPgr6YAEmfH1dAWBQawCU/mikado_japanese_cuisine-700x420/v1/t440x300.jpg",
+        "label": "No"
+    },
+    "297": {
+        "name": "image_297.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_297.jpg",
+        "url": "https://i.pinimg.com/236x/c8/f8/a5/c8f8a5a6b513608bb03e2e57354eb392--fancy-food-presentation-wedding-canapes.jpg",
+        "label": "No"
+    },
+    "298": {
+        "name": "image_298.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_298.jpg",
+        "url": "https://2.bp.blogspot.com/-NtL6Lp36pHw/WNz-1mFB_MI/AAAAAAAAE60/kNX3Oe8jtOs1QxnuX5JrCk-X6iX7rHqugCK4B/s320/shutterstock_125977655.jpg",
+        "label": "No"
+    },
+    "299": {
+        "name": "image_299.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_299.jpg",
+        "url": "https://images.squarespace-cdn.com/content/v1/5a1f30528fd4d26043c2790f/1531949341140-E6PD2V0QOQZ6KM6YXLAB/ke17ZwdGBToddI8pDm48kN_ZoNdj1kv_gIvm4zjH76N7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8AelHsSihC3tfiYK1eHEM7W3AVjJQSBul2wE-DqW7dygg/Tuna+and+knife+photo.jpg",
+        "label": "Yes"
+    },
+    "301": {
+        "name": "image_301.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_301.jpg",
+        "url": "https://gurunavi.com/en/g853160/imgs/t_cm_01_004.jpg?20180921150510",
+        "label": "Yes"
+    },
+    "302": {
+        "name": "image_302.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_302.jpg",
+        "url": "https://www.eattasty.nl/www.eattasty.nl/img/gerechten/red-tuna-maki.png",
+        "label": "Yes"
+    },
+    "303": {
+        "name": "image_303.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_303.jpg",
+        "url": "http://mda.bigoven.com/pics/rs/200/feta-stuffed-watermelon-blocks-2.jpg",
+        "label": "No"
+    },
+    "304": {
+        "name": "image_304.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_304.jpg",
+        "url": "https://pbs.twimg.com/media/Eva_cfOXEAUDEfY.jpg",
+        "label": "Yes"
+    },
+    "305": {
+        "name": "image_305.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_305.jpg",
+        "url": "https://i2.wp.com/coupleeatsfood.com/wp-content/uploads/2017/06/Salmon-Shoyu-Poke-Bowl-Recipe-e1501899766251.jpg?resize=150%2C150",
+        "label": "No"
+    },
+    "306": {
+        "name": "image_306.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_306.jpg",
+        "url": "https://www.orwhateveryoudo.com/wp-content/uploads/2016/07/Pressure-Cooker-Chicken-Breasts-3-1-600x400.jpg",
+        "label": "No"
+    },
+    "307": {
+        "name": "image_307.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_307.jpg",
+        "url": "https://static1.squarespace.com/static/571a84cad51cd458f38b4028/5c1335e5032be494c5186412/5c1336d52b6a2887997c3438/1551040702671/IMG_8286.JPG",
+        "label": "No"
+    },
+    "308": {
+        "name": "image_308.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_308.jpg",
+        "url": "http://st.depositphotos.com/1012885/3248/i/170/depositphotos_32488541-Fresh-sushi-traditional-japanese-food.jpg",
+        "label": "No"
+    },
+    "309": {
+        "name": "image_309.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_309.jpg",
+        "url": "http://d3cizcpymoenau.cloudfront.net/images/legacy/30603/browse_SFS_NachoMamaSaladV1_02_279238.jpg",
+        "label": "No"
+    },
+    "310": {
+        "name": "image_310.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_310.jpg",
+        "url": "http://static8.depositphotos.com/1112971/950/i/110/depositphotos_9500783-Raw-Wagyu-Beef--Japanese-Style.jpg",
+        "label": "No"
+    },
+    "311": {
+        "name": "image_311.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_311.jpg",
+        "url": "http://i0.wp.com/www.hippressurecooking.com/wp-content/uploads/2014/01/pressure_cooker_seven_layer_dip_banner.jpg?fit=300%2C300",
+        "label": "No"
+    },
+    "312": {
+        "name": "image_312.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_312.jpg",
+        "url": "https://gurunavi.com/en/b846503/imgs/t_cm_01_018.jpg?dt=1617088285",
+        "label": "Yes"
+    },
+    "313": {
+        "name": "image_313.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_313.jpg",
+        "url": "https://resizer.otstatic.com/v2/photos/large/25175207.jpg",
+        "label": "No"
+    },
+    "314": {
+        "name": "image_314.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_314.jpg",
+        "url": "https://farm5.staticflickr.com/4124/5061781488_1010c6212b_m.jpg",
+        "label": "No"
+    },
+    "315": {
+        "name": "image_315.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_315.jpg",
+        "url": "http://static7.depositphotos.com/1004919/767/i/110/depositphotos_7678672-Cut-of-beef-steak-with-lemon-slice..jpg",
+        "label": "No"
+    },
+    "316": {
+        "name": "image_316.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_316.jpg",
+        "url": "https://lh3.googleusercontent.com/MdAm97qtsZAQcl1UhgVgHAsywli8YSDgxEBjSh66KGOIUvp8hCSkQS7Y0-FfK83I1qKUU9r34Ic_21LYUwlIVg=s320-c-e365",
+        "label": "Yes"
+    },
+    "317": {
+        "name": "image_317.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_317.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/64/14/88/240_F_64148828_UFw02nP0hbLpOqj6aJ0u6D122EJKufUF.jpg",
+        "label": "Yes"
+    },
+    "318": {
+        "name": "image_318.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_318.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/67/54/50/240_F_67545079_B9j3PivJOwnQjShTi3uunyq7HZFCT0CV.jpg",
+        "label": "No"
+    },
+    "319": {
+        "name": "image_319.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_319.jpg",
+        "url": "https://i0.wp.com/liketheteaeats.com/wp-content/uploads/2015/07/img_1830.jpg?resize=620%2C345&ssl=1",
+        "label": "No"
+    },
+    "320": {
+        "name": "image_320.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_320.jpg",
+        "url": "https://littlebgcg.com/wp-content/uploads/2016/10/slow-cooker-southwestern-chicken-over-rice-190x190.jpg",
+        "label": "No"
+    },
+    "321": {
+        "name": "image_321.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_321.jpg",
+        "url": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/24/90/41/picLgEr6h.jpg",
+        "label": "No"
+    },
+    "322": {
+        "name": "image_322.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_322.jpg",
+        "url": "https://feedyourskull.com/wp-content/uploads/2013/11/1311113VeganMakiRolls-2.jpg",
+        "label": "No"
+    },
+    "324": {
+        "name": "image_324.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_324.jpg",
+        "url": "https://bisayanqueen.files.wordpress.com/2013/04/img_2564.jpg?w=600&h=448",
+        "label": "No"
+    },
+    "325": {
+        "name": "image_325.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_325.jpg",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/42/0c/8b/tuna-this-is-quality.jpg",
+        "label": "Yes"
+    },
+    "326": {
+        "name": "image_326.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_326.jpg",
+        "url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/175796.jpg?output-format=auto&output-quality=auto",
+        "label": "No"
+    },
+    "327": {
+        "name": "image_327.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_327.jpg",
+        "url": "https://i2.wp.com/oldworldgardenfarms.com/wp-content/uploads/2016/01/bacon-ranch-header.jpg?resize=750%2C350&amp;ssl=1",
+        "label": "No"
+    },
+    "328": {
+        "name": "image_328.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_328.jpg",
+        "url": "https://www.sparklecat.com/wp-content/uploads/Summer062419e.jpg",
+        "label": "No"
+    },
+    "329": {
+        "name": "image_329.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_329.jpg",
+        "url": "https://image.shutterstock.com/image-photo/sandwich-bacon-avocado-onion-260nw-1112354789.jpg",
+        "label": "No"
+    },
+    "330": {
+        "name": "image_330.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_330.jpg",
+        "url": "https://lifestyle.campus-star.com/app/uploads/2016/09/Pokemon-food-4.jpg",
+        "label": "No"
+    },
+    "331": {
+        "name": "image_331.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_331.jpg",
+        "url": "https://thumbs.dreamstime.com/t/macro-fried-breaded-chicken-sushi-rolls-wasabi-pickled-ginger-closeup-avocado-31481108.jpg",
+        "label": "No"
+    },
+    "332": {
+        "name": "image_332.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_332.jpg",
+        "url": "https://pictures.brafton.com/x_0_0_0_14131346_800.jpg",
+        "label": "No"
+    },
+    "333": {
+        "name": "image_333.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_333.jpg",
+        "url": "https://thumbs.dreamstime.com/t/set-nigiri-sushi-topped-raw-tuna-maguro-24180135.jpg",
+        "label": "Yes"
+    },
+    "334": {
+        "name": "image_334.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_334.jpg",
+        "url": "http://st.depositphotos.com/1055085/3669/i/110/depositphotos_36697917-Salmon-Fillet-3.jpg",
+        "label": "No"
+    },
+    "335": {
+        "name": "image_335.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_335.jpg",
+        "url": "https://i.pinimg.com/736x/e8/2e/05/e82e05ab97c538d4d934c570248fd8f0.jpg",
+        "label": "Yes"
+    },
+    "336": {
+        "name": "image_336.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_336.jpg",
+        "url": "http://media02.stockfood.com/thumbs/170/11441729.jpg",
+        "label": "No"
+    },
+    "337": {
+        "name": "image_337.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_337.jpg",
+        "url": "https://thumbs.dreamstime.com/t/wagyu-beef-sushi-japan-19850604.jpg",
+        "label": "No"
+    },
+    "338": {
+        "name": "image_338.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_338.jpg",
+        "url": "http://www.taste.com.au/images/recipes/tm/2015/01/40079_m.jpg",
+        "label": "Yes"
+    },
+    "340": {
+        "name": "image_340.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_340.jpg",
+        "url": "https://the-lowcarb-diet.com/wp-content/uploads/2014/08/low-carb-chicken-salad-685x1024.jpg",
+        "label": "No"
+    },
+    "342": {
+        "name": "image_342.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_342.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/48/03/01/240_F_48030134_HEoMkwgOkB0EKI1kA58TLU9EQ8tz1zs8.jpg",
+        "label": "No"
+    },
+    "343": {
+        "name": "image_343.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_343.jpg",
+        "url": "https://s.hdnux.com/photos/01/11/11/34/19175191/7/920x920.jpg",
+        "label": "No"
+    },
+    "344": {
+        "name": "image_344.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_344.jpg",
+        "url": "https://us.123rf.com/450wm/bernjuer/bernjuer0907/bernjuer090700008/5156520-grilled-steak-on-a-plate-with-fries.jpg?ver=6",
+        "label": "No"
+    },
+    "346": {
+        "name": "image_346.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_346.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/24/06/61/400_F_24066177_hCWAQFukom9mF3X7sHjefaSeAyb3WA54.jpg",
+        "label": "No"
+    },
+    "347": {
+        "name": "image_347.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_347.jpg",
+        "url": "https://thumbs.dreamstime.com/m/schoolboy-apple-outdoors-16176177.jpg",
+        "label": "No"
+    },
+    "348": {
+        "name": "image_348.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_348.jpg",
+        "url": "https://www.kleinworthco.com/wp-content/uploads/2019/02/Bacon-Crab-Roll-dungeness-crab-360x361.jpg",
+        "label": "No"
+    },
+    "350": {
+        "name": "image_350.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_350.jpg",
+        "url": "https://i.dailymail.co.uk/i/pix/2017/11/08/20/4624457400000578-5063543-image-a-67_1510171400943.jpg",
+        "label": "No"
+    },
+    "351": {
+        "name": "image_351.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_351.jpg",
+        "url": "https://img3.stockfresh.com/files/p/photocreo/m/30/7185334_stock-photo-sushi-with-salmon-avocado-rice-in-seaweed-served-with-wasabi-and-ginger.jpg",
+        "label": "No"
+    },
+    "352": {
+        "name": "image_352.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_352.jpg",
+        "url": "https://img.freepik.com/fotos-kostenlos/close-up-schuss-von-sushi-rollen_23-2148259194.jpg?size=338&ext=jpg",
+        "label": "No"
+    },
+    "353": {
+        "name": "image_353.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_353.jpg",
+        "url": "http://img.grouponcdn.com/deal/qK4BP5skmaQJYSy8R3cu/t460x279/S9-440x267.jpg",
+        "label": "No"
+    },
+    "354": {
+        "name": "image_354.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_354.jpg",
+        "url": "https://images.squarespace-cdn.com/content/533744c3e4b03942d9e3d7cb/1537227077276-S6M2BX8YPKF7FG1XRJY0/image-asset.jpeg?content-type=image%2Fjpeg",
+        "label": "No"
+    },
+    "355": {
+        "name": "image_355.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_355.jpg",
+        "url": "https://igx.4sqi.net/img/general/400x220/331066_6iGqLdbpk4vjNqHn7JUNI0OrmgeJ_Vo56JjJNOpRCUg.jpg",
+        "label": "No"
+    },
+    "357": {
+        "name": "image_357.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_357.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0757/1053/products/DSC_7577_grande.jpg?v=1426233027",
+        "label": "No"
+    },
+    "358": {
+        "name": "image_358.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_358.jpg",
+        "url": "https://lh3.ggpht.com/d4yc6NyjeIM2u6GmBqqkOsM0Mz8WZo0xUK3lRQQtIat6jgN2ECrdcaC7BlIr4M3cdkbsA_cY-oEt9zLUe5mwRw=s320-c-rj-v1-l90-e365",
+        "label": "No"
+    },
+    "359": {
+        "name": "image_359.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_359.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/63/72/86/400_F_63728677_aZqdMzVkyP0uk1ljUhSxP3r2pQKFTO6t.jpg",
+        "label": "No"
+    },
+    "360": {
+        "name": "image_360.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_360.jpg",
+        "url": "https://photos.smugmug.com/Blogging/Oktoberfest-Food/i-cqBQpFK/0/b9548d66/S/oktoberfest%20food%20wurstsalat-S.jpg",
+        "label": "No"
+    },
+    "362": {
+        "name": "image_362.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_362.jpg",
+        "url": "https://di-cdn.sfo2.digitaloceanspaces.com/cdn/180_5f2356d03c5f0a9808af54cdf97d97a1.jpg",
+        "label": "No"
+    },
+    "363": {
+        "name": "image_363.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_363.jpg",
+        "url": "http://1.bp.blogspot.com/-2oUZ4KVC69M/Ui0iGwLSO2I/AAAAAAAAL0M/aHZA6og_D6Q/s640/IMG_3804-1.jpg",
+        "label": "No"
+    },
+    "364": {
+        "name": "image_364.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_364.jpg",
+        "url": "https://thumbs.dreamstime.com/m/avocado-sushi-nigiri-white-plate-ginger-wasabi-soy-sauce-decorated-sakura-chopsticks-34310568.jpg",
+        "label": "No"
+    },
+    "365": {
+        "name": "image_365.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_365.jpg",
+        "url": "http://i3.cpcache.com/product/1106939082/i_love_romania_journal.jpg?height=225&amp;width=225",
+        "label": "No"
+    },
+    "366": {
+        "name": "image_366.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_366.jpg",
+        "url": "https://thumb10.shutterstock.com/image-photo/redirected-150nw-109162583.jpg",
+        "label": "No"
+    },
+    "367": {
+        "name": "image_367.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_367.jpg",
+        "url": "https://thumbs.dreamstime.com/t/fish-fillet-herbs-19836987.jpg",
+        "label": "No"
+    },
+    "368": {
+        "name": "image_368.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_368.jpg",
+        "url": "https://i.pinimg.com/736x/21/dc/81/21dc81d14d8bae1b3fdc0dacbc59811c--tuna-avocado-german-recipes.jpg",
+        "label": "Yes"
+    },
+    "369": {
+        "name": "image_369.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_369.jpg",
+        "url": "https://gbc-cdn-public-media.azureedge.net/img53729.768x512.jpg",
+        "label": "No"
+    },
+    "370": {
+        "name": "image_370.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_370.jpg",
+        "url": "https://i.ytimg.com/vi/VANDlffKfJY/maxresdefault.jpg",
+        "label": "No"
+    },
+    "371": {
+        "name": "image_371.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_371.jpg",
+        "url": "https://us.123rf.com/450wm/yatomo/yatomo1601/yatomo160100135/50483768-tuna-tataki-with-wakame-and-ginger.jpg?ver=6",
+        "label": "Yes"
+    },
+    "372": {
+        "name": "image_372.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_372.jpg",
+        "url": "https://rubbisheatrubbishgrow.files.wordpress.com/2013/09/img_6241.jpg?w=812",
+        "label": "Yes"
+    },
+    "373": {
+        "name": "image_373.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_373.jpg",
+        "url": "https://img.grouponcdn.com/deal/f90500f154da4d3486e7c87b8a4a105e/5e/v1/c700x420.jpg",
+        "label": "Yes"
+    },
+    "374": {
+        "name": "image_374.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_374.jpg",
+        "url": "https://paleoleap.com/pictures/2/cranberry-chicken-salad-main-large-2.jpg",
+        "label": "No"
+    },
+    "375": {
+        "name": "image_375.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_375.jpg",
+        "url": "http://ak6.picdn.net/shutterstock/videos/3011065/thumb/1.jpg",
+        "label": "No"
+    },
+    "376": {
+        "name": "image_376.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_376.jpg",
+        "url": "http://static9.depositphotos.com/1733772/1220/i/110/depositphotos_12208602-Sushi-of-daikon-carrot-and-salmon.jpg",
+        "label": "No"
+    },
+    "377": {
+        "name": "image_377.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_377.jpg",
+        "url": "https://thumbs.dreamstime.com/t/tuna-sushi-fatty-meat-pink-gingers-47303183.jpg",
+        "label": "Yes"
+    },
+    "378": {
+        "name": "image_378.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_378.jpg",
+        "url": "https://liveactioneating.files.wordpress.com/2015/08/wpid-20150821_211105.jpg?w=2000&h=1500",
+        "label": "No"
+    },
+    "379": {
+        "name": "image_379.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_379.jpg",
+        "url": "http://media01.stockfood.com/wmpreviews/NDc0NTY4OQ==/00365053.jpg",
+        "label": "No"
+    },
+    "380": {
+        "name": "image_380.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_380.jpg",
+        "url": "https://i2.wp.com/milasmilieu.com/wp-content/uploads/2020/06/20200627_180013.jpg?resize=340%2C200&ssl=1",
+        "label": "Yes"
+    },
+    "381": {
+        "name": "image_381.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_381.jpg",
+        "url": "https://images.squarespace-cdn.com/content/5911be4f59cc680d387d97e9/1494361905222-JO9C4JL1F1DE8F4JFJTF/Garden-Fresh-Salad-with-Seared-Tuna-letsregale.com_-1.png?format=1000w&content-type=image%2Fpng",
+        "label": "No"
+    },
+    "382": {
+        "name": "image_382.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_382.jpg",
+        "url": "https://files.recipetips.com/images/recipe/poultry/features/lime_chicken_mangoSalsa_features.jpg",
+        "label": "No"
+    },
+    "383": {
+        "name": "image_383.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_383.jpg",
+        "url": "http://images.media-allrecipes.com/userphotos/250x250/657225.jpg",
+        "label": "No"
+    },
+    "384": {
+        "name": "image_384.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_384.jpg",
+        "url": "https://michasfoodblog.files.wordpress.com/2015/04/dsc02358.jpg?w=440&",
+        "label": "No"
+    },
+    "385": {
+        "name": "image_385.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_385.jpg",
+        "url": "https://i1.wp.com/fazersushi.com/wp-content/uploads/2016/05/tuna-slices.jpg?resize=350%2C233",
+        "label": "Yes"
+    },
+    "386": {
+        "name": "image_386.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_386.jpg",
+        "url": "https://thumbs.dreamstime.com/t/raw-beef-tenderloin-chunks-15903976.jpg",
+        "label": "No"
+    },
+    "387": {
+        "name": "image_387.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_387.jpg",
+        "url": "https://jbf-media.s3.amazonaws.com/archive/jbf-2013/event-galleries/4_1.jpg",
+        "label": "No"
+    },
+    "388": {
+        "name": "image_388.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_388.jpg",
+        "url": "https://1.bp.blogspot.com/-xKGleDHkzE4/WH8ZFmW4RhI/AAAAAAAALo0/4eicmop1lKENu7pdXJOBoSXnP4NJKkaxgCLcB/s1600/Bacon-wrapped-chicken-with-pineapple-and-pepper-salsa.jpg",
+        "label": "No"
+    },
+    "389": {
+        "name": "image_389.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_389.jpg",
+        "url": "https://hips.hearstapps.com/del.h-cdn.co/assets/cm/15/11/480x480/54f6490519968_-_poached-tuna-kumquats-jalapeno-recipe-fw0314-s2.jpg?resize=480:*",
+        "label": "Yes"
+    },
+    "390": {
+        "name": "image_390.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_390.jpg",
+        "url": "https://hungryhobby.net/wp-content/uploads/2016/02/spicy-tuna-salad-150x150.jpg",
+        "label": "Yes"
+    },
+    "391": {
+        "name": "image_391.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_391.jpg",
+        "url": "https://lh3.ggpht.com/xmmBQNk84uccn6iDjWRT6EPDp0uwOcSjKrPGEmKN-BW_mORt5ODaUD6toE3mItKuDh6Fsef_QKBf8dPT8V0qaw=s320-c-e365",
+        "label": "Yes"
+    },
+    "392": {
+        "name": "image_392.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_392.jpg",
+        "url": "https://chroniccravings.files.wordpress.com/2013/01/wp_20121223_003.jpg?w=441&",
+        "label": "No"
+    },
+    "394": {
+        "name": "image_394.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_394.jpg",
+        "url": "https://3.bp.blogspot.com/-Wl-PTzmlwDk/VEK9jseCKJI/AAAAAAAAW5w/IvKsggLptig/s1600/Steak-tartare-02.jpg",
+        "label": "No"
+    },
+    "395": {
+        "name": "image_395.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_395.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/250x250/1059530.jpg",
+        "label": "No"
+    },
+    "396": {
+        "name": "image_396.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_396.jpg",
+        "url": "http://lh3.ggpht.com/iuctaEwB9aeiI1EEOcoyJOGv4gAxEU8G2qZdPrHyjH_y_Pl6UCFUBMdi3j7E_ClpeZET-hu-KNNwtJXvOBH87Q=s230-c",
+        "label": "Yes"
+    },
+    "397": {
+        "name": "image_397.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_397.jpg",
+        "url": "http://2.bp.blogspot.com/__5Ml5Z0gfrM/SGmmzn0AcXI/AAAAAAAAAs4/cYBHqORG9l8/s400/ricenroll-spicy-tuna-sushi-roll.JPG",
+        "label": "Yes"
+    },
+    "398": {
+        "name": "image_398.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_398.jpg",
+        "url": "https://i.pinimg.com/236x/f2/e5/01/f2e5011f9e2abc1ad35334418244f870--womens-land-army-land-girls.jpg",
+        "label": "No"
+    },
+    "399": {
+        "name": "image_399.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_399.jpg",
+        "url": "http://d1hw6n3yxknhky.cloudfront.net/037279405_iconv.jpeg",
+        "label": "No"
+    },
+    "400": {
+        "name": "image_400.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_400.jpg",
+        "url": "https://ot-foodspotting-production.s3.amazonaws.com/reviews/81960/thumb_600.jpg",
+        "label": "Yes"
+    },
+    "401": {
+        "name": "image_401.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_401.jpg",
+        "url": "https://www.dailymercato.com/storage/icon-sport/pogba-training-mu-new.jpeg",
+        "label": "No"
+    },
+    "402": {
+        "name": "image_402.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_402.jpg",
+        "url": "https://narrabondo.files.wordpress.com/2019/03/sumo2-e1560435110415.jpg?w=723",
+        "label": "No"
+    },
+    "403": {
+        "name": "image_403.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_403.jpg",
+        "url": "https://www.carolinescooking.com/wp-content/uploads/2017/11/steak-crostini-w-mushroom-pate-truffle-oil-photo.jpg",
+        "label": "No"
+    },
+    "404": {
+        "name": "image_404.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_404.jpg",
+        "url": "https://fitcupcaker.files.wordpress.com/2013/07/apple-tuna-salad.jpg?w=500&",
+        "label": "Yes"
+    },
+    "405": {
+        "name": "image_405.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_405.jpg",
+        "url": "http://sc01.alicdn.com/kf/HTB1pBsIKVXXXXaTXFXX760XFXXX5/2016-manufacture-canned-beef-luncheon-meat.png_220x220.png",
+        "label": "No"
+    },
+    "406": {
+        "name": "image_406.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_406.jpg",
+        "url": "https://www.vickibensinger.com/wp-content/uploads/2018/05/Watermelon-Salad-4-250x250.jpg",
+        "label": "No"
+    },
+    "408": {
+        "name": "image_408.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_408.jpg",
+        "url": "http://img.grouponcdn.com/deal/hgkEijuhSLAhUNUDi2v2/1n-2048x1229/v1/t440x300.jpg",
+        "label": "Yes"
+    },
+    "409": {
+        "name": "image_409.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_409.jpg",
+        "url": "http://lh4.ggpht.com/tV54pvJko6onyEhN-0oHRede58jXCZXJK2Quk7t_ui8y4TwSrMgth2zpNbNRlPLP-H5zAt2qkaCEQPskntxnMQ=s230-c",
+        "label": "Yes"
+    },
+    "410": {
+        "name": "image_410.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_410.jpg",
+        "url": "https://thecurlyhairedcook.files.wordpress.com/2016/03/marinated-tuna-tartar-citron-bread-and-sao-tome-sour-cream-romanos-jw-marriott-sahar.jpg?w=640&amp;h=640&amp;crop=1",
+        "label": "Yes"
+    },
+    "411": {
+        "name": "image_411.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_411.jpg",
+        "url": "https://64.media.tumblr.com/0b1a55d5798c5f3a9e012d348dbd8b46/tumblr_mm0be826Gf1qjq5tdo1_400.jpg",
+        "label": "Yes"
+    },
+    "414": {
+        "name": "image_414.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_414.jpg",
+        "url": "http://st.depositphotos.com/1744806/2346/i/170/depositphotos_23468600-Roll-made-of-Salmon-Cream-Cheese-and-Avocado-inside.-Topped-with-Smoked-Eel.jpg",
+        "label": "No"
+    },
+    "415": {
+        "name": "image_415.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_415.jpg",
+        "url": "https://ot-foodspotting-production.s3.amazonaws.com/reviews/1871033/thumb_600.jpg",
+        "label": "No"
+    },
+    "416": {
+        "name": "image_416.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_416.jpg",
+        "url": "https://www.yummymummykitchen.com/wp-content/uploads/2012/06/watermelon-feta-appetizer-340x460.jpg",
+        "label": "No"
+    },
+    "417": {
+        "name": "image_417.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_417.jpg",
+        "url": "http://img.travel.rakuten.co.jp/share/image_up/20590/LARGE/Td2YSE.jpeg",
+        "label": "No"
+    },
+    "418": {
+        "name": "image_418.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_418.jpg",
+        "url": "https://www.womansworld.com/wp-content/uploads/2020/02/algae-gut-health.jpg?w=349",
+        "label": "No"
+    },
+    "419": {
+        "name": "image_419.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_419.jpg",
+        "url": "https://i.pinimg.com/736x/95/8d/8b/958d8b8f3c34a9e5c23bb3bf6cd584a3.jpg",
+        "label": "No"
+    },
+    "420": {
+        "name": "image_420.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_420.jpg",
+        "url": "https://lifeofaglutton.files.wordpress.com/2014/07/img_1701-copy.jpg?w=276&h=276&crop=1",
+        "label": "Yes"
+    },
+    "421": {
+        "name": "image_421.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_421.jpg",
+        "url": "https://fastly.4sqi.net/img/general/699x268/384930619_yGr0dca4omc5S501H_o-LML2SI8Zy4JaujTe8d6W4Bw.jpg",
+        "label": "No"
+    },
+    "422": {
+        "name": "image_422.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_422.jpg",
+        "url": "https://thecrunchyurbanite.files.wordpress.com/2013/07/arugulasalad.jpg?w=470&",
+        "label": "No"
+    },
+    "424": {
+        "name": "image_424.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_424.jpg",
+        "url": "https://cdn.abclocal.go.com/content/wls/images/cms/automation/vod/1102978_1280x720.jpg",
+        "label": "No"
+    },
+    "425": {
+        "name": "image_425.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_425.jpg",
+        "url": "https://4.bp.blogspot.com/-ApSEBuIZsCE/XKGDSn_sl6I/AAAAAAAAAfw/vdbBKYYdoPQnBEf0B8EFitmp4NclHH6mwCLcBGAs/w420-h280-p-k-no-nu/Screenshot_5.png",
+        "label": "No"
+    },
+    "426": {
+        "name": "image_426.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_426.jpg",
+        "url": "https://thumbs.dreamstime.com/x/japan-traditional-food-roll-16154067.jpg",
+        "label": "No"
+    },
+    "427": {
+        "name": "image_427.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_427.jpg",
+        "url": "https://farm6.static.flickr.com/5144/5683296519_1de9e5463a_o.jpg",
+        "label": "No"
+    },
+    "428": {
+        "name": "image_428.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_428.jpg",
+        "url": "https://1.bp.blogspot.com/-AUwtgyMk9iY/Wh-do9NQ9uI/AAAAAAAAGQw/xSlklhnGp2ciMUYwI3z7lMeKP9fBJS0qgCLcBGAs/s640/WhatsApp%2BImage%2B2017-11-30%2Bat%2B13.43.02.jpeg",
+        "label": "No"
+    },
+    "429": {
+        "name": "image_429.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_429.jpg",
+        "url": "https://1.bp.blogspot.com/-okVfBp4sNoM/XU2ujvS0FDI/AAAAAAAABDQ/sL62KRtyfjsQJaCJWDM9SYEWYVMKS-LUACLcBGAs/s1600/AVOCADO%2BTUNA%2BSALAD.jpg",
+        "label": "Yes"
+    },
+    "431": {
+        "name": "image_431.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_431.jpg",
+        "url": "https://nyc3.digitaloceanspaces.com/ibericoclub/2016/06/p-1405-paleta2-992x772.jpg",
+        "label": "No"
+    },
+    "432": {
+        "name": "image_432.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_432.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/51/57/32/400_F_51573292_RuXYETE1qzHS0RPdvpfS7EV4oz6ta3ws.jpg",
+        "label": "No"
+    },
+    "433": {
+        "name": "image_433.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_433.jpg",
+        "url": "https://livedoor.blogimg.jp/drikuo/imgs/2/1/21ca7cab.jpg?500375",
+        "label": "Yes"
+    },
+    "434": {
+        "name": "image_434.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_434.jpg",
+        "url": "https://us.123rf.com/450wm/greggr/greggr1208/greggr120800107/14672927-served-main-course-on-wood-whole-fried-seabass-on-plate-with-lemons-tomatoes-and-peppers.jpg",
+        "label": "No"
+    },
+    "435": {
+        "name": "image_435.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_435.jpg",
+        "url": "http://files.cdn.spilcloud.com/gms_s/1441882560_576742227280285298_large.jpg",
+        "label": "No"
+    },
+    "436": {
+        "name": "image_436.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_436.jpg",
+        "url": "https://cdn.idahopotato.com/cache/fb3072ba08feb4295e4ced569ce4b5a4_w570.jpg",
+        "label": "No"
+    },
+    "438": {
+        "name": "image_438.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_438.jpg",
+        "url": "https://livedoor.blogimg.jp/drikuo/imgs/6/b/6b493de4.jpg",
+        "label": "Yes"
+    },
+    "439": {
+        "name": "image_439.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_439.jpg",
+        "url": "http://lh3.ggpht.com/HKMyijPefkV7LpRtYBcDbgh78pfi1lYm92cabYTJyqAUFl7sdUKuCwF3LD3Rh_epMPG_spdO1kIYcYhJ0RXWYQ=s400-c",
+        "label": "No"
+    },
+    "441": {
+        "name": "image_441.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_441.jpg",
+        "url": "https://thumbs.dreamstime.com/m/appetizers-red-fish-herbs-cucumber-red-caviar-white-plate-close-up-30312162.jpg",
+        "label": "No"
+    },
+    "442": {
+        "name": "image_442.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_442.jpg",
+        "url": "https://lh3.googleusercontent.com/r51e3HX582pG_oQ53KlDR3XxRtT5eLPHlT2M2-ZmIPtC97cMwe0f5bogr71NGIvqergOrfJ0osdBPp6gogjf0w=s320-c-e365",
+        "label": "Yes"
+    },
+    "443": {
+        "name": "image_443.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_443.jpg",
+        "url": "https://japan.recipetineats.com/wp-content/uploads/2017/06/Maguro_Zukedon_0274.jpg",
+        "label": "Yes"
+    },
+    "444": {
+        "name": "image_444.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_444.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/784918/680/1022/m1/fpnw/wm1/tng7kyw796nqwa56wfhwydm7ubl1gvtsdzyfsey4rluzzkjm9ztahc14we6y3hij-.jpg?1447750015&s=85ec1a78c39c32ec38a2013b091c39d0",
+        "label": "No"
+    },
+    "445": {
+        "name": "image_445.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_445.jpg",
+        "url": "https://3.bp.blogspot.com/-y2VyDxRINQg/WShK-1nGaII/AAAAAAABJdM/AKCPMqmzWO0CwUJm-Mh8X2-AegoqcT5HQCLcB/s640/DSC_0345.JPG",
+        "label": "No"
+    },
+    "446": {
+        "name": "image_446.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_446.jpg",
+        "url": "https://live.staticflickr.com/3388/3498148964_ee37a53867_b.jpg",
+        "label": "No"
+    },
+    "447": {
+        "name": "image_447.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_447.jpg",
+        "url": "https://us.123rf.com/450wm/shaiith/shaiith1503/shaiith150300151/37229271-spring-rolls-with-vegetables-seafood-and-sauce.jpg?ver=6",
+        "label": "No"
+    },
+    "448": {
+        "name": "image_448.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_448.jpg",
+        "url": "https://i2.wp.com/grandlakeliving.com/wp-content/uploads/2019/03/2019-Bobber-Drop.jpg?fit=740%2C960&ssl=1",
+        "label": "No"
+    },
+    "449": {
+        "name": "image_449.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_449.jpg",
+        "url": "http://mda.bigoven.com/pics/rs/120/curried-chicken-salad-3.jpg",
+        "label": "No"
+    },
+    "450": {
+        "name": "image_450.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_450.jpg",
+        "url": "https://images.media-allrecipes.com/userphotos/300x300/4460812.jpg",
+        "label": "No"
+    },
+    "451": {
+        "name": "image_451.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_451.jpg",
+        "url": "https://farm6.static.flickr.com/5241/5352284661_fb78f41d58.jpg",
+        "label": "Yes"
+    },
+    "453": {
+        "name": "image_453.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_453.jpg",
+        "url": "https://farm1.staticflickr.com/631/20936734449_037220cb1e_t.jpg",
+        "label": "Yes"
+    },
+    "454": {
+        "name": "image_454.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_454.jpg",
+        "url": "https://farm1.staticflickr.com/72/153125073_0b3337ff47_z.jpg",
+        "label": "No"
+    },
+    "455": {
+        "name": "image_455.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_455.jpg",
+        "url": "http://0.s3.envato.com/files/3490436/MON001067.jpg",
+        "label": "No"
+    },
+    "456": {
+        "name": "image_456.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_456.jpg",
+        "url": "https://i0.wp.com/tandysinclair.com/wp-content/uploads/2010/04/Seared-Tuna-Served-On-A-Bed-Of-Noodles.jpg?resize=371%2C311",
+        "label": "Yes"
+    },
+    "457": {
+        "name": "image_457.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_457.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP.vyd5WDDf5KfRxVwMriNTTQHaJE",
+        "label": "No"
+    },
+    "458": {
+        "name": "image_458.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_458.jpg",
+        "url": "https://static1.bigstockphoto.com/thumbs/4/2/1/large2/124205339.jpg",
+        "label": "No"
+    },
+    "459": {
+        "name": "image_459.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_459.jpg",
+        "url": "https://i.huffpost.com/gen/1170233/images/o-LETTUCE-WRAPS-CHICKEN-RECIPE-facebook.jpg",
+        "label": "No"
+    },
+    "460": {
+        "name": "image_460.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_460.jpg",
+        "url": "https://static1.bigstockphoto.com/4/4/1/large2/144651299.jpg",
+        "label": "No"
+    },
+    "461": {
+        "name": "image_461.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_461.jpg",
+        "url": "https://i.etsystatic.com/17325181/r/il/3c2b4b/1734858688/il_1588xN.1734858688_aegu.jpg",
+        "label": "No"
+    },
+    "462": {
+        "name": "image_462.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_462.jpg",
+        "url": "https://i.pinimg.com/736x/3d/c5/0e/3dc50e10195f08350c5af42603bcf910.jpg",
+        "label": "No"
+    },
+    "463": {
+        "name": "image_463.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_463.jpg",
+        "url": "https://img.grouponcdn.com/deal/49cbnnPKytskoEpEgV9y/m7-1124x674/v1/t100x100.jpg",
+        "label": "No"
+    },
+    "464": {
+        "name": "image_464.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_464.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/800081/680/1016/m1/fpnw/wm1/zipwvybgk63f1cokbdarmcxvctpfn6uj11zqvmxybqxnafvzjzjjfy1ohmoitzks-.jpg?1448267728&s=c0c81b6a8fc1bdcf06ca5df43597b26c",
+        "label": "No"
+    },
+    "465": {
+        "name": "image_465.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_465.jpg",
+        "url": "https://thumbs.dreamstime.com/t/sushi-dish-16357516.jpg",
+        "label": "No"
+    },
+    "467": {
+        "name": "image_467.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_467.jpg",
+        "url": "https://childfreelifeadventures.com/wp-content/uploads/2017/02/district-one-las-vegas-beef-carpaccio.jpg",
+        "label": "No"
+    },
+    "468": {
+        "name": "image_468.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_468.jpg",
+        "url": "https://www.atelierdeschefs.com/media/recette-d17517-salmon-and-goat-s-cheese-maki-rolls.jpg",
+        "label": "No"
+    },
+    "469": {
+        "name": "image_469.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_469.jpg",
+        "url": "https://image.shutterstock.com/image-photo/on-plate-white-lined-different-260nw-765359224.jpg",
+        "label": "No"
+    },
+    "470": {
+        "name": "image_470.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_470.jpg",
+        "url": "https://i2.wp.com/saltedmint.com/wp-content/uploads/2017/07/Pan-Seared-Asian-Tuna-Noodle-Bowls-6-of-8-e1501439188345.jpg?resize=320%2C320&amp;ssl=1",
+        "label": "Yes"
+    },
+    "471": {
+        "name": "image_471.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_471.jpg",
+        "url": "https://img1.etsystatic.com/145/0/6150623/il_680x540.1198192009_57i1.jpg",
+        "label": "No"
+    },
+    "473": {
+        "name": "image_473.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_473.jpg",
+        "url": "https://365daysofhawaii.files.wordpress.com/2018/10/img_4608-e1539221182635.jpg?w=270&",
+        "label": "No"
+    },
+    "474": {
+        "name": "image_474.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_474.jpg",
+        "url": "https://thumbs.dreamstime.com/t/tuna-salad-round-porcelain-plate-36966155.jpg",
+        "label": "Yes"
+    },
+    "475": {
+        "name": "image_475.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_475.jpg",
+        "url": "https://nepaliaustralian.files.wordpress.com/2016/06/gowings-bar-grill-1.jpg?w=500&",
+        "label": "No"
+    },
+    "476": {
+        "name": "image_476.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_476.jpg",
+        "url": "http://lh5.ggpht.com/rE09y58CyTHpZVb3lIqaLadc67SfyIxqRMXovxFZ8JvTsmxXEgkcymzkEs2fROMMFtWm-oTnjEkkFACy8CWa9A=s230-c",
+        "label": "No"
+    },
+    "477": {
+        "name": "image_477.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_477.jpg",
+        "url": "https://travellinginflipflopscom.files.wordpress.com/2017/07/img_5559.jpg?w=585&",
+        "label": "No"
+    },
+    "478": {
+        "name": "image_478.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_478.jpg",
+        "url": "https://images.stockfreeimages.com/2867/sfi226w/28678551.jpg",
+        "label": "No"
+    },
+    "479": {
+        "name": "image_479.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_479.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1785/5627/products/wild_caught_swordfish_1_800x.jpg?v=1608253621",
+        "label": "No"
+    },
+    "480": {
+        "name": "image_480.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_480.jpg",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/af/64/38/spicy-tuna-with-cucumber.jpg",
+        "label": "Yes"
+    },
+    "483": {
+        "name": "image_483.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_483.jpg",
+        "url": "https://www.veganfoodquest.com/wp-content/uploads/2015/07/Siem-Reap-Yuan-Sheng_0817.jpg",
+        "label": "No"
+    },
+    "485": {
+        "name": "image_485.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_485.jpg",
+        "url": "https://thumbs.dreamstime.com/t/smoked-salmon-roll-vegetable-salad-plate-40936149.jpg",
+        "label": "No"
+    },
+    "486": {
+        "name": "image_486.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_486.jpg",
+        "url": "https://vidcdn.123rf.com/168nwm/jenyaolya/jenyaolya1908/jenyaolya190800094.jpg",
+        "label": "No"
+    },
+    "488": {
+        "name": "image_488.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_488.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0267/4573/3173/products/CaptainHook_smokedTunaahi-200g_400x400_crop_center.jpg?v=1602053843",
+        "label": "No"
+    },
+    "489": {
+        "name": "image_489.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_489.jpg",
+        "url": "https://static2.bigstockphoto.com/1/0/2/large2/201986617.jpg",
+        "label": "No"
+    },
+    "490": {
+        "name": "image_490.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_490.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1127/1070/products/2_87654356-35d4-4551-9acc-4f249f2b0b84_large.jpg?v=1462589360",
+        "label": "No"
+    },
+    "491": {
+        "name": "image_491.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_491.jpg",
+        "url": "https://i0.wp.com/inpursuitoffood.com/wp-content/uploads/2014/06/spider_roll_the_matsuri_st_james.jpg?w=245&",
+        "label": "No"
+    },
+    "493": {
+        "name": "image_493.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_493.jpg",
+        "url": "http://st.depositphotos.com/2325841/3475/i/170/depositphotos_34757359-Tuna-Nigiri-Sushi.jpg",
+        "label": "Yes"
+    },
+    "494": {
+        "name": "image_494.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_494.jpg",
+        "url": "https://cdn.regiondo.net/media/catalog/product/t/i/ticket-image-01414662871-cropped500-290_1.jpg",
+        "label": "Yes"
+    },
+    "496": {
+        "name": "image_496.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_496.jpg",
+        "url": "https://thumbs.dreamstime.com/t/stacked-eggplant-tomato-basil-cottage-cheese-white-plate-42435631.jpg",
+        "label": "No"
+    },
+    "497": {
+        "name": "image_497.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_497.jpg",
+        "url": "https://image.shutterstock.com/image-photo/sushi-rolls-on-long-plate-260nw-786397564.jpg",
+        "label": "Yes"
+    },
+    "498": {
+        "name": "image_498.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_498.jpg",
+        "url": "http://www.dhresource.com/albu_362056718_00-1.200x200/multifunction-sports-watch-pasnew-pse0048gb.jpg",
+        "label": "No"
+    },
+    "499": {
+        "name": "image_499.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_499.jpg",
+        "url": "https://i.ytimg.com/vi/nxX3XKE94W8/maxresdefault.jpg",
+        "label": "No"
+    },
+    "500": {
+        "name": "image_500.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_500.jpg",
+        "url": "https://www.frugalnutrition.com/wp-content/uploads/2017/03/Thai-Red-Curry-Chicken-Lettuce-Wraps-Frugal-Nutrition-320x320.jpg",
+        "label": "No"
+    },
+    "502": {
+        "name": "image_502.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_502.jpg",
+        "url": "https://thumb7.shutterstock.com/image-photo/stock-photo-salmon-sushi-rolls-japanese-food-filtered-image-450w-193413971.jpg",
+        "label": "No"
+    },
+    "503": {
+        "name": "image_503.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_503.jpg",
+        "url": "https://farm4.static.flickr.com/3626/3500335781_1c671fe689_m.jpg",
+        "label": "Yes"
+    },
+    "504": {
+        "name": "image_504.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_504.jpg",
+        "url": "https://culi-sandra.nl/wp-content/uploads/2018/12/pokebowl_tonijn-1080x1080.jpg",
+        "label": "Yes"
+    },
+    "505": {
+        "name": "image_505.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_505.jpg",
+        "url": "http://fakefoodjapan.net/img/min/scallion_and_tuna_battleship_roll_sushi_magnet.jpg",
+        "label": "Yes"
+    },
+    "506": {
+        "name": "image_506.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_506.jpg",
+        "url": "https://images.pond5.com/beautifully-decorated-buffet-table-canapes-footage-065421752_iconm.jpeg",
+        "label": "No"
+    },
+    "507": {
+        "name": "image_507.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_507.jpg",
+        "url": "https://evantinedesign.files.wordpress.com/2011/07/sushi-station-asian-themed-decor-evantine-design.jpg",
+        "label": "No"
+    },
+    "508": {
+        "name": "image_508.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_508.jpg",
+        "url": "https://img.grouponcdn.com/deal/bZcTSJgwcjTU4ikcDeQt/w5-700x420/v1/t300x182.jpg",
+        "label": "Yes"
+    },
+    "509": {
+        "name": "image_509.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_509.jpg",
+        "url": "http://lh4.ggpht.com/jWcpzbcfSD_GXliGv81iYziowNNXqSSt1j8r0cUdp-fIM0vOXfnM58xWGqLpvBG5OHhUIcsx8sqaT_MUzNST=s320-c-e365",
+        "label": "Yes"
+    },
+    "511": {
+        "name": "image_511.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_511.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/4114622/300/200/m1/fpc/wm0/cwgfgxudbkd1ptdip9yr7hxlwt2eifff97nomdrlai30e5bsc0alddyp2zcwrvyh-.jpg?1520761587&s=f5ee47cb228e19d4569f1f4243ad4bf3",
+        "label": "No"
+    },
+    "512": {
+        "name": "image_512.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_512.jpg",
+        "url": "http://static8.depositphotos.com/1000605/1068/i/110/depositphotos_10689611-Japanese-sushi-traditional-japanese-food.Roll-made-of-salmon-re.jpg",
+        "label": "No"
+    },
+    "513": {
+        "name": "image_513.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_513.jpg",
+        "url": "http://media4.popsugar-assets.com/files/2013/02/08/3/192/1922729/a193298ffa718070_cucumber-cups.large/i/Cucumber-Cups-Tapenade-Recipe.jpg",
+        "label": "No"
+    },
+    "514": {
+        "name": "image_514.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_514.jpg",
+        "url": "https://i0.wp.com/winemusings.files.wordpress.com/2013/04/rib-eye-carpaccio-marrow-torchon-on-shmaltz-brioche-cherry-mustard-tapenade.jpg?w=197&",
+        "label": "No"
+    },
+    "515": {
+        "name": "image_515.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_515.jpg",
+        "url": "https://emicooks.com/wp-content/uploads/2015/11/Tuna-and-salmon-poke2-150x150.jpg",
+        "label": "No"
+    },
+    "517": {
+        "name": "image_517.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_517.jpg",
+        "url": "https://i0.wp.com/farm7.static.flickr.com/6122/5995657033_c450b453d5_m.jpg",
+        "label": "Yes"
+    },
+    "518": {
+        "name": "image_518.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_518.jpg",
+        "url": "https://l7.alamy.com/zooms/a3fddc56498b4561987a1402b830b5f4/nouvelle-cuisine-ham-dish-at-a-michelin-star-resuarant-cfk785.jpg",
+        "label": "No"
+    },
+    "520": {
+        "name": "image_520.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_520.jpg",
+        "url": "https://us.123rf.com/450wm/fpwing/fpwing1301/fpwing130100317/17274738-slice-of-swordfish.jpg",
+        "label": "No"
+    },
+    "521": {
+        "name": "image_521.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_521.jpg",
+        "url": "https://thumbs.dreamstime.com/t/sushi-wood-pieces-ginger-39036685.jpg",
+        "label": "No"
+    },
+    "523": {
+        "name": "image_523.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_523.jpg",
+        "url": "https://paleoleap.com/pictures/j-paleo/srimp-burgers/srimp-burgers-main-p.jpg",
+        "label": "No"
+    },
+    "526": {
+        "name": "image_526.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_526.jpg",
+        "url": "https://149355992.v2.pressablecdn.com/wp-content/uploads/2019/07/Mango-Sticky-Rice-Cooking-Love-Chiang-Mai-Thailand.jpg",
+        "label": "No"
+    },
+    "527": {
+        "name": "image_527.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_527.jpg",
+        "url": "https://fastly.4sqi.net/img/general/699x268/793692_-fmzhi3R_2QSmicuKn8wzRu9ye68KXJFAZJchO-jsSY.jpg",
+        "label": "Yes"
+    },
+    "528": {
+        "name": "image_528.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_528.jpg",
+        "url": "https://farm3.staticflickr.com/2835/13257530064_975cd47e7d_z.jpg",
+        "label": "Yes"
+    },
+    "529": {
+        "name": "image_529.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_529.jpg",
+        "url": "https://cookandbemerry.com/wp-content/uploads/2012/09/Poached-Egg-Prosciutto-Roasted-Asparagus-Fris%c3%a9e-Salad-with-Romesco-Sauce-2.jpg",
+        "label": "No"
+    },
+    "530": {
+        "name": "image_530.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_530.jpg",
+        "url": "http://lh6.ggpht.com/5tpY-hdgw1od10VanOEOo15QK2P6vHElLY1boIhfoIllhE1cMMQvTVcSI07cRzIhvmiVPuQ5hy2Buk8PwGpepA=s230-c",
+        "label": "No"
+    },
+    "533": {
+        "name": "image_533.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_533.jpg",
+        "url": "https://www.bbva.com/wp-content/uploads/en/2016/08/caballa-amontillado-menu-gira-bbva-londres.jpg",
+        "label": "No"
+    },
+    "535": {
+        "name": "image_535.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_535.jpg",
+        "url": "https://thumbs.dreamstime.com/t/three-sushi-rolls-wood-cutting-board-44069802.jpg",
+        "label": "No"
+    },
+    "536": {
+        "name": "image_536.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_536.jpg",
+        "url": "https://us.123rf.com/450wm/inxti/inxti1311/inxti131100249/23745235-traditional-fresh-japanese-sushi-rolls-on-a-white-background.jpg",
+        "label": "Yes"
+    },
+    "538": {
+        "name": "image_538.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_538.jpg",
+        "url": "https://www.yourdairygold.ie/wp-content/uploads/2017/02/579x292_Stuffed_Pepper.png",
+        "label": "No"
+    },
+    "539": {
+        "name": "image_539.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_539.jpg",
+        "url": "https://fastly.4sqi.net/img/general/699x268/70353569_HcZWQL_yNYxG-JpKoeYAVd8_J4yRV9vxqR0SBaJ1ENQ.jpg",
+        "label": "Yes"
+    },
+    "540": {
+        "name": "image_540.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_540.jpg",
+        "url": "https://farm8.staticflickr.com/7557/15429314423_041ce85001_c.jpg",
+        "label": "No"
+    },
+    "542": {
+        "name": "image_542.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_542.jpg",
+        "url": "http://st.depositphotos.com/1372245/1488/i/950/depositphotos_14881437-Roll-meat.jpg",
+        "label": "No"
+    },
+    "543": {
+        "name": "image_543.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_543.jpg",
+        "url": "https://4.bp.blogspot.com/-KEmdcAQoAjw/V-pYepIkBvI/AAAAAAAASb8/9wsLkwGGw3EalfhQgr82IdzOeUU9P1gHQCPcB/s320/IMG_6607.jpg",
+        "label": "No"
+    },
+    "544": {
+        "name": "image_544.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_544.jpg",
+        "url": "https://www.oh-soyummy.com/files/styles/picture_normal_grid/public/6/photos/santo-sushi-lemon-roll.jpg?itok=ooU3tKxo",
+        "label": "No"
+    },
+    "545": {
+        "name": "image_545.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_545.jpg",
+        "url": "http://lh4.ggpht.com/CvQFUk2gY_gTL-e2_doI5x2TK2cFFbi97HWokc2eO2ipobQq1GcUMhsIxANbd9-JfzLIF6tzK-rrBIwjDnHGAA=s480-c-e365",
+        "label": "No"
+    },
+    "546": {
+        "name": "image_546.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_546.jpg",
+        "url": "http://s3.amazonaws.com/tastyfix/recipe/52d6e1e3e4b01fc900f43836-picsyil3i.jpg",
+        "label": "No"
+    },
+    "547": {
+        "name": "image_547.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_547.jpg",
+        "url": "https://64.media.tumblr.com/tumblr_lwivw13Oup1r0tyrlo1_1280.jpg",
+        "label": "Yes"
+    },
+    "548": {
+        "name": "image_548.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_548.jpg",
+        "url": "http://static9.depositphotos.com/1010142/1191/i/110/depositphotos_11913801-Tuna-Tomato-and-Olive-Salad.jpg",
+        "label": "Yes"
+    },
+    "550": {
+        "name": "image_550.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_550.jpg",
+        "url": "https://ot-foodspotting-production.s3.amazonaws.com/reviews/989593/thumb_600.jpg",
+        "label": "Yes"
+    },
+    "553": {
+        "name": "image_553.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_553.jpg",
+        "url": "https://media01.stockfood.com/largepreviews/Mzg4NTIwOTU0/12532934-Tuna-tartare-on-sushi-rice-with-wasabi-and-soya-foam-and-fried-shallots.jpg",
+        "label": "Yes"
+    },
+    "554": {
+        "name": "image_554.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_554.jpg",
+        "url": "https://thumbs.dreamstime.com/t/salad-tuna-fish-22002870.jpg",
+        "label": "Yes"
+    },
+    "555": {
+        "name": "image_555.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_555.jpg",
+        "url": "https://peachestoapplesdotcom1.files.wordpress.com/2015/05/pimento-stuffed-peppers1.jpg?w=290&amp;h=290&amp;crop=1",
+        "label": "No"
+    },
+    "556": {
+        "name": "image_556.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_556.jpg",
+        "url": "https://www.healthyliferedesign.com/wp-content/uploads/2016/11/Chicken-salad-with-wrap-vertical.jpg",
+        "label": "No"
+    },
+    "557": {
+        "name": "image_557.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_557.jpg",
+        "url": "https://lh3.googleusercontent.com/KJiOCHjGIIs0EZSfRDHYtt3WNZMIsIE_Fge12PCl5WZdQYqZg8ocsJ1yqC94UI1cAcmLVPLQoJzSZZ7LVhNR=s320-c-e365",
+        "label": "Yes"
+    },
+    "558": {
+        "name": "image_558.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_558.jpg",
+        "url": "http://cdn.sheknows.com/fabulousfoods/recipes/recipes/thumb/handrolls.jpg",
+        "label": "No"
+    },
+    "559": {
+        "name": "image_559.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_559.jpg",
+        "url": "https://gildednest.files.wordpress.com/2015/10/pumpkin-rice-ball.jpg?w=300&h=300",
+        "label": "No"
+    },
+    "560": {
+        "name": "image_560.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_560.jpg",
+        "url": "https://thumbs.dreamstime.com/t/flying-fish-roe-maki-21457115.jpg",
+        "label": "Yes"
+    },
+    "561": {
+        "name": "image_561.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_561.jpg",
+        "url": "https://www.sushirolle.de/wp-content/uploads/2016/11/sushi-rezept-inside-out-rolls-thunfisch.jpg",
+        "label": "Yes"
+    },
+    "562": {
+        "name": "image_562.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_562.jpg",
+        "url": "https://whatgreatgrandmaate.com/wp-content/uploads/2016/05/IMG_5220-e1463974607827.jpg",
+        "label": "Yes"
+    },
+    "563": {
+        "name": "image_563.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_563.jpg",
+        "url": "https://www.sonomamag.com/wp-content/uploads/2016/04/valette.jpeg",
+        "label": "Yes"
+    },
+    "564": {
+        "name": "image_564.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_564.jpg",
+        "url": "https://www.taste-buds.co.za/wp-content/uploads/2013/05/best-sushi-restaurants-in-cape-town-750x400-450x240.jpg",
+        "label": "No"
+    },
+    "565": {
+        "name": "image_565.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_565.jpg",
+        "url": "https://steamykitchen.com/wp-content/uploads/2009/04/sesame-seared-tuna_090420__025_web-300x199.jpg?eaa646",
+        "label": "Yes"
+    },
+    "567": {
+        "name": "image_567.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_567.jpg",
+        "url": "https://www.aquashardblog.co.uk/wp-content/uploads/2014/07/Crab-rvaioli.jpg",
+        "label": "No"
+    },
+    "568": {
+        "name": "image_568.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_568.jpg",
+        "url": "https://photos.smugmug.com/SugarShake/WeAteIt/Ate-It/i-4Hwzdnz/0/8446766b/L/SugarShake1413-L.jpg",
+        "label": "No"
+    },
+    "569": {
+        "name": "image_569.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_569.jpg",
+        "url": "http://3.bp.blogspot.com/_2mhSDSPTVaE/SCyUd1thQHI/AAAAAAAAAKk/-Yi-LmoPe0I/s1600/ensalada+setas5.jpg",
+        "label": "No"
+    },
+    "570": {
+        "name": "image_570.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_570.jpg",
+        "url": "http://s3-media1.fl.yelpcdn.com/bphoto/lAKMgbMqDTM0D5Mews0jEA/168s.jpg",
+        "label": "No"
+    },
+    "571": {
+        "name": "image_571.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_571.jpg",
+        "url": "https://images-gmi-pmc.edge-generalmills.com/1a7bd1b8-ff88-4aea-842e-03987f008643.jpg",
+        "label": "Yes"
+    },
+    "572": {
+        "name": "image_572.jpg",
+        "path": "/root/home/agaile_datasets/gourmet-tuna_test/image_572.jpg",
+        "url": "https://theglobalgirl.com/wp-content/uploads/2012/08/the-global-girl-theglobalgirl-raw-vegan-sushi-recipe-raw-food-diet-6.jpg",
+        "label": "No"
+    }
+}

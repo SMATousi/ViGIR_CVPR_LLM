@@ -1,0 +1,2486 @@
+{
+    "2": {
+        "name": "image_2.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_2.jpg",
+        "url": "https://images.bergdorfgoodman.com/ca/1/product_assets/N/3/E/T/K/BGN3ETK_cu.jpg",
+        "label": "Yes"
+    },
+    "3": {
+        "name": "image_3.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_3.jpg",
+        "url": "https://m.media-amazon.com/images/I/81JISoscBuL._AC_UL320_.jpg",
+        "label": "Yes"
+    },
+    "4": {
+        "name": "image_4.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_4.jpg",
+        "url": "https://images.ua.prom.st/241254425_w640_h640_8.jpg",
+        "label": "No"
+    },
+    "5": {
+        "name": "image_5.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_5.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0077/0062/products/TENET-BACKGROUNDREMOVERcopy_80131b97-b020-44f6-9df4-01d5b7a1e601_800x.jpg?v=1605904594",
+        "label": "Yes"
+    },
+    "6": {
+        "name": "image_6.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_6.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1512/2122/products/017_Mihara_Yasuhiro_Multi_Stars_and_Stripes_Original_Sole_Sneaker-6_copy_1024x1024.jpg?v=1565045044",
+        "label": "No"
+    },
+    "7": {
+        "name": "image_7.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_7.jpg",
+        "url": "https://i.ebayimg.com/images/g/OkMAAOxydB1SoNTX/s-l300.jpg",
+        "label": "No"
+    },
+    "8": {
+        "name": "image_8.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_8.jpg",
+        "url": "https://dks.scene7.com/is/image/dkscdn/17NEWTMLBSTRSTDNVAPA_is/?$DSG_ProductCard$",
+        "label": "No"
+    },
+    "9": {
+        "name": "image_9.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_9.jpg",
+        "url": "https://images.finishline.com/is/image/FinishLine/CG7001_WRD_P2?$Main_3quarter_gray$",
+        "label": "No"
+    },
+    "10": {
+        "name": "image_10.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_10.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0971/3820/products/Air-Jordan-4-UNDFTD-Olive-Green-1_1024x1024.png?v=1472945382",
+        "label": "Yes"
+    },
+    "11": {
+        "name": "image_11.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_11.jpg",
+        "url": "https://images.tcdn.com.br/img/img_prod/711343/180_tenis_nike_court_vision_low_feminino_cd5434_28798989_2_c9f325a7d8ca68263c53044cad27d402.jpg",
+        "label": "No"
+    },
+    "12": {
+        "name": "image_12.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_12.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1899/3727/products/SLPNF13MOCBB-2_600x_2x_800x_a441cc73-2570-4a52-bd6a-f83f223ac857_800x.jpg?v=1603322770",
+        "label": "No"
+    },
+    "13": {
+        "name": "image_13.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_13.jpg",
+        "url": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/yze2k47tzs3eg6vugzyt/air-max-200-shoe-7HGW5r.jpg",
+        "label": "Yes"
+    },
+    "14": {
+        "name": "image_14.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_14.jpg",
+        "url": "https://rukminim1.flixcart.com/image/832/832/shoe/w/g/4/vn0a2xsbmxe1-7-vans-1966-red-blue-true-white-original-imaes6y8urgazsrh.jpeg?q=70",
+        "label": "No"
+    },
+    "15": {
+        "name": "image_15.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_15.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0100/1222/9689/products/41e08e003a35c29c7f393b2f151a868d_110x110@2x.jpg?v=1564707746",
+        "label": "No"
+    },
+    "17": {
+        "name": "image_17.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_17.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB1c1d2bx685uJjSZFHq6A49pXal/Rax-Trekking-Shoes-Men-Summer-Quick-Drying-Breathable-Lightweight-Outdoor-Hiking-Shoes-Men-Women-Mountaineering-Climbing.jpg",
+        "label": "Yes"
+    },
+    "18": {
+        "name": "image_18.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_18.jpg",
+        "url": "https://i.pinimg.com/originals/f8/a2/0f/f8a20f37715d503a174c62b894fec4ee.jpg",
+        "label": "Yes"
+    },
+    "19": {
+        "name": "image_19.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_19.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61W5PG8mdoL._AC_UY600_.jpg",
+        "label": "Yes"
+    },
+    "20": {
+        "name": "image_20.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_20.jpg",
+        "url": "https://diversstuff-static.myshopblocks.com/images/2019/01/contain/512x512/213efbfae41948e527915092e56cb856.png",
+        "label": "Yes"
+    },
+    "21": {
+        "name": "image_21.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_21.jpg",
+        "url": "https://m.media-amazon.com/images/I/81su3p-lA7L._AC_SX255_.jpg",
+        "label": "No"
+    },
+    "23": {
+        "name": "image_23.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_23.jpg",
+        "url": "https://i.pinimg.com/736x/f5/9b/93/f59b934bcdc2a6793f642da598e67e9a.jpg",
+        "label": "No"
+    },
+    "24": {
+        "name": "image_24.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_24.jpg",
+        "url": "https://intersportfr.scene7.com/is/image/intersportfr/869993_BFU_PR?$produit_l$&$product_ghost$",
+        "label": "Yes"
+    },
+    "25": {
+        "name": "image_25.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_25.jpg",
+        "url": "https://m.media-amazon.com/images/I/81f2CvlnG6L._SR960%2C720_.jpg",
+        "label": "No"
+    },
+    "26": {
+        "name": "image_26.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_26.jpg",
+        "url": "https://clothbase.s3.amazonaws.com/uploads/e2bd19d2-b75a-49ba-b9e5-fbe9e9fecf66/WBSM-W04115-031715-S16-HERO.jpeg",
+        "label": "No"
+    },
+    "27": {
+        "name": "image_27.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_27.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0312/2921/products/1a_69a6a6b9-7ed0-4180-b0fc-5a4a792a3a11_large.jpg?v=1571264900",
+        "label": "No"
+    },
+    "30": {
+        "name": "image_30.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_30.jpg",
+        "url": "https://di2ponv0v5otw.cloudfront.net/posts/2020/07/08/5f064e9c93649f85e5c64253/s_5f064eceff7c5ae4ef9308f6.jpg",
+        "label": "No"
+    },
+    "31": {
+        "name": "image_31.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_31.jpg",
+        "url": "https://cdn.sanity.io/images/c1chvb1i/production/e513ccca0bf633fb2091029523188ce35a926042-640x426.jpg/adidas-mutombo-black-white-bump-3.jpg",
+        "label": "No"
+    },
+    "33": {
+        "name": "image_33.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_33.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0240/7285/products/ClassicPennyLoaferWithCrepeSoleinPebbleGrainBlack-6_300x.jpg?v=1604428523",
+        "label": "No"
+    },
+    "34": {
+        "name": "image_34.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_34.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1278/5085/products/BTKA_15215942310865855_5d0fc9d7031c969701117498a36c57_large.jpg?v=1521594253",
+        "label": "Yes"
+    },
+    "35": {
+        "name": "image_35.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_35.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0030/0417/0310/products/HOS15637.jpg?v=1591626626",
+        "label": "No"
+    },
+    "36": {
+        "name": "image_36.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_36.jpg",
+        "url": "https://img.fril.jp/img/398664257/m/1125191837.jpg?1611292017",
+        "label": "No"
+    },
+    "38": {
+        "name": "image_38.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_38.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/41DsRqv6WdL.jpg",
+        "label": "Yes"
+    },
+    "39": {
+        "name": "image_39.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_39.jpg",
+        "url": "https://www.masmodas.net/11790-home_default/zapatillas-nk-a-jordan.jpg",
+        "label": "Yes"
+    },
+    "40": {
+        "name": "image_40.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_40.jpg",
+        "url": "https://i.pinimg.com/600x315/9c/65/8b/9c658b898bf582a086b644966c90d7f1.jpg",
+        "label": "Yes"
+    },
+    "41": {
+        "name": "image_41.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_41.jpg",
+        "url": "https://cdn.55haitao.com/dmp/pic/2021/01/27/1611689931274.jpg",
+        "label": "Yes"
+    },
+    "42": {
+        "name": "image_42.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_42.jpg",
+        "url": "http://blog-imgs-29.fc2.com/e/a/s/easterclothing/nike-lebron-8-gs-south-beach-1CreepCWC.jpg",
+        "label": "No"
+    },
+    "43": {
+        "name": "image_43.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_43.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0008/8116/4339/products/APL5e30a783d670985e30a783d6929.418019185e30a783d6929_800x.jpg?v=1580412127",
+        "label": "Yes"
+    },
+    "44": {
+        "name": "image_44.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_44.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/410U7M%2BhOwL.jpg",
+        "label": "No"
+    },
+    "45": {
+        "name": "image_45.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_45.jpg",
+        "url": "http://debenhams.scene7.com/is/image/Debenhams/61876_13083005?$PSPNew$",
+        "label": "No"
+    },
+    "46": {
+        "name": "image_46.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_46.jpg",
+        "url": "https://image.made-in-china.com/202f0j00UOstSPhMgLpR/Racing-Tracking-Footwear-Field-Sneakers-Spike-Shoes-812-.jpg",
+        "label": "No"
+    },
+    "48": {
+        "name": "image_48.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_48.jpg",
+        "url": "https://images.hugoboss.com/is/image/boss/hbeu50397130_100_24?$re_fullPageZoom$&amp;qlt=85&amp;wid=70&amp;hei=106",
+        "label": "No"
+    },
+    "49": {
+        "name": "image_49.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_49.jpg",
+        "url": "http://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod130833_Blue%20-%20Black%20-%20Crimson_NE_01&$offerflag=Clearance&$offerhide=0&$promoflag=JanSaleProtFoot&$promohide=0&locale=en",
+        "label": "No"
+    },
+    "50": {
+        "name": "image_50.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_50.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0266/1534/9292/products/VicMatie_Evanthia2_180x.jpg?v=1617245461",
+        "label": "No"
+    },
+    "51": {
+        "name": "image_51.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_51.jpg",
+        "url": "https://di2ponv0v5otw.cloudfront.net/posts/2019/08/16/5d576c3219c157ec038f83d3/s_5d576c4e10f00f529a007689.jpg",
+        "label": "No"
+    },
+    "52": {
+        "name": "image_52.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_52.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1116/8692/products/c2586369-56b7-5475-bf6c-0635bbe434cd_600x.jpg?v=1563045670",
+        "label": "Yes"
+    },
+    "53": {
+        "name": "image_53.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_53.jpg",
+        "url": "https://img.shopstyle-cdn.com/sim/53/d2/53d20857330aa70c5ff11338bcce595b/new-balance-kg574i-sweatshirt-running-shoe-infant-toddler.jpg",
+        "label": "Yes"
+    },
+    "54": {
+        "name": "image_54.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_54.jpg",
+        "url": "http://s7.landsend.com/is/image/LandsEnd/470958_AH16_LF_EUV?$ii_IX_IMG_V4$",
+        "label": "Yes"
+    },
+    "55": {
+        "name": "image_55.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_55.jpg",
+        "url": "http://tse4.mm.bing.net/th?id=OIP.5VClkFYUDfEVDLebUK100QHaHa",
+        "label": "No"
+    },
+    "57": {
+        "name": "image_57.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_57.jpg",
+        "url": "http://slideplayer.com/slide/3873162/13/images/8/Energy+flows+through+an+ecosystem.jpg",
+        "label": "No"
+    },
+    "58": {
+        "name": "image_58.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_58.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0315/7560/5386/products/DEWALT_CUTTER_HR_60x.jpg?v=1605271113",
+        "label": "Yes"
+    },
+    "59": {
+        "name": "image_59.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_59.jpg",
+        "url": "https://debenhams.scene7.com/is/image/Debenhams/084011106973?$PSPNew$",
+        "label": "Yes"
+    },
+    "60": {
+        "name": "image_60.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_60.jpg",
+        "url": "https://images.puma.net/images/368278/01/sv03/fnd/JPN/w/600/h/600/",
+        "label": "Yes"
+    },
+    "61": {
+        "name": "image_61.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_61.jpg",
+        "url": "https://dresscodeimages.blob.core.windows.net/thumb-250/764395.jpg",
+        "label": "Yes"
+    },
+    "62": {
+        "name": "image_62.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_62.jpg",
+        "url": "http://s7d3.scene7.com/is/image/ShiekhShoes/84-765.1A?$shiekh_large$",
+        "label": "Yes"
+    },
+    "63": {
+        "name": "image_63.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_63.jpg",
+        "url": "http://s7ondemand1.scene7.com/is/image/roadrunnersports/UAW1310?$productListMediumRRS$",
+        "label": "Yes"
+    },
+    "64": {
+        "name": "image_64.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_64.jpg",
+        "url": "https://i2.wp.com/sneakerhack.com/wp-content/uploads/2016/06/CZ_CYYzWwAA1e8F-fde1e-thumbnail2.jpg?resize=150%2C150",
+        "label": "No"
+    },
+    "65": {
+        "name": "image_65.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_65.jpg",
+        "url": "https://pegashoes.com/10197-home_default/basket-adidas-originals-stan-smith-m20326.jpg",
+        "label": "Yes"
+    },
+    "66": {
+        "name": "image_66.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_66.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1411/2122/products/902-09-001_grande.jpg?v=1509542321",
+        "label": "Yes"
+    },
+    "68": {
+        "name": "image_68.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_68.jpg",
+        "url": "https://img01.ztat.net/article/spp-media-p1/7d1d415514eb3f76802465aadcb94f36/cca1785150c5477aa067b3bd375303ef.jpg?imwidth=606&filter=packshot",
+        "label": "Yes"
+    },
+    "69": {
+        "name": "image_69.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_69.jpg",
+        "url": "https://s3.distributorcentral.com/uploads/B/F/BF56B3CDB208F8C5264B69FBC4067A8D.jpg",
+        "label": "No"
+    },
+    "70": {
+        "name": "image_70.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_70.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0236/6013/products/RefreshTearsPlus_370x_6a34a602-d19d-4f98-88c5-7fe6f11e7515_300x300.png?v=1571265702",
+        "label": "No"
+    },
+    "71": {
+        "name": "image_71.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_71.jpg",
+        "url": "https://digitallibrary.californiahistoricalsociety.org/sites/default/files/styles/islandora_imagecache_image_style_medium/public/externals/159d90cf72e0bad790f87462cbfca5bc.jpg?itok=avRCrJ9Z&pid=islandora:2274&iic=true&solr_nav%5Bid%5D=f62b9a95dd044cf732f6&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=2",
+        "label": "No"
+    },
+    "72": {
+        "name": "image_72.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_72.jpg",
+        "url": "https://m.media-amazon.com/images/I/81bpBeT853L._AC_UL320_ML3_.jpg",
+        "label": "Yes"
+    },
+    "73": {
+        "name": "image_73.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_73.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0248/2444/7021/products/Wethenew-Sneakers-France-Nike-Air-Force-1-Low-Drop-Type-Black-2_2000x_03cab934-24a8-4a37-a815-67c619b0e4bc_160x160.png?v=1594128585",
+        "label": "No"
+    },
+    "74": {
+        "name": "image_74.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_74.jpg",
+        "url": "http://www.kaufdichgluecklich-shop.de/v30/productimages/464220.jpg",
+        "label": "No"
+    },
+    "75": {
+        "name": "image_75.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_75.jpg",
+        "url": "https://img.shopstyle-cdn.com/pim/5b/2d/5b2d6bc8068605770af6d8c60fe0ac85_xlarge.jpg",
+        "label": "Yes"
+    },
+    "76": {
+        "name": "image_76.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_76.jpg",
+        "url": "https://www.funsport-burghausen.de/out/pictures/generated/product/1/200_175_75/puma_court_star_fs_black_black_wh_366574_001_1557.jpg",
+        "label": "No"
+    },
+    "78": {
+        "name": "image_78.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_78.jpg",
+        "url": "https://img01.ztat.net/article/BU/31/1A/0C/5A/13/BU311A0C5-A13@9.jpg?imwidth=606",
+        "label": "No"
+    },
+    "80": {
+        "name": "image_80.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_80.jpg",
+        "url": "https://d2ob0iztsaxy5v.cloudfront.net/product/193820/1938202820_main.jpg",
+        "label": "Yes"
+    },
+    "82": {
+        "name": "image_82.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_82.jpg",
+        "url": "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/13789829_fpx.tif?$browse$&wid=224&fmt=jpeg",
+        "label": "Yes"
+    },
+    "83": {
+        "name": "image_83.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_83.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/31WLYVJCasL.jpg",
+        "label": "Yes"
+    },
+    "84": {
+        "name": "image_84.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_84.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0808/6529/products/eagles-sneakers-mens-womens-kids-super-bowl-shoes-running-philadelphia-model020-us5-man-eaglespatriotssteelers-gear_440_Large.jpg?v=1573182403",
+        "label": "No"
+    },
+    "85": {
+        "name": "image_85.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_85.jpg",
+        "url": "https://di2ponv0v5otw.cloudfront.net/posts/2020/06/25/5ef51d26bb5937aac13efac9/s_5ef51d5967bd91f66b865907.jpg",
+        "label": "Yes"
+    },
+    "86": {
+        "name": "image_86.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_86.jpg",
+        "url": "http://cdn.shopclues.net/images/thumbnails/32603/320/320/7097BLBK11456060095.png",
+        "label": "No"
+    },
+    "87": {
+        "name": "image_87.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_87.jpg",
+        "url": "https://deichmann.scene7.com/asset/deichmann/US_01_110004_03?$rr_pdp_zoom$&defaultImage=default_obs",
+        "label": "Yes"
+    },
+    "88": {
+        "name": "image_88.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_88.jpg",
+        "url": "https://www.runnersstore.se/Graphics/Articles/800/870498.jpg",
+        "label": "No"
+    },
+    "89": {
+        "name": "image_89.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_89.jpg",
+        "url": "http://s7ondemand1.scene7.com/is/image/roadrunnersports/00483-200?wid=500&hei=500&s=8.5&w=B",
+        "label": "Yes"
+    },
+    "90": {
+        "name": "image_90.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_90.jpg",
+        "url": "https://www.testberichte.de/imgs/p_imgs_supersize/1089862.jpg",
+        "label": "Yes"
+    },
+    "91": {
+        "name": "image_91.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_91.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/51Ct%2BDm%2BalL._SL250_.jpg",
+        "label": "No"
+    },
+    "92": {
+        "name": "image_92.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_92.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0095/1831/7632/products/product-image-868219246.jpg?v=1545428807",
+        "label": "Yes"
+    },
+    "93": {
+        "name": "image_93.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_93.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0714/9913/products/Nike_Wmns_Air_Max_1_Black_White_Gum_319986-037-1_600x600.jpg?v=1535218658",
+        "label": "Yes"
+    },
+    "94": {
+        "name": "image_94.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_94.jpg",
+        "url": "https://img.skatewarehouse.com/watermark/rs.php?path=ADBVNGW-1.jpg&nw=190",
+        "label": "Yes"
+    },
+    "95": {
+        "name": "image_95.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_95.jpg",
+        "url": "https://images.bergdorfgoodman.com/ca/1/products/mi/BGX15UV_mi.jpg",
+        "label": "Yes"
+    },
+    "97": {
+        "name": "image_97.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_97.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0014/0342/0766/products/lace-up-solid-denim-espadrilles-95006A_2_2_4ce687c4-f0f5-4e14-af67-572de5a59cc4_300x.jpg?v=1535723863",
+        "label": "Yes"
+    },
+    "99": {
+        "name": "image_99.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_99.jpg",
+        "url": "https://i.pinimg.com/originals/bd/ce/99/bdce996ca7bd6a479dce18171b331bc1.jpg",
+        "label": "Yes"
+    },
+    "101": {
+        "name": "image_101.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_101.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0037/3807/5202/products/DOLCEVITA-BOOTIES_LOTTIE_IVORY_ECO_SIDE_600x600.jpg?v=1597248393",
+        "label": "No"
+    },
+    "102": {
+        "name": "image_102.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_102.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/71uXiytErPL._UX395_.jpg",
+        "label": "Yes"
+    },
+    "104": {
+        "name": "image_104.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_104.jpg",
+        "url": "https://www.rideaway.se/wp-content/uploads/2019/07/bmc_product-page_product-images_roadmachine-01-two_my20_1-940x673.png",
+        "label": "No"
+    },
+    "106": {
+        "name": "image_106.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_106.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0088/6705/3604/products/IMG_6464_110x110@2x.jpg?v=1571806690",
+        "label": "No"
+    },
+    "107": {
+        "name": "image_107.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_107.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0405/7065/0788/products/cons-pro-leather-white-clover_grande.jpg?v=1591696660",
+        "label": "Yes"
+    },
+    "108": {
+        "name": "image_108.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_108.jpg",
+        "url": "https://images.puma.net/images/190949/13/bv/fnd/EEA/w/600/h/600/",
+        "label": "No"
+    },
+    "109": {
+        "name": "image_109.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_109.jpg",
+        "url": "https://thumbs.ebaystatic.com/images/g/RYsAAOSwOVpXdsg1/s-l225.jpg",
+        "label": "No"
+    },
+    "110": {
+        "name": "image_110.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_110.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0668/8879/products/2822-334-1_compact.jpg?v=1571441042",
+        "label": "Yes"
+    },
+    "111": {
+        "name": "image_111.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_111.jpg",
+        "url": "https://s3.amazonaws.com/images.coverstoryjunior.it/Thumbs_PE21---richmond---10207FUXIA_1_P.JPG",
+        "label": "Yes"
+    },
+    "113": {
+        "name": "image_113.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_113.jpg",
+        "url": "https://footballboots.jp/image/asics-dslight-white-01.jpg",
+        "label": "No"
+    },
+    "114": {
+        "name": "image_114.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_114.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1643/9139/products/MG_5162_ef994cd8-5383-40cb-b658-fd3870b89c0d_400x.jpg?v=1595487344",
+        "label": "No"
+    },
+    "115": {
+        "name": "image_115.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_115.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1202/6102/products/adidas-3mc-shoes-grey-two-white-scarlet-4.jpg?v=1558439184",
+        "label": "No"
+    },
+    "116": {
+        "name": "image_116.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_116.jpg",
+        "url": "https://i.pinimg.com/736x/67/9a/2a/679a2a0974c79b36155877337562e426.jpg",
+        "label": "No"
+    },
+    "117": {
+        "name": "image_117.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_117.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1615/1939/products/AF_GOODS_24081725820_530x.jpg?v=1509598862",
+        "label": "No"
+    },
+    "119": {
+        "name": "image_119.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_119.jpg",
+        "url": "https://artimg01.footway.com/01/588/58898-01/shelf/160/1500/58898-01.png",
+        "label": "No"
+    },
+    "121": {
+        "name": "image_121.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_121.jpg",
+        "url": "https://m.media-amazon.com/images/I/81QWZKqDjiL._SX480_.jpg",
+        "label": "No"
+    },
+    "122": {
+        "name": "image_122.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_122.jpg",
+        "url": "https://m.media-amazon.com/images/I/71Apzegy4XL._AC_UL1500_.jpg",
+        "label": "No"
+    },
+    "123": {
+        "name": "image_123.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_123.jpg",
+        "url": "https://is4.revolveassets.com/images/p4/n/c/HBYH-MZ77_V1.jpg",
+        "label": "Yes"
+    },
+    "125": {
+        "name": "image_125.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_125.jpg",
+        "url": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/sprga/sprga3018110253/sprga3018110253_q2_2-0._UX357_QL90_.jpg",
+        "label": "No"
+    },
+    "126": {
+        "name": "image_126.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_126.jpg",
+        "url": "https://imagesprod4.dickssportinggoods.com/is/image/dkscdn/17NIKMCRTBRGHMDWNLFS_Dark_Grey_is/?$DSG_ProductCard$",
+        "label": "Yes"
+    },
+    "127": {
+        "name": "image_127.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_127.jpg",
+        "url": "https://www.80scasualclassics.co.uk/images/adidas-campus-trainers-navy-navy-reflect-p10168-63177_image.jpg",
+        "label": "No"
+    },
+    "128": {
+        "name": "image_128.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_128.jpg",
+        "url": "https://shop.r10s.jp/re-vida/cabinet/09img795/09-8610461-cordur.jpg",
+        "label": "No"
+    },
+    "129": {
+        "name": "image_129.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_129.jpg",
+        "url": "http://n1.sdlcdn.com/imgs/a/v/n/Nike-Prime-Hype-Df-Black-SDL329389519-1-aabf1.jpg",
+        "label": "Yes"
+    },
+    "130": {
+        "name": "image_130.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_130.jpg",
+        "url": "https://i.siteapi.org/oDBYblrfflxQcZjT6wdrEb6yDQ8=/fit-in/330x/center/top/filters:fill(transparent):format(png)/defcca3e90b4528.ru.s.siteapi.org/img/ktoialb1f404084skcw8000w88sswo",
+        "label": "No"
+    },
+    "131": {
+        "name": "image_131.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_131.jpg",
+        "url": "http://www.lesitedelasneaker.com/wp-content/images/2014/03/nike-air-max-1-white-wolf-grey-game-royal-150x150.jpg",
+        "label": "Yes"
+    },
+    "132": {
+        "name": "image_132.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_132.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0274/1682/1831/products/617239W17021015_002_600x.jpg?v=1604068562",
+        "label": "No"
+    },
+    "133": {
+        "name": "image_133.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_133.jpg",
+        "url": "https://m.media-amazon.com/images/I/51nd1GH8wQL.jpg",
+        "label": "No"
+    },
+    "134": {
+        "name": "image_134.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_134.jpg",
+        "url": "https://media.gq.com/photos/5654bcd1ab1a3af603965328/16:9/w_2560%2Cc_limit/s-l1600%252520(4).jpg",
+        "label": "No"
+    },
+    "135": {
+        "name": "image_135.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_135.jpg",
+        "url": "https://scene7.zumiez.com/is/image/zumiez/product_main_medium/Vans-Slip-On-Los-Loteria-Blue%2C-Yellow-%26-White-Skate-Shoes-_328285-back-US.jpg",
+        "label": "Yes"
+    },
+    "136": {
+        "name": "image_136.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_136.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0053/9233/4938/products/Screen_Shot_2019-04-03_at_5.02.16_PM_300x300.png?v=1554329610",
+        "label": "No"
+    },
+    "137": {
+        "name": "image_137.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_137.jpg",
+        "url": "https://i.pinimg.com/736x/f7/7a/18/f77a18c562f81e297a73b5bdadb3cead--superstar--adidas-superstar.jpg",
+        "label": "No"
+    },
+    "138": {
+        "name": "image_138.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_138.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41GRzEJWdbL.jpg",
+        "label": "Yes"
+    },
+    "139": {
+        "name": "image_139.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_139.jpg",
+        "url": "http://static.speedwaymotors.com/RS/SR/Product/34/2103769_T_17f465af.jpg",
+        "label": "No"
+    },
+    "140": {
+        "name": "image_140.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_140.jpg",
+        "url": "https://image.goat.com/crop/1000/attachments/product_template_pictures/images/005/130/067/original/878636_101.png.png",
+        "label": "Yes"
+    },
+    "141": {
+        "name": "image_141.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_141.jpg",
+        "url": "http://www.snickersdirect.com/image/cache/catalog/product-761/AP%20306-200x200.jpg",
+        "label": "Yes"
+    },
+    "142": {
+        "name": "image_142.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_142.jpg",
+        "url": "https://scene7.zumiez.com/is/image/zumiez/pdp_hero/Globe-Willow-Black-%26amp%3B-Black-Canvas-Shoes-_147668-alt1-CA.jpg",
+        "label": "Yes"
+    },
+    "143": {
+        "name": "image_143.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_143.jpg",
+        "url": "https://www.supercasuals.com/images/Carolina/CA7582_RGE_dsp.jpg",
+        "label": "No"
+    },
+    "144": {
+        "name": "image_144.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_144.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0964/7180/products/F1D1B0930712D825BA3DBAC93EF59111_1024x1024.jpg?v=1490890442",
+        "label": "Yes"
+    },
+    "145": {
+        "name": "image_145.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_145.jpg",
+        "url": "https://m.media-amazon.com/images/I/71N2fuuqomL._AC_SX255_.jpg",
+        "label": "No"
+    },
+    "146": {
+        "name": "image_146.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_146.jpg",
+        "url": "https://cdn.sanity.io/images/c1chvb1i/production/e756b5cc5450c28fef2deb321801211a0ff6017d-700x468.jpg",
+        "label": "No"
+    },
+    "148": {
+        "name": "image_148.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_148.jpg",
+        "url": "https://i.pinimg.com/736x/fc/52/f3/fc52f3372c7f5e3e20dd65cd417e9777.jpg",
+        "label": "No"
+    },
+    "149": {
+        "name": "image_149.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_149.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1342/3335/products/TB09540A214_large.jpg?v=1499543754",
+        "label": "Yes"
+    },
+    "151": {
+        "name": "image_151.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_151.jpg",
+        "url": "https://img01.ztat.net/article/GU/11/1A/0F/ZA/11/GU111A0FZ-A11@9.jpg?imwidth=156",
+        "label": "Yes"
+    },
+    "152": {
+        "name": "image_152.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_152.jpg",
+        "url": "https://m.media-amazon.com/images/I/81lpzB37jIL._SR960%2C720_.jpg",
+        "label": "No"
+    },
+    "153": {
+        "name": "image_153.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_153.jpg",
+        "url": "https://i.stpost.com/new-balance-wo900-gore-tex-mid-hiking-shoes-waterproof-for-women-in-brown~p~5409w_01~220.3.jpg",
+        "label": "No"
+    },
+    "154": {
+        "name": "image_154.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_154.jpg",
+        "url": "https://www.sportcentrum-dordrecht.nl/img/nike-cz4192-air-max-wright_235x285_10558.jpg",
+        "label": "Yes"
+    },
+    "155": {
+        "name": "image_155.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_155.jpg",
+        "url": "https://columbia.scene7.com/is/image/ColumbiaSportswear2/1808061_224_m?wid=768&hei=806",
+        "label": "Yes"
+    },
+    "156": {
+        "name": "image_156.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_156.jpg",
+        "url": "https://cdn.iset.io/assets/35253/produtos/7774/thumb_90-90-kd_9_deep_royal_blue___photo_blue___university_red_infantil.png",
+        "label": "No"
+    },
+    "158": {
+        "name": "image_158.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_158.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0202/8216/products/reike-nen-ring-slim-boot-fw18-accessories-swords-smith_011b_grande.jpg?v=1537761398",
+        "label": "No"
+    },
+    "159": {
+        "name": "image_159.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_159.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0046/3726/1913/products/dsc_5754_grande.jpg?v=1537366328",
+        "label": "No"
+    },
+    "161": {
+        "name": "image_161.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_161.jpg",
+        "url": "https://i.ebayimg.com/images/g/MR0AAOSwH3NXnHTY/s-l300.jpg",
+        "label": "No"
+    },
+    "162": {
+        "name": "image_162.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_162.jpg",
+        "url": "https://converseshop.hu/image/cache/catalog/20170421/555813c_5-220x220.jpg",
+        "label": "Yes"
+    },
+    "163": {
+        "name": "image_163.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_163.jpg",
+        "url": "http://riverisland.scene7.com/is/image/RiverIsland/273600_main?$CrossSellProductPage200$",
+        "label": "No"
+    },
+    "164": {
+        "name": "image_164.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_164.jpg",
+        "url": "https://cdn.aws.toolstation.com/images/141020-UK/250/76755-1.jpg",
+        "label": "No"
+    },
+    "165": {
+        "name": "image_165.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_165.jpg",
+        "url": "https://image.kilimall.com/kenya/shop/store/goods/2845/2018/08/2845_05882080880765648_240.jpg",
+        "label": "Yes"
+    },
+    "166": {
+        "name": "image_166.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_166.jpg",
+        "url": "http://scene7.zumiez.com/is/image/zumiez/cat_max/Vans-Authentic-Zephyr-%26-White-Shoes-_270099.jpg",
+        "label": "Yes"
+    },
+    "167": {
+        "name": "image_167.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_167.jpg",
+        "url": "https://ae01.alicdn.com/kf/Uac80c8ae384b41dfb9205b8c3ae2b9b5o/FLO-U1503-Z-Beige-Women-S-Sneaker-Shoes-Art-Bella.jpg",
+        "label": "Yes"
+    },
+    "168": {
+        "name": "image_168.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_168.jpg",
+        "url": "https://images.riverisland.com/is/image/RiverIsland/421685_main?$CrossSellProductPage300$",
+        "label": "Yes"
+    },
+    "169": {
+        "name": "image_169.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_169.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0968/2420/products/IMG_3468_copy_large.jpg?v=1486140067",
+        "label": "Yes"
+    },
+    "170": {
+        "name": "image_170.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_170.jpg",
+        "url": "http://evolveent.com/wp-content/uploads/2011/11/google-android-nike-sneaker1-290x160.jpg",
+        "label": "Yes"
+    },
+    "172": {
+        "name": "image_172.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_172.jpg",
+        "url": "https://i1.wp.com/hypebeast.com/image/2016/01/nike-blazer-mid-prm-vntg-loyal-blue-0.jpg?w=315",
+        "label": "No"
+    },
+    "173": {
+        "name": "image_173.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_173.jpg",
+        "url": "https://m.media-amazon.com/images/I/81QrV+S1G1L._AC_SX255_.jpg",
+        "label": "No"
+    },
+    "174": {
+        "name": "image_174.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_174.jpg",
+        "url": "http://rlv.zcache.co.uk/teal_chemistry_iphone_5c_cover-rf06064b1b39c4963b12c2a53f44d5831_izr4r_8byvr_324.jpg",
+        "label": "No"
+    },
+    "175": {
+        "name": "image_175.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_175.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/31imL%2B74qxL.jpg",
+        "label": "Yes"
+    },
+    "176": {
+        "name": "image_176.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_176.jpg",
+        "url": "https://asics.scene7.com/is/image/asics/1011A541_002_SR_TP?$sfcc-product$",
+        "label": "No"
+    },
+    "182": {
+        "name": "image_182.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_182.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1699/0341/products/Tank01-NeonYelKNIT_4_800x.jpg?v=1597942611",
+        "label": "Yes"
+    },
+    "183": {
+        "name": "image_183.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_183.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41fI2GqbnjL.jpg",
+        "label": "No"
+    },
+    "184": {
+        "name": "image_184.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_184.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0180/4854/8964/products/NIK_398614-012_16B_01_800x.jpg?v=1613397280",
+        "label": "Yes"
+    },
+    "185": {
+        "name": "image_185.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_185.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41Ut6pBW7JL.jpg",
+        "label": "Yes"
+    },
+    "186": {
+        "name": "image_186.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_186.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/410RtHDF-2L.jpg",
+        "label": "Yes"
+    },
+    "187": {
+        "name": "image_187.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_187.jpg",
+        "url": "http://ak1.ostkcdn.com/images/products/10560961/FootJoy-Mens-FJ-Superlites-Spikeless-Light-Grey-Black-Golf-Shoes-4b750323-c63a-4efe-816d-3c10b3799c1a_600.jpg",
+        "label": "Yes"
+    },
+    "189": {
+        "name": "image_189.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_189.jpg",
+        "url": "https://s3.thcdn.com/productimg/300/300/11171106-1884363294372689.jpg",
+        "label": "Yes"
+    },
+    "191": {
+        "name": "image_191.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_191.jpg",
+        "url": "https://img01.ztat.net/article/S2/04/1C/00/1K/11/S2041C001-K11@10.jpg?imwidth=300&filter=packshot",
+        "label": "Yes"
+    },
+    "192": {
+        "name": "image_192.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_192.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2678/6610/products/Stirling_BannockburnDistrict_de831fcd-c806-4c6f-90bf-f697aa53aeda_large.jpg?v=1606363285",
+        "label": "No"
+    },
+    "193": {
+        "name": "image_193.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_193.jpg",
+        "url": "https://abclive1caulfields.s3.amazonaws.com/32bda22a-2ec4-4965-9cac-b75e246468b0/productimage/P-J22612___M.jpg",
+        "label": "Yes"
+    },
+    "194": {
+        "name": "image_194.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_194.jpg",
+        "url": "https://media.kohlsimg.com/is/image/kohls/3515672_Black?wid=240&hei=240&op_sharpen=1",
+        "label": "Yes"
+    },
+    "195": {
+        "name": "image_195.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_195.jpg",
+        "url": "https://megaoutdoor.pl/environment/cache/images/300_300_productGfx_681f21a772850b62ab06216169a16ce5.jpg",
+        "label": "Yes"
+    },
+    "196": {
+        "name": "image_196.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_196.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1840/4837/products/air-jordan-10-x-cement-release-date-310805-062-profile_480x480.jpeg?v=1532220519",
+        "label": "Yes"
+    },
+    "197": {
+        "name": "image_197.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_197.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2595/8844/products/IMG_2069_grande.jpg?v=1586119064",
+        "label": "No"
+    },
+    "198": {
+        "name": "image_198.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_198.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2236/6547/products/G-DIAMONSGRANAVELVETINV-2020-2_180x.jpg?v=1596768071",
+        "label": "Yes"
+    },
+    "199": {
+        "name": "image_199.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_199.jpg",
+        "url": "https://assets.bigcartel.com/product_images/272875811/mini-IMG_1815.JPG?auto=format&fit=max&h=300&w=300",
+        "label": "No"
+    },
+    "201": {
+        "name": "image_201.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_201.jpg",
+        "url": "https://img.shopstyle-cdn.com/mim/b7/6f/b76fc8e8c19f1518c6eb85d60649f9f4.jpg",
+        "label": "No"
+    },
+    "205": {
+        "name": "image_205.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_205.jpg",
+        "url": "https://img.tatacliq.com/images/1348Wx2000H/MP000000000219057_1348Wx2000H_20160604195948.jpeg",
+        "label": "No"
+    },
+    "208": {
+        "name": "image_208.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_208.jpg",
+        "url": "https://www.neimanmarcus.com/ca/2/product_assets/X/1/M/G/B/NMX1MGB_mk.jpg",
+        "label": "Yes"
+    },
+    "209": {
+        "name": "image_209.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_209.jpg",
+        "url": "https://cdp.azureedge.net/products/USA/MG/2016/MC/DUALPURP/V7_II_SCRAMBLER_ABS/50/AZZURRO_ESSETRE/2000000001_480px.jpg",
+        "label": "No"
+    },
+    "210": {
+        "name": "image_210.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_210.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1151/0578/products/harvest-club-harvestclub-v-10-mid-cwl-cobalt-orange-fluo_590x.jpg?v=1601564306",
+        "label": "No"
+    },
+    "213": {
+        "name": "image_213.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_213.jpg",
+        "url": "https://media.yoox.biz/items/11/11333812gl_13_f.jpg",
+        "label": "Yes"
+    },
+    "214": {
+        "name": "image_214.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_214.jpg",
+        "url": "https://d2ob0iztsaxy5v.cloudfront.net/product/567307/5673077060_main.jpg",
+        "label": "Yes"
+    },
+    "216": {
+        "name": "image_216.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_216.jpg",
+        "url": "https://i.ebayimg.com/images/g/MWcAAOSwjfhcyk~I/s-l300.jpg",
+        "label": "No"
+    },
+    "218": {
+        "name": "image_218.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_218.jpg",
+        "url": "https://fashioncloset.vteximg.com.br/arquivos/ids/245467-333-499/tenis-fila-disruptor-II-wht-blue-red-branco.jpg?v=636961223293070000",
+        "label": "No"
+    },
+    "219": {
+        "name": "image_219.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_219.jpg",
+        "url": "https://m.media-amazon.com/images/I/816vYfhnCrL._AC_SX255_.jpg",
+        "label": "No"
+    },
+    "220": {
+        "name": "image_220.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_220.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0020/3217/3126/products/product-image-669164521_1024x.jpg?v=1533495699",
+        "label": "Yes"
+    },
+    "222": {
+        "name": "image_222.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_222.jpg",
+        "url": "https://lsco.scene7.com/is/image/lsco/Dockers/clothing/747270001-front-pdp.jpg?$grid_desktop_full$",
+        "label": "No"
+    },
+    "223": {
+        "name": "image_223.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_223.jpg",
+        "url": "http://productimages.drct2u.com/plp_full_width_1/products/bl/bl661/o01bl661501s.jpg",
+        "label": "Yes"
+    },
+    "224": {
+        "name": "image_224.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_224.jpg",
+        "url": "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/10419728_fpx.tif?$thumb$",
+        "label": "No"
+    },
+    "225": {
+        "name": "image_225.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_225.jpg",
+        "url": "https://s7d2.scene7.com/is/image/atmosphere/331562480_99_a?wid=270&hei=270",
+        "label": "No"
+    },
+    "226": {
+        "name": "image_226.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_226.jpg",
+        "url": "https://media.alltricks.com/medium/5b606533c908b.jpg",
+        "label": "No"
+    },
+    "227": {
+        "name": "image_227.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_227.jpg",
+        "url": "http://ec1.images-amazon.com/images/P/B000NIBUSK.01._AA252_SCL_.jpg",
+        "label": "No"
+    },
+    "228": {
+        "name": "image_228.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_228.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/dcsAAOSwFb5aTiKm/s-l225.jpg",
+        "label": "No"
+    },
+    "229": {
+        "name": "image_229.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_229.jpg",
+        "url": "https://commondatastorage.googleapis.com/images2.solestruck.com/adidas-x-rick-owens-shoes/Adidas-X-Rick-Owens-shoes-Tech-Runner-(Black-Black)-010606.jpg",
+        "label": "No"
+    },
+    "230": {
+        "name": "image_230.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_230.jpg",
+        "url": "https://img01.ztat.net/article/spp-media-p1/fe9e1c02bc0031bfa0e54314f7a315d4/64b278abaf1c47998f778af200c8e457.jpg?imwidth=300",
+        "label": "No"
+    },
+    "231": {
+        "name": "image_231.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_231.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0131/0700/3492/products/2ddbe564415dab8eae36b97f878f53d2.jpg?v=1551514202",
+        "label": "No"
+    },
+    "232": {
+        "name": "image_232.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_232.jpg",
+        "url": "https://photos6.spartoo.net/photos/465/4652654/4652654_350_A.jpg",
+        "label": "Yes"
+    },
+    "234": {
+        "name": "image_234.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_234.jpg",
+        "url": "https://contents.mediadecathlon.com/p1198666/k$37deffeef7c86d91a5601c5bbf880f14/sq/NW+500+Flex+H+women+s+Nordic+walking+shoes+blue.jpg?f=700x700",
+        "label": "Yes"
+    },
+    "235": {
+        "name": "image_235.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_235.jpg",
+        "url": "https://refstatic.sk/market/de5f2f61-787d-5a66-bdaf-8f33d59205f2.jpeg?c=w&is=420x490c&iw=watermark.png&iwp=-10x-10&iws=128x37&s=667b0ed727484e22e2e1ff0af1c670540deaf05e050f25a02688d1ddc9fe818b",
+        "label": "Yes"
+    },
+    "236": {
+        "name": "image_236.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_236.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1100/0520/products/ALBUCIA-BN-01_400x.jpg?v=1609346494",
+        "label": "Yes"
+    },
+    "239": {
+        "name": "image_239.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_239.jpg",
+        "url": "https://fglprdcdn.azureedge.net/images/224390-na-1-Medium.jpg",
+        "label": "Yes"
+    },
+    "241": {
+        "name": "image_241.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_241.jpg",
+        "url": "https://cdn.awsli.com.br/300x300/155/155844/produto/62256508/daff197a0d.jpg",
+        "label": "No"
+    },
+    "242": {
+        "name": "image_242.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_242.jpg",
+        "url": "https://www.astreyee.com/100011-home_default/black-loafer-with-checks.jpg",
+        "label": "No"
+    },
+    "243": {
+        "name": "image_243.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_243.jpg",
+        "url": "https://emea.mizuno.com/on/demandware.static/-/Library-Sites-sharedLibrary_Mizuno/default/dwc79bb377/images/SS20_Season/Stories/Wave-Horizon-4/Wave_horizon_4_image_1.jpg",
+        "label": "No"
+    },
+    "244": {
+        "name": "image_244.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_244.jpg",
+        "url": "https://media.6media.me/media/catalog/product/cache/6401625bb09a3c6b4fefac5544cfe9f5/p/w/pw1-66170015-2-peblack-700x450.jpg",
+        "label": "No"
+    },
+    "246": {
+        "name": "image_246.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_246.jpg",
+        "url": "http://i1.sdlcdn.com/img/product/main/Fila_ZEPHYR_BLKBLU_M_1_2x.jpg",
+        "label": "Yes"
+    },
+    "247": {
+        "name": "image_247.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_247.jpg",
+        "url": "http://cdn.shopify.com/s/files/1/0094/2252/products/IMG_1370_large.jpg?v=1447258647",
+        "label": "No"
+    },
+    "248": {
+        "name": "image_248.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_248.jpg",
+        "url": "https://i1.adis.ws/i/jpl/ti_134986_a?w=195&h=230&qlt=80",
+        "label": "Yes"
+    },
+    "249": {
+        "name": "image_249.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_249.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0104/7881/3239/products/71f7CG8ibkL._AC_UL1500_250x250@2x.jpg?v=1597869989",
+        "label": "No"
+    },
+    "250": {
+        "name": "image_250.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_250.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41y2UqpbK5L.jpg",
+        "label": "Yes"
+    },
+    "252": {
+        "name": "image_252.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_252.jpg",
+        "url": "https://www.geox.com/dw/image/v2/BCCR_PRD/on/demandware.static/-/Sites-masterCatalogGeox/default/dwa59c1162/images/large/J92D9B05015CP8E8-105.jpg?sw=400",
+        "label": "No"
+    },
+    "253": {
+        "name": "image_253.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_253.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/71mEUOHizIL._UL1500_.jpg",
+        "label": "No"
+    },
+    "254": {
+        "name": "image_254.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_254.jpg",
+        "url": "http://photo1.i-run.fr/salomon-s-lab-sonic-m-chaussures-homme-107328-1-l.jpg",
+        "label": "Yes"
+    },
+    "255": {
+        "name": "image_255.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_255.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/products/sprga/sprga3000012560/sprga3000012560_p1_1-1._QL90_UX336_.jpg",
+        "label": "Yes"
+    },
+    "256": {
+        "name": "image_256.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_256.jpg",
+        "url": "https://images2.productserve.com/?w=400&h=400&bg=white&trim=5&t=letterbox&url=d2ob0iztsaxy5v.cloudfront.net%2Fproduct%2F341013%2F3410137060_zm.jpg&feedId=16889&k=9177c58a8e837b7b24c67d9edf9ebbd59ec1e9d9",
+        "label": "Yes"
+    },
+    "257": {
+        "name": "image_257.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_257.jpg",
+        "url": "https://m.media-amazon.com/images/I/41vMJzE1WkL.jpg",
+        "label": "No"
+    },
+    "258": {
+        "name": "image_258.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_258.jpg",
+        "url": "https://cdn.flightclub.com/TEMPLATE/052647/2.jpg",
+        "label": "Yes"
+    },
+    "259": {
+        "name": "image_259.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_259.jpg",
+        "url": "https://img.shopstyle-cdn.com/pim/b4/96/b4963e7798d0956475ea256ba24ba881_xlarge.jpg",
+        "label": "Yes"
+    },
+    "261": {
+        "name": "image_261.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_261.jpg",
+        "url": "https://egress.storeden.net/jpg/5cd27fd102e58e96705c5943",
+        "label": "No"
+    },
+    "262": {
+        "name": "image_262.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_262.jpg",
+        "url": "http://images.finishline.com/is/image/FinishLine/843989_999?$Grid$",
+        "label": "Yes"
+    },
+    "263": {
+        "name": "image_263.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_263.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0933/1060/products/nike-air-vapormax-plus-medium-olive-black-baroque-brown-924453-206_400x.jpg?v=1579197987",
+        "label": "Yes"
+    },
+    "264": {
+        "name": "image_264.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_264.jpg",
+        "url": "https://www.bikebargains.co.uk/wp-content/uploads/2016/02/shimano-r088-road-spd-shoes-196x156.jpg",
+        "label": "Yes"
+    },
+    "265": {
+        "name": "image_265.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_265.jpg",
+        "url": "https://artimg.footway.com/01/525/52596-00/up/705/705/52596-00.png",
+        "label": "Yes"
+    },
+    "266": {
+        "name": "image_266.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_266.jpg",
+        "url": "https://www.billionaire.com/dw/image/v2/BBKQ_PRD/on/demandware.static/-/Sites-billionaire-master-catalog/default/dw3710d004/images/large/O18S-MSC1620-BLE037C_0292_sts.jpg?sw=603&amp;sh=768",
+        "label": "No"
+    },
+    "268": {
+        "name": "image_268.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_268.jpg",
+        "url": "https://cdn.laboutiqueofficielle.com/resize/427x427-s/products/2016/01/25/nike_65834_705282-700_20180820T102714_01.jpg",
+        "label": "No"
+    },
+    "269": {
+        "name": "image_269.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_269.jpg",
+        "url": "https://i.pinimg.com/736x/3e/97/ce/3e97ce26e95c0e25fe7c1f938484189a--leather-buckle-leather-ankle-boots.jpg",
+        "label": "No"
+    },
+    "270": {
+        "name": "image_270.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_270.jpg",
+        "url": "http://lh5.ggpht.com/-8luVZ8aIV4Q/TXVpxrqxFfI/AAAAAAACpLc/r5OTpJl4P5c/nike-lebron-8-ps-dunkman-4-02.jpg",
+        "label": "No"
+    },
+    "271": {
+        "name": "image_271.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_271.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41JWB3eFp1L.jpg",
+        "label": "Yes"
+    },
+    "273": {
+        "name": "image_273.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_273.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51yEXiqhghL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA(85%20Reviews)%2C445%2C286%2C400%2C400%2Carial%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_.jpg",
+        "label": "Yes"
+    },
+    "274": {
+        "name": "image_274.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_274.jpg",
+        "url": "http://mangocheats.com/wp-content/uploads/2019/09/heart-of-vegas-cheats-176x176.jpg",
+        "label": "No"
+    },
+    "275": {
+        "name": "image_275.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_275.jpg",
+        "url": "https://m.media-amazon.com/images/I/71Tzf4dmnzL._SX400_.jpg",
+        "label": "No"
+    },
+    "276": {
+        "name": "image_276.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_276.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0015/5782/3600/products/vinny-blksu___vinny-loafer-black-suede___side_250x.jpg?v=1571714535",
+        "label": "Yes"
+    },
+    "277": {
+        "name": "image_277.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_277.jpg",
+        "url": "https://utahsweetsavings.com/wp-content/uploads/2011/11/2011-11-27-10.42.59-pm.png",
+        "label": "Yes"
+    },
+    "278": {
+        "name": "image_278.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_278.jpg",
+        "url": "https://i2.wp.com/blog.entheosweb.com/wp-content/uploads/2012/02/img_trans_image038.jpg",
+        "label": "No"
+    },
+    "279": {
+        "name": "image_279.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_279.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/31z2DOrEQHL.jpg",
+        "label": "No"
+    },
+    "282": {
+        "name": "image_282.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_282.jpg",
+        "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F10%2Fnike-air-max-270-summit-white-arctic-pink-floral-3.jpg?q=75&w=800&cbr=1&fit=max",
+        "label": "No"
+    },
+    "283": {
+        "name": "image_283.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_283.jpg",
+        "url": "https://img01.ztat.net/article/spp-media-p1/de23254d8b3a34499c6d9b352da01b31/61da3313939e4c8e98cd6c4c4e1c7a08.jpg?imwidth=300",
+        "label": "No"
+    },
+    "284": {
+        "name": "image_284.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_284.jpg",
+        "url": "https://images.solecollector.com/complex/image/upload/clz7kgm40xhghrvtiedq.jpg",
+        "label": "Yes"
+    },
+    "285": {
+        "name": "image_285.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_285.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41-56VmJA%2BL.jpg",
+        "label": "Yes"
+    },
+    "286": {
+        "name": "image_286.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_286.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/414VtGv7QpL.jpg",
+        "label": "Yes"
+    },
+    "287": {
+        "name": "image_287.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_287.jpg",
+        "url": "http://s7d1.scene7.com/is/image/ShiekhShoes/85-595.1A?$shiekh_large$",
+        "label": "No"
+    },
+    "289": {
+        "name": "image_289.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_289.jpg",
+        "url": "https://www.neimanmarcus.com/product_assets/N/5/K/J/P/NMN5KJP_mk.jpg",
+        "label": "Yes"
+    },
+    "290": {
+        "name": "image_290.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_290.jpg",
+        "url": "https://i2.wp.com/ecx.images-amazon.com/images/I/51r7foJmVaL.jpg?resize=500%2C500",
+        "label": "Yes"
+    },
+    "294": {
+        "name": "image_294.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_294.jpg",
+        "url": "https://images.esellerpro.com/2355/I/857/59/new%20oxford.jpg",
+        "label": "No"
+    },
+    "295": {
+        "name": "image_295.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_295.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/81ktOzd+CfL._SL1500_.jpg",
+        "label": "Yes"
+    },
+    "296": {
+        "name": "image_296.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_296.jpg",
+        "url": "https://materialdeescalada.com/8019-home_default/zapatillas-trekking-dolomite-kendal-low-marron-goretex.jpg",
+        "label": "Yes"
+    },
+    "299": {
+        "name": "image_299.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_299.jpg",
+        "url": "https://krasnodar.kedred.ru/wp-content/uploads/2018/03/Converse-Chuck-Taylor-All-Star-II-High-RedWhite-3150-36-45-3-e1521060962113.jpg",
+        "label": "Yes"
+    },
+    "300": {
+        "name": "image_300.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_300.jpg",
+        "url": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/cnvsm/cnvsm3032864850/cnvsm3032864850_q3_1-0._UX357_QL90_.jpg",
+        "label": "Yes"
+    },
+    "301": {
+        "name": "image_301.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_301.jpg",
+        "url": "https://riverisland.scene7.com/is/image/RiverIsland/832704_main?$CrossSellProductPage300$&locale=en",
+        "label": "Yes"
+    },
+    "302": {
+        "name": "image_302.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_302.jpg",
+        "url": "http://riverisland.scene7.com/is/image/RiverIsland/270801_main?$CrossSellProductPage514$",
+        "label": "No"
+    },
+    "304": {
+        "name": "image_304.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_304.jpg",
+        "url": "https://us.123rf.com/450wm/orson/orson1205/orson120500022/13620829-abstract-vector-green-puzzle--solution-background-detail.jpg",
+        "label": "No"
+    },
+    "305": {
+        "name": "image_305.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_305.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2236/6547/products/GOGO-QUILTEDBLACKLEATHERINV-2020-1_740x.jpg?v=1596768803",
+        "label": "No"
+    },
+    "306": {
+        "name": "image_306.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_306.jpg",
+        "url": "http://rlv.zcache.com.au/van_gogh_paintings_van_gogh_sunflowers_cards-r987c30d142b94148952bb94f37767b07_xvuak_8byvr_216.jpg",
+        "label": "No"
+    },
+    "309": {
+        "name": "image_309.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_309.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0020/0192/8290/products/Breathable-Running-Shoes-for-Man-Black-White-Sport-Shoes-Men-Sneakers-Zapatos-Corrientes-De-Verano-Red.jpg_640x640_429e5c3f-0d12-497d-aed0-e8d3e5612ee1_300x300.jpg?v=1571345108",
+        "label": "No"
+    },
+    "310": {
+        "name": "image_310.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_310.jpg",
+        "url": "https://i.stpost.com/new-balance-mr1190-running-shoes-for-men-in-white-yellow-red~p~5179h_01~460.3.jpg",
+        "label": "No"
+    },
+    "311": {
+        "name": "image_311.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_311.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/5159zGnbgqL.jpg",
+        "label": "No"
+    },
+    "313": {
+        "name": "image_313.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_313.jpg",
+        "url": "https://render.fineartamerica.com/images/rendered/search/poster/images/artworkimages/medium/1/1-mekong-bobtail-kitty-with-blue-eyes-on-isolated-black-background-sergey-taran.jpg",
+        "label": "No"
+    },
+    "314": {
+        "name": "image_314.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_314.jpg",
+        "url": "https://static.supersklep.pl/978819-320-buty-emerica-wino-g6-slip-on-black-blue.jpg",
+        "label": "Yes"
+    },
+    "315": {
+        "name": "image_315.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_315.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51AkWuNqrcL.jpg",
+        "label": "No"
+    },
+    "316": {
+        "name": "image_316.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_316.jpg",
+        "url": "https://www.dhresource.com/200x200s/f2-albu-g9-M00-C6-C9-rBVaVVwsVVyARsemAAcThmFBJDQ236.jpg/2018-running-shoes-s-og-gold-silver-bullet.jpg",
+        "label": "No"
+    },
+    "317": {
+        "name": "image_317.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_317.jpg",
+        "url": "https://i1.adis.ws/t/jpl/jdie_product_list?plu=jd_119955_a&exclusive=1&qlt=80&wid=300&hei=300&v=1",
+        "label": "Yes"
+    },
+    "318": {
+        "name": "image_318.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_318.jpg",
+        "url": "https://i.pinimg.com/236x/7a/cd/59/7acd59b52b812e462f82f595769b2894.jpg",
+        "label": "No"
+    },
+    "320": {
+        "name": "image_320.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_320.jpg",
+        "url": "https://n.nordstrommedia.com/id/9f0b193a-692d-43d0-897a-4637d2d419d6.jpeg?crop=pad&amp;pad_color=FFF&amp;format=jpeg&amp;trim=color&amp;trimcolor=FFF&amp;w=60&amp;h=90",
+        "label": "No"
+    },
+    "321": {
+        "name": "image_321.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_321.jpg",
+        "url": "https://www.dhresource.com/0x0s/f2-albu-g4-M00-88-74-rBVaEVoW0xmAFKITAACV1ukCqUU015.jpg/mens-basketball-shoes-2018-harden-vol-1-xeno.jpg",
+        "label": "No"
+    },
+    "322": {
+        "name": "image_322.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_322.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0928/3584/products/20200821_131944-edited_compact.jpg?v=1602797562",
+        "label": "No"
+    },
+    "323": {
+        "name": "image_323.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_323.jpg",
+        "url": "https://img01.ztat.net/article/spp-media-p1/67eb931ba4c539f0b675cdc03bc7583e/7317be6e50d54c72a79b9f9ec2e68a05.jpg?imwidth=300&filter=packshot",
+        "label": "Yes"
+    },
+    "326": {
+        "name": "image_326.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_326.jpg",
+        "url": "https://s.kaskus.id/images/2013/12/25/2251418_20131225102702.jpg",
+        "label": "No"
+    },
+    "327": {
+        "name": "image_327.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_327.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0044/4674/8742/products/QAR-5110_S1_213c54b7-b3fe-478e-a3b0-07673ad515f9_45x.jpg?v=1579127639",
+        "label": "Yes"
+    },
+    "328": {
+        "name": "image_328.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_328.jpg",
+        "url": "https://media.guestofaguest.com/t_card_small/wp-content/uploads/wppa/755368.jpg",
+        "label": "No"
+    },
+    "330": {
+        "name": "image_330.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_330.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1212/1594/products/A7151_large.jpg?v=1486060413",
+        "label": "Yes"
+    },
+    "331": {
+        "name": "image_331.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_331.jpg",
+        "url": "https://s3-eu-west-1.amazonaws.com/img.frmoda.com/scarpe/clarks/dese/alias/DESERTLONDONBRWmarrone-01.jpg",
+        "label": "No"
+    },
+    "332": {
+        "name": "image_332.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_332.jpg",
+        "url": "https://i.ebayimg.com/images/g/8WQAAOSwkiZcl8rO/s-l300.jpg",
+        "label": "No"
+    },
+    "333": {
+        "name": "image_333.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_333.jpg",
+        "url": "http://s7d3.scene7.com/is/image/Shoebacca/315115-106_1?wid=445&hei=445&qlt=85&op_sharpen=1",
+        "label": "Yes"
+    },
+    "334": {
+        "name": "image_334.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_334.jpg",
+        "url": "https://cdn.def-shop.com/produktthumbnails/nike-tennarit-harmaa-306899.jpg",
+        "label": "No"
+    },
+    "335": {
+        "name": "image_335.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_335.jpg",
+        "url": "https://cdn.flightclub.com/750/TEMPLATE/145092/1.jpg",
+        "label": "Yes"
+    },
+    "336": {
+        "name": "image_336.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_336.jpg",
+        "url": "https://images.finishline.com/is/image/FinishLine/CN5568_BER?$Grid_rwd$",
+        "label": "Yes"
+    },
+    "337": {
+        "name": "image_337.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_337.jpg",
+        "url": "https://img01.ztat.net/article/spp-media-p1/29ee3fcb97f83a43a39107dd5ceaff9b/d2085c84ce0f49c8b4aee33fef3b23a4.jpg?imwidth=156",
+        "label": "No"
+    },
+    "338": {
+        "name": "image_338.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_338.jpg",
+        "url": "https://ssli.ebayimg.com/images/g/km4AAOSwVtZaKxFX/s-l640.jpg",
+        "label": "No"
+    },
+    "339": {
+        "name": "image_339.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_339.jpg",
+        "url": "https://www.bootbarn.com/dw/image/v2/BCCF_PRD/on/demandware.static/-/Sites-master-product-catalog-shp/default/dwf1fecaed/images/935/2000218935_285_P1.JPG?sw=290&sh=290&sm=fit",
+        "label": "No"
+    },
+    "343": {
+        "name": "image_343.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_343.jpg",
+        "url": "https://images.neimanmarcus.com/product_assets/Z/1/7/P/M/NMZ17PM_mx.jpg",
+        "label": "Yes"
+    },
+    "344": {
+        "name": "image_344.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_344.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1095/4546/products/Screen_Shot_2019-10-15_at_2.31.25_PM_400x.png?v=1596496858",
+        "label": "Yes"
+    },
+    "346": {
+        "name": "image_346.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_346.jpg",
+        "url": "https://images.sportsshoes.com/product/N/NIK9478/NIK9478_200_1.jpg",
+        "label": "No"
+    },
+    "347": {
+        "name": "image_347.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_347.jpg",
+        "url": "https://cloud.camper.com/is/image/JGNhbXBlcjYwMCQ=/K200828-001_F.jpg",
+        "label": "No"
+    },
+    "348": {
+        "name": "image_348.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_348.jpg",
+        "url": "https://i.ebayimg.com/images/g/vWQAAOSwk25cnR3I/s-l1600.jpg",
+        "label": "No"
+    },
+    "349": {
+        "name": "image_349.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_349.jpg",
+        "url": "https://cdn.laboutiqueofficielle.com/resize/170x170/products/2019/06/11/none_186256_EE7464_20190612T143520_01.jpg",
+        "label": "No"
+    },
+    "350": {
+        "name": "image_350.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_350.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0009/2114/1308/products/New_Balance_ML574PTR_Sneakers_1_of_6_480x_crop_center.jpg?v=1571611470",
+        "label": "No"
+    },
+    "351": {
+        "name": "image_351.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_351.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/PWAAAOSwO95bkTFi/s-l225.jpg",
+        "label": "No"
+    },
+    "352": {
+        "name": "image_352.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_352.jpg",
+        "url": "https://lojavirus.fbitsstatic.net/img/p/tenis-keds-champion-woman-canvas-grena-kd1001171-67728/264701-1.jpg?w=420&h=420&v=no-change",
+        "label": "No"
+    },
+    "353": {
+        "name": "image_353.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_353.jpg",
+        "url": "https://sneakers.moonitem.com//images/2016/nike_130690-013.jpg",
+        "label": "Yes"
+    },
+    "354": {
+        "name": "image_354.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_354.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1975/9333/products/TT-L_WILD_8-1_c81f2f41-17bb-4dd7-8c5c-a1846d2be90f_2048x2048.jpg?v=1596521605",
+        "label": "Yes"
+    },
+    "355": {
+        "name": "image_355.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_355.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/318R%2BbUlDKL.jpg",
+        "label": "Yes"
+    },
+    "357": {
+        "name": "image_357.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_357.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/iaEAAOSwTmtaKa7r/s-l225.jpg",
+        "label": "No"
+    },
+    "358": {
+        "name": "image_358.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_358.jpg",
+        "url": "http://magme.hr/wp-content/uploads/2016/12/adidas-yeezy-boost-350-v3-all-white-detail-3_2.jpg",
+        "label": "No"
+    },
+    "359": {
+        "name": "image_359.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_359.jpg",
+        "url": "https://static.euronews.com/articles/336512/160x90_336512.jpg",
+        "label": "No"
+    },
+    "360": {
+        "name": "image_360.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_360.jpg",
+        "url": "http://d5n0lf4gshqmd.cloudfront.net/img/049108_89_p1/470/575/i.jpg",
+        "label": "No"
+    },
+    "361": {
+        "name": "image_361.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_361.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61PrFb3IJpL._UY395_.jpg",
+        "label": "Yes"
+    },
+    "362": {
+        "name": "image_362.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_362.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/71u6w7dFkpL._SL1500_.jpg",
+        "label": "Yes"
+    },
+    "363": {
+        "name": "image_363.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_363.jpg",
+        "url": "https://assets.burberry.com/is/image/Burberryltd/368a019c8cce1f6058dd519a0ca22ab9a1b24665.jpg?$BBY_V2_SL_1X1$&wid=1920&hei=1920",
+        "label": "No"
+    },
+    "364": {
+        "name": "image_364.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_364.jpg",
+        "url": "https://cdn.weartesters.com/wp-content/uploads/2014/01/adidas-D-Rose-4.5-Available-Now-on-miadidas-1-e1391155122360.png",
+        "label": "No"
+    },
+    "365": {
+        "name": "image_365.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_365.jpg",
+        "url": "http://scene7.zumiez.com/is/image/zumiez/192855-0025?wid=450&hei=450",
+        "label": "Yes"
+    },
+    "366": {
+        "name": "image_366.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_366.jpg",
+        "url": "https://cdn.sportsshoes.com/product/A/ASI12036/ASI12036_1000_1.jpg",
+        "label": "No"
+    },
+    "367": {
+        "name": "image_367.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_367.jpg",
+        "url": "https://cdni.llbean.net/is/image/wim/297726_42551_41?hei=438&amp;wid=380&amp;qlt=40",
+        "label": "No"
+    },
+    "370": {
+        "name": "image_370.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_370.jpg",
+        "url": "http://img.hisupplier.com/var/userImages/2010-02/03/safetyshoes$160619246(240).jpg",
+        "label": "No"
+    },
+    "371": {
+        "name": "image_371.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_371.jpg",
+        "url": "https://s7.landsend.com/is/image/LandsEnd/427549_AG13_LF_M73?$ix_img_v3$",
+        "label": "Yes"
+    },
+    "372": {
+        "name": "image_372.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_372.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0322/2578/8042/products/product-image-1560603917_400x.jpg?v=1603552888",
+        "label": "No"
+    },
+    "374": {
+        "name": "image_374.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_374.jpg",
+        "url": "https://i1.wp.com/hypebeast.com/image/2014/03/adidas-originals-zx-flux-8k-graphic-pack-0.jpg?w=516",
+        "label": "Yes"
+    },
+    "375": {
+        "name": "image_375.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_375.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0268/4908/3451/products/ADMS7S30_80-00_-2_600x.jpg?v=1599814697",
+        "label": "No"
+    },
+    "376": {
+        "name": "image_376.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_376.jpg",
+        "url": "https://s3-eu-central-1.amazonaws.com/topkopacky/wp-content/uploads/2017/03/30183137/puma-evospeed-3-5-leather.jpg",
+        "label": "Yes"
+    },
+    "378": {
+        "name": "image_378.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_378.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41OIurMXArL.jpg",
+        "label": "Yes"
+    },
+    "379": {
+        "name": "image_379.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_379.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/41nnzOFI1OL.jpg",
+        "label": "No"
+    },
+    "380": {
+        "name": "image_380.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_380.jpg",
+        "url": "https://s7d9.scene7.com/is/image/zumiez/cat_max/eS-Accel-Slim-Mid-Dark-%26-Light-Grey-Skate-Shoes-_299696.jpg",
+        "label": "Yes"
+    },
+    "381": {
+        "name": "image_381.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_381.jpg",
+        "url": "http://ugc.nikeid.com/is/image/nike/pwp_sheet_ftwr?$NIKE_PWPx3_FTWR$&$img0=ugc/694324773.tif&$img1=ugc/204199802.tif&$img2=ugc/227019523.tif",
+        "label": "No"
+    },
+    "382": {
+        "name": "image_382.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_382.jpg",
+        "url": "http://thumbnail.image.rakuten.co.jp/@0_mall/annexsp/cabinet/item15/tjg126.jpg?_ex=330x330",
+        "label": "No"
+    },
+    "383": {
+        "name": "image_383.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_383.jpg",
+        "url": "http://media2.newlookassets.com/i/newlook/544678010.jpg",
+        "label": "Yes"
+    },
+    "385": {
+        "name": "image_385.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_385.jpg",
+        "url": "http://www.purebrandsuk.com/images/camper-beetle-muffler-kenia-brown-n5-18648-023-mens-shoes-p1669-5940_image.jpg",
+        "label": "Yes"
+    },
+    "386": {
+        "name": "image_386.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_386.jpg",
+        "url": "https://assets.academy.com/mgen/82/10498282.jpg",
+        "label": "No"
+    },
+    "387": {
+        "name": "image_387.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_387.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0155/0629/products/classicsliponcheckerboard1_1024x1024.jpg?v=1552503711",
+        "label": "No"
+    },
+    "388": {
+        "name": "image_388.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_388.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/41txXivPemL.01_SL400_.jpg",
+        "label": "No"
+    },
+    "390": {
+        "name": "image_390.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_390.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1591/7907/products/gucci_ultrapace-sneakers_black_5872410PVT01280_35864_6_grande.jpg?v=1584717366",
+        "label": "Yes"
+    },
+    "392": {
+        "name": "image_392.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_392.jpg",
+        "url": "http://s4.thcdn.com/productimg/180/180/10874809-5094364062834506.jpg",
+        "label": "Yes"
+    },
+    "396": {
+        "name": "image_396.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_396.jpg",
+        "url": "https://napieszo.pl/8005-home_alysum/buty-trekkingowe-the-north-face-m-chilkat-iii-meskie.jpg",
+        "label": "No"
+    },
+    "397": {
+        "name": "image_397.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_397.jpg",
+        "url": "https://photos6.spartoo.co.uk/photos/190/19008271/19008271_200_A.jpg",
+        "label": "Yes"
+    },
+    "398": {
+        "name": "image_398.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_398.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP.JFjuFQNW5M8CIgTAMz8koAHaHa",
+        "label": "No"
+    },
+    "399": {
+        "name": "image_399.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_399.jpg",
+        "url": "https://artimg03.footway.com/01/600/60049-62/shelf/160/1500/60049-62.png",
+        "label": "Yes"
+    },
+    "400": {
+        "name": "image_400.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_400.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51UxZVv6BWL._UY575_.jpg",
+        "label": "No"
+    },
+    "402": {
+        "name": "image_402.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_402.jpg",
+        "url": "https://m.media-amazon.com/images/I/716e3W7j-oL._AC_SX255_.jpg",
+        "label": "No"
+    },
+    "404": {
+        "name": "image_404.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_404.jpg",
+        "url": "https://i.pinimg.com/736x/3b/06/c4/3b06c490bbc24148fe805853249e8f5e.jpg",
+        "label": "No"
+    },
+    "405": {
+        "name": "image_405.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_405.jpg",
+        "url": "https://dimg.dillards.com/is/image/DillardsZoom/nav2/trotters-liz-woven-leather-loafers/05693821_zi_bone.jpg",
+        "label": "No"
+    },
+    "406": {
+        "name": "image_406.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_406.jpg",
+        "url": "https://photos6.spartoo.de/photos/668/6687772/6687772_350_A.jpg",
+        "label": "Yes"
+    },
+    "407": {
+        "name": "image_407.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_407.jpg",
+        "url": "https://se.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dw6b4f461a/images/large/Y01873_PR012_H7116_A.jpg?sw=406&sh=541",
+        "label": "No"
+    },
+    "408": {
+        "name": "image_408.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_408.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1629/3913/products/INFANTBLACK2_large.jpg?v=1547432325",
+        "label": "Yes"
+    },
+    "409": {
+        "name": "image_409.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_409.jpg",
+        "url": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/ois63oaoyvbfhajkfahh/air-max-plus-sko-RRT908b3.jpg",
+        "label": "Yes"
+    },
+    "410": {
+        "name": "image_410.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_410.jpg",
+        "url": "https://i1.adis.ws/i/johnvarvatos/F2754V1-Y1116-024-A/REED-LOW-TOP-SNEAKER.jpg?img404=product-image-not-found&fmt.jpeg.interlaced=true&$PLP-PRODUCT-DESKTOP$",
+        "label": "No"
+    },
+    "411": {
+        "name": "image_411.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_411.jpg",
+        "url": "https://i.pinimg.com/474x/5d/d8/e1/5dd8e18670caba183dda979470656fb0.jpg",
+        "label": "Yes"
+    },
+    "412": {
+        "name": "image_412.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_412.jpg",
+        "url": "https://www.footballstore.ru/images/gal/18452/goods_18452_0_thumb6.jpg",
+        "label": "No"
+    },
+    "413": {
+        "name": "image_413.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_413.jpg",
+        "url": "https://www.opensports.com.ar:443/media/catalog/product/cache/1/image/1200x/9df78eab33525d08d6e5fb8d27136e95/6/8/684771-406_0.jpg",
+        "label": "Yes"
+    },
+    "414": {
+        "name": "image_414.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_414.jpg",
+        "url": "https://is4.revolveassets.com/images/p4/n/c/YOSI-WZ204_V1.jpg",
+        "label": "No"
+    },
+    "417": {
+        "name": "image_417.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_417.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/415%2B3ahFRML.jpg",
+        "label": "No"
+    },
+    "418": {
+        "name": "image_418.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_418.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0690/1977/products/bobux-step-up-tahoe-boots-aw20-toffee_400x.jpg?v=1606936692",
+        "label": "No"
+    },
+    "420": {
+        "name": "image_420.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_420.jpg",
+        "url": "https://cdn.sanity.io/images/c1chvb1i/production/61280ed824e42d18c790cb06f52e6c24595d82c7-1100x745.jpg/nike-air-max-95-tv-colour-bars-lateral.jpg",
+        "label": "Yes"
+    },
+    "421": {
+        "name": "image_421.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_421.jpg",
+        "url": "https://www.softmoc.com/Items/images/1103764-CHE_XX4.jpg",
+        "label": "No"
+    },
+    "424": {
+        "name": "image_424.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_424.jpg",
+        "url": "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/10756637_fpx.tif?$browse$&wid=224&fmt=jpeg",
+        "label": "Yes"
+    },
+    "425": {
+        "name": "image_425.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_425.jpg",
+        "url": "https://cdn.sanity.io/images/c1chvb1i/production/066d3e6bebb459cb94a172d8d594946e493e1d08-1100x714.jpg/Air-Jordan-1-Low-PRM-Elephant-Print-DH4269-100-Release-Date-4.jpg",
+        "label": "No"
+    },
+    "426": {
+        "name": "image_426.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_426.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP.tVl5DEggFReC8i0bbMR9eAHaE8",
+        "label": "No"
+    },
+    "429": {
+        "name": "image_429.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_429.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41AHV7F9vdL.jpg",
+        "label": "No"
+    },
+    "432": {
+        "name": "image_432.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_432.jpg",
+        "url": "https://img.giglio.com/images/prodPage/B14480.061_1.jpg",
+        "label": "Yes"
+    },
+    "433": {
+        "name": "image_433.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_433.jpg",
+        "url": "https://img.brandshop.ru/cache/products/f/fv9665-6_248x248.jpg",
+        "label": "No"
+    },
+    "434": {
+        "name": "image_434.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_434.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0821/6903/products/S00CCT0-W0I-Out_600x.png?v=1576030902",
+        "label": "Yes"
+    },
+    "436": {
+        "name": "image_436.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_436.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/41d-czTqhrL.jpg",
+        "label": "No"
+    },
+    "437": {
+        "name": "image_437.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_437.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0094/2252/products/Mushroom_941912_200_8002-6.progressive.jpg?v=1492104000",
+        "label": "No"
+    },
+    "438": {
+        "name": "image_438.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_438.jpg",
+        "url": "https://img.shopstyle-cdn.com/pim/ec/d1/ecd12e60df6c84e3ca73299af36af1ae_xlarge.jpg",
+        "label": "No"
+    },
+    "439": {
+        "name": "image_439.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_439.jpg",
+        "url": "https://img.testbericht.de/winterschuh/2839699/L1_ugg-mini-bailey-button-ii-black.jpg",
+        "label": "No"
+    },
+    "440": {
+        "name": "image_440.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_440.jpg",
+        "url": "https://img01.ztat.net/article/spp-media-p1/ba7f08e91ad636a7a13a5d1b45fb71e3/a0a5ed353233410f929d21c9480c3e2b.jpg?imwidth=156",
+        "label": "Yes"
+    },
+    "441": {
+        "name": "image_441.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_441.jpg",
+        "url": "https://i.pinimg.com/236x/fd/d2/1f/fdd21f9b5a8b80c764bfd6c9451c9000--tennis-federer-sport-running.jpg",
+        "label": "Yes"
+    },
+    "442": {
+        "name": "image_442.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_442.jpg",
+        "url": "https://m.media-amazon.com/images/I/81qKE2+UBPL._AC_SX255_.jpg",
+        "label": "No"
+    },
+    "443": {
+        "name": "image_443.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_443.jpg",
+        "url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/17/213/L_p0132721317.jpg",
+        "label": "No"
+    },
+    "444": {
+        "name": "image_444.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_444.jpg",
+        "url": "https://m.media-amazon.com/images/I/71tUyLeRvdL._AC_SX255_.jpg",
+        "label": "No"
+    },
+    "446": {
+        "name": "image_446.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_446.jpg",
+        "url": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/Search/224x336/180933.jpg?X56",
+        "label": "No"
+    },
+    "447": {
+        "name": "image_447.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_447.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0297/0337/2937/products/ba20313-2db_angle_1.jpg?v=1586438416",
+        "label": "No"
+    },
+    "448": {
+        "name": "image_448.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_448.jpg",
+        "url": "http://images.nike.com/is/image/DotCom/pwp_sheet2?$NIKE_PWPx3$&$img0=845046_001&$img1=845046_100&$img2=845046_400",
+        "label": "No"
+    },
+    "449": {
+        "name": "image_449.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_449.jpg",
+        "url": "https://artimg06.footway.com/01/080/08002-02/shelf/160/1500/08002-02.png",
+        "label": "Yes"
+    },
+    "450": {
+        "name": "image_450.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_450.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/41cuAIceulL.jpg",
+        "label": "Yes"
+    },
+    "452": {
+        "name": "image_452.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_452.jpg",
+        "url": "http://basketballtrainingaid.com/image/Air_Jordan_4_Retro_Low_Flight_Blue_And_Yellow_Size12_5_USED_02_jamo.jpg",
+        "label": "No"
+    },
+    "453": {
+        "name": "image_453.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_453.jpg",
+        "url": "https://www.futbolemotion.com/imagesarticulos/126217/330/zapatilla-adidas-predator-tango-19-turf-active-red-solar-red-core-black-0.jpg",
+        "label": "No"
+    },
+    "454": {
+        "name": "image_454.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_454.jpg",
+        "url": "https://cdn.skatedeluxe.com/images/product_images/400px2x/105276-0-DC-CrisisHighWNT.jpg",
+        "label": "Yes"
+    },
+    "455": {
+        "name": "image_455.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_455.jpg",
+        "url": "http://products.drct2u.com/content/images/products/co/co527/co527_h103623.jpg",
+        "label": "No"
+    },
+    "456": {
+        "name": "image_456.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_456.jpg",
+        "url": "http://cdn.shopify.com/s/files/1/0131/9992/products/p-orange-white_large.jpg?v=1383793020",
+        "label": "No"
+    },
+    "457": {
+        "name": "image_457.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_457.jpg",
+        "url": "https://www.flowbikestore.com/image/cache/data/Shimano/Zapatillas/SH-RP300%20blancas/Zapatillas%20Shimano%20SH-RP300%20blancas-120x120.jpg",
+        "label": "Yes"
+    },
+    "458": {
+        "name": "image_458.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_458.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1000/1700/products/GDUS.M.A.Wt-Bk-outside_medium.jpeg?v=1445561539",
+        "label": "Yes"
+    },
+    "459": {
+        "name": "image_459.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_459.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/41xKGn6LHhL.jpg",
+        "label": "Yes"
+    },
+    "460": {
+        "name": "image_460.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_460.jpg",
+        "url": "http://s7d5.scene7.com/is/image/NB/mpacepb2_nb_14_i?$dw_pgp_hd$",
+        "label": "No"
+    },
+    "461": {
+        "name": "image_461.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_461.jpg",
+        "url": "https://images.riverisland.com/is/image/RiverIsland/black-chunky-sole-lace-up-trainers_316239_main?$ProductListingPage$",
+        "label": "Yes"
+    },
+    "463": {
+        "name": "image_463.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_463.jpg",
+        "url": "https://contents.mediadecathlon.com/p1420573/k$7193291e2ebcfdd77af62e0e82f1fe6e/sq/CHAUSSURE+BASKETBALL+DEBUTANT+SHIELD+300+bleu+blanc+rouge.jpg?f=700x700",
+        "label": "Yes"
+    },
+    "464": {
+        "name": "image_464.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_464.jpg",
+        "url": "https://img.shopstyle-cdn.com/pim/58/55/5855632cfb3c7d046da0696b3e134c84_xlarge.jpg",
+        "label": "No"
+    },
+    "465": {
+        "name": "image_465.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_465.jpg",
+        "url": "https://i.shopmania.org/180x180/1/1c/1cc496172576e583fc1cba833773a3eefa144519.jpg?u=https%3A%2F%2Frukminim1.flixcart.com%2Fimage%2F200%2F200%2Fshoe%2Fq%2Fg%2Fd%2Fblue-928-3-feel-it-40-original-imaemuew3h8jhpqr.jpeg%3Fq%3D90",
+        "label": "Yes"
+    },
+    "466": {
+        "name": "image_466.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_466.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0152/8319/1894/products/1f3f74682e0d7715889292350f648b770e0f0216_600x.jpg?v=1588858975",
+        "label": "Yes"
+    },
+    "467": {
+        "name": "image_467.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_467.jpg",
+        "url": "https://cdn.def-shop.com/pic260x345/nike-baskets-noir-587759.jpg",
+        "label": "Yes"
+    },
+    "468": {
+        "name": "image_468.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_468.jpg",
+        "url": "https://s7d9.scene7.com/is/image/zumiez/cat_max/Vans-A.V.E.-Pro-Blanc-De-Blanc-White-%26-Black-Skate-Shoes-_315468.jpg",
+        "label": "Yes"
+    },
+    "469": {
+        "name": "image_469.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_469.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0094/2252/products/WMNS_Adidas_EQT_Racing_ADV_PK_Cwhite_3346_600x600.progressive.jpg?v=1520032465",
+        "label": "No"
+    },
+    "470": {
+        "name": "image_470.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_470.jpg",
+        "url": "https://img01.ztat.net/article/spp-media-p1/6fe22c6290db36f7a3afd68bcc557b62/321a952e109b4081bfa0fac8413fc338.jpg?imwidth=300",
+        "label": "No"
+    },
+    "471": {
+        "name": "image_471.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_471.jpg",
+        "url": "http://s7ondemand1.scene7.com/is/image/roadrunnersports/NIK1604-BKRD060?wid=500&hei=500&s=12&w=D",
+        "label": "Yes"
+    },
+    "472": {
+        "name": "image_472.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_472.jpg",
+        "url": "https://i.ebayimg.com/images/g/HGkAAOSwnoVa0bhU/s-l640.jpg",
+        "label": "No"
+    },
+    "473": {
+        "name": "image_473.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_473.jpg",
+        "url": "https://img.shopstyle-cdn.com/sim/cc/fe/ccfeb143f0f9381bfd0d173959652ac6/vans-kids-classic-slip-on-toddler.jpg",
+        "label": "No"
+    },
+    "475": {
+        "name": "image_475.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_475.jpg",
+        "url": "https://images.squarespace-cdn.com/content/52e89bfae4b06b90fc8aa357/1395630211358-NKJGSDJ6NNAUTLLOQNED/differential+diagnosis?content-type=image%2Fpng",
+        "label": "No"
+    },
+    "476": {
+        "name": "image_476.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_476.jpg",
+        "url": "https://img.shopstyle-cdn.com/pim/ec/ec/ececa877471f086a5ca5434115a90914_xlarge.jpg",
+        "label": "No"
+    },
+    "477": {
+        "name": "image_477.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_477.jpg",
+        "url": "https://image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-INT-Site/Sites-master/it/dw13656222/38SFA0046_TS2_06.jpg",
+        "label": "Yes"
+    },
+    "478": {
+        "name": "image_478.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_478.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/41uAY6Qg7HL.jpg",
+        "label": "Yes"
+    },
+    "479": {
+        "name": "image_479.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_479.jpg",
+        "url": "https://farm9.staticflickr.com/8531/8474010141_7a74019f2e.jpg",
+        "label": "No"
+    },
+    "480": {
+        "name": "image_480.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_480.jpg",
+        "url": "https://images.neimanmarcus.com/ca/1/product_assets/N/2/F/0/E/NMN2F0E_mi.jpg",
+        "label": "Yes"
+    },
+    "481": {
+        "name": "image_481.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_481.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB1WRpoXGSs3KVjSZPiq6AsiVXa1.jpg",
+        "label": "Yes"
+    },
+    "482": {
+        "name": "image_482.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_482.jpg",
+        "url": "https://staticv2.smallable.com/887801-large/shark-waterproof-leather-sandals.jpg",
+        "label": "No"
+    },
+    "484": {
+        "name": "image_484.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_484.jpg",
+        "url": "https://d6vlq12fn2gvh.cloudfront.net/uploads/item_image/image/57/air-jordan-1-retro-og-shadow.jpg",
+        "label": "Yes"
+    },
+    "486": {
+        "name": "image_486.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_486.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/41d3ifC7BtL.jpg",
+        "label": "Yes"
+    },
+    "488": {
+        "name": "image_488.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_488.jpg",
+        "url": "http://tse1.mm.bing.net/th?id=OIP.mQGTHlL0kVqtSMUyK593VwHaEN",
+        "label": "Yes"
+    },
+    "489": {
+        "name": "image_489.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_489.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51DIyx99%2BXL.jpg",
+        "label": "No"
+    },
+    "490": {
+        "name": "image_490.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_490.jpg",
+        "url": "https://images.bonanzastatic.com/afu/images/e527/07a1/66a0_8758264721/s-l1600_thumb200.png",
+        "label": "Yes"
+    },
+    "491": {
+        "name": "image_491.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_491.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/nJ4AAOSwH9Zf-gxy/s-l300.jpg",
+        "label": "No"
+    },
+    "492": {
+        "name": "image_492.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_492.jpg",
+        "url": "https://top10reviewof.com/wp-content/uploads/2016/11/9.-Ever-Boots.jpg",
+        "label": "No"
+    },
+    "493": {
+        "name": "image_493.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_493.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0254/0981/4573/products/Bewerkt-Hersteld111_1000x1000.png?v=1606130213",
+        "label": "Yes"
+    },
+    "494": {
+        "name": "image_494.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_494.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0094/2252/products/Kith-4011_300x.JPG?v=1579189292",
+        "label": "No"
+    },
+    "495": {
+        "name": "image_495.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_495.jpg",
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/41kfPnyzfkL.jpg",
+        "label": "Yes"
+    },
+    "496": {
+        "name": "image_496.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_496.jpg",
+        "url": "https://proshopaholic.com/sites/default/files/styles/thumbs_200x200/public/new-balance/ml2002rg_nb_02_i.jpg?itok=osg2oJHM",
+        "label": "Yes"
+    },
+    "497": {
+        "name": "image_497.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_497.jpg",
+        "url": "https://m.media-amazon.com/images/I/41PZzFZfHgL.jpg",
+        "label": "Yes"
+    },
+    "498": {
+        "name": "image_498.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_498.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0784/0037/products/d224900_moroccoburgundy_3_1200x_a8d0f63e-475e-4058-9376-498a9cc65b19_300x.jpg?v=1531153059",
+        "label": "Yes"
+    },
+    "499": {
+        "name": "image_499.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_499.jpg",
+        "url": "https://artimg06.footway.com/01/559/55971-00/shelf_side/240/2250/55971-00.png",
+        "label": "No"
+    },
+    "500": {
+        "name": "image_500.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_500.jpg",
+        "url": "https://www.chaussures-duretz.com/51-medium_default/chaussures-homme-geox.jpg",
+        "label": "Yes"
+    },
+    "501": {
+        "name": "image_501.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_501.jpg",
+        "url": "https://si.diesel.com/dw/image/v2/BBLG_PRD/on/demandware.static/-/Sites-diesel-master-catalog/default/dw7d7275f4/images/large/BC0036_P1318_T1003_F.jpg?sw=320&amp;sh=427",
+        "label": "Yes"
+    },
+    "502": {
+        "name": "image_502.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_502.jpg",
+        "url": "http://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod133312_Grey%20-%20Yellow_NE_01&$offerflag=Clearance&$offerhide=0&$promoflag=1000BikesWK12&$promohide=0&locale=en",
+        "label": "No"
+    },
+    "503": {
+        "name": "image_503.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_503.jpg",
+        "url": "http://www.bootbarn.com/dw/image/v2/BCCF_PRD/on/demandware.static/-/Sites-master-product-catalog-shp/default/dw685edda0/images/986/2000223986_200_P1.JPG?sw=210&amp;sh=250&amp;sm=fit",
+        "label": "No"
+    },
+    "504": {
+        "name": "image_504.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_504.jpg",
+        "url": "https://www.wheelies.co.uk/Images/Products/Specialized-Expert-Road-Shoe-38665-Medium.jpg",
+        "label": "No"
+    },
+    "505": {
+        "name": "image_505.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_505.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/91LyY3I-58L._SL1500_.jpg",
+        "label": "No"
+    },
+    "506": {
+        "name": "image_506.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_506.jpg",
+        "url": "https://img01.ztat.net/article/spp-media-p1/c30ba43127f63924a637ff2a90709f89/e3e04f48c6ad47668390ee0f58e41f52.jpg?imwidth=606",
+        "label": "No"
+    },
+    "507": {
+        "name": "image_507.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_507.jpg",
+        "url": "https://s3.amazonaws.com/media.locally.net/spec-220x220/1682-406275-0-image-902538.jpg",
+        "label": "Yes"
+    },
+    "508": {
+        "name": "image_508.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_508.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/3099/4872/products/ASC300016270BGY070_2_raw_2000x.jpg?v=1553141850",
+        "label": "Yes"
+    },
+    "509": {
+        "name": "image_509.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_509.jpg",
+        "url": "https://img.shopstyle-cdn.com/sim/7d/03/7d03c9b62ba42feddfc7b44ad00b21c1_xlarge/crystal-embellished-sneakers.jpg",
+        "label": "Yes"
+    },
+    "512": {
+        "name": "image_512.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_512.jpg",
+        "url": "http://s7d9.scene7.com/is/image/bebe/rbb-260741-blk-i1?$Thumbnail3Across$",
+        "label": "No"
+    },
+    "514": {
+        "name": "image_514.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_514.jpg",
+        "url": "https://i.pinimg.com/564x/00/99/d0/0099d0372b6d2ed900d84c37e4f97101.jpg",
+        "label": "No"
+    },
+    "515": {
+        "name": "image_515.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_515.jpg",
+        "url": "https://img.shopstyle-cdn.com/sim/c3/54/c3546a0c836a976ce8bc0200ef4c448d_xlarge/stella-mccartney-eclypse-sneakers.jpg",
+        "label": "Yes"
+    },
+    "516": {
+        "name": "image_516.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_516.jpg",
+        "url": "http://s0.geograph.org.uk/geophotos/05/55/67/5556771_3a4469db.jpg",
+        "label": "No"
+    },
+    "517": {
+        "name": "image_517.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_517.jpg",
+        "url": "https://img01.ztat.net/article/spp-media-p1/6ee88eab570e394a8659b6e9028a1ddd/aab7a4e8951f4633a05b391d8228aa3b.jpg?imwidth=300",
+        "label": "No"
+    },
+    "518": {
+        "name": "image_518.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_518.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0872/2058/products/alt_Nicco_7_compact.jpg?v=1524151550",
+        "label": "Yes"
+    },
+    "519": {
+        "name": "image_519.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_519.jpg",
+        "url": "https://img.giglio.com/images/prodList/258804.020_1.jpg",
+        "label": "Yes"
+    },
+    "520": {
+        "name": "image_520.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_520.jpg",
+        "url": "https://i.pinimg.com/originals/28/5f/7e/285f7e4d3f16953dbba2c2aad51c46a9.jpg",
+        "label": "No"
+    },
+    "522": {
+        "name": "image_522.jpg",
+        "path": "/root/home/agaile_datasets/single-sneaker-on-white-background_test/image_522.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51A4Z6cm7GL.jpg",
+        "label": "Yes"
+    }
+}

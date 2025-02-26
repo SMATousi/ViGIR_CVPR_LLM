@@ -1,0 +1,3398 @@
+{
+    "0": {
+        "name": "image_0.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_0.jpg",
+        "url": "https://thumbs.dreamstime.com/t/cute-little-boy-playing-colorful-blocks-12070619.jpg",
+        "label": "Yes"
+    },
+    "1": {
+        "name": "image_1.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_1.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB142jFLXXXXXXrXpXXq6xXFXXX6/32-PCs-children-Brand-wooden-cartoon-blocks-Kids-geometric-animal-assemble-font-b-English-b-font.jpg",
+        "label": "Yes"
+    },
+    "2": {
+        "name": "image_2.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_2.jpg",
+        "url": "http://stoysnetcdn.com/md/md0481/md0481_1.200x200.ea9fa.jpg",
+        "label": "Yes"
+    },
+    "3": {
+        "name": "image_3.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_3.jpg",
+        "url": "http://unjourunecouleur.fr/boutique/wp-content/uploads/sites/7/2016/09/Bougeoirs-Cubic-Soleil-en-bois-recycl%C3%A9-peint-8-600x600.jpg",
+        "label": "No"
+    },
+    "4": {
+        "name": "image_4.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_4.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0362/4635/6103/products/omnidem-kids-young-astronaut-watercolour-wall-stickers-16938422960263.jpg?v=1595909869",
+        "label": "No"
+    },
+    "6": {
+        "name": "image_6.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_6.jpg",
+        "url": "http://st.depositphotos.com/1010683/4493/i/110/depositphotos_44938183-Asian-little-girl-playing-toy-blocks-at-home.jpg",
+        "label": "No"
+    },
+    "7": {
+        "name": "image_7.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_7.jpg",
+        "url": "https://thumbs.dreamstime.com/t/happy-kid-kindergarten-teacher-playing-toy-building-blocks-62488649.jpg",
+        "label": "Yes"
+    },
+    "8": {
+        "name": "image_8.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_8.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0742/9183/products/300724__95858.1496158433_1024x1024.jpg?v=1525393380",
+        "label": "No"
+    },
+    "9": {
+        "name": "image_9.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_9.jpg",
+        "url": "https://i0.wp.com/whatmomslove.com/wp-content/uploads/2016/11/Builders-Guide-FEATURED.png?resize=212%2C150",
+        "label": "No"
+    },
+    "10": {
+        "name": "image_10.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_10.jpg",
+        "url": "https://us.123rf.com/450wm/nenovbrothers/nenovbrothers1301/nenovbrothers130101117/17610110-plastic-building-blocks.jpg",
+        "label": "No"
+    },
+    "11": {
+        "name": "image_11.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_11.jpg",
+        "url": "http://thumbs.dreamstime.com/t/early-education-14090251.jpg",
+        "label": "No"
+    },
+    "12": {
+        "name": "image_12.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_12.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/74/92/78/240_F_74927826_S0Pl4rEW1qk1lszQ37nv2FQ0odMQJnyc.jpg",
+        "label": "No"
+    },
+    "13": {
+        "name": "image_13.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_13.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0135/9337/8880/products/Fort_Lauderdale_Temple_Profile_1400x788.jpg?v=1546232935",
+        "label": "No"
+    },
+    "14": {
+        "name": "image_14.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_14.jpg",
+        "url": "http://st.depositphotos.com/1750981/1274/i/170/depositphotos_12743333-Kids-playing-with-blocks.jpg",
+        "label": "No"
+    },
+    "15": {
+        "name": "image_15.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_15.jpg",
+        "url": "https://thumbs.dreamstime.com/t/little-girl-classroom-early-development-cute-plays-numerous-toys-33997133.jpg",
+        "label": "No"
+    },
+    "16": {
+        "name": "image_16.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_16.jpg",
+        "url": "https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/VH-Spjq/little-asian-girl-playing-with-rubiks-cube-on-the-bed_ejo4dzd8_thumbnail-180_01.jpg",
+        "label": "No"
+    },
+    "17": {
+        "name": "image_17.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_17.jpg",
+        "url": "http://thedepression.org.au/wp-content/uploads/2013/11/Oz-Housing.jpg",
+        "label": "Yes"
+    },
+    "18": {
+        "name": "image_18.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_18.jpg",
+        "url": "http://st.depositphotos.com/1000572/1819/i/110/depositphotos_18198895-Happy-pregnant-mother-plays-with-child--.jpg",
+        "label": "Yes"
+    },
+    "19": {
+        "name": "image_19.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_19.jpg",
+        "url": "https://static0.bigstockphoto.com/thumbs/8/3/5/small2/53822230.jpg",
+        "label": "No"
+    },
+    "20": {
+        "name": "image_20.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_20.jpg",
+        "url": "https://as2.ftcdn.net/jpg/02/93/38/11/500_F_293381179_EQ0vziDpLvTw7V2R1yAPYHVQNVku7PHB.jpg",
+        "label": "No"
+    },
+    "21": {
+        "name": "image_21.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_21.jpg",
+        "url": "http://i3.ytimg.com/vi/wIvHw17vuGU/0.jpg",
+        "label": "No"
+    },
+    "22": {
+        "name": "image_22.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_22.jpg",
+        "url": "https://cdn11.bigcommerce.com/s-f62ce/images/stencil/90x120/products/312/583/SafetyTacWeb800nologo__20703.1362070138.jpg?c=2",
+        "label": "No"
+    },
+    "23": {
+        "name": "image_23.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_23.jpg",
+        "url": "https://secure.img1-ag.wfcdn.com/im/62697185/resize-h600-w600%5Ecompr-r85/4933/49330278/ncaa-table-top-stacker.jpg",
+        "label": "No"
+    },
+    "24": {
+        "name": "image_24.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_24.jpg",
+        "url": "https://images.pond5.com/closeup-mom-and-sons-hands-footage-087282974_iconm.jpeg",
+        "label": "No"
+    },
+    "25": {
+        "name": "image_25.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_25.jpg",
+        "url": "http://image.slideserve.com/848226/agent-based-model-building-blocks2-n.jpg",
+        "label": "No"
+    },
+    "26": {
+        "name": "image_26.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_26.jpg",
+        "url": "https://farm5.staticflickr.com/4900/46257565701_80231579c1_m.jpg",
+        "label": "No"
+    },
+    "28": {
+        "name": "image_28.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_28.jpg",
+        "url": "https://images.homedepot-static.com/productImages/d5ce999d-9459-4a53-a3eb-7b3ae2071380/svn/splinter-woodworking-co-combination-game-sets-snc-64_400_compressed.jpg",
+        "label": "No"
+    },
+    "30": {
+        "name": "image_30.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_30.jpg",
+        "url": "https://farm8.staticflickr.com/7034/6746116565_d72133924a_z.jpg",
+        "label": "Yes"
+    },
+    "31": {
+        "name": "image_31.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_31.jpg",
+        "url": "https://m.psecn.photoshelter.com/img-get2/I0000kIeGUU8eSCs/fill=/fit=250x250/I0000kIeGUU8eSCs.jpg",
+        "label": "Yes"
+    },
+    "32": {
+        "name": "image_32.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_32.jpg",
+        "url": "https://thumb1.shutterstock.com/image-photo/stock-photo-mother-and-her-childs-playing-with-cubes-at-home-450w-115581817.jpg",
+        "label": "No"
+    },
+    "33": {
+        "name": "image_33.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_33.jpg",
+        "url": "https://img2.exportersindia.com/product_images/bc-small/dir_119/3565334/toy-building-blocks-2891793.jpg",
+        "label": "Yes"
+    },
+    "35": {
+        "name": "image_35.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_35.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB1Y5H6X5LxK1Rjy0Ffq6zYdVXaq/Montessori-Toys-Educational-Wooden-Toys-for-Children-Early-Learning-Exercise-Hands-on-ability-Geometric-Shapes-Matching.jpg",
+        "label": "No"
+    },
+    "36": {
+        "name": "image_36.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_36.jpg",
+        "url": "https://scout-blob-cdn.azureedge.net/images/stonebriar-20190314083024-small.jpg",
+        "label": "No"
+    },
+    "37": {
+        "name": "image_37.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_37.jpg",
+        "url": "http://static3.depositphotos.com/1000507/227/i/450/depositphotos_2277900-Young-boy-playing-with-building-blocks.jpg",
+        "label": "No"
+    },
+    "38": {
+        "name": "image_38.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_38.jpg",
+        "url": "https://static.dreamland.be/wcsstore/ColruytB2CCAS/JPG/JPG/200x310/std.lang.all/31/65/asset-513165.jpg",
+        "label": "No"
+    },
+    "40": {
+        "name": "image_40.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_40.jpg",
+        "url": "https://i.pinimg.com/236x/c6/70/84/c670845ed8b394d97f3ae0b5592587a2--lemn-cus-damato.jpg",
+        "label": "Yes"
+    },
+    "41": {
+        "name": "image_41.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_41.jpg",
+        "url": "https://dta0yqvfnusiq.cloudfront.net/bakup36897689/2019/09/banner-2019-09-24T114610-940-5d8a566b6014d-300x157.jpg",
+        "label": "No"
+    },
+    "42": {
+        "name": "image_42.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_42.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/24/27/65/240_F_24276536_p8LeThDrz16k9qfiGQSo6NRaQ1pFLuQ1.jpg",
+        "label": "Yes"
+    },
+    "43": {
+        "name": "image_43.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_43.jpg",
+        "url": "https://images.pond5.com/children-looking-tower-blocks-photo-033077778_iconv.jpeg",
+        "label": "Yes"
+    },
+    "44": {
+        "name": "image_44.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_44.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1573/9489/products/KID_O_Sorting_House_1_250x.jpg?v=1541208183",
+        "label": "No"
+    },
+    "45": {
+        "name": "image_45.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_45.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/48/27/11/400_F_48271145_aUknQMRaYWB114ENCszRUwrVvJlKX3Hy.jpg",
+        "label": "Yes"
+    },
+    "46": {
+        "name": "image_46.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_46.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1786/4593/products/Plastic_Premium_Coloured_Tumbling_Blocks_White_Background_1000x1000.jpg?v=1579582626",
+        "label": "Yes"
+    },
+    "47": {
+        "name": "image_47.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_47.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0316/6489/8092/products/PT200-02_large.jpg?v=1581702366",
+        "label": "No"
+    },
+    "48": {
+        "name": "image_48.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_48.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0257/7229/4192/products/TL8468-1_1024x1024.jpg?v=1562347679",
+        "label": "Yes"
+    },
+    "50": {
+        "name": "image_50.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_50.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2207/3257/products/0505E677-0135-4448-A76C-AD94A8927855_530x@2x.jpeg?v=1553033057",
+        "label": "Yes"
+    },
+    "51": {
+        "name": "image_51.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_51.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0038/2248/5550/products/connetix100piecebox_2000x.jpg?v=1606441099",
+        "label": "No"
+    },
+    "52": {
+        "name": "image_52.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_52.jpg",
+        "url": "https://i1.wp.com/www.wonderzolder.nl/wp-content/uploads/2018/01/81XZVtFSvfL._SL1500_.jpg?resize=247%2C296&ssl=1",
+        "label": "Yes"
+    },
+    "53": {
+        "name": "image_53.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_53.jpg",
+        "url": "https://images.stockfreeimages.com/239/sfi226w/2397382.jpg",
+        "label": "No"
+    },
+    "54": {
+        "name": "image_54.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_54.jpg",
+        "url": "https://media.kohlsimg.com/is/image/kohls/2763874?wid=155&amp;hei=155&amp;op_sharpen=1",
+        "label": "No"
+    },
+    "55": {
+        "name": "image_55.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_55.jpg",
+        "url": "https://thumbs.dreamstime.com/m/toddler-boy-building-blocks-10595407.jpg",
+        "label": "No"
+    },
+    "56": {
+        "name": "image_56.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_56.jpg",
+        "url": "http://ak1.ostkcdn.com/images/products/P13996464.jpg",
+        "label": "Yes"
+    },
+    "57": {
+        "name": "image_57.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_57.jpg",
+        "url": "https://as1.ftcdn.net/jpg/03/96/09/30/220_F_396093053_LT9DaNrmNRAAZYyHsGFutRLDXDCPG86R.jpg",
+        "label": "No"
+    },
+    "58": {
+        "name": "image_58.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_58.jpg",
+        "url": "https://cdn.abicart.com/shop/ws39/51739/art39/h0961/180100961-origpic-06a551.jpg?max-width=350&max-height=350&quality=85",
+        "label": "Yes"
+    },
+    "59": {
+        "name": "image_59.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_59.jpg",
+        "url": "https://www.propertiesforsaleincyprus.co.uk/real-estate-foto/famagusta/kapparis/nieruchomosci-sprzedaz-dwie-sypialnie-apartament-with-communal-pool-famagusta-kapparis-150000-1685.jpg",
+        "label": "No"
+    },
+    "60": {
+        "name": "image_60.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_60.jpg",
+        "url": "https://media.kohlsimg.com/is/image/kohls/2300649?wid=240&hei=240&op_sharpen=1",
+        "label": "Yes"
+    },
+    "61": {
+        "name": "image_61.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_61.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0011/0719/8010/products/Luxury_alphabet_trunk_from_Myla_and_Oscar_580x.jpg?v=1552651568",
+        "label": "Yes"
+    },
+    "62": {
+        "name": "image_62.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_62.jpg",
+        "url": "https://thumb7.shutterstock.com/image-photo/stock-photo-cute-blond-child-playing-with-lots-of-colorful-wooden-blocks-indoor-active-kid-boy-wearing-450w-294097595.jpg",
+        "label": "No"
+    },
+    "63": {
+        "name": "image_63.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_63.jpg",
+        "url": "https://ae01.alicdn.com/kf/H674503b704774c519af0281d915f53acD/Educational-Mathematics-Geometric-Solid-Learning-Auxiliary-Decomposition-Geometry-Mathematical-Tool.jpg",
+        "label": "No"
+    },
+    "64": {
+        "name": "image_64.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_64.jpg",
+        "url": "https://valdodge.com/files/2008/05/sun-packaging-1223f1.jpg",
+        "label": "Yes"
+    },
+    "65": {
+        "name": "image_65.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_65.jpg",
+        "url": "https://i2.wp.com/info.4imprint.com/wp-content/uploads/P3-4imprint_TopExecutiveProducts_ArticleImages-6.jpg",
+        "label": "No"
+    },
+    "66": {
+        "name": "image_66.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_66.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1651/6693/products/product-image-1179238439_grande.jpg?v=1593749412",
+        "label": "No"
+    },
+    "67": {
+        "name": "image_67.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_67.jpg",
+        "url": "https://www.wooden-blocks.co.uk/media/image/a7/e2/a3/Holzbaukloetzeset100_Beutel_Haus_600x600.jpg",
+        "label": "No"
+    },
+    "68": {
+        "name": "image_68.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_68.jpg",
+        "url": "https://lh3.googleusercontent.com/-0gimHYyWT4k/WHUlt2IyA4I/AAAAAAAAAg4/LZgop_C18tU/w1200-h630-p-k-no-nu/Photo%25252020170110191929316.jpg",
+        "label": "No"
+    },
+    "71": {
+        "name": "image_71.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_71.jpg",
+        "url": "https://www.sarahlawrence.edu/media/early-childhood-center/images/stacking.jpg",
+        "label": "No"
+    },
+    "73": {
+        "name": "image_73.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_73.jpg",
+        "url": "https://popcards.nl/wp-content/uploads/2019/03/molen-groen-600x450.jpg",
+        "label": "No"
+    },
+    "74": {
+        "name": "image_74.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_74.jpg",
+        "url": "https://thumbs.dreamstime.com/t/dad-plays-sons-20698728.jpg",
+        "label": "No"
+    },
+    "75": {
+        "name": "image_75.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_75.jpg",
+        "url": "https://thumb101.shutterstock.com/image-photo/stock-photo-wooden-toy-cubes-with-letters-wooden-alphabet-blocks-450w-128530343.jpg",
+        "label": "Yes"
+    },
+    "76": {
+        "name": "image_76.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_76.jpg",
+        "url": "https://replicahenge.files.wordpress.com/2014/12/tumblr-cheesehenge.jpg?w=450&h=338",
+        "label": "No"
+    },
+    "78": {
+        "name": "image_78.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_78.jpg",
+        "url": "https://thumbs.dreamstime.com/t/colorful-toy-house-bricks-mess-window-roof-chimney-around-74921574.jpg",
+        "label": "No"
+    },
+    "79": {
+        "name": "image_79.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_79.jpg",
+        "url": "https://thumb101.shutterstock.com/image-photo/stock-photo-beautiful-baby-building-a-castle-with-cubes-isolated-on-white-450w-253205917.jpg",
+        "label": "No"
+    },
+    "80": {
+        "name": "image_80.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_80.jpg",
+        "url": "https://thumbs.dreamstime.com/m/boy-hard-hat-playing-blocks-25453572.jpg",
+        "label": "Yes"
+    },
+    "81": {
+        "name": "image_81.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_81.jpg",
+        "url": "http://st.depositphotos.com/1793716/4426/i/170/depositphotos_44263779-happy-kids-with-disabilities-in-preschool.jpg",
+        "label": "No"
+    },
+    "82": {
+        "name": "image_82.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_82.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/36/69/11/400_F_36691133_YQI4QBmV6QtGWFGAQUP4sz51JrKKUqdt.jpg",
+        "label": "No"
+    },
+    "83": {
+        "name": "image_83.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_83.jpg",
+        "url": "https://thumbs.dreamstime.com/t/logic-toy-7431950.jpg",
+        "label": "No"
+    },
+    "84": {
+        "name": "image_84.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_84.jpg",
+        "url": "https://static2.bigstockphoto.com/thumbs/6/2/3/large2/32605970.jpg",
+        "label": "No"
+    },
+    "85": {
+        "name": "image_85.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_85.jpg",
+        "url": "https://cdn.diys.com/wp-content/uploads/2016/10/Bird-Feeders-LEGO-Crafts.jpg",
+        "label": "Yes"
+    },
+    "86": {
+        "name": "image_86.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_86.jpg",
+        "url": "https://www.primotoys.com/wp-content/uploads/2017/01/BL000-alphabet-wooden-blocks-handmade-natural-smiling-tree-toys-04_5c9864d3-013f-44c4-a340-c50802d5b8d8-1-1024x683.jpg",
+        "label": "No"
+    },
+    "87": {
+        "name": "image_87.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_87.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0095/3109/7188/products/oSwPrlavuY_1024x1024.jpg?v=1603748465",
+        "label": "No"
+    },
+    "88": {
+        "name": "image_88.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_88.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/45/64/95/400_F_45649554_5haZ0NNsThm2FAPx1frxSlNqmsCM5mf1.jpg",
+        "label": "Yes"
+    },
+    "89": {
+        "name": "image_89.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_89.jpg",
+        "url": "http://www.muraldecal.com/en/img/ca17-jpg/folder/products-listado-merchant/wall-stickers-kart.jpg",
+        "label": "No"
+    },
+    "90": {
+        "name": "image_90.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_90.jpg",
+        "url": "https://wisemamma.com/wp-content/uploads/thumbs_dir/melissa-and-dog-wooden-shape-sorting-cube-6hknnskw6p0lasoe7gryfup65fqr4m728uasjxmiz8y.jpg",
+        "label": "No"
+    },
+    "91": {
+        "name": "image_91.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_91.jpg",
+        "url": "https://www.hersleykidzstore.com/image/hersleykidzstore/image/cache/data/all_product_images/product-955/E0432_9-300x300.jpg",
+        "label": "No"
+    },
+    "92": {
+        "name": "image_92.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_92.jpg",
+        "url": "https://www.whiterivercu.com/wp-content/uploads/2021/02/pexels-sharon-mccutcheon-1148496-1024x682.jpg",
+        "label": "No"
+    },
+    "93": {
+        "name": "image_93.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_93.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/36/90/13/240_F_36901385_uBcKCJh2edlf8KnjIry1leIVvOTvzYEk.jpg",
+        "label": "No"
+    },
+    "94": {
+        "name": "image_94.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_94.jpg",
+        "url": "https://static1.bigstockphoto.com/7/2/2/large2/227091979.jpg",
+        "label": "Yes"
+    },
+    "95": {
+        "name": "image_95.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_95.jpg",
+        "url": "https://us.123rf.com/450wm/jackf/jackf1104/jackf110400152/9248865-happy-baby-plays-with-toy-blocks-over-white-background.jpg",
+        "label": "No"
+    },
+    "96": {
+        "name": "image_96.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_96.jpg",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F78237467%2F91578901135%2F1%2Foriginal.20191025-165827?w=512&auto=compress&rect=0%2C0%2C2160%2C1080&s=4411bf7c6da69dbac72c46cfde817b18",
+        "label": "Yes"
+    },
+    "97": {
+        "name": "image_97.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_97.jpg",
+        "url": "https://s3.envato.com/files/34086874/isol_paper_box.jpg",
+        "label": "No"
+    },
+    "98": {
+        "name": "image_98.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_98.jpg",
+        "url": "https://thumb7.shutterstock.com/image-photo/stock-photo-cute-little-baby-boy-with-colorful-building-blocks-isolated-on-white-450w-51093328.jpg",
+        "label": "Yes"
+    },
+    "99": {
+        "name": "image_99.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_99.jpg",
+        "url": "https://thumb9.shutterstock.com/image-photo/stock-photo-beautiful-baby-building-a-castle-with-cubes-isolated-on-white-450w-259728782.jpg",
+        "label": "No"
+    },
+    "100": {
+        "name": "image_100.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_100.jpg",
+        "url": "https://i.pinimg.com/236x/8a/2c/e6/8a2ce654ce2a4766641007f43cf61985--sunday-school-activities-sunday-school-crafts.jpg",
+        "label": "No"
+    },
+    "101": {
+        "name": "image_101.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_101.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/30/17/50/240_F_30175056_W5QWA6ZQXJ3hz0y07oH7T94rcdD8oNyA.jpg",
+        "label": "No"
+    },
+    "102": {
+        "name": "image_102.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_102.jpg",
+        "url": "http://www.staples-3p.com/s7/is/image/Staples/s0673092_sc7?$splssku$",
+        "label": "Yes"
+    },
+    "103": {
+        "name": "image_103.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_103.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2386/1081/products/305531__25948.1590001209_1200x.jpg?v=1596066011",
+        "label": "Yes"
+    },
+    "104": {
+        "name": "image_104.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_104.jpg",
+        "url": "https://i0.wp.com/wizmojo.com/wp-content/uploads/2016/06/Photon-Robot-A-Robot-that-grows-with-your-child-3.jpg?resize=624%2C352&amp;ssl=1",
+        "label": "Yes"
+    },
+    "105": {
+        "name": "image_105.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_105.jpg",
+        "url": "https://thumbs.dreamstime.com/t/child-toy-blocks-3662263.jpg",
+        "label": "Yes"
+    },
+    "106": {
+        "name": "image_106.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_106.jpg",
+        "url": "https://thumb1.shutterstock.com/image-photo/stock-photo-father-mother-and-son-playing-lego-over-white-background-450w-244578190.jpg",
+        "label": "No"
+    },
+    "107": {
+        "name": "image_107.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_107.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0097/6597/8159/products/983_new3.jpg?v=1573191093",
+        "label": "No"
+    },
+    "108": {
+        "name": "image_108.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_108.jpg",
+        "url": "http://static6.depositphotos.com/1024749/603/i/450/depositphotos_6038303-Plastic-toy-blocks.jpg",
+        "label": "No"
+    },
+    "109": {
+        "name": "image_109.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_109.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51FA%2BdPyvaL._SL160_.jpg",
+        "label": "No"
+    },
+    "110": {
+        "name": "image_110.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_110.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0055/3507/2325/products/product-image-881582929_medium.jpg?v=1573335942",
+        "label": "No"
+    },
+    "111": {
+        "name": "image_111.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_111.jpg",
+        "url": "http://img.fkcdn.com/image/baby-rattle/w/g/q/hape-stacking-jill-400x400-imadrh8umztnrwmw.jpeg",
+        "label": "No"
+    },
+    "112": {
+        "name": "image_112.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_112.jpg",
+        "url": "https://thumbs.dreamstime.com/x/colored-toy-blocks-12794782.jpg",
+        "label": "No"
+    },
+    "113": {
+        "name": "image_113.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_113.jpg",
+        "url": "https://thumb9.shutterstock.com/image-photo/stock-vector-manufacture-factory-building-isometric-vector-illustration-450w-236795692.jpg",
+        "label": "No"
+    },
+    "114": {
+        "name": "image_114.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_114.jpg",
+        "url": "http://i.ytimg.com/vi/wIvHw17vuGU/hqdefault.jpg",
+        "label": "No"
+    },
+    "115": {
+        "name": "image_115.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_115.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2977/8612/products/UNTWS135_03_grande.jpg?v=1592529836",
+        "label": "No"
+    },
+    "117": {
+        "name": "image_117.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_117.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0987/2220/products/BB-242_-_Build_A_Memory_Guest_Book_1024x1024.jpg?v=1527298530",
+        "label": "Yes"
+    },
+    "119": {
+        "name": "image_119.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_119.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1128/5592/products/523348-1_large.jpg?v=1476311606",
+        "label": "No"
+    },
+    "120": {
+        "name": "image_120.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_120.jpg",
+        "url": "https://thumb7.shutterstock.com/image-photo/stock-photo-little-boy-with-his-sister-playing-at-home-450w-114229945.jpg",
+        "label": "No"
+    },
+    "121": {
+        "name": "image_121.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_121.jpg",
+        "url": "https://thumbs.dreamstime.com/t/mother-his-child-girl-play-together-home-58210611.jpg",
+        "label": "Yes"
+    },
+    "124": {
+        "name": "image_124.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_124.jpg",
+        "url": "https://www.evitas.it/images/thumbs/0060052_kids-concept-vagon-s-kockami_450.jpeg",
+        "label": "Yes"
+    },
+    "125": {
+        "name": "image_125.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_125.jpg",
+        "url": "https://thumbs.dreamstime.com/t/child-playing-blocks-22020678.jpg",
+        "label": "No"
+    },
+    "126": {
+        "name": "image_126.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_126.jpg",
+        "url": "https://i5.walmartimages.com/asr/6cf1ebc5-7910-4e56-8218-285288f0015b_1.0210cec935d22cf18386d1c54a6ca21a.jpeg?odnHeight=450&amp;odnWidth=450&amp;odnBg=ffffff",
+        "label": "No"
+    },
+    "127": {
+        "name": "image_127.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_127.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/46/72/92/110_F_46729274_FZGL4OE99VfmAwat1iXOONNO3PCLrUXx.jpg",
+        "label": "No"
+    },
+    "128": {
+        "name": "image_128.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_128.jpg",
+        "url": "https://m.media-amazon.com/images/I/41+T-2-jxEL.jpg",
+        "label": "No"
+    },
+    "130": {
+        "name": "image_130.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_130.jpg",
+        "url": "https://static3.bigstockphoto.com/thumbs/1/5/6/large2/65146378.jpg",
+        "label": "No"
+    },
+    "131": {
+        "name": "image_131.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_131.jpg",
+        "url": "https://image.shutterstock.com/image-photo/stock-photo-a-town-made-of-elements-of-a-wooden-children-s-designer-of-pastel-colors-the-idea-of-architecture-250nw-1762762343.jpg",
+        "label": "No"
+    },
+    "132": {
+        "name": "image_132.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_132.jpg",
+        "url": "https://static.turbosquid.com/Preview/001244/638/ST/3D-wooden-building-blocks-model_300.jpg",
+        "label": "Yes"
+    },
+    "133": {
+        "name": "image_133.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_133.jpg",
+        "url": "https://us.123rf.com/450wm/inarik/inarik1211/inarik121100047/16613825-happy-family-parents-with-three-kids-playing-blocks-over-white.jpg",
+        "label": "No"
+    },
+    "134": {
+        "name": "image_134.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_134.jpg",
+        "url": "http://cdn.shopify.com/s/files/1/0092/5082/products/spiel_un_holz5_medium.jpg?v=1315451963",
+        "label": "Yes"
+    },
+    "135": {
+        "name": "image_135.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_135.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0993/0368/products/s_50b4c360-b96c-492c-9c81-4162d6436981_800x.jpg?v=1604338894",
+        "label": "No"
+    },
+    "137": {
+        "name": "image_137.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_137.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0094/3782/products/Blocks_grande.jpg?v=1364336797",
+        "label": "Yes"
+    },
+    "138": {
+        "name": "image_138.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_138.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0315/1079/0276/products/building-blocks-in-a-personalised-bag-p766-2893_zoom_1024x1024.jpg?v=1579846431",
+        "label": "No"
+    },
+    "139": {
+        "name": "image_139.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_139.jpg",
+        "url": "https://i5.walmartimages.com/asr/475f5a6e-a1cd-458f-ac8a-940fa282390b_1.558d7ac6800578ffc5c2c7ec3d2d5b87.jpeg?odnHeight=180&amp;odnWidth=180&odnWidth=144&odnHeight=144",
+        "label": "No"
+    },
+    "140": {
+        "name": "image_140.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_140.jpg",
+        "url": "http://ae01.alicdn.com/kf/HTB16I74KpXXXXa2XpXXq6xXFXXXo/Children-s-chairs-building-blocks-nut-combination-disassembly-assembling-toys-Early-Learning-Toys-for-kids.jpg",
+        "label": "No"
+    },
+    "141": {
+        "name": "image_141.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_141.jpg",
+        "url": "https://i.simpalsmedia.com/marketplace/products/200x200/4800df643ce607faa6bcd2b168cd0b32.jpg",
+        "label": "Yes"
+    },
+    "142": {
+        "name": "image_142.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_142.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2591/8740/products/product-image-765050115_300x.jpg?v=1571736982",
+        "label": "Yes"
+    },
+    "143": {
+        "name": "image_143.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_143.jpg",
+        "url": "https://brianrothenbergcom.files.wordpress.com/2020/05/from_zero_to_ipo__how_growth_needs_to_evolve_at_every_startup_stage___first_round_review.png?w=701",
+        "label": "No"
+    },
+    "144": {
+        "name": "image_144.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_144.jpg",
+        "url": "https://thumbs.dreamstime.com/m/family-playing-game-together-home-12405961.jpg",
+        "label": "Yes"
+    },
+    "145": {
+        "name": "image_145.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_145.jpg",
+        "url": "https://us.123rf.com/450wm/ximagination/ximagination1202/ximagination120200047/12150232-un-ni-o-peque-o-en-serio-construir-torre.jpg?ver=6",
+        "label": "Yes"
+    },
+    "146": {
+        "name": "image_146.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_146.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0414/0501/products/stacker_medium.jpg?v=1465385711",
+        "label": "No"
+    },
+    "147": {
+        "name": "image_147.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_147.jpg",
+        "url": "https://thumbs.dreamstime.com/t/colorful-kids-toy-castle-blocks-20792405.jpg",
+        "label": "Yes"
+    },
+    "148": {
+        "name": "image_148.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_148.jpg",
+        "url": "http://tesco.scene7.com/is/image/tesco/211-9566_PI_TPS1138477?wid=250&amp;hei=250&amp;$Detail$",
+        "label": "Yes"
+    },
+    "150": {
+        "name": "image_150.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_150.jpg",
+        "url": "https://i2.wp.com/themilitarywifeandmom.com/wp-content/uploads/2018/12/open-ended-toys-blocks-fb-2.jpg?resize=700%2C375&ssl=1",
+        "label": "Yes"
+    },
+    "151": {
+        "name": "image_151.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_151.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0017/2179/4609/products/wood-wood-exclusive-rainbow-house-blocks-by-avdar-wood-wood-toys-canada-324399_300x300.jpg?v=1570416980",
+        "label": "Yes"
+    },
+    "152": {
+        "name": "image_152.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_152.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51Lsu7DiSHL.jpg",
+        "label": "No"
+    },
+    "153": {
+        "name": "image_153.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_153.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1322/5567/products/baby_x700.progressive.jpg?v=1496514285",
+        "label": "No"
+    },
+    "155": {
+        "name": "image_155.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_155.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0011/0719/8010/products/Personalised_name_blocks_300x300.PNG?v=1552992178",
+        "label": "No"
+    },
+    "156": {
+        "name": "image_156.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_156.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41RBunmKg6L._SL160_.jpg",
+        "label": "Yes"
+    },
+    "158": {
+        "name": "image_158.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_158.jpg",
+        "url": "https://www.lookwerelearning.com/wp-content/uploads/2017/02/Bitsbox-Cubebot-Toy-Look-Were-Learning.jpg",
+        "label": "No"
+    },
+    "160": {
+        "name": "image_160.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_160.jpg",
+        "url": "http://static7.depositphotos.com/1143264/724/i/950/depositphotos_7249580-Color-house-toy.jpg",
+        "label": "Yes"
+    },
+    "161": {
+        "name": "image_161.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_161.jpg",
+        "url": "https://cdn.ecommercedns.uk/files/5/241635/6/12814686/45196.jpg",
+        "label": "No"
+    },
+    "162": {
+        "name": "image_162.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_162.jpg",
+        "url": "https://static1.bigstockphoto.com/thumbs/8/0/1/large2/108044363.jpg",
+        "label": "No"
+    },
+    "163": {
+        "name": "image_163.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_163.jpg",
+        "url": "https://ahjoo.com/wp-content/uploads/2020/07/B00L5FT81Q.jpg",
+        "label": "Yes"
+    },
+    "164": {
+        "name": "image_164.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_164.jpg",
+        "url": "https://rebatekey-production.s3.us-east-2.amazonaws.com/files/images/c/2/9/w/8/c29w8.jpg",
+        "label": "No"
+    },
+    "165": {
+        "name": "image_165.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_165.jpg",
+        "url": "https://cdn.kqed.org/wp-content/uploads/sites/2/2018/11/Eames.Cards_.OMCA_-1200x815.jpg",
+        "label": "No"
+    },
+    "166": {
+        "name": "image_166.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_166.jpg",
+        "url": "https://thumbs.dreamstime.com/t/mother-baby-plays-toys-26506331.jpg",
+        "label": "Yes"
+    },
+    "167": {
+        "name": "image_167.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_167.jpg",
+        "url": "https://img.freepik.com/free-photo/mom-daughter-play-together-with-wooden-cubes_85574-1039.jpg?size=626&ext=jpg",
+        "label": "No"
+    },
+    "168": {
+        "name": "image_168.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_168.jpg",
+        "url": "https://lh4.ggpht.com/diBhFqOjARiwxsVb4AJkunxfy6EcU60EX9DxeHrpTYNb80MITE0jj7lN9gNhOU1-Fg=h900",
+        "label": "No"
+    },
+    "169": {
+        "name": "image_169.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_169.jpg",
+        "url": "https://www.wikihow.com/images/thumb/a/a7/Build-a-Pyramid-for-School-Step-27-Version-2.jpg/aid780562-v4-728px-Build-a-Pyramid-for-School-Step-27-Version-2.jpg",
+        "label": "No"
+    },
+    "170": {
+        "name": "image_170.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_170.jpg",
+        "url": "https://d31l02nbp0owar.cloudfront.net/m/t/17/135698/a-0005.jpg",
+        "label": "Yes"
+    },
+    "171": {
+        "name": "image_171.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_171.jpg",
+        "url": "https://childhood101.com/wp-content/uploads/2015/06/Family-Game-Night-Ideas_Jenga-with-a-fun-active-twist-120x120.jpg",
+        "label": "Yes"
+    },
+    "172": {
+        "name": "image_172.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_172.jpg",
+        "url": "http://static8.depositphotos.com/1303735/823/v/450/depositphotos_8231791-Wood-color-toys.-Pyramid-ball-cubes..jpg",
+        "label": "No"
+    },
+    "174": {
+        "name": "image_174.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_174.jpg",
+        "url": "https://www.wikihow.com/images/thumb/3/3f/Solve-a-Rubik%27s-Cube-Using-Commutators-Step-7.jpg/aid5631231-v4-728px-Solve-a-Rubik%27s-Cube-Using-Commutators-Step-7.jpg",
+        "label": "No"
+    },
+    "175": {
+        "name": "image_175.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_175.jpg",
+        "url": "https://i2.wp.com/lovebugsandpostcards.com/wp-content/uploads/2016/01/HabroJenga.jpg?resize=800%2C711",
+        "label": "Yes"
+    },
+    "176": {
+        "name": "image_176.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_176.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0693/0839/products/726032A_large.jpg?v=1441706476",
+        "label": "Yes"
+    },
+    "177": {
+        "name": "image_177.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_177.jpg",
+        "url": "https://thumbs.dreamstime.com/z/wooden-toy-block-house-13836689.jpg",
+        "label": "Yes"
+    },
+    "178": {
+        "name": "image_178.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_178.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51t9rMZhs2L._SL160_.jpg",
+        "label": "No"
+    },
+    "179": {
+        "name": "image_179.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_179.jpg",
+        "url": "https://i2.wp.com/earlylearningnation.com/wp-content/uploads/2019/10/synchronized-movement.jpg?resize=293%2C293&ssl=1",
+        "label": "Yes"
+    },
+    "180": {
+        "name": "image_180.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_180.jpg",
+        "url": "https://1.bp.blogspot.com/-cvYgDt3zhoA/VzV6KFVoeGI/AAAAAAAATQs/Xuwd-2fgIx8EFfX9rcVx5VhzAYwT_2BgwCLcB/s640/11.jpg",
+        "label": "No"
+    },
+    "181": {
+        "name": "image_181.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_181.jpg",
+        "url": "http://st.depositphotos.com/1037331/3007/i/110/depositphotos_30071707-Word-baby-lined-with-childrens-wooden-blocks-for-elementary-education-alphabet.jpg",
+        "label": "No"
+    },
+    "182": {
+        "name": "image_182.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_182.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/43/45/06/240_F_43450617_n1BIQ0zytdNfwztZFAuaMbd79aVKPo23.jpg",
+        "label": "No"
+    },
+    "183": {
+        "name": "image_183.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_183.jpg",
+        "url": "https://s3-us-east-2.amazonaws.com/eldmedia/wp-content/uploads/2014/07/Farmers-Market-Wedding-Ideas_0011-378x567.jpg",
+        "label": "No"
+    },
+    "185": {
+        "name": "image_185.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_185.jpg",
+        "url": "http://static6.depositphotos.com/1144191/643/i/450/dep_6430590-Playing-with-mom-is-fun.jpg",
+        "label": "Yes"
+    },
+    "186": {
+        "name": "image_186.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_186.jpg",
+        "url": "http://static8.depositphotos.com/1024749/1035/i/950/depositphotos_10355967-Wooden-building-blocks.jpg",
+        "label": "No"
+    },
+    "187": {
+        "name": "image_187.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_187.jpg",
+        "url": "https://thumb1.shutterstock.com/image-photo/stock-photo-montessori-material-450w-140850718.jpg",
+        "label": "No"
+    },
+    "188": {
+        "name": "image_188.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_188.jpg",
+        "url": "http://cloudfront.bernews.com/wp-content/uploads/2016/04/Bermuda-Open-Volleyball-April-6-2016-14.jpg",
+        "label": "No"
+    },
+    "189": {
+        "name": "image_189.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_189.jpg",
+        "url": "https://image.shutterstock.com/image-photo/close-woman-hand-arranging-wood-260nw-418482136.jpg",
+        "label": "No"
+    },
+    "190": {
+        "name": "image_190.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_190.jpg",
+        "url": "https://thumbs.dreamstime.com/t/cheerful-child-boy-hard-hat-plays-building-blocks-toys-28465583.jpg",
+        "label": "No"
+    },
+    "191": {
+        "name": "image_191.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_191.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB15eguKFXXXXX9XpXXq6xXFXXXG/Free-shipping-small-rainbow-tower-color-ring-8-layer-building-blocks-layer-upon-layer-wooden-toys.jpg_120x120.jpg",
+        "label": "No"
+    },
+    "192": {
+        "name": "image_192.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_192.jpg",
+        "url": "https://rlv.zcache.ca/pieter_bruegel_the_elder_the_tower_of_babel_poster-r311f4d8635b54905b235ef9af886a82d_wvs_8byvr_540.jpg",
+        "label": "No"
+    },
+    "193": {
+        "name": "image_193.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_193.jpg",
+        "url": "https://thumbs.dreamstime.com/b/mom-dad-kid-playroom-man-woman-boy-mom-dad-kid-playroom-man-beard-woman-boy-play-green-background-170845959.jpg",
+        "label": "No"
+    },
+    "194": {
+        "name": "image_194.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_194.jpg",
+        "url": "http://sc02.alicdn.com/kf/HTB1jT8mHFXXXXayXFXXq6xXFXXXI/BSCI-FSC-Certificated-Building-Blocks-Toys-Toy.jpg",
+        "label": "No"
+    },
+    "195": {
+        "name": "image_195.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_195.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB1mmFvKVXXXXXhXXXXq6xXFXXXI/So-Cool-white-jabbawockeez-Face-masks-Halloween-Party-Mask-Masquerade-Hip-Hop-Ghost-Dance-Fancy-Dress.jpg",
+        "label": "No"
+    },
+    "197": {
+        "name": "image_197.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_197.jpg",
+        "url": "http://sc02.alicdn.com/kf/HTB1v95wRVXXXXcgapXXq6xXFXXXG/Diy-Wood-Children-Blocks-Puzzle-Shape-Sorter.jpg_120x120.jpg",
+        "label": "No"
+    },
+    "198": {
+        "name": "image_198.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_198.jpg",
+        "url": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:350/h:350/q:75/rt:fill/g:ce/https://bleedingcool.com/wp-content/uploads/2020/07/Jenga-Super-Mario-Box-and-Game.jpg",
+        "label": "No"
+    },
+    "199": {
+        "name": "image_199.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_199.jpg",
+        "url": "https://t4.ftcdn.net/jpg/02/27/88/31/240_F_227883156_PpWpjX3OrFnCKV8S2Lcwu0CYewBserct.jpg",
+        "label": "No"
+    },
+    "201": {
+        "name": "image_201.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_201.jpg",
+        "url": "https://thumbs.dreamstime.com/t/little-cute-boy-playing-building-blocks-isolated-white-wooden-40501836.jpg",
+        "label": "Yes"
+    },
+    "202": {
+        "name": "image_202.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_202.jpg",
+        "url": "https://thumbs.dreamstime.com/t/christmas-baby-gifts-16181988.jpg",
+        "label": "No"
+    },
+    "203": {
+        "name": "image_203.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_203.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/60/53/01/110_F_60530178_1PdisM4zSj2NZhWiPUzxZSgEyP9VhOpY.jpg",
+        "label": "No"
+    },
+    "204": {
+        "name": "image_204.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_204.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/34/58/75/110_F_34587572_hqoQLLMdVFqH5aZePregoMfMaI2vDVdk.jpg",
+        "label": "Yes"
+    },
+    "205": {
+        "name": "image_205.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_205.jpg",
+        "url": "https://i.pinimg.com/236x/22/7b/86/227b8613da985e5aa6502b28d729f1e4.jpg",
+        "label": "Yes"
+    },
+    "206": {
+        "name": "image_206.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_206.jpg",
+        "url": "http://i.ytimg.com/vi/1OUJ3qc8D4c/hqdefault.jpg",
+        "label": "No"
+    },
+    "207": {
+        "name": "image_207.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_207.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0455/9189/products/BL003-building-blocks-set-natural-wood-keepsake-smiling-tree-toys-01_300x.jpg?v=1523063446",
+        "label": "No"
+    },
+    "208": {
+        "name": "image_208.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_208.jpg",
+        "url": "https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&width=400&height=579&quality=80&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FXc8FJmSKExv5GP5tIZTIjA%2Flarge.jpg",
+        "label": "No"
+    },
+    "209": {
+        "name": "image_209.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_209.jpg",
+        "url": "https://ak1.ostkcdn.com/images/products/11770626/Manhattan-Toy-Create-Play-Pattern-Blocks-c5154bc7-b163-4026-9c27-9efd9517ad51_600.jpg",
+        "label": "Yes"
+    },
+    "210": {
+        "name": "image_210.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_210.jpg",
+        "url": "http://mommomonthego.com/wp-content/uploads/2013/11/2013-11-20-17.33.21-1024x768.jpg",
+        "label": "No"
+    },
+    "211": {
+        "name": "image_211.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_211.jpg",
+        "url": "http://tesco.scene7.com/is/image/tesco/590-9448_PI_1000255MN01?wid=170&hei=170&$Offers$",
+        "label": "Yes"
+    },
+    "212": {
+        "name": "image_212.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_212.jpg",
+        "url": "http://cdn.shopify.com/s/files/1/0151/4021/products/4935228113712_large.jpeg?v=1332352056",
+        "label": "Yes"
+    },
+    "213": {
+        "name": "image_213.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_213.jpg",
+        "url": "http://sc01.alicdn.com/kf/HTB1.BBxHFXXXXa3XFXXq6xXFXXXj/plastic-building-blocks-toys-for-kids-and.jpg_200x200.jpg",
+        "label": "No"
+    },
+    "214": {
+        "name": "image_214.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_214.jpg",
+        "url": "https://kenanmalik.files.wordpress.com/2014/08/brueghel-tower-of-babel.jpg?w=800&h=638",
+        "label": "No"
+    },
+    "217": {
+        "name": "image_217.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_217.jpg",
+        "url": "https://media2.fdncms.com/sacurrent/imager/u/bigsquare/17720371/duplo.jpg",
+        "label": "Yes"
+    },
+    "218": {
+        "name": "image_218.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_218.jpg",
+        "url": "https://thumbs.dreamstime.com/x/businessman-try-compose-blocks-letters-12025980.jpg",
+        "label": "No"
+    },
+    "220": {
+        "name": "image_220.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_220.jpg",
+        "url": "https://www.partyworksinteractive.com/wp-content/uploads/2019/06/giant-leggos-10.jpg",
+        "label": "Yes"
+    },
+    "221": {
+        "name": "image_221.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_221.jpg",
+        "url": "https://im.rediff.com/335-180/money/2013/oct/28online1.jpg",
+        "label": "No"
+    },
+    "222": {
+        "name": "image_222.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_222.jpg",
+        "url": "https://image.shutterstock.com/image-photo/tumiishi-puzzle-game-construction-unstable-260nw-1891858843.jpg",
+        "label": "No"
+    },
+    "223": {
+        "name": "image_223.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_223.jpg",
+        "url": "https://www.promoplace.com/ws/ws.dll/QPic?SN=51284&P=195763751&RS=150",
+        "label": "Yes"
+    },
+    "224": {
+        "name": "image_224.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_224.jpg",
+        "url": "https://edutoysplanet.s3.amazonaws.com/catalog/product/cache/9/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/w/-/w-hp-e0426-4.jpg",
+        "label": "No"
+    },
+    "225": {
+        "name": "image_225.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_225.jpg",
+        "url": "https://static3.bigstockphoto.com/thumbs/2/1/4/large2/41212045.jpg",
+        "label": "Yes"
+    },
+    "226": {
+        "name": "image_226.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_226.jpg",
+        "url": "https://image.shutterstock.com/image-photo/colorful-wooden-building-blocks-selective-260nw-306380360.jpg",
+        "label": "Yes"
+    },
+    "227": {
+        "name": "image_227.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_227.jpg",
+        "url": "https://thumb7.shutterstock.com/image-photo/stock-photo-assorted-children-toy-letter-building-blocks-against-a-white-background-450w-57215098.jpg",
+        "label": "No"
+    },
+    "228": {
+        "name": "image_228.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_228.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0262/1292/5522/products/LC88-167-1BLACK_3_510x.jpg?v=1588923233",
+        "label": "No"
+    },
+    "229": {
+        "name": "image_229.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_229.jpg",
+        "url": "https://thumbs.dreamstime.com/m/lego-building-blocks-tower-four-different-colors-against-white-background-74344855.jpg",
+        "label": "Yes"
+    },
+    "230": {
+        "name": "image_230.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_230.jpg",
+        "url": "https://cdn11.bigcommerce.com/s-gjd9kmzlkz/images/stencil/590x590/products/25820/25553/9780689842443__27108.1607046047.jpg?c=1",
+        "label": "No"
+    },
+    "231": {
+        "name": "image_231.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_231.jpg",
+        "url": "http://static7.depositphotos.com/1011833/732/i/450/depositphotos_7328119-Simple-house-made-from-colorful-wooden-building-blocks.jpg",
+        "label": "Yes"
+    },
+    "232": {
+        "name": "image_232.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_232.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0235/0248/7632/products/Village_design_2_1024x1024.jpg?v=1565125922",
+        "label": "No"
+    },
+    "233": {
+        "name": "image_233.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_233.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0004/3139/0756/products/product-image-446542832_2048x2048.jpg?v=1575436731",
+        "label": "No"
+    },
+    "234": {
+        "name": "image_234.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_234.jpg",
+        "url": "http://www.whatispsychology.biz/wp-content/uploads/2012/01/boy-playing-with-building-blocks.jpg",
+        "label": "No"
+    },
+    "235": {
+        "name": "image_235.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_235.jpg",
+        "url": "https://thumb1.shutterstock.com/image-photo/stock-photo-wooden-building-blocks-450w-81919546.jpg",
+        "label": "No"
+    },
+    "236": {
+        "name": "image_236.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_236.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1429/8876/products/92109B8C-19A6-4FFF-BE75-1AF752787AA4_1024x1024.jpg?v=1593474357",
+        "label": "Yes"
+    },
+    "237": {
+        "name": "image_237.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_237.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/3045546/300/200/m1/fpc/wm0/rrwic4tsvzmremahngsc6evdqnzzhursjiaje89yetwx6l6rijvqf0nkoqllydup-.jpg?1501475159&s=1d42d71d2b94fb5b1bf2ec30567e4e23",
+        "label": "Yes"
+    },
+    "238": {
+        "name": "image_238.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_238.jpg",
+        "url": "https://cdn11.bigcommerce.com/s-zlmkuux2/images/stencil/180x170/products/6166/17066/UNG200__46493.1529352726.jpg?c=2",
+        "label": "Yes"
+    },
+    "239": {
+        "name": "image_239.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_239.jpg",
+        "url": "http://cf.ltkcdn.net/teens/images/std/194321-425x378-Girl-building-pyramid-of-cups.jpg",
+        "label": "No"
+    },
+    "240": {
+        "name": "image_240.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_240.jpg",
+        "url": "https://i.ebayimg.com/thumbs/images/g/Hd4AAOSwEzxYblaZ/s-l225.jpg",
+        "label": "No"
+    },
+    "241": {
+        "name": "image_241.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_241.jpg",
+        "url": "https://www.mywoodentoys.com.au/includes/modules/kiss_image_thumbnailer/thumbs/180x130_wooden-hundred-block-tub.jpg",
+        "label": "No"
+    },
+    "243": {
+        "name": "image_243.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_243.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/27/55/81/400_F_27558161_Oa4BUXBLxFsQl74NddURqU1sbbj9usq8.jpg",
+        "label": "Yes"
+    },
+    "244": {
+        "name": "image_244.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_244.jpg",
+        "url": "https://medfordmontessorischool.com/wp-content/uploads/2018/03/preschool-pink-tower-blocks-best-400x284.jpg",
+        "label": "Yes"
+    },
+    "245": {
+        "name": "image_245.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_245.jpg",
+        "url": "https://i.pinimg.com/236x/5a/b6/66/5ab6665ca5649b9074f75424ab20b7ea.jpg",
+        "label": "No"
+    },
+    "246": {
+        "name": "image_246.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_246.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2065/9443/products/LEPL101_1_160x160.jpg?v=1592284374",
+        "label": "Yes"
+    },
+    "248": {
+        "name": "image_248.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_248.jpg",
+        "url": "http://static3.depositphotos.com/1001012/122/i/110/depositphotos_1228633-Little-girl-playing-with-cubes.jpg",
+        "label": "Yes"
+    },
+    "249": {
+        "name": "image_249.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_249.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41Ecy8K5KZL.jpg",
+        "label": "Yes"
+    },
+    "250": {
+        "name": "image_250.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_250.jpg",
+        "url": "https://www.isabelacigarcompany.com/wordpress/wp-content/uploads/2018/05/IMG_8395-590x590.jpg",
+        "label": "No"
+    },
+    "251": {
+        "name": "image_251.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_251.jpg",
+        "url": "https://us.123rf.com/450wm/heinteh/heinteh1308/heinteh130800332/21611131-baby-toy-learning-child-wood-color-pyramid-toy.jpg",
+        "label": "No"
+    },
+    "253": {
+        "name": "image_253.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_253.jpg",
+        "url": "https://l450v.alamy.com/450v/2a35d32/the-word-brexit-in-coloured-wooden-blocks-with-a-light-background-and-shadows-the-b-and-the-r-of-brexit-are-falling-copy-space-available-2a35d32.jpg",
+        "label": "Yes"
+    },
+    "254": {
+        "name": "image_254.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_254.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0089/1810/6174/products/unit-blocks_30f455c1-1a56-4314-b451-9fa8f5e6d7e0_360x.jpg?v=1571727994",
+        "label": "No"
+    },
+    "255": {
+        "name": "image_255.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_255.jpg",
+        "url": "https://static2.bigstockphoto.com/thumbs/1/2/1/large2/12143201.jpg",
+        "label": "Yes"
+    },
+    "256": {
+        "name": "image_256.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_256.jpg",
+        "url": "https://thumbs.dreamstime.com/t/wooden-colorful-bricks-isolated-white-background-toy-building-blocks-36701794.jpg",
+        "label": "No"
+    },
+    "257": {
+        "name": "image_257.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_257.jpg",
+        "url": "https://thumb1.shutterstock.com/image-photo/stock-photo-wooden-building-blocks-450w-99681287.jpg",
+        "label": "No"
+    },
+    "258": {
+        "name": "image_258.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_258.jpg",
+        "url": "https://i.pinimg.com/736x/a6/46/7b/a6467b383ea91cb167868a1c1d1cf3ff--wine-cork-art-wine-cork-crafts.jpg",
+        "label": "No"
+    },
+    "259": {
+        "name": "image_259.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_259.jpg",
+        "url": "https://www.bricks4kidz.com.au/sydney-northern-beaches/wp-content/uploads/sites/19/2020/05/20200526-Google-My-Business-Post-5-1.png",
+        "label": "No"
+    },
+    "260": {
+        "name": "image_260.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_260.jpg",
+        "url": "https://dmzn2b8hkpq8b.cloudfront.net/images/products/515x515/S481703_7.jpg",
+        "label": "No"
+    },
+    "262": {
+        "name": "image_262.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_262.jpg",
+        "url": "https://s3.amazonaws.com/static.smiletemplates.com/uploads/screenshots/92/0000092918/powerpoint-templates-b450.jpg",
+        "label": "Yes"
+    },
+    "263": {
+        "name": "image_263.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_263.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/10/88/48/240_F_10884808_57BbXq5wWIoPoNzazuJhaKDSWK6chkEc.jpg",
+        "label": "No"
+    },
+    "264": {
+        "name": "image_264.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_264.jpg",
+        "url": "https://img3.stockfresh.com/files/s/sandralise/m/41/251881_stock-photo-wooden-building-blocks-with-pencils.jpg",
+        "label": "No"
+    },
+    "265": {
+        "name": "image_265.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_265.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/1785483/300/200/m1/fpc/wm0/ll2fytfzkljzxdyokyhbafklttumkyy73nbzjq4o4ulpvkeytlu3vhuubjxpdzcv-.jpg?1477030087&s=131b836ef348658daec426480ee8aad3",
+        "label": "No"
+    },
+    "266": {
+        "name": "image_266.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_266.jpg",
+        "url": "https://thumbs.dreamstime.com/t/kid-building-castle-7863328.jpg",
+        "label": "Yes"
+    },
+    "267": {
+        "name": "image_267.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_267.jpg",
+        "url": "http://st.depositphotos.com/1301532/5023/i/110/depositphotos_50238085-Pre-school-education.jpg",
+        "label": "No"
+    },
+    "268": {
+        "name": "image_268.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_268.jpg",
+        "url": "https://thumb10.shutterstock.com/image-photo/redirected-150nw-96984092.jpg",
+        "label": "Yes"
+    },
+    "269": {
+        "name": "image_269.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_269.jpg",
+        "url": "https://www.horoskop-danners.de/wp-content/uploads/elementor/thumbs/Prognose-horoskop-planung-weboptimiert-o8eakp26sgs92t93e7sau7i8i5130awsgo4kfwub3s.jpg",
+        "label": "No"
+    },
+    "270": {
+        "name": "image_270.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_270.jpg",
+        "url": "http://weighted-glory.com/wp-content/uploads/2014/12/Costa_Lootship-190x300.jpg",
+        "label": "No"
+    },
+    "271": {
+        "name": "image_271.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_271.jpg",
+        "url": "https://intuitivefinance.com.au/wp-content/uploads/2016/09/The-Risks-of-Property-Investment.jpg",
+        "label": "Yes"
+    },
+    "273": {
+        "name": "image_273.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_273.jpg",
+        "url": "https://edamomie.files.wordpress.com/2010/12/leog_2338.jpg?w=224&",
+        "label": "No"
+    },
+    "274": {
+        "name": "image_274.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_274.jpg",
+        "url": "http://img2.etsystatic.com/000/0/5830079/il_170x135.242737410.jpg",
+        "label": "No"
+    },
+    "275": {
+        "name": "image_275.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_275.jpg",
+        "url": "https://1.bp.blogspot.com/-8s5Y2IFcM5M/Vx7dGK47TTI/AAAAAAAA32g/WU6n5QfkGTAuyGmsYOe3zWxGXa1dOpshACLcB/s1600/math-shapes-fine-motor-activity.jpg",
+        "label": "No"
+    },
+    "276": {
+        "name": "image_276.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_276.jpg",
+        "url": "https://www.phillyinlove.com/wp-content/uploads/2017/04/sept7_034.jpg",
+        "label": "Yes"
+    },
+    "277": {
+        "name": "image_277.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_277.jpg",
+        "url": "http://static4.depositphotos.com/1000877/309/i/110/depositphotos_3098360-Playing-kids.jpg",
+        "label": "No"
+    },
+    "278": {
+        "name": "image_278.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_278.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/67/55/42/240_F_67554210_itutI372gyXDxwRKtjMgtCViv1HuWfA4.jpg",
+        "label": "No"
+    },
+    "279": {
+        "name": "image_279.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_279.jpg",
+        "url": "https://thumbs.dreamstime.com/t/wooden-blocks-18818495.jpg",
+        "label": "Yes"
+    },
+    "281": {
+        "name": "image_281.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_281.jpg",
+        "url": "https://d2oq2gj0yp25gy.cloudfront.net/wp-content/uploads/2018/03/07113750/shutterstock_786131695.jpg",
+        "label": "Yes"
+    },
+    "283": {
+        "name": "image_283.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_283.jpg",
+        "url": "https://thumbs.dreamstime.com/m/wooden-toy-blocks-28538775.jpg",
+        "label": "Yes"
+    },
+    "284": {
+        "name": "image_284.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_284.jpg",
+        "url": "http://static6.depositphotos.com/1000260/614/i/110/depositphotos_6140346-Child-with-wood-block-and-construction-set-in-play-room..jpg",
+        "label": "Yes"
+    },
+    "285": {
+        "name": "image_285.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_285.jpg",
+        "url": "https://secure.cdn1.wdpromedia.com/resize/mwImage/1/170/96/75/dam/wdpro-assets/pages/passes/passholder-program-specials/ap-passholder-specials-chilredens-activity-center-16x9.jpg?1542321632364",
+        "label": "No"
+    },
+    "286": {
+        "name": "image_286.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_286.jpg",
+        "url": "https://www.storeforknowledge.com/Assets/ProductImages/standard/md-0567.jpg",
+        "label": "Yes"
+    },
+    "287": {
+        "name": "image_287.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_287.jpg",
+        "url": "https://static1.bigstockphoto.com/thumbs/2/7/8/large2/87221426.jpg",
+        "label": "No"
+    },
+    "289": {
+        "name": "image_289.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_289.jpg",
+        "url": "https://thumbs.dreamstime.com/t/wooden-puzzle-7593730.jpg",
+        "label": "No"
+    },
+    "290": {
+        "name": "image_290.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_290.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0415/9597/products/73550_1024x1024.jpeg?v=1494977446",
+        "label": "No"
+    },
+    "291": {
+        "name": "image_291.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_291.jpg",
+        "url": "https://www.limetreekids.com.au/database/images/hape-pepe-friends-friendship-tower-extra-18887.jpg",
+        "label": "Yes"
+    },
+    "293": {
+        "name": "image_293.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_293.jpg",
+        "url": "https://cdn1.vectorstock.com/i/thumb-large/93/53/abc-blocks-toy-simple-icon-vector-6729353.jpg",
+        "label": "No"
+    },
+    "294": {
+        "name": "image_294.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_294.jpg",
+        "url": "https://i.pinimg.com/736x/7b/8d/33/7b8d337f7ad01bbf82f0137f6eec980a.jpg",
+        "label": "No"
+    },
+    "296": {
+        "name": "image_296.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_296.jpg",
+        "url": "https://thumbs.dreamstime.com/t/baby-blocks-4001876.jpg",
+        "label": "Yes"
+    },
+    "297": {
+        "name": "image_297.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_297.jpg",
+        "url": "https://ak1.ostkcdn.com/images/products/13621808/P20292591.jpg?impolicy=medium&imwidth=200",
+        "label": "Yes"
+    },
+    "298": {
+        "name": "image_298.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_298.jpg",
+        "url": "http://static6.depositphotos.com/1000137/602/i/110/depositphotos_6026694-Playtime-in-playroom.jpg",
+        "label": "No"
+    },
+    "300": {
+        "name": "image_300.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_300.jpg",
+        "url": "https://thumbs.dreamstime.com/m/boys-playing-game-kids-blocks-mother-19752094.jpg",
+        "label": "No"
+    },
+    "301": {
+        "name": "image_301.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_301.jpg",
+        "url": "https://static3.bigstockphoto.com/thumbs/2/1/9/large2/91267145.jpg",
+        "label": "Yes"
+    },
+    "302": {
+        "name": "image_302.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_302.jpg",
+        "url": "https://static1.bigstockphoto.com/1/4/7/large2/74185060.jpg",
+        "label": "No"
+    },
+    "303": {
+        "name": "image_303.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_303.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51Zura8XSpL.jpg",
+        "label": "No"
+    },
+    "304": {
+        "name": "image_304.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_304.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1894/1311/products/product-image-135934586_1024x1024.jpg?v=1494577882",
+        "label": "Yes"
+    },
+    "305": {
+        "name": "image_305.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_305.jpg",
+        "url": "https://i.ytimg.com/vi/6x9DeKVHRyY/mqdefault.jpg",
+        "label": "No"
+    },
+    "306": {
+        "name": "image_306.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_306.jpg",
+        "url": "https://us.123rf.com/450wm/djapart/djapart1111/djapart111100015/11376973-little-boy-stuck-on-tree-house.jpg",
+        "label": "No"
+    },
+    "307": {
+        "name": "image_307.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_307.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB1YHFPIXXXXXbgXXXXq6xXFXXX1/Christmas-Wood-Stamp-Handmade-DIY-Ink-Pad-Rubber-Stamp-Set-for-Scrapbooking-Stationery-Set.jpg",
+        "label": "No"
+    },
+    "308": {
+        "name": "image_308.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_308.jpg",
+        "url": "https://therelaxedhomeschool.com/wp-content/uploads/2016/12/Untitled-design-13-1-450x450.jpg",
+        "label": "Yes"
+    },
+    "310": {
+        "name": "image_310.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_310.jpg",
+        "url": "https://img1.etsystatic.com/034/0/6592432/il_340x270.512770307_dyjs.jpg",
+        "label": "No"
+    },
+    "311": {
+        "name": "image_311.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_311.jpg",
+        "url": "http://cdn.shopify.com/s/files/1/0154/8929/products/GRT-BLK01R_grande.jpeg?1390",
+        "label": "Yes"
+    },
+    "312": {
+        "name": "image_312.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_312.jpg",
+        "url": "https://thumbs.dreamstime.com/t/playing-blocks-1566511.jpg",
+        "label": "No"
+    },
+    "314": {
+        "name": "image_314.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_314.jpg",
+        "url": "https://i.pinimg.com/236x/bf/33/51/bf33510d1318eb8f4cdea90d54f07681--vintage-games-vintage-toys.jpg",
+        "label": "No"
+    },
+    "315": {
+        "name": "image_315.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_315.jpg",
+        "url": "https://thumbs.dreamstime.com/t/kid-his-parents-play-building-blocks-happy-family-little-boy-48627261.jpg",
+        "label": "Yes"
+    },
+    "316": {
+        "name": "image_316.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_316.jpg",
+        "url": "https://i1.wp.com/readingintranslation.com/wp-content/uploads/2020/03/towerofbabel.jpg?resize=626%2C457&ssl=1",
+        "label": "No"
+    },
+    "317": {
+        "name": "image_317.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_317.jpg",
+        "url": "https://3.bp.blogspot.com/-xkJfmzUkbD8/VoWA6fWPNjI/AAAAAAAAUXk/KiEQcyd5ZvM/s400/bc2a3e9d470df2cf18db5ce84fc8a992.jpg",
+        "label": "No"
+    },
+    "318": {
+        "name": "image_318.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_318.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0273/2788/9546/products/White_BG_4_1024x1024.jpg?v=1583043901",
+        "label": "Yes"
+    },
+    "319": {
+        "name": "image_319.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_319.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/56/19/62/400_F_56196262_sS2lxfvyjNndHdQNhX0l2NtPo9rl6x3o.jpg",
+        "label": "No"
+    },
+    "320": {
+        "name": "image_320.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_320.jpg",
+        "url": "http://www.bestpricetoys.com/image/cache/data/Product%20Image%20Updates/ChildrensFactory/CF331-502-Block-Set-360x365.jpg",
+        "label": "Yes"
+    },
+    "322": {
+        "name": "image_322.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_322.jpg",
+        "url": "https://buggyandbuddy.com/wp-content/uploads/2014/06/41.jpg",
+        "label": "No"
+    },
+    "323": {
+        "name": "image_323.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_323.jpg",
+        "url": "https://cdnimages.opentip.com/thumbs/MDG/MDG-2783_130_130.jpg",
+        "label": "No"
+    },
+    "324": {
+        "name": "image_324.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_324.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1623/2567/products/sensory-blocks-set-of-16-blocks-louise-kool-600853_1024x1024.jpg?v=1571439315",
+        "label": "No"
+    },
+    "325": {
+        "name": "image_325.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_325.jpg",
+        "url": "https://i.pinimg.com/736x/f9/a3/af/f9a3afc608bcb890f651a4d594363215--to-work-free-printable.jpg",
+        "label": "No"
+    },
+    "326": {
+        "name": "image_326.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_326.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0742/9183/products/300724_4c_m_03__35274.1496158454_1024x1024.jpg?v=1525393385",
+        "label": "No"
+    },
+    "327": {
+        "name": "image_327.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_327.jpg",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/72/77/4c/filename-dsc05964-jpg.jpg",
+        "label": "Yes"
+    },
+    "328": {
+        "name": "image_328.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_328.jpg",
+        "url": "http://thumbs.dreamstime.com/m/pyramid-toy-cubes-colored-building-stairs-isolated-white-background-55327891.jpg",
+        "label": "No"
+    },
+    "329": {
+        "name": "image_329.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_329.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2133/7733/products/blockitecturedeco_assembled_sq2048_580x580.jpg?v=1500568249",
+        "label": "Yes"
+    },
+    "331": {
+        "name": "image_331.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_331.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/2642102/300/200/m1/fpc/wm0/cggc7gdwcwwekeobwgedds6iryhyfnawfmiyvpfixbhdro2gnbutfedfetzksrz8-.jpg?1493917614&s=d1057ceec4cbe7e3c12c0fed1f6f7b7d",
+        "label": "No"
+    },
+    "332": {
+        "name": "image_332.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_332.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0740/0911/products/4891_rainbow_blocks_30.jpeg?v=1465835858",
+        "label": "No"
+    },
+    "333": {
+        "name": "image_333.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_333.jpg",
+        "url": "https://us.123rf.com/450wm/parinyabinsuk/parinyabinsuk1804/parinyabinsuk180400073/99243824-little-asian-girl-playing-alphabet-toy-over-white-background.jpg?ver=6",
+        "label": "No"
+    },
+    "335": {
+        "name": "image_335.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_335.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0620/9661/products/CDC52-stack-and-explore-blocks-d-2_h1250_large.jpg?v=1508310607",
+        "label": "No"
+    },
+    "336": {
+        "name": "image_336.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_336.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/14/25/02/240_F_14250200_IT0ZntN7SVeHRhFCrN6HMEyVDUu5sml1.jpg",
+        "label": "No"
+    },
+    "337": {
+        "name": "image_337.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_337.jpg",
+        "url": "https://static.twentyoverten.com/5e8c920a89ae34288269b0bc/TVj9sM4go6/Are-You-Climbing-The-Complexity-Mountain_.png",
+        "label": "No"
+    },
+    "338": {
+        "name": "image_338.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_338.jpg",
+        "url": "https://images.pond5.com/child-playing-colored-blocks-floor-footage-047962913_iconm.jpeg",
+        "label": "Yes"
+    },
+    "340": {
+        "name": "image_340.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_340.jpg",
+        "url": "https://bestoutdooritems.com/wp-content/uploads/2020/06/best-croquet-sets-e1592934101897.jpg",
+        "label": "No"
+    },
+    "341": {
+        "name": "image_341.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_341.jpg",
+        "url": "https://static1.bigstockphoto.com/thumbs/3/6/8/large2/8637010.jpg",
+        "label": "No"
+    },
+    "344": {
+        "name": "image_344.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_344.jpg",
+        "url": "https://i.pinimg.com/236x/12/c9/0d/12c90d3c2fdfa1be464eac4a26d54915--cardboard-houses-cardboard-sculpture.jpg",
+        "label": "No"
+    },
+    "345": {
+        "name": "image_345.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_345.jpg",
+        "url": "https://www.bekainc.com/components/com_virtuemart/shop_image/product/full/IMG_42195b8070891e205.220x220.18ac1.jpg",
+        "label": "No"
+    },
+    "346": {
+        "name": "image_346.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_346.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1192/0086/products/PetitCollageABCWoodenBlocks3_600x600_crop_center.jpg?v=1597491690",
+        "label": "Yes"
+    },
+    "350": {
+        "name": "image_350.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_350.jpg",
+        "url": "https://i.ytimg.com/vi/mTDlY7RGe_I/mqdefault.jpg",
+        "label": "Yes"
+    },
+    "351": {
+        "name": "image_351.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_351.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/41iwDcLXZBL.jpg",
+        "label": "Yes"
+    },
+    "352": {
+        "name": "image_352.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_352.jpg",
+        "url": "https://ukwf.e2ecdn.co.uk/Products/7873.jpg?h=284&w=284&quality=80&scale=canvas",
+        "label": "No"
+    },
+    "353": {
+        "name": "image_353.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_353.jpg",
+        "url": "http://st.depositphotos.com/1491360/1694/i/950/depositphotos_16943823-Wooden-building-blocks.jpg",
+        "label": "No"
+    },
+    "354": {
+        "name": "image_354.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_354.jpg",
+        "url": "https://vdomedetki.ru/26687-home_default/mjagkiy-konstruktor-15-elementov-dlja-igry-v-vanne-edushape-floating-blocks.jpg",
+        "label": "No"
+    },
+    "355": {
+        "name": "image_355.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_355.jpg",
+        "url": "https://i.pinimg.com/736x/52/75/68/5275688fb558e56194d98820072f48cc.jpg",
+        "label": "No"
+    },
+    "357": {
+        "name": "image_357.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_357.jpg",
+        "url": "https://i.pinimg.com/736x/dd/37/20/dd37207a357949befab3a9a59f4b34a5--toys-for-kids-toddler-toys.jpg",
+        "label": "No"
+    },
+    "358": {
+        "name": "image_358.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_358.jpg",
+        "url": "https://i1.wp.com/epiccv.com/wp-content/grand-media/image/thumb/Killer-Resume-Hack-012.png?w=628",
+        "label": "No"
+    },
+    "359": {
+        "name": "image_359.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_359.jpg",
+        "url": "http://idata.over-blog.com/0/20/68/72/voyages-musicaux/vienne-2013/PieterBruegel_the_Elder-La-tour-de-Babel.jpg",
+        "label": "No"
+    },
+    "360": {
+        "name": "image_360.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_360.jpg",
+        "url": "http://st.depositphotos.com/1518767/5048/v/380/depositphotos_50480465-Boys-playing-with-building-blocks-at-table.jpg",
+        "label": "No"
+    },
+    "361": {
+        "name": "image_361.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_361.jpg",
+        "url": "https://thumbs.dreamstime.com/t/towers-hanoi-puzzle-1726361.jpg",
+        "label": "No"
+    },
+    "363": {
+        "name": "image_363.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_363.jpg",
+        "url": "http://watermarked.cutcaster.com/cutcaster-photo-801013777-handsome-boy-builds-a-toy-castle.jpg",
+        "label": "No"
+    },
+    "364": {
+        "name": "image_364.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_364.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0380/4217/3484/products/8716433966203-1_2048x2048_5f4e1250-58af-427b-a316-1fc6616aa68a_530x@2x.jpg?v=1595258432",
+        "label": "No"
+    },
+    "365": {
+        "name": "image_365.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_365.jpg",
+        "url": "http://www.tbsearch.fr/wp-content/uploads/2016/10/creation-entreprise_tbsearch-360x280.jpg",
+        "label": "No"
+    },
+    "366": {
+        "name": "image_366.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_366.jpg",
+        "url": "https://static2.bigstockphoto.com/4/4/2/large2/244061734.jpg",
+        "label": "No"
+    },
+    "367": {
+        "name": "image_367.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_367.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB1KrlzLpXXXXcaapXXq6xXFXXXA/1-Set-Dominoes-Wooden-Puzzle-Cartoon-Animal-Colored-Montessori-Educational-Baby-Toys-Cute-Birthday-Gifts-Funny.jpg_220x220.jpg",
+        "label": "No"
+    },
+    "368": {
+        "name": "image_368.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_368.jpg",
+        "url": "https://s3.amazonaws.com/spectrumnews-web-assets/uploads/2016/05/20160513-MotorPredictorsBabySibs-844-360x247.jpg",
+        "label": "Yes"
+    },
+    "369": {
+        "name": "image_369.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_369.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/47/61/36/110_F_47613626_EjAUElhRmOuBkUfpyzYhcxymQfLTlnjp.jpg",
+        "label": "Yes"
+    },
+    "370": {
+        "name": "image_370.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_370.jpg",
+        "url": "https://us.123rf.com/450wm/oksun70/oksun701201/oksun70120100013/11850785-little-boy-with-hard-hat-and-building-blocks.jpg",
+        "label": "Yes"
+    },
+    "371": {
+        "name": "image_371.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_371.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1555/1459/products/marble11_large.jpg?v=1578814965",
+        "label": "No"
+    },
+    "373": {
+        "name": "image_373.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_373.jpg",
+        "url": "https://pictures.mydutyfree.net/images/products/68/57/525x525/hape-wooden-bricks.6857.jpg",
+        "label": "Yes"
+    },
+    "374": {
+        "name": "image_374.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_374.jpg",
+        "url": "http://www.dhresource.com/albu_851434046_00-1.200x200/zorn-toys-jenga-giant-hardwood-game-family.jpg",
+        "label": "Yes"
+    },
+    "375": {
+        "name": "image_375.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_375.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/49/93/78/110_F_49937824_0RFI6EhzugqAVmX88GOhJTOO5hnyyhko.jpg",
+        "label": "Yes"
+    },
+    "376": {
+        "name": "image_376.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_376.jpg",
+        "url": "https://as1.ftcdn.net/jpg/02/11/62/04/500_F_211620490_LEqAH6Cm7mrT8LHWWvidE1zta2xJxW39.jpg",
+        "label": "No"
+    },
+    "377": {
+        "name": "image_377.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_377.jpg",
+        "url": "https://static0.bigstockphoto.com/thumbs/2/6/6/small2/66253852.jpg",
+        "label": "No"
+    },
+    "378": {
+        "name": "image_378.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_378.jpg",
+        "url": "https://letsgowiththechildren.co.uk/wp-content/uploads/2016/12/The-Playpit-Nuneaton-2-915px-1.jpg",
+        "label": "No"
+    },
+    "379": {
+        "name": "image_379.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_379.jpg",
+        "url": "https://afilii.com/en/wp-content/uploads/sites/3/2017/03/creative-toys-for-kids-cardboard-toys-colour-bricks-buntbox_2-190x190.jpg",
+        "label": "No"
+    },
+    "380": {
+        "name": "image_380.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_380.jpg",
+        "url": "https://i.pinimg.com/236x/73/06/a8/7306a88bb1935e6544720f67e3cc3f6b.jpg",
+        "label": "No"
+    },
+    "381": {
+        "name": "image_381.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_381.jpg",
+        "url": "https://i1.wp.com/giftsforlittlehands.com/wp-content/uploads/2017/11/Tumbling-Figure-Tower-2.jpg?resize=247%2C300&ssl=1",
+        "label": "Yes"
+    },
+    "383": {
+        "name": "image_383.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_383.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0263/8184/4583/products/00-01_9d7cfa26-f035-46ab-b38d-24232ad4e4eb_2048x2048.jpg?v=1580285749",
+        "label": "No"
+    },
+    "384": {
+        "name": "image_384.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_384.jpg",
+        "url": "https://media.kohlsimg.com/is/image/kohls/1249672?wid=180&hei=180&op_sharpen=1",
+        "label": "No"
+    },
+    "386": {
+        "name": "image_386.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_386.jpg",
+        "url": "https://photos.smugmug.com/Newburyport-Daily-News/Daily-News-photos/August-2017/i-ThjpbqQ/0/85d32729/Ti/170809_NT_JVA_jenga-Ti.jpg",
+        "label": "Yes"
+    },
+    "387": {
+        "name": "image_387.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_387.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2153/4925/files/thread_colour_chart_cd799b61-dd40-4883-95ea-0242aacb09d2.jpg?v=1603898696",
+        "label": "No"
+    },
+    "388": {
+        "name": "image_388.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_388.jpg",
+        "url": "http://myfranklloydwright.com/wp-content/uploads/Frank_lloyd_wright_bookends_cast_textile_block_design_1_pair_03_ej.jpg",
+        "label": "No"
+    },
+    "389": {
+        "name": "image_389.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_389.jpg",
+        "url": "http://cdn.shopify.com/s/files/1/0064/4152/products/pktymsmc_2t_medium.jpg?v=1331662891",
+        "label": "No"
+    },
+    "390": {
+        "name": "image_390.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_390.jpg",
+        "url": "https://i.chzbgr.com/full/4193709568/h7AF5080E/the-tower-of-i-quit",
+        "label": "No"
+    },
+    "391": {
+        "name": "image_391.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_391.jpg",
+        "url": "https://thumbs.dreamstime.com/t/wooden-building-blocks-17807061.jpg",
+        "label": "Yes"
+    },
+    "392": {
+        "name": "image_392.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_392.jpg",
+        "url": "https://vidcdn.123rf.com/450nwm/loveandrock/loveandrock1807/loveandrock180700102.jpg",
+        "label": "No"
+    },
+    "393": {
+        "name": "image_393.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_393.jpg",
+        "url": "https://thumbs.dreamstime.com/b/wooden-brain-teaser-16197713.jpg",
+        "label": "No"
+    },
+    "394": {
+        "name": "image_394.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_394.jpg",
+        "url": "http://4.bp.blogspot.com/_etfMMqLDJYc/TFfRynR8SzI/AAAAAAAAACA/ulqRaDiCx_g/S175/Patung+kucing+set+4.jpg",
+        "label": "No"
+    },
+    "396": {
+        "name": "image_396.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_396.jpg",
+        "url": "https://thumbs.dreamstime.com/t/c-130-hercule-23141720.jpg",
+        "label": "No"
+    },
+    "397": {
+        "name": "image_397.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_397.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/35/20/38/400_F_35203848_rrC4Psbe0lCvRlb2F18CjZM6RsvWNHk4.jpg",
+        "label": "No"
+    },
+    "398": {
+        "name": "image_398.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_398.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0262/1065/products/515-74561_large.jpg?v=1449658490",
+        "label": "No"
+    },
+    "399": {
+        "name": "image_399.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_399.jpg",
+        "url": "https://cdn.connox.co.uk/m/100035/171124/media/Lego/Lego-Storage-Box-Ambiente-1.jpg",
+        "label": "No"
+    },
+    "400": {
+        "name": "image_400.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_400.jpg",
+        "url": "https://us.123rf.com/450wm/twinsterphoto/twinsterphoto1805/twinsterphoto180500039/100987279-asian-child-playing-with-wooden-blocks-in-the-room-at-home-a-kind-of-educational-toys-for-preschool-.jpg?ver=6",
+        "label": "No"
+    },
+    "401": {
+        "name": "image_401.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_401.jpg",
+        "url": "https://mandammit.com/wp-content/uploads/sites/3/2020/04/melissa-doug-100-piece-wood-blocks-set.jpg",
+        "label": "Yes"
+    },
+    "402": {
+        "name": "image_402.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_402.jpg",
+        "url": "https://thumbs.dreamstime.com/t/two-happy-kids-playing-logical-toys-educational-34112931.jpg",
+        "label": "No"
+    },
+    "403": {
+        "name": "image_403.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_403.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/23/51/67/240_F_23516799_uSyZ6qZHjoAKSkPiTD8gRxLqsqPYdhcO.jpg",
+        "label": "No"
+    },
+    "404": {
+        "name": "image_404.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_404.jpg",
+        "url": "https://cdn10.bigcommerce.com/s-3wh7k/product_images/uploaded_images/anker-children.jpg?t=1423470463",
+        "label": "No"
+    },
+    "405": {
+        "name": "image_405.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_405.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0277/7009/3642/products/product-image-1211134322_110x110@2x.jpg?v=1576808599",
+        "label": "No"
+    },
+    "407": {
+        "name": "image_407.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_407.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/30/62/19/240_F_30621971_PsE03agkJ1k8rcbTvQsPle8k3zs4Zw0o.jpg",
+        "label": "Yes"
+    },
+    "408": {
+        "name": "image_408.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_408.jpg",
+        "url": "https://theinspiredtreehouse.com/wp-content/uploads/2014/10/fine-motor-activities-for-toddlers-featured-350x263.jpg",
+        "label": "Yes"
+    },
+    "410": {
+        "name": "image_410.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_410.jpg",
+        "url": "https://www.hillcitychurch.org/wp-content/uploads/2013/05/BUILDING-BLOCKS.jpg",
+        "label": "No"
+    },
+    "411": {
+        "name": "image_411.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_411.jpg",
+        "url": "https://fineartamerica.com/images/images-profile-flow/350/images-medium-5/eli-alphabet-blocks-edward-fielding.jpg",
+        "label": "Yes"
+    },
+    "412": {
+        "name": "image_412.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_412.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0965/7500/products/715g3tqX7qL._SL1457_300x.png?v=1540283209",
+        "label": "Yes"
+    },
+    "415": {
+        "name": "image_415.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_415.jpg",
+        "url": "https://jennysspeech.com/wp-content/uploads/2018/08/shutterstock_103089908-1-1-min-1080x675.jpg",
+        "label": "No"
+    },
+    "416": {
+        "name": "image_416.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_416.jpg",
+        "url": "https://thumbs.dreamstime.com/m/wooden-pyramid-toy-colorful-pieces-close-up-made-wood-learn-creativity-dexterity-72854110.jpg",
+        "label": "No"
+    },
+    "417": {
+        "name": "image_417.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_417.jpg",
+        "url": "https://thumbs.dreamstime.com/t/preschoolers-playing-wooden-blocks-15590495.jpg",
+        "label": "Yes"
+    },
+    "418": {
+        "name": "image_418.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_418.jpg",
+        "url": "https://thumb10.shutterstock.com/image-photo/stock-photo-asian-chinese-mother-and-daughter-playing-blocks-on-the-floor-in-the-living-room-at-home-450w-526030777.jpg",
+        "label": "Yes"
+    },
+    "419": {
+        "name": "image_419.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_419.jpg",
+        "url": "http://stoysnetcdn.com/md/md481/md481_3.120x120.cabc7.jpg",
+        "label": "Yes"
+    },
+    "421": {
+        "name": "image_421.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_421.jpg",
+        "url": "https://thumbs.dreamstime.com/t/castle-made-wooden-toy-blocks-21593264.jpg",
+        "label": "Yes"
+    },
+    "422": {
+        "name": "image_422.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_422.jpg",
+        "url": "https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/Tw4AAOSwa-dWmfd8/$_12.JPG?set_id=880000500F",
+        "label": "Yes"
+    },
+    "423": {
+        "name": "image_423.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_423.jpg",
+        "url": "https://thumbs.dreamstime.com/x/mother-plays-baby-home-26506289.jpg",
+        "label": "No"
+    },
+    "426": {
+        "name": "image_426.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_426.jpg",
+        "url": "https://bicycledutch.files.wordpress.com/2016/02/t-junction1980-1998-2015.jpg?w=547&h=180",
+        "label": "No"
+    },
+    "428": {
+        "name": "image_428.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_428.jpg",
+        "url": "https://thumbs.dreamstime.com/t/multicolor-tower-cups-different-color-30152808.jpg",
+        "label": "No"
+    },
+    "429": {
+        "name": "image_429.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_429.jpg",
+        "url": "http://cdn.firstcry.com/brainbees/images/products/219x265/1493519a.jpg",
+        "label": "No"
+    },
+    "431": {
+        "name": "image_431.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_431.jpg",
+        "url": "http://img2.etsystatic.com/000/0/5447054/il_170x135.196034238.jpg",
+        "label": "No"
+    },
+    "432": {
+        "name": "image_432.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_432.jpg",
+        "url": "https://thumbs.dreamstime.com/t/two-baby-boys-playing-carpet-33036214.jpg",
+        "label": "Yes"
+    },
+    "433": {
+        "name": "image_433.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_433.jpg",
+        "url": "https://thumbs.dreamstime.com/m/old-roman-ruins-column-25453751.jpg",
+        "label": "No"
+    },
+    "434": {
+        "name": "image_434.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_434.jpg",
+        "url": "https://images.squarespace-cdn.com/content/v1/5bc3ea41348cd907a3bd924c/1546099610696-C6Y9S4L10KEL6SPL9H68/ke17ZwdGBToddI8pDm48kCLhHW0-1SEMaHZb2MlhEwxZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHrwpLqSSREISdJdpu59kVH48GKQKtMsTgcbnAm2UQYUTpD-jj1Cf6-2FPE2e0NdXc/Untitled.jpg",
+        "label": "No"
+    },
+    "435": {
+        "name": "image_435.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_435.jpg",
+        "url": "https://direct.rhapsody.com/imageserver/images/alb.65553867/500x500.jpg",
+        "label": "No"
+    },
+    "438": {
+        "name": "image_438.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_438.jpg",
+        "url": "https://i.ytimg.com/vi/L5bXl1uLo_c/mqdefault.jpg",
+        "label": "Yes"
+    },
+    "439": {
+        "name": "image_439.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_439.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/36/90/26/240_F_36902619_iCaBEakX66d0WNVvC4BVzQHJx8UGfIJD.jpg",
+        "label": "No"
+    },
+    "441": {
+        "name": "image_441.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_441.jpg",
+        "url": "https://images2.productserve.com/?w=200&h=200&bg=white&trim=5&t=letterbox&url=ssl%3Astatic.wowcher.co.uk%2Fimages%2Fdeal%2F6840207%2F309901.jpg&feedId=17405&k=a676ad67a7c0bb79ab86355006e64fa466b091ea",
+        "label": "Yes"
+    },
+    "442": {
+        "name": "image_442.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_442.jpg",
+        "url": "https://s3-eu-west-1.amazonaws.com/alt-cdn/woodandtoys/images/products/603/listing/string-along-shapes.jpeg",
+        "label": "Yes"
+    },
+    "443": {
+        "name": "image_443.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_443.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0122/1342/0089/products/WallyBrickBlocksStackingBlockSTEMtoy_180x180.png?v=1616783233",
+        "label": "No"
+    },
+    "444": {
+        "name": "image_444.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_444.jpg",
+        "url": "https://i1.wp.com/www.mrfoxmagazine.com/wp-content/uploads/2016/02/Ollies-Blocks-Kickstarter.jpg?resize=296%2C197",
+        "label": "No"
+    },
+    "445": {
+        "name": "image_445.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_445.jpg",
+        "url": "https://image.shutterstock.com/image-photo/stock-photo-adult-helping-two-young-children-at-montessori-pre-school-450w-37671361.jpg",
+        "label": "No"
+    },
+    "446": {
+        "name": "image_446.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_446.jpg",
+        "url": "https://render.fineartamerica.com/images/rendered/search/poster/images/artworkimages/medium/1/1-the-tower-of-babel-pieter-bruegel-the-elder.jpg",
+        "label": "No"
+    },
+    "447": {
+        "name": "image_447.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_447.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/12/97/40/240_F_12974038_m6yAzItyqROO9SxnDNLUVGf8t28s46Pg.jpg",
+        "label": "Yes"
+    },
+    "449": {
+        "name": "image_449.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_449.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1692/5853/products/Untitled221_800x.jpg?v=1587399852",
+        "label": "No"
+    },
+    "450": {
+        "name": "image_450.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_450.jpg",
+        "url": "https://secure2.convio.net/nbm/images/donation_icons/premium_images/1849344296.custom.jpg",
+        "label": "No"
+    },
+    "451": {
+        "name": "image_451.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_451.jpg",
+        "url": "https://thumbs.dreamstime.com/b/baby-playing-blocks-14307427.jpg",
+        "label": "No"
+    },
+    "452": {
+        "name": "image_452.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_452.jpg",
+        "url": "https://www.mediafreeware.com/software_pads/Free_Solitaire/solitaire_screenshot.png",
+        "label": "No"
+    },
+    "453": {
+        "name": "image_453.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_453.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/3045545/300/200/m1/fpc/wm0/dixry3qdpc4ttchg9c6zyvg4h0jwcun034scqpum6ylzs4w7fjbutjl1pkclihoa-.jpg?1501475156&s=f797f08d3ff4fdb5b1fca15d55e9e183",
+        "label": "Yes"
+    },
+    "455": {
+        "name": "image_455.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_455.jpg",
+        "url": "https://i0.wp.com/thetriptakesus.com/wp-content/uploads/2018/12/stonehenge.jpeg?resize=640%2C480&ssl=1",
+        "label": "No"
+    },
+    "456": {
+        "name": "image_456.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_456.jpg",
+        "url": "https://cdn.bestadvisor.com/reviews/49/f4/49f451dedec836c495cfb5cd3f6c8422.jpg",
+        "label": "No"
+    },
+    "457": {
+        "name": "image_457.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_457.jpg",
+        "url": "https://il1.picdn.net/shutterstock/videos/4549619/thumb/2.jpg?i10c=img.resize(height:160)",
+        "label": "Yes"
+    },
+    "458": {
+        "name": "image_458.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_458.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/50/04/81/240_F_50048127_ooi2U1LOa5JAyktbuu2yxm3K8WcbxXOb.jpg",
+        "label": "No"
+    },
+    "459": {
+        "name": "image_459.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_459.jpg",
+        "url": "https://watermarked.cutcaster.com/cutcaster-photo-801013777-handsome-boy-builds-a-toy-castle.jpg",
+        "label": "No"
+    },
+    "460": {
+        "name": "image_460.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_460.jpg",
+        "url": "https://thumbs.dreamstime.com/t/wooden-toy-blocks-stack-white-background-32216781.jpg",
+        "label": "No"
+    },
+    "461": {
+        "name": "image_461.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_461.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0441/5776/3749/products/image_4d03355e-28a2-456c-aa41-16874e238c22_530x@2x.jpg?v=1596928729",
+        "label": "No"
+    },
+    "462": {
+        "name": "image_462.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_462.jpg",
+        "url": "https://i.pinimg.com/236x/9f/f1/06/9ff1065e5328977043279e7a34fed55b--material-pedag%C3%B3gico-fabric-toys.jpg",
+        "label": "No"
+    },
+    "464": {
+        "name": "image_464.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_464.jpg",
+        "url": "https://3.bp.blogspot.com/-BExidHrByBo/XJ9BwvM55BI/AAAAAAAB3Q0/qQwrcoMNhlIHyI0ptlLd1ZEv4mwsY19OgCLcBGAs/s1600/Giant%2Bjenga%2Bgame%2B-%2Bhow%2Bto%2Bmake%2Ba%2BDIY%2Blife%2Bsize%2Bjenga%2Byard%2Bgame%2B%25282%2529-min.jpg",
+        "label": "Yes"
+    },
+    "467": {
+        "name": "image_467.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_467.jpg",
+        "url": "https://scene7.samsclub.com/is/image/samsclub/0079815498045_A?hei=200&wid=200",
+        "label": "No"
+    },
+    "468": {
+        "name": "image_468.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_468.jpg",
+        "url": "https://middleware.simba-dickie.com/media/shop-dickietamiya/products/100050421/00/promo_box_home/eichhorn-coloured-wooden-blocks-baby-100050421-en_00.jpeg?v=1581059386",
+        "label": "No"
+    },
+    "469": {
+        "name": "image_469.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_469.jpg",
+        "url": "http://www.stixandstones.com.au/images/prods/thumbs/baby%20blocks%202_sm.jpg.jpg",
+        "label": "No"
+    },
+    "470": {
+        "name": "image_470.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_470.jpg",
+        "url": "https://thumbs.dreamstime.com/t/kid-girl-playing-block-toys-child-over-white-background-30808469.jpg",
+        "label": "No"
+    },
+    "471": {
+        "name": "image_471.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_471.jpg",
+        "url": "https://i.pinimg.com/564x/ff/1f/31/ff1f31fa329e2e9def22a7e3f604f59c.jpg",
+        "label": "No"
+    },
+    "472": {
+        "name": "image_472.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_472.jpg",
+        "url": "https://www.ledorgroup.com/wp-content/uploads/2018/06/TOM1-340x339.jpg",
+        "label": "No"
+    },
+    "473": {
+        "name": "image_473.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_473.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/310NT071bCL.jpg",
+        "label": "Yes"
+    },
+    "474": {
+        "name": "image_474.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_474.jpg",
+        "url": "https://us.123rf.com/450wm/photka/photka1109/photka110900249/10571851-wooden-blocks.jpg?ver=6",
+        "label": "No"
+    },
+    "475": {
+        "name": "image_475.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_475.jpg",
+        "url": "https://edutoysplanet.s3.amazonaws.com/catalog/product/cache/9/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/w/-/w-md-481.jpg",
+        "label": "Yes"
+    },
+    "476": {
+        "name": "image_476.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_476.jpg",
+        "url": "https://static1.bigstockphoto.com/1/1/2/large2/211732006.jpg",
+        "label": "No"
+    },
+    "477": {
+        "name": "image_477.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_477.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0064/2043/0937/products/S-26_2_250x.jpg?v=1583884567",
+        "label": "Yes"
+    },
+    "478": {
+        "name": "image_478.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_478.jpg",
+        "url": "http://s3image.ssww.com/images/180/LR1609.jpg",
+        "label": "Yes"
+    },
+    "479": {
+        "name": "image_479.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_479.jpg",
+        "url": "http://i2.wp.com/www.thesuburbanmom.com/wp-content/uploads/2011/09/IMG_8639-Small.jpg?resize=432%2C288",
+        "label": "No"
+    },
+    "480": {
+        "name": "image_480.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_480.jpg",
+        "url": "http://static8.depositphotos.com/1394201/861/i/450/depositphotos_8612444-Little-boy-with-hard-hat-and-building-blocks.jpg",
+        "label": "No"
+    },
+    "481": {
+        "name": "image_481.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_481.jpg",
+        "url": "http://thumbs.dreamstime.com/t/building-blocks-19958403.jpg",
+        "label": "Yes"
+    },
+    "482": {
+        "name": "image_482.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_482.jpg",
+        "url": "https://i.pinimg.com/736x/a7/1f/3c/a71f3cfc5f3e752f089a1d9920d5c5e7--origami-gifts-origami-boxes.jpg",
+        "label": "No"
+    },
+    "483": {
+        "name": "image_483.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_483.jpg",
+        "url": "https://thumbs.dreamstime.com/t/wide-view-image-of-three-business-people-making-a-tower-of-wooden-pegs-140361888.jpg",
+        "label": "Yes"
+    },
+    "485": {
+        "name": "image_485.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_485.jpg",
+        "url": "https://thumbs.dreamstime.com/m/kid-playing-toy-blocks-white-background-26406455.jpg",
+        "label": "No"
+    },
+    "486": {
+        "name": "image_486.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_486.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0276/0425/4798/products/7_f7cb5c33-6c49-4a7c-a28a-c24b39047d2e_600x.png?v=1578140958",
+        "label": "No"
+    },
+    "487": {
+        "name": "image_487.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_487.jpg",
+        "url": "https://d33wubrfki0l68.cloudfront.net/4832aa8b376c57bc14f5fef4c9a4c89af67128ad/a5c89/img/c/building_blocks_crop.png",
+        "label": "No"
+    },
+    "489": {
+        "name": "image_489.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_489.jpg",
+        "url": "https://thumbs.dreamstime.com/m/child-cubes-12360098.jpg",
+        "label": "No"
+    },
+    "490": {
+        "name": "image_490.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_490.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.ZoHLAJQJX6uOJXEpvqvv4gHaHa",
+        "label": "Yes"
+    },
+    "491": {
+        "name": "image_491.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_491.jpg",
+        "url": "https://d39qw52yhr4bcj.cloudfront.net/catalog/product/cache/9/small_image/200x200/9df78eab33525d08d6e5fb8d27136e95/2/7/2782comp.jpg",
+        "label": "Yes"
+    },
+    "492": {
+        "name": "image_492.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_492.jpg",
+        "url": "https://media.kohlsimg.com/is/image/kohls/2319581?wid=240&hei=240&op_sharpen=1",
+        "label": "Yes"
+    },
+    "493": {
+        "name": "image_493.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_493.jpg",
+        "url": "https://i.ytimg.com/vi/SwsGDgQuBkU/hqdefault.jpg",
+        "label": "No"
+    },
+    "494": {
+        "name": "image_494.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_494.jpg",
+        "url": "http://st.depositphotos.com/1003377/184/i/450/depositphotos_1842116-Happy-mum-with-children-plays-cubes.jpg",
+        "label": "No"
+    },
+    "495": {
+        "name": "image_495.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_495.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1363/8841/products/tegu_42pc_tints_3_1024x1024.jpg?v=1529287441",
+        "label": "No"
+    },
+    "496": {
+        "name": "image_496.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_496.jpg",
+        "url": "https://images.bonanzastatic.com/uploads/home_page_images/913415637.jpg",
+        "label": "No"
+    },
+    "497": {
+        "name": "image_497.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_497.jpg",
+        "url": "https://thumbs.dreamstime.com/b/girl-pink-takes-out-one-bar-tower-playing-giant-jenga-outside-daylight-girl-pink-takes-out-one-bar-157056508.jpg",
+        "label": "Yes"
+    },
+    "498": {
+        "name": "image_498.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_498.jpg",
+        "url": "https://atlas-content-cdn.pixelsquid.com/stock-images/baby-building-blocks-block-w1LWyv4-600.jpg",
+        "label": "Yes"
+    },
+    "499": {
+        "name": "image_499.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_499.jpg",
+        "url": "https://image.shutterstock.com/image-photo/stock-photo-concept-image-of-saving-money-or-investing-putting-stack-of-coins-at-the-top-450w-1154487601.jpg",
+        "label": "No"
+    },
+    "500": {
+        "name": "image_500.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_500.jpg",
+        "url": "http://st.depositphotos.com/1491360/1767/i/110/depositphotos_17679311-Wooden-building-blocks.jpg",
+        "label": "Yes"
+    },
+    "501": {
+        "name": "image_501.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_501.jpg",
+        "url": "http://www.metristpartners.com/wp-content/uploads/ABCs-of-analytics.jpg",
+        "label": "Yes"
+    },
+    "503": {
+        "name": "image_503.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_503.jpg",
+        "url": "http://s7d2.scene7.com/is/image/DallasMidwest/ECI-P40035_zom?wid=200",
+        "label": "Yes"
+    },
+    "505": {
+        "name": "image_505.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_505.jpg",
+        "url": "https://thumbs.dreamstime.com/t/building-wooden-colourful-childrens-blocks-11691246.jpg",
+        "label": "Yes"
+    },
+    "508": {
+        "name": "image_508.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_508.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/27/69/79/400_F_27697900_bhY2Abidrberu1PZvVTHmX9UrAiTDl3f.jpg",
+        "label": "Yes"
+    },
+    "509": {
+        "name": "image_509.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_509.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1150/8556/products/UG0001_1024x1024.jpg?v=1529430214",
+        "label": "No"
+    },
+    "510": {
+        "name": "image_510.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_510.jpg",
+        "url": "https://thumb7.shutterstock.com/image-photo/stock-photo-learn-earn-lead-d-dice-450w-84905701.jpg",
+        "label": "No"
+    },
+    "511": {
+        "name": "image_511.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_511.jpg",
+        "url": "http://sc02.alicdn.com/kf/HTB1cOKUHVXXXXX3XFXXq6xXFXXXS/100pcs-blocks-Wooden-Building-Baby-Toys.jpg_350x350.jpg",
+        "label": "Yes"
+    },
+    "512": {
+        "name": "image_512.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_512.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/35/20/37/400_F_35203766_Tu50DXysyFm5xrcpSeTTZHmOcluuQbXk.jpg",
+        "label": "Yes"
+    },
+    "513": {
+        "name": "image_513.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_513.jpg",
+        "url": "https://gokitoys.com/media/shop/shop/58676_k.jpg",
+        "label": "Yes"
+    },
+    "514": {
+        "name": "image_514.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_514.jpg",
+        "url": "https://thumbs.dreamstime.com/b/wooden-building-blocks-kids-isolated-white-background-142049915.jpg",
+        "label": "No"
+    },
+    "515": {
+        "name": "image_515.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_515.jpg",
+        "url": "https://m.media-amazon.com/images/I/51Pxha1SXRL.jpg",
+        "label": "Yes"
+    },
+    "516": {
+        "name": "image_516.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_516.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0169/0306/products/stamper-girl_100x100.png?v=1529927392",
+        "label": "No"
+    },
+    "517": {
+        "name": "image_517.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_517.jpg",
+        "url": "https://thumbs.dreamstime.com/m/little-builder-12879578.jpg",
+        "label": "No"
+    },
+    "518": {
+        "name": "image_518.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_518.jpg",
+        "url": "https://thumb7.shutterstock.com/image-photo/stock-photo-wooden-alphabet-blocks-450w-238948381.jpg",
+        "label": "No"
+    },
+    "519": {
+        "name": "image_519.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_519.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/41-nhytOcAL._SS170_.jpg",
+        "label": "Yes"
+    },
+    "520": {
+        "name": "image_520.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_520.jpg",
+        "url": "https://images1.novica.net/pictures/9/p275084_1.jpg",
+        "label": "Yes"
+    },
+    "521": {
+        "name": "image_521.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_521.jpg",
+        "url": "https://thumbs.dreamstime.com/t/adorable-baby-boy-colorful-blocks-22942327.jpg",
+        "label": "No"
+    },
+    "522": {
+        "name": "image_522.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_522.jpg",
+        "url": "http://static5.depositphotos.com/1021222/481/i/170/depositphotos_4812822-Cute-little-baby-boy-with-colorful-building-block.jpg",
+        "label": "No"
+    },
+    "523": {
+        "name": "image_523.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_523.jpg",
+        "url": "https://cdn0.iconfinder.com/data/icons/real-estate-164/65/2-128.png",
+        "label": "No"
+    },
+    "524": {
+        "name": "image_524.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_524.jpg",
+        "url": "http://sc01.alicdn.com/kf/HTB1eUXytWSWBuNjSsrbq6y0mVXaW/BBC170509-Attractive-design-Building-block-set-for.jpg_50x50.jpg",
+        "label": "No"
+    },
+    "525": {
+        "name": "image_525.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_525.jpg",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/c4/e6/69/mississippi-children.jpg",
+        "label": "No"
+    },
+    "526": {
+        "name": "image_526.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_526.jpg",
+        "url": "https://thumbs.dreamstime.com/t/small-girl-builds-house-plastic-blocks-37845827.jpg",
+        "label": "No"
+    },
+    "527": {
+        "name": "image_527.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_527.jpg",
+        "url": "https://media.kohlsimg.com/is/image/kohls/1945533?wid=200&hei=200&op_sharpen=1",
+        "label": "Yes"
+    },
+    "528": {
+        "name": "image_528.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_528.jpg",
+        "url": "https://ewscripps.brightspotcdn.com/dims4/default/1b860b4/2147483647/strip/true/crop/764x430+3+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fmediaassets.wtkr.com%2Ftribune-network%2Ftribwtkr-files-wordpress%2F2014%2F12%2Fjenga-move.jpg",
+        "label": "Yes"
+    },
+    "529": {
+        "name": "image_529.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_529.jpg",
+        "url": "https://usnannyinstitute.com/wp-content/uploads/2019/07/8b55c6a826aa4ace53725c678bdeba7a-300x190.jpg",
+        "label": "No"
+    },
+    "530": {
+        "name": "image_530.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_530.jpg",
+        "url": "https://i0.wp.com/game-solver.com/wp-content/uploads/2018/09/Word-Connect-2-Level-351-Answers.jpg?w=720&ssl=1",
+        "label": "No"
+    },
+    "531": {
+        "name": "image_531.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_531.jpg",
+        "url": "http://pnimg.net/lrep/5/31/sf6b97d52c7.jpg",
+        "label": "No"
+    },
+    "532": {
+        "name": "image_532.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_532.jpg",
+        "url": "https://ak1.ostkcdn.com/images/products/20664487/P26499335.jpg?impolicy=medium&imwidth=200",
+        "label": "Yes"
+    },
+    "534": {
+        "name": "image_534.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_534.jpg",
+        "url": "https://st3.depositphotos.com/9322810/17811/v/600/depositphotos_178119582-stock-video-young-girl-building-a-tower.jpg",
+        "label": "No"
+    },
+    "535": {
+        "name": "image_535.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_535.jpg",
+        "url": "https://i.pinimg.com/736x/23/fc/68/23fc68bf21ee0cc3476b554840106083--wooden-blocks-building--blocks.jpg",
+        "label": "Yes"
+    },
+    "536": {
+        "name": "image_536.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_536.jpg",
+        "url": "https://i.ytimg.com/vi/vpAgR826KTw/mqdefault.jpg",
+        "label": "No"
+    },
+    "537": {
+        "name": "image_537.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_537.jpg",
+        "url": "https://us.123rf.com/450wm/tavidom/tavidom1212/tavidom121200018/16816479-3d-white-cubes-isolated.jpg",
+        "label": "Yes"
+    },
+    "538": {
+        "name": "image_538.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_538.jpg",
+        "url": "https://www.thegiftsformen.com/upload/products/giant-tumbling-tower.jpg",
+        "label": "Yes"
+    },
+    "539": {
+        "name": "image_539.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_539.jpg",
+        "url": "https://ak1.ostkcdn.com/images/products/11818711/P18724905.jpg?impolicy=medium&imwidth=200",
+        "label": "Yes"
+    },
+    "540": {
+        "name": "image_540.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_540.jpg",
+        "url": "https://static2.bigstockphoto.com/2/9/1/large2/192777994.jpg",
+        "label": "No"
+    },
+    "541": {
+        "name": "image_541.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_541.jpg",
+        "url": "https://t4.ftcdn.net/jpg/03/89/31/47/360_F_389314782_8poQVuZtuPYgKfAvji89fd26HQNKkyFj.jpg",
+        "label": "No"
+    },
+    "542": {
+        "name": "image_542.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_542.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0222/5930/products/1017C-2_compact.jpg?v=1469948067",
+        "label": "No"
+    },
+    "544": {
+        "name": "image_544.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_544.jpg",
+        "url": "https://media.kohlsimg.com/is/image/kohls/3646311?wid=155&hei=155&op_sharpen=1",
+        "label": "Yes"
+    },
+    "545": {
+        "name": "image_545.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_545.jpg",
+        "url": "https://dkc1jod44tx5p.cloudfront.net/images/products/312Wx312H/P166228.jpg",
+        "label": "No"
+    },
+    "546": {
+        "name": "image_546.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_546.jpg",
+        "url": "http://static8.depositphotos.com/1024749/1035/i/110/depositphotos_10356373-Wooden-building-blocks.jpg",
+        "label": "No"
+    },
+    "547": {
+        "name": "image_547.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_547.jpg",
+        "url": "http://static.cms.yp.ca/ecms/media/1/Toys-and-gender-bias-1427733100-180x180.jpg",
+        "label": "No"
+    },
+    "548": {
+        "name": "image_548.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_548.jpg",
+        "url": "https://cdn4.vectorstock.com/i/thumb-large/34/23/stack-of-christmas-boxes-vector-6773423.jpg",
+        "label": "No"
+    },
+    "549": {
+        "name": "image_549.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_549.jpg",
+        "url": "https://image.shutterstock.com/image-photo/hand-arranging-wood-cube-stacking-260nw-1570443490.jpg",
+        "label": "No"
+    },
+    "550": {
+        "name": "image_550.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_550.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/36/89/78/240_F_36897828_kxcypEPwyExUeSOjzu36NclUeWJXGb7r.jpg",
+        "label": "No"
+    },
+    "551": {
+        "name": "image_551.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_551.jpg",
+        "url": "https://funcraftskids.com/wp-content/uploads/2014/12/Bird-Feeders-LEGO-Crafts-210x210.jpg",
+        "label": "Yes"
+    },
+    "552": {
+        "name": "image_552.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_552.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB1m4NtglsmBKNjSZFsq6yXSVXaM/Children-s-Wooden-Toys-board-font-b-game-b-font-High-grade-28-pieces-Beech-Wood.jpg",
+        "label": "No"
+    },
+    "553": {
+        "name": "image_553.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_553.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/1123/9978/products/giantbuildingblocks_1024x1024.jpeg?v=1457197180",
+        "label": "Yes"
+    },
+    "554": {
+        "name": "image_554.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_554.jpg",
+        "url": "https://us.123rf.com/450wm/Vladimirs/Vladimirs1402/Vladimirs140200015/25998822-toys-blocks-multicolor-wooden-bricks-group-of-colorful-building-game-pieces.jpg?ver=6",
+        "label": "No"
+    },
+    "555": {
+        "name": "image_555.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_555.jpg",
+        "url": "https://i0.wp.com/farm8.staticflickr.com/7087/7331551360_6b6192ca91.jpg",
+        "label": "Yes"
+    },
+    "557": {
+        "name": "image_557.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_557.jpg",
+        "url": "http://static6.depositphotos.com/1080148/602/i/110/depositphotos_6023755-Happy-family-plays.jpg",
+        "label": "No"
+    },
+    "558": {
+        "name": "image_558.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_558.jpg",
+        "url": "https://i.pinimg.com/236x/80/55/08/8055086e29951bd04a2258345b5d345a--easy-paper-crafts-paper-craft-for-kids.jpg",
+        "label": "No"
+    },
+    "559": {
+        "name": "image_559.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_559.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61lBj0L-CFL.SS400.jpg",
+        "label": "No"
+    },
+    "561": {
+        "name": "image_561.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_561.jpg",
+        "url": "https://thumbs.dreamstime.com/b/children-playing-blocks-8329747.jpg",
+        "label": "Yes"
+    },
+    "562": {
+        "name": "image_562.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_562.jpg",
+        "url": "http://s7.orientaltrading.com/is/image/OrientalTrading/VIEWER_IMAGE_400/stacking-blocks~61_94",
+        "label": "Yes"
+    },
+    "564": {
+        "name": "image_564.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_564.jpg",
+        "url": "https://nmexhibitordata.blob.core.windows.net/productlogo/fachpa16/9791896_w800.jpg",
+        "label": "No"
+    },
+    "565": {
+        "name": "image_565.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_565.jpg",
+        "url": "https://lh6.ggpht.com/wbsZ6aJmqqE9g5zU57KtsqT7h3Uzx_v__auXzqDZGpIMrc7XYjYL9Ar1WwAiSN1gl-I=h900",
+        "label": "No"
+    },
+    "566": {
+        "name": "image_566.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_566.jpg",
+        "url": "https://www.promoclub.ovh/images/thumbs/2018/27006.jpg",
+        "label": "No"
+    },
+    "567": {
+        "name": "image_567.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_567.jpg",
+        "url": "https://i0.wp.com/mrshsfavouritethings.com/wp-content/uploads/2018/03/creating-a-positive-learning-environment-for-your-kids-mrs-hs-favourite-things.jpg?resize=1080%2C718&ssl=1",
+        "label": "No"
+    },
+    "568": {
+        "name": "image_568.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_568.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0345/4405/products/G02082_b4789d07-a0cd-4273-8625-8bd62bcd6ab4_large.jpeg?v=1458418218",
+        "label": "No"
+    },
+    "569": {
+        "name": "image_569.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_569.jpg",
+        "url": "https://images.cb2.com/is/image/CB2/HaloTaperHldrLrgMatteBlkRO2F16/$web_product_hero$&amp;/161212155854/halo-matte-black-taper-candle-holder.jpg",
+        "label": "No"
+    },
+    "571": {
+        "name": "image_571.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_571.jpg",
+        "url": "https://thumbs.dreamstime.com/t/toddler-playing-wooden-blocks-home-39028724.jpg",
+        "label": "Yes"
+    },
+    "572": {
+        "name": "image_572.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_572.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/59/80/30/400_F_59803071_LhMbQRVwN4aOl04oQiCsDFsqOZQ7dLpo.jpg",
+        "label": "No"
+    },
+    "573": {
+        "name": "image_573.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_573.jpg",
+        "url": "https://t4.ftcdn.net/jpg/02/04/74/97/240_F_204749784_5H6HdwQuXQvsh8tSg1gxjAmGlROwvn0r.jpg",
+        "label": "Yes"
+    },
+    "574": {
+        "name": "image_574.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_574.jpg",
+        "url": "https://www.kaydansensory.com/1290-home_default/music-motion-marble-run-hape.jpg",
+        "label": "No"
+    },
+    "575": {
+        "name": "image_575.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_575.jpg",
+        "url": "http://earlyexcellence.com/wp-content/uploads/2017/10/BL05-250x250.jpg",
+        "label": "No"
+    },
+    "576": {
+        "name": "image_576.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_576.jpg",
+        "url": "https://jokomisiada.pl/eng_il_Wooden-blocks-JENGA-shaken-TOWER-GR0189-10021.jpg",
+        "label": "Yes"
+    },
+    "577": {
+        "name": "image_577.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_577.jpg",
+        "url": "https://i.pinimg.com/236x/c6/5b/21/c65b21f608cae5f5594010393de73ef9--wooden-building-blocks-wooden-buildings.jpg",
+        "label": "No"
+    },
+    "578": {
+        "name": "image_578.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_578.jpg",
+        "url": "https://ae01.alicdn.com/kf/HTB1tsArSXXXXXa3apXXq6xXFXXXc/RQ-CR-10-3D-Printer-large-printing-size-300-300-400mm-DIY-desktop-3D-printer-DIY.jpg",
+        "label": "No"
+    },
+    "579": {
+        "name": "image_579.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_579.jpg",
+        "url": "https://us.123rf.com/450wm/poznyakov/poznyakov1208/poznyakov120800227/14743123-children-in-kindergarten-stacking-block.jpg",
+        "label": "No"
+    },
+    "580": {
+        "name": "image_580.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_580.jpg",
+        "url": "https://static2.bigstockphoto.com/thumbs/1/3/1/large2/131123807.jpg",
+        "label": "No"
+    },
+    "581": {
+        "name": "image_581.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_581.jpg",
+        "url": "https://render.fineartamerica.com/images/rendered/small/greeting-card/images-medium-5/play-alphabet-blocks-edward-fielding.jpg?transparent=0&targetx=-12&targety=0&imagewidth=525&imageheight=700&modelwidth=500&modelheight=700&backgroundcolor=EBB677&orientation=1&producttype=greetingcard",
+        "label": "Yes"
+    },
+    "583": {
+        "name": "image_583.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_583.jpg",
+        "url": "https://i.pinimg.com/736x/0c/75/7a/0c757a62364c153241f9a2a9d6ea109f--ks-maths-numeracy.jpg",
+        "label": "No"
+    },
+    "585": {
+        "name": "image_585.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_585.jpg",
+        "url": "http://www.piispriditis.lv/wp-content/uploads/2015/01/32556183-stock-vector-abc-letters-kids-education.jpg",
+        "label": "No"
+    },
+    "586": {
+        "name": "image_586.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_586.jpg",
+        "url": "https://thumbs.dreamstime.com/t/cute-little-baby-boy-colorful-building-block-18093653.jpg",
+        "label": "No"
+    },
+    "587": {
+        "name": "image_587.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_587.jpg",
+        "url": "https://i2.wp.com/www.stevenbrundagemagic.com/wp-content/uploads/2017/06/Headers-secondary6.jpg?fit=1400%2C476&amp;ssl=1",
+        "label": "No"
+    },
+    "588": {
+        "name": "image_588.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_588.jpg",
+        "url": "https://i.pinimg.com/736x/bd/2c/81/bd2c81e986a5445e724a6df5e21cd3bc.jpg",
+        "label": "No"
+    },
+    "590": {
+        "name": "image_590.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_590.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0088/0263/1760/products/GRA16137_4_34810479-6208-467d-b589-74d40836ce43_medium.jpg?v=1571725436",
+        "label": "No"
+    },
+    "591": {
+        "name": "image_591.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_591.jpg",
+        "url": "http://images.slideplayer.com/3/786309/slides/slide_24.jpg",
+        "label": "No"
+    },
+    "592": {
+        "name": "image_592.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_592.jpg",
+        "url": "https://photos.smugmug.com/Sydney-Shabbat-Project/i-XqnQTRk/2/5f321054/L/Flour%202-L.jpg",
+        "label": "No"
+    },
+    "593": {
+        "name": "image_593.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_593.jpg",
+        "url": "https://i.pinimg.com/736x/1f/16/86/1f16869bb9280b7df22ce192646ab45d--outdoor-jenga-outdoor-games.jpg",
+        "label": "Yes"
+    },
+    "594": {
+        "name": "image_594.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_594.jpg",
+        "url": "https://img.buzzfeed.com/buzzfeed-static/static/2016-07/27/23/asset/buzzfeed-prod-web06/sub-buzz-9374-1469677814-1.png?resize=625:534",
+        "label": "No"
+    },
+    "595": {
+        "name": "image_595.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_595.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0726/5279/products/imagejpg_9e7b734d-58c3-43cc-baba-5993c08956b4_300x300.jpg?v=1571439232",
+        "label": "Yes"
+    },
+    "596": {
+        "name": "image_596.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_596.jpg",
+        "url": "https://static2.bigstockphoto.com/thumbs/9/3/4/large2/43906735.jpg",
+        "label": "No"
+    },
+    "597": {
+        "name": "image_597.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_597.jpg",
+        "url": "https://thumbs.dreamstime.com/t/house-constructed-blocks-12795001.jpg",
+        "label": "Yes"
+    },
+    "599": {
+        "name": "image_599.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_599.jpg",
+        "url": "https://us.123rf.com/450wm/ximagination/ximagination1208/ximagination120800486/14779071-happy-young-little-girl-expressing-her-success-to-build-with-blocks.jpg",
+        "label": "Yes"
+    },
+    "600": {
+        "name": "image_600.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_600.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/41gUjq89peL.jpg",
+        "label": "No"
+    },
+    "603": {
+        "name": "image_603.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_603.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/2139/4195/products/product-image-861474455_300x300.jpg?v=1571608826",
+        "label": "Yes"
+    },
+    "604": {
+        "name": "image_604.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_604.jpg",
+        "url": "http://www.wishihadthat.com/productimages/perfect/crown/cm1001flex.jpg",
+        "label": "No"
+    },
+    "605": {
+        "name": "image_605.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_605.jpg",
+        "url": "http://ak1.ostkcdn.com/images/products/MLA13862885.jpg",
+        "label": "No"
+    },
+    "606": {
+        "name": "image_606.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_606.jpg",
+        "url": "https://images.creativemarket.com/0.1.0/ps/614544/300/200/m1/fpc/wm0/tcxzxyijbs92qpuyyylub7nk6vognas4imgshughte3gla3ynkuy2qx9pooztvgb-.jpg?1440057704&s=ed92d1dbe3957ab252749fe38fe5e502",
+        "label": "No"
+    },
+    "608": {
+        "name": "image_608.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_608.jpg",
+        "url": "http://st.depositphotos.com/1000877/3523/i/110/depositphotos_35239833-Child-playing-with-blocks.jpg",
+        "label": "Yes"
+    },
+    "609": {
+        "name": "image_609.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_609.jpg",
+        "url": "https://img3.stockfresh.com/files/sstk/75/9867267-stock-photo-low-section-of-a-girl-breaking-the-sandcastle-with-leg-near-the-sea-at-beach-1419690503.jpg",
+        "label": "No"
+    },
+    "610": {
+        "name": "image_610.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_610.jpg",
+        "url": "https://thumbs.dreamstime.com/m/kid-boy-playing-block-toy-over-white-background-31783993.jpg",
+        "label": "No"
+    },
+    "611": {
+        "name": "image_611.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_611.jpg",
+        "url": "https://t1.ftcdn.net/jpg/00/45/65/64/160_F_45656458_CaenhhDK6400tYc9dysR6Zo3BStWm2Mo.jpg",
+        "label": "Yes"
+    },
+    "612": {
+        "name": "image_612.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_612.jpg",
+        "url": "http://static6.depositphotos.com/1144191/640/i/450/depositphotos_6409210-Building-a-wooden-block-castle.jpg",
+        "label": "Yes"
+    },
+    "613": {
+        "name": "image_613.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_613.jpg",
+        "url": "https://img0.etsystatic.com/063/0/10167479/il_340x270.755987028_51k3.jpg",
+        "label": "No"
+    },
+    "614": {
+        "name": "image_614.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_614.jpg",
+        "url": "https://media.kohlsimg.com/is/image/kohls/867478?wid=240&hei=240&op_sharpen=1",
+        "label": "No"
+    },
+    "616": {
+        "name": "image_616.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_616.jpg",
+        "url": "https://us.123rf.com/450wm/laser0114/laser01141209/laser0114120900131/15474908-3d-render-of-a-boy-and-blank-building-blocks.jpg?ver=6",
+        "label": "Yes"
+    },
+    "617": {
+        "name": "image_617.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_617.jpg",
+        "url": "https://thumbs.dreamstime.com/t/fun-toy-blocks-14086721.jpg",
+        "label": "Yes"
+    },
+    "618": {
+        "name": "image_618.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_618.jpg",
+        "url": "https://us.123rf.com/450wm/poznyakov/poznyakov1310/poznyakov131000463/23353839-happy-children-playing-building-blocks-isolated.jpg",
+        "label": "No"
+    },
+    "619": {
+        "name": "image_619.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_619.jpg",
+        "url": "http://scene7.samsclub.com/is/image/samsclub/0002119604380_A?$img_size_222x222$",
+        "label": "No"
+    },
+    "620": {
+        "name": "image_620.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_620.jpg",
+        "url": "https://kiddy123.com/custom/domain_1/image_files/sitemgr_photo_44825.jpg",
+        "label": "No"
+    },
+    "621": {
+        "name": "image_621.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_621.jpg",
+        "url": "https://www.babyweb.cz/wp-content/uploads/bwcz/files/media/Babyweb.cz/Komercni/Produkty/Redakcni%20podpora%20a%20PR/duplo_kids_1hy14_generic_bricks_02_-_copy_0-352x198.jpg",
+        "label": "No"
+    },
+    "622": {
+        "name": "image_622.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_622.jpg",
+        "url": "http://tse2.mm.bing.net/th?id=OIP._c0jRp62FDMhGEvhkrb8ZAHaHa",
+        "label": "No"
+    },
+    "623": {
+        "name": "image_623.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_623.jpg",
+        "url": "http://d1hw6n3yxknhky.cloudfront.net/022087883_prevstill.jpeg",
+        "label": "No"
+    },
+    "624": {
+        "name": "image_624.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_624.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/27/77/05/400_F_27770556_C8ift5DUrBkRk52xpVReewo5ZwMJ9LiB.jpg",
+        "label": "No"
+    },
+    "625": {
+        "name": "image_625.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_625.jpg",
+        "url": "https://cdn.shopify.com/s/files/1/0287/3393/1625/products/jenga-02-ecom_2000x_ed2e3e3e-2323-4842-9d21-6cfe8b059e36_360x.jpg?v=1606108283",
+        "label": "Yes"
+    },
+    "626": {
+        "name": "image_626.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_626.jpg",
+        "url": "https://www.fraud-magazine.com/uploadedImages/Fraud_Magazine/Content/Articles/2009/building-blocks-risk.jpg",
+        "label": "Yes"
+    },
+    "627": {
+        "name": "image_627.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_627.jpg",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/81%2Bqb6EqwRL._SL1500_.jpg",
+        "label": "No"
+    },
+    "628": {
+        "name": "image_628.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_628.jpg",
+        "url": "https://vidcdn.123rf.com/168nwm/halfpoint/halfpoint1805/halfpoint180500765.jpg",
+        "label": "No"
+    },
+    "629": {
+        "name": "image_629.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_629.jpg",
+        "url": "http://static4.depositphotos.com/1001877/505/i/950/depositphotos_5057379-Cubes.-Abstract-background.jpg",
+        "label": "No"
+    },
+    "631": {
+        "name": "image_631.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_631.jpg",
+        "url": "https://t2.ftcdn.net/jpg/00/51/82/93/110_F_51829399_OB8O8jzsGonnpKjiWFRpCveu80ZpNYtb.jpg",
+        "label": "No"
+    },
+    "632": {
+        "name": "image_632.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_632.jpg",
+        "url": "https://inventorsoftomorrowdotcom.files.wordpress.com/2016/02/fil-048-e1456097390650.jpg?w=140&h=150",
+        "label": "No"
+    },
+    "633": {
+        "name": "image_633.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_633.jpg",
+        "url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/blue-and-yellow-grad-party-for-school-design-template-ead591e515e06e3485c809b61edcca9d.jpg?ts=1617619716",
+        "label": "No"
+    },
+    "634": {
+        "name": "image_634.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_634.jpg",
+        "url": "https://thumbs.dreamstime.com/t/cute-cheeky-young-boy-playing-building-blocks-home-colorful-plastic-holding-up-toy-to-camera-grin-57456066.jpg",
+        "label": "No"
+    },
+    "635": {
+        "name": "image_635.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_635.jpg",
+        "url": "https://www.mykidstime.com/wp-content/uploads/2020/08/lego-storage-brick.jpg",
+        "label": "No"
+    },
+    "636": {
+        "name": "image_636.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_636.jpg",
+        "url": "https://i0.wp.com/www.techjunkie.com/wp-content/uploads/2018/05/Learning-Resources-Mathlink-Cubes.jpg?resize=600%2C608&ssl=1",
+        "label": "Yes"
+    },
+    "637": {
+        "name": "image_637.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_637.jpg",
+        "url": "https://thumbs.dreamstime.com/t/child-playing-blocks-home-35149277.jpg",
+        "label": "No"
+    },
+    "639": {
+        "name": "image_639.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_639.jpg",
+        "url": "https://img.freepik.com/free-photo/sandcastle-warm-beach_53876-31338.jpg?size=626&ext=jpg",
+        "label": "No"
+    },
+    "640": {
+        "name": "image_640.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_640.jpg",
+        "url": "https://img.freepik.com/free-photo/close-up-elderly-woman-playing-jenga_23-2148354881.jpg?size=626&ext=jpg",
+        "label": "Yes"
+    },
+    "642": {
+        "name": "image_642.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_642.jpg",
+        "url": "http://tse3.mm.bing.net/th?id=OIP.Kfuu5Kk1eZtK2tPZnoyT0wHaDe",
+        "label": "No"
+    },
+    "643": {
+        "name": "image_643.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_643.jpg",
+        "url": "https://farm4.staticflickr.com/3744/8863259122_46900db77f_n.jpg",
+        "label": "No"
+    },
+    "644": {
+        "name": "image_644.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_644.jpg",
+        "url": "https://thumbs.dreamstime.com/m/funny-boy-playing-lego-19378072.jpg",
+        "label": "Yes"
+    },
+    "646": {
+        "name": "image_646.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_646.jpg",
+        "url": "http://www.firstdiscoverers.co.uk/wp-content/uploads/2017/05/cognitive-development-baby-hands-400x242.jpg",
+        "label": "No"
+    },
+    "647": {
+        "name": "image_647.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_647.jpg",
+        "url": "https://static3.bigstockphoto.com/thumbs/2/2/1/large2/122888138.jpg",
+        "label": "Yes"
+    },
+    "648": {
+        "name": "image_648.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_648.jpg",
+        "url": "https://thumbs.dreamstime.com/m/mother-baby-daughter-building-tower-23609751.jpg",
+        "label": "Yes"
+    },
+    "649": {
+        "name": "image_649.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_649.jpg",
+        "url": "https://thumbs.dreamstime.com/t/family-activities-kids-room-12386679.jpg",
+        "label": "Yes"
+    },
+    "650": {
+        "name": "image_650.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_650.jpg",
+        "url": "http://ecx.images-amazon.com/images/I/51Il9XuGK5L._SL160_.jpg",
+        "label": "Yes"
+    },
+    "652": {
+        "name": "image_652.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_652.jpg",
+        "url": "https://thumbs.dreamstime.com/x/two-tranquil-children-playing-wooden-toys-home-interior-40100050.jpg",
+        "label": "Yes"
+    },
+    "653": {
+        "name": "image_653.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_653.jpg",
+        "url": "https://planetariumjuguetes.com/wp-content/uploads/2019/07/APILADOR-DE-ARCOIRIS-MELISSA-AND-DOUG-180x180.jpg",
+        "label": "No"
+    },
+    "654": {
+        "name": "image_654.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_654.jpg",
+        "url": "https://images.squarespace-cdn.com/content/56232271e4b023468869e31d/1542253720154-X5HX0NZR05PET39T1AZF/little+boy+playing+with+wooden+blocks.jpg?content-type=image%2Fjpeg",
+        "label": "Yes"
+    },
+    "655": {
+        "name": "image_655.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_655.jpg",
+        "url": "https://www.toysrus.ca/dw/image/v2/BDFX_PRD/on/demandware.static/-/Sites-toys-master-catalog/default/dw306ac585/images/38EA1401_5.jpg?sw=767&sh=767&sm=fit",
+        "label": "No"
+    },
+    "656": {
+        "name": "image_656.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_656.jpg",
+        "url": "http://www.webstickersmuraux.com/fr/img/asy269-jpg/folder/products-listado-merchant/stickers-muraux-enfants-super-mario-bross-3.jpg",
+        "label": "Yes"
+    },
+    "658": {
+        "name": "image_658.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_658.jpg",
+        "url": "https://nsf.gov/news/mmg/media/images/babies_blocks_f.jpg",
+        "label": "Yes"
+    },
+    "659": {
+        "name": "image_659.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_659.jpg",
+        "url": "http://www.hiredhandshomecare.com/wp-content/uploads/2018/12/happy-senior-couple-playing-game-300x200.jpg",
+        "label": "Yes"
+    },
+    "660": {
+        "name": "image_660.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_660.jpg",
+        "url": "https://thumbs.dreamstime.com/t/happy-little-girl-play-colorful-toys-soft-carpet-home-32396152.jpg",
+        "label": "No"
+    },
+    "661": {
+        "name": "image_661.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_661.jpg",
+        "url": "https://thumbs.dreamstime.com/m/concentrated-little-boy-playing-toys-floor-30014267.jpg",
+        "label": "No"
+    },
+    "662": {
+        "name": "image_662.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_662.jpg",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/94/79/cf/the-hotel-s-olympic-inukshuk.jpg",
+        "label": "No"
+    },
+    "663": {
+        "name": "image_663.jpg",
+        "path": "/root/home/agaile_datasets/block-tower_test/image_663.jpg",
+        "url": "http://static8.depositphotos.com/1033824/1039/i/110/depositphotos_10393022-Happy-parents-playing-with-child-at-home.jpg",
+        "label": "Yes"
+    }
+}

@@ -1,0 +1,3936 @@
+{
+    "0": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_0.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "1": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "2": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_2.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "3": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_3.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "4": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_4.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "6": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_6.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "7": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_7.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "8": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_8.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "9": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_9.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "10": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_10.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "11": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_11.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "12": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_12.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "13": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_13.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "14": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_14.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "15": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_15.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "16": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_16.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "17": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_17.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "18": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_18.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "19": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_19.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "20": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_20.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "21": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_21.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "22": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_22.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "23": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_23.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "24": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "25": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_25.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "26": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_26.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "27": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_27.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "28": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_28.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "30": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_30.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "31": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_31.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "32": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_32.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "33": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_33.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "35": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "36": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_36.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "37": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "38": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_38.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "40": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_40.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "41": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_41.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "42": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_42.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "43": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "44": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_44.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "45": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_45.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "46": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_46.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "47": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_47.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "48": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_48.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "50": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_50.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "51": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_51.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "52": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_52.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "53": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_53.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "54": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_54.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "55": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_55.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "56": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_56.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "57": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_57.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "58": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_58.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "59": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_59.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "60": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_60.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "61": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_61.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "62": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_62.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "63": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "64": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_64.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "65": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_65.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "66": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_66.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "67": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_67.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "68": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_68.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "71": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_71.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "73": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_73.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "74": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_74.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "75": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_75.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "76": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_76.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "78": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_78.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "79": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_79.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "80": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_80.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "81": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_81.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "82": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_82.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "83": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_83.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "84": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_84.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "85": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_85.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "86": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_86.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "87": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_87.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "88": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_88.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "89": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_89.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "90": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "91": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "92": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_92.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "93": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_93.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "94": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_94.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "95": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_95.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "96": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_96.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "97": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_97.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "98": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_98.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "99": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_99.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "100": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_100.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "101": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_101.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "102": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_102.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "103": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_103.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "104": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_104.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "105": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_105.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "106": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_106.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "107": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_107.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "108": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "109": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_109.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "110": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_110.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "111": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_111.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "112": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_112.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "113": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_113.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "114": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_114.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "115": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_115.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "117": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_117.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "119": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_119.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "120": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_120.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "121": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_121.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "124": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_124.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "125": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_125.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "126": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_126.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "127": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_127.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "128": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_128.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "130": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_130.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "131": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_131.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "132": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_132.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "133": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_133.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "134": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_134.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "135": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_135.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "137": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_137.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "138": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_138.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "139": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_139.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "140": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "141": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_141.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "142": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_142.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "143": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_143.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "144": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_144.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "145": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_145.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "146": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_146.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "147": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_147.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "148": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_148.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "150": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_150.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "151": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_151.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "152": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_152.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "153": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_153.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "155": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_155.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "156": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_156.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "158": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_158.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "160": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_160.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "161": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_161.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "162": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_162.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "163": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "164": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_164.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "165": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_165.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "166": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_166.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "167": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_167.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "168": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_168.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "169": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_169.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "170": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_170.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "171": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_171.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "172": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "174": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_174.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "175": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_175.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "176": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_176.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "177": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_177.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "178": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_178.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "179": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_179.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "180": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_180.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "181": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_181.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "182": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_182.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "183": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_183.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "185": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "186": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_186.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "187": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_187.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "188": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_188.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "189": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_189.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "190": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_190.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "191": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "192": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_192.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "193": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_193.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "194": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "195": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "197": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "198": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_198.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "199": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_199.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "201": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_201.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "202": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_202.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "203": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_203.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "204": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_204.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "205": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_205.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "206": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_206.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "207": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_207.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "208": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_208.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "209": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_209.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "210": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_210.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "211": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_211.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "212": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_212.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "213": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "214": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_214.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "217": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "218": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_218.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "220": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_220.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "221": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_221.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "222": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_222.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "223": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_223.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "224": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_224.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "225": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_225.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "226": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_226.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "227": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_227.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "228": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_228.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "229": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_229.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "230": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_230.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "231": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "232": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_232.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "233": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_233.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "234": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_234.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "235": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_235.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "236": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_236.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "237": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_237.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "238": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_238.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "239": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_239.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "240": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_240.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "241": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_241.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "243": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_243.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "244": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_244.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "245": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_245.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "246": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_246.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "248": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_248.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "249": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_249.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "250": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_250.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "251": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_251.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "253": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_253.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "254": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_254.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "255": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_255.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "256": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_256.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "257": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_257.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "258": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_258.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "259": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_259.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "260": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_260.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "262": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_262.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "263": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_263.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "264": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_264.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "265": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_265.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "266": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_266.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "267": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_267.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "268": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_268.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "269": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_269.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "270": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_270.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "271": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_271.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "273": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_273.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "274": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_274.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "275": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_275.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "276": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_276.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "277": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_277.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "278": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_278.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "279": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_279.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "281": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_281.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "283": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_283.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "284": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_284.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "285": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_285.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "286": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_286.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "287": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_287.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "289": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_289.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "290": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_290.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "291": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_291.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "293": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_293.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "294": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_294.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "296": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_296.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "297": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_297.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "298": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_298.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "300": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_300.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "301": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_301.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "302": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_302.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "303": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_303.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "304": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_304.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "305": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_305.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "306": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_306.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "307": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "308": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_308.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "310": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_310.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "311": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_311.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "312": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_312.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "314": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_314.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "315": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_315.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "316": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_316.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "317": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_317.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "318": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_318.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "319": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_319.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "320": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_320.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "322": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_322.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "323": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_323.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "324": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_324.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "325": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_325.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "326": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_326.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "327": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_327.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "328": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_328.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "329": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_329.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "331": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_331.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "332": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_332.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "333": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_333.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "335": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_335.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "336": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_336.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "337": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_337.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "**No**\n\nThis image does not depict a block tower. Instead, it appears to be an advertisement for \"Know My Plan,\" featuring the phrase \"Are You Climbing The Complexity Mountain?\" and a logo that includes a stylized representation of interconnected circles. The background is dark blue with white text, suggesting a professional or financial context.",
+        "query_prompt": "**No**\n\nThis image does not depict a block tower. Instead, it appears to be an advertisement for \"Know My Plan,\" featuring the phrase \"Are You Climbing The Complexity Mountain?\" and a logo that includes a stylized representation of interconnected circles. The background is dark blue with white text, suggesting a professional or financial context."
+    },
+    "338": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "340": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_340.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "341": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_341.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "344": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_344.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "345": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_345.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "346": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_346.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "350": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_350.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "351": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_351.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "352": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_352.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "353": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_353.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "354": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_354.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "355": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_355.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "357": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_357.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "358": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_358.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "359": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_359.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "360": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_360.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "361": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_361.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "363": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_363.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "364": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_364.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "365": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "366": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_366.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "367": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "368": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_368.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "369": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_369.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "370": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_370.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "371": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_371.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "373": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_373.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "374": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_374.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "375": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_375.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "376": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_376.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "377": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_377.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "378": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_378.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "379": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_379.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "380": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_380.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "381": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_381.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "383": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_383.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "384": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_384.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "386": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_386.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "387": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_387.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "388": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_388.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "389": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_389.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "390": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_390.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "391": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_391.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "392": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_392.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "393": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_393.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "394": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_394.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "396": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_396.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "397": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_397.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "398": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_398.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "399": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "400": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_400.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "401": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_401.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "402": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_402.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "403": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_403.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "404": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_404.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "405": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_405.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "407": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_407.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "408": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_408.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "410": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_410.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "411": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_411.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "412": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_412.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "415": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_415.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "416": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_416.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "417": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_417.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "418": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_418.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "419": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_419.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "421": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_421.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "422": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_422.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "423": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_423.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "426": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_426.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "428": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_428.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "429": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_429.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "431": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_431.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "432": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_432.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "433": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_433.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "434": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_434.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "435": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_435.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "438": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_438.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "439": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_439.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "441": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_441.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "442": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_442.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "443": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_443.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "444": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_444.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "445": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_445.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "446": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_446.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "447": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_447.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "449": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_449.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "450": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_450.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "451": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_451.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "452": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_452.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "453": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_453.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "455": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_455.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "456": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_456.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "457": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_457.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "458": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_458.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "459": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_459.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "460": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_460.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "461": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_461.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "462": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_462.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "464": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_464.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "467": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_467.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "468": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_468.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "469": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_469.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "470": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_470.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "471": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_471.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "472": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_472.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "473": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_473.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "474": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_474.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "475": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_475.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "476": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_476.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "477": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_477.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "478": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_478.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "479": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_479.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "480": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "481": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_481.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "482": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_482.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "483": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_483.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "485": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_485.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "486": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_486.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "487": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_487.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "489": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_489.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "490": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_490.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "491": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_491.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "492": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_492.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "493": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_493.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "494": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "495": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_495.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "496": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_496.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "497": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_497.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "498": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_498.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "499": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_499.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "500": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_500.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "501": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_501.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "503": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_503.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "505": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_505.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "508": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_508.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "509": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_509.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "510": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_510.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "511": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "512": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_512.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "513": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_513.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "514": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_514.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "515": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_515.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "516": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_516.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "517": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_517.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "518": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_518.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "519": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_519.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "520": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "521": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_521.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "522": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_522.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "523": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_523.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "524": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "525": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_525.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "526": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_526.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "527": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_527.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "528": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_528.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "529": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_529.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "530": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_530.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "531": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_531.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "532": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_532.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "534": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_534.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "535": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_535.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "536": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_536.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "537": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_537.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "538": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_538.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "539": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_539.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "540": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_540.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "541": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_541.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "542": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_542.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "544": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_544.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "545": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_545.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "546": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_546.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "547": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_547.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "548": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_548.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "549": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_549.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "550": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_550.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "551": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_551.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "552": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "553": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_553.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "554": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_554.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "555": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_555.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "557": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_557.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "558": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_558.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "559": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_559.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "561": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_561.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "562": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_562.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "564": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_564.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "565": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_565.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "566": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_566.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "567": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_567.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "568": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_568.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "569": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_569.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "571": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_571.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "572": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_572.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "573": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_573.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "574": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_574.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "575": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_575.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "576": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_576.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "577": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_577.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "578": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "579": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_579.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "580": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_580.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "581": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_581.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "583": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_583.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "585": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_585.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "586": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_586.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "587": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_587.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "588": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_588.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "590": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_590.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "591": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_591.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "592": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_592.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "593": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_593.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "594": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_594.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "595": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_595.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "596": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_596.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "597": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_597.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "599": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_599.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "600": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_600.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "603": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_603.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "604": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_604.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "605": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_605.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "606": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_606.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "608": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_608.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "609": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_609.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "610": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_610.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "611": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_611.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "612": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "613": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_613.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "614": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_614.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "616": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_616.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "617": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_617.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "618": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_618.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "619": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_619.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "620": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_620.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "621": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_621.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "622": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_622.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "623": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_623.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "624": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_624.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "625": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_625.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "626": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_626.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "627": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_627.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "628": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_628.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "629": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_629.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "631": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_631.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "632": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_632.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "633": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_633.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "634": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_634.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "635": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_635.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "636": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_636.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "637": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_637.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "639": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_639.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "640": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_640.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "642": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_642.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "643": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_643.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "644": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_644.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "646": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_646.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "647": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_647.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "648": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_648.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "649": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_649.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "650": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_650.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes.",
+        "query_prompt": "Yes."
+    },
+    "652": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_652.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "653": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "654": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_654.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "655": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_655.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "656": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_656.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "658": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "659": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_659.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "660": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_660.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "661": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_661.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "662": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_662.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    },
+    "663": {
+        "path": "/root/home/agaile_datasets/block-tower_test/image_663.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No.",
+        "query_prompt": "No."
+    }
+}

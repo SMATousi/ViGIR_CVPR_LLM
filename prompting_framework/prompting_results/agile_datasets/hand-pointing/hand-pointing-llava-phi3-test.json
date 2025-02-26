@@ -1,0 +1,4831 @@
+{
+    "0": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_0.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "3": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_3.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "4": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_4.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "5": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_5.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "6": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_6.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "7": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_7.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "9": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_9.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "11": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_11.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "12": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_12.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "13": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_13.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "14": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_14.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "15": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_15.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "17": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_17.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "18": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_18.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "19": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_19.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "20": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_20.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "21": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_21.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "22": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_22.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "23": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_23.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "24": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_24.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "25": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_25.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "26": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_26.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "27": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_27.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "28": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_28.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "29": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_29.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "30": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_30.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "31": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_31.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "32": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_32.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "33": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_33.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "34": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_34.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "35": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_35.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "37": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_37.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "39": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_39.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "40": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_40.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "41": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_41.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "42": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_42.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "43": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_43.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "44": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_44.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "45": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_45.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "46": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_46.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "47": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_47.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "48": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_48.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, the image is not a photo of a hand pointing. It features a woman who has her arm raised and is making a gesture with her index finger.",
+        "query_prompt": "No, the image is not a photo of a hand pointing. It features a woman who has her arm raised and is making a gesture with her index finger."
+    },
+    "49": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_49.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "50": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_50.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "51": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_51.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "52": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_52.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "53": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_53.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "54": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_54.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "55": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_55.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "56": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_56.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "58": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_58.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "59": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_59.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "60": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_60.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "61": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_61.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "62": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_62.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "63": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_63.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "64": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_64.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "65": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_65.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "66": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_66.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "67": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_67.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "68": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_68.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "69": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_69.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "70": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_70.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "73": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_73.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "74": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_74.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "76": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_76.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "77": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_77.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "78": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_78.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "79": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_79.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "80": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_80.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "81": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_81.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "82": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_82.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "83": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_83.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "84": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_84.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "85": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_85.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "86": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_86.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "87": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_87.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "89": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_89.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "90": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_90.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "91": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_91.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "92": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_92.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "93": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_93.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "94": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_94.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "97": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_97.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "99": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_99.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "100": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_100.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "103": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_103.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, the image is not a photo of a hand pointing. It's an image of a man giving a thumbs up sign.",
+        "query_prompt": "No, the image is not a photo of a hand pointing. It's an image of a man giving a thumbs up sign."
+    },
+    "104": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_104.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "105": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_105.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "106": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_106.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "107": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_107.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "109": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_109.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "110": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_110.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "112": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_112.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "113": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_113.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "114": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_114.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "115": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_115.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "116": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_116.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "117": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_117.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "118": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_118.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "119": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_119.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "120": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_120.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "122": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "123": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_123.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "124": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_124.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "125": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_125.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "126": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_126.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "127": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_127.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "128": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_128.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "129": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_129.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "130": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_130.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "131": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_131.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "132": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_132.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "133": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_133.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "134": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_134.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "135": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_135.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "136": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_136.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "137": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_137.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "138": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_138.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "139": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_139.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "140": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_140.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "141": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_141.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "142": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_142.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "144": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_144.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "145": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_145.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "146": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_146.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "147": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_147.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "148": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_148.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "149": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_149.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "150": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_150.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "151": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_151.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "153": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_153.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "154": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "155": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_155.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "156": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_156.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, it is not a photo of a hand pointing. It is a photo of a woman in a suit and jacket.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It is a photo of a woman in a suit and jacket."
+    },
+    "157": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_157.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "158": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_158.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "159": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_159.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "160": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_160.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "161": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_161.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "162": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_162.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "163": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_163.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "165": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_165.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "166": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_166.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "167": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_167.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "168": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_168.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "169": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_169.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "170": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_170.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "172": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_172.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "173": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_173.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "174": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_174.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "175": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_175.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "176": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_176.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "177": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_177.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "180": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_180.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "181": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_181.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "182": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_182.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "183": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_183.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "184": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_184.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "185": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_185.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "186": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_186.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "187": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_187.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "188": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_188.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "189": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_189.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "190": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_190.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "191": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_191.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "192": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_192.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "193": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_193.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "194": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_194.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "195": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_195.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "198": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_198.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "199": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_199.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "201": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_201.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "202": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_202.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "203": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_203.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "204": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_204.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "205": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "206": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "207": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_207.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "208": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "209": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_209.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "210": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_210.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "212": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_212.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "213": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_213.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "214": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_214.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "216": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_216.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "217": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_217.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "218": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_218.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "219": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_219.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "220": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_220.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "221": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_221.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "223": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_223.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "224": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_224.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "225": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_225.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "226": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_226.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "227": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_227.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "228": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_228.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "229": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_229.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "230": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_230.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "231": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_231.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "232": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_232.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "233": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "234": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_234.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "235": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_235.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, it is not a photo of a hand pointing. It is a photo of an older man wearing a suit and tie giving the thumbs up sign.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It is a photo of an older man wearing a suit and tie giving the thumbs up sign."
+    },
+    "236": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_236.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "237": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_237.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "238": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_238.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "239": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_239.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "241": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_241.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "242": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_242.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "243": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_243.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "244": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_244.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "247": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_247.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "248": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_248.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "249": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_249.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "250": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_250.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "253": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "255": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_255.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "256": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_256.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "257": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_257.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "258": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_258.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "259": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_259.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "260": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_260.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "261": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_261.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, the image does not depict a photo of a hand pointing. It is an image of a man in a suit and tie standing with his arms outstretched.",
+        "query_prompt": "No, the image does not depict a photo of a hand pointing. It is an image of a man in a suit and tie standing with his arms outstretched."
+    },
+    "262": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_262.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "263": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_263.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "264": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_264.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "265": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_265.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "266": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_266.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, it is not a photo of a hand pointing. It is a photo of a woman holding up her phone and making a gesture with one finger.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It is a photo of a woman holding up her phone and making a gesture with one finger."
+    },
+    "267": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_267.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "269": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_269.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "271": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_271.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "272": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_272.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "273": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_273.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "274": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_274.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "275": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_275.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "276": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_276.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "277": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_277.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "278": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_278.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "279": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_279.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "280": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_280.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "282": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_282.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "283": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_283.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "285": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_285.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "286": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_286.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "287": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_287.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "288": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_288.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "289": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_289.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "290": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_290.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "291": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_291.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "293": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_293.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "294": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_294.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "295": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_295.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "296": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_296.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "297": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_297.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "298": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_298.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "299": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_299.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "300": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_300.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "301": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_301.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "302": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_302.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "303": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_303.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "304": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_304.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "305": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_305.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "306": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_306.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "307": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_307.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "308": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_308.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "309": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_309.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "310": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_310.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "311": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_311.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, it is not a photo of a hand pointing. It's a photo of a woman wearing a colorful dress and smiling.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It's a photo of a woman wearing a colorful dress and smiling."
+    },
+    "313": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_313.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "315": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_315.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "316": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_316.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "317": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_317.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "319": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_319.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "320": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_320.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "321": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_321.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "322": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_322.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, the image is not a photo of a hand pointing. It features a woman wearing glasses and a blue blazer.",
+        "query_prompt": "No, the image is not a photo of a hand pointing. It features a woman wearing glasses and a blue blazer."
+    },
+    "323": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_323.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "324": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_324.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "325": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_325.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "326": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_326.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "327": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_327.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, the image does not show a photo of a hand pointing. Instead, it features a man who is making a \"V\" sign with his fingers and has a towel wrapped around his neck. The background is plain white.",
+        "query_prompt": "No, the image does not show a photo of a hand pointing. Instead, it features a man who is making a \"V\" sign with his fingers and has a towel wrapped around his neck. The background is plain white."
+    },
+    "328": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_328.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "329": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_329.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "330": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_330.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "331": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_331.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "332": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_332.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "333": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_333.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "\nYes",
+        "query_prompt": "\nYes"
+    },
+    "334": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "335": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_335.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "336": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_336.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "337": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_337.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "338": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_338.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "339": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_339.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "340": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_340.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "341": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_341.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "343": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_343.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "345": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_345.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "346": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_346.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "347": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_347.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "348": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_348.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "349": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_349.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "350": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_350.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "351": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_351.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "352": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_352.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "355": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "356": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_356.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "357": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "358": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_358.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "360": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_360.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "361": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_361.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "362": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "363": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_363.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "366": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_366.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "367": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "369": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "370": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_370.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "371": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_371.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "372": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_372.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "373": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_373.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "374": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_374.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "376": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_376.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "377": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_377.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "378": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_378.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "380": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_380.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "381": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "382": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_382.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "383": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_383.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "385": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_385.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "386": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_386.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "387": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_387.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "388": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_388.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "389": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "390": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_390.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "391": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_391.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "392": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_392.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "393": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_393.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "394": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_394.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "395": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_395.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "396": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_396.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "398": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_398.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "399": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_399.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "401": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_401.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "402": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_402.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "403": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_403.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "404": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_404.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "405": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_405.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "406": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_406.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "407": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_407.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "408": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_408.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "409": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_409.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "410": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_410.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "412": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_412.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "413": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_413.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "415": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_415.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, the image does not depict a photo of a hand pointing. Instead, it features a man dressed in formal attire, standing against a white background and making a gesture with his left hand. The man is wearing a black suit jacket, a red tie, and black pants.",
+        "query_prompt": "No, the image does not depict a photo of a hand pointing. Instead, it features a man dressed in formal attire, standing against a white background and making a gesture with his left hand. The man is wearing a black suit jacket, a red tie, and black pants."
+    },
+    "417": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_417.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "418": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_418.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "420": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_420.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "422": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_422.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "424": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_424.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "425": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_425.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "426": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_426.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "427": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_427.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "428": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_428.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "429": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_429.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "430": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_430.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "431": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_431.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "432": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_432.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, the image does not show a photo of a hand pointing. Instead, it features a woman who is smiling and making a \"V\" shape with her index finger. She is wearing a black blazer and appears to be posing for the camera against a white background. The focus of the image is on her gesture rather than any specific object or action related to hand pointing.",
+        "query_prompt": "No, the image does not show a photo of a hand pointing. Instead, it features a woman who is smiling and making a \"V\" shape with her index finger. She is wearing a black blazer and appears to be posing for the camera against a white background. The focus of the image is on her gesture rather than any specific object or action related to hand pointing."
+    },
+    "434": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_434.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "436": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_436.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "438": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_438.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "439": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_439.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "440": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_440.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "441": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_441.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "442": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_442.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "443": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_443.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "444": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_444.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "445": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_445.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "446": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_446.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "447": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_447.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "448": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_448.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "450": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "451": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_451.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "452": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_452.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "453": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_453.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "454": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_454.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "455": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_455.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "456": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_456.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "457": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_457.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "458": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_458.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "459": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_459.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "460": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_460.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "461": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_461.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "463": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_463.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "464": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_464.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "465": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_465.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "466": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_466.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "467": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_467.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "469": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_469.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "470": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_470.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "471": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_471.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "472": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_472.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "473": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_473.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "474": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_474.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, it is not a photo of a hand pointing. It's a photo of two people standing on the street.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It's a photo of two people standing on the street."
+    },
+    "476": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_476.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "477": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_477.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "478": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_478.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "479": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_479.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "480": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_480.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "481": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_481.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "483": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_483.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "484": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_484.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "485": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_485.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "489": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_489.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "490": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_490.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "491": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_491.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "492": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_492.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "493": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_493.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "494": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_494.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "495": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_495.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "496": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_496.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "497": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_497.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "498": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_498.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "499": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_499.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "500": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_500.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "501": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_501.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "502": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_502.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "503": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_503.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "504": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_504.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "506": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_506.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "507": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_507.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "508": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_508.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "510": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_510.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "511": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_511.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "512": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_512.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "514": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_514.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "515": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "519": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_519.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "520": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_520.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "521": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_521.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "522": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_522.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "523": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_523.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "525": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_525.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "527": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_527.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "528": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_528.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "529": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_529.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "530": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "532": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_532.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "533": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_533.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "534": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_534.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "535": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_535.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "538": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_538.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "539": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_539.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, it is not a photo of a hand pointing. It's a photo of a young girl in a red shirt making a \"pointing\" gesture with her index finger.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It's a photo of a young girl in a red shirt making a \"pointing\" gesture with her index finger."
+    },
+    "540": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_540.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "541": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "542": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_542.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "543": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_543.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "544": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_544.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "546": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_546.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "547": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_547.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "548": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_548.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "549": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_549.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "550": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_550.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "551": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_551.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "552": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_552.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "553": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_553.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "554": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_554.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "555": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_555.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, it is not a photo of a hand pointing. It's a photo of a woman showing off her tight blue jeans and making a \"thumbs up\" gesture.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It's a photo of a woman showing off her tight blue jeans and making a \"thumbs up\" gesture."
+    },
+    "556": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_556.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "557": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_557.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "558": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_558.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "559": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_559.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "560": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_560.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "562": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_562.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "563": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_563.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "564": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_564.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "565": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_565.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "566": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_566.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "567": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_567.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "568": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_568.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "569": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_569.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "570": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_570.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "571": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_571.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "572": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_572.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, it is not a photo of a hand pointing. It is a photo of a man in a suit and tie making a \"shaka\" sign.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It is a photo of a man in a suit and tie making a \"shaka\" sign."
+    },
+    "573": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_573.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "575": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_575.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "576": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_576.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "577": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_577.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "579": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_579.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "580": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_580.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "581": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_581.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "582": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_582.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "583": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_583.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "585": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_585.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "586": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_586.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "587": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_587.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, the image is not a photo of a hand pointing. It features a woman wearing glasses and a black blazer, making a peace sign gesture with her fingers.",
+        "query_prompt": "No, the image is not a photo of a hand pointing. It features a woman wearing glasses and a black blazer, making a peace sign gesture with her fingers."
+    },
+    "588": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_588.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "589": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_589.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "590": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_590.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "595": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_595.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "596": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_596.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "597": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_597.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "599": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_599.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "600": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_600.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "601": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_601.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "604": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_604.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "606": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_606.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "607": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_607.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "609": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_609.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "610": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_610.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "611": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_611.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "612": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_612.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "613": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_613.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "614": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_614.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "615": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_615.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "616": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_616.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "618": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_618.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "619": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_619.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "622": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_622.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "623": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_623.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "624": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_624.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "625": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_625.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "626": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_626.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "627": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_627.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "628": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_628.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "629": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_629.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "630": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_630.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "631": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_631.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, it is not a photo of a hand pointing. It is a photo of a woman in a suit pointing to herself.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It is a photo of a woman in a suit pointing to herself."
+    },
+    "632": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_632.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "634": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_634.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "635": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_635.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "636": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_636.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "637": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_637.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "639": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_639.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "641": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "642": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_642.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "643": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_643.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "645": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_645.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "646": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_646.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "647": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_647.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "648": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_648.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "649": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_649.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "650": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_650.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "651": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_651.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "652": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_652.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "653": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_653.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "654": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_654.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "655": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_655.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "657": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_657.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "658": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_658.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "659": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_659.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "660": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_660.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "661": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_661.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "662": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_662.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "663": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_663.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "664": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_664.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "No, the image is not a photo of a hand pointing. It features a woman giving a thumbs up gesture while wearing glasses and a white blouse.",
+        "query_prompt": "No, the image is not a photo of a hand pointing. It features a woman giving a thumbs up gesture while wearing glasses and a white blouse."
+    },
+    "665": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_665.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "666": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_666.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "668": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_668.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "669": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_669.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "670": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_670.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "671": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_671.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "672": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_672.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "674": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_674.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "675": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_675.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "676": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_676.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "677": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_677.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "678": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_678.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "679": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_679.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "680": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_680.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "681": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_681.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "682": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_682.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, the image does not show a photo of a hand pointing. It shows a man in a suit and tie making a gesture with his right hand.",
+        "query_prompt": "No, the image does not show a photo of a hand pointing. It shows a man in a suit and tie making a gesture with his right hand."
+    },
+    "683": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_683.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "684": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_684.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "685": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_685.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "686": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_686.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "688": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_688.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "689": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_689.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "690": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_690.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "691": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_691.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "692": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_692.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "693": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_693.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "694": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_694.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "695": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_695.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "696": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_696.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "697": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_697.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "698": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_698.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "699": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_699.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "700": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_700.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "703": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_703.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "704": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_704.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "707": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_707.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "708": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_708.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "709": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_709.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "710": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "712": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_712.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "713": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_713.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "714": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_714.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "715": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_715.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "716": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_716.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "717": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_717.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "718": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_718.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "720": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_720.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "722": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_722.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "723": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_723.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "724": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_724.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "725": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_725.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "726": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_726.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "727": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_727.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "728": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_728.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "730": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_730.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "731": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_731.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "732": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_732.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "733": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_733.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "734": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_734.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "735": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_735.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "736": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_736.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "737": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_737.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "738": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_738.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "739": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_739.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "740": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_740.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "741": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_741.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "742": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_742.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "744": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "745": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_745.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "746": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_746.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "747": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_747.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "748": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_748.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "749": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_749.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "750": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_750.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "751": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_751.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "752": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_752.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "753": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_753.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "754": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_754.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "755": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_755.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "756": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_756.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "757": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_757.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "758": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_758.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No, it is not a photo of a hand pointing. It is a close up image of a woman wearing glasses and smiling.",
+        "query_prompt": "No, it is not a photo of a hand pointing. It is a close up image of a woman wearing glasses and smiling."
+    },
+    "759": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_759.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "760": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_760.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "761": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_761.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "763": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_763.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "764": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_764.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "765": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_765.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "766": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_766.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "767": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_767.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "768": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_768.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "769": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_769.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "770": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_770.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "771": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_771.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "772": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_772.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "773": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_773.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "774": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_774.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "775": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_775.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "776": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_776.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "777": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_777.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "778": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_778.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "779": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_779.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "780": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_780.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "781": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_781.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "782": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_782.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "783": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_783.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "784": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_784.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "785": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_785.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "787": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_787.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "788": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_788.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "789": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_789.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "790": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_790.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "791": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_791.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "792": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_792.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "793": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_793.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "794": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_794.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "795": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_795.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "796": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_796.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "797": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_797.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "801": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_801.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "802": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_802.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "803": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_803.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "804": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_804.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "805": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_805.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "806": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_806.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "807": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_807.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "808": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_808.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "809": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_809.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "810": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_810.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "811": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_811.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": "Yes",
+        "query_prompt": "Yes"
+    },
+    "812": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_812.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "813": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_813.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "814": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_814.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "815": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_815.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "816": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_816.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "817": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_817.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    },
+    "818": {
+        "path": "/root/home/agaile_datasets/hand-pointing_test/image_818.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": "No",
+        "query_prompt": "No"
+    }
+}

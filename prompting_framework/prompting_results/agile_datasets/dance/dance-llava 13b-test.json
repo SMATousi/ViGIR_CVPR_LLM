@@ -1,0 +1,4183 @@
+{
+    "0": {
+        "path": "/root/home/agaile_datasets/dance_test/image_0.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "1": {
+        "path": "/root/home/agaile_datasets/dance_test/image_1.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "2": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "3": {
+        "path": "/root/home/agaile_datasets/dance_test/image_3.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "4": {
+        "path": "/root/home/agaile_datasets/dance_test/image_4.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "5": {
+        "path": "/root/home/agaile_datasets/dance_test/image_5.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "7": {
+        "path": "/root/home/agaile_datasets/dance_test/image_7.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "8": {
+        "path": "/root/home/agaile_datasets/dance_test/image_8.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "9": {
+        "path": "/root/home/agaile_datasets/dance_test/image_9.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "11": {
+        "path": "/root/home/agaile_datasets/dance_test/image_11.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "12": {
+        "path": "/root/home/agaile_datasets/dance_test/image_12.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "13": {
+        "path": "/root/home/agaile_datasets/dance_test/image_13.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "14": {
+        "path": "/root/home/agaile_datasets/dance_test/image_14.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "15": {
+        "path": "/root/home/agaile_datasets/dance_test/image_15.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "16": {
+        "path": "/root/home/agaile_datasets/dance_test/image_16.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "17": {
+        "path": "/root/home/agaile_datasets/dance_test/image_17.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "18": {
+        "path": "/root/home/agaile_datasets/dance_test/image_18.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "19": {
+        "path": "/root/home/agaile_datasets/dance_test/image_19.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "20": {
+        "path": "/root/home/agaile_datasets/dance_test/image_20.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "21": {
+        "path": "/root/home/agaile_datasets/dance_test/image_21.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "22": {
+        "path": "/root/home/agaile_datasets/dance_test/image_22.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "23": {
+        "path": "/root/home/agaile_datasets/dance_test/image_23.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "24": {
+        "path": "/root/home/agaile_datasets/dance_test/image_24.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "25": {
+        "path": "/root/home/agaile_datasets/dance_test/image_25.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "26": {
+        "path": "/root/home/agaile_datasets/dance_test/image_26.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "27": {
+        "path": "/root/home/agaile_datasets/dance_test/image_27.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "28": {
+        "path": "/root/home/agaile_datasets/dance_test/image_28.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "29": {
+        "path": "/root/home/agaile_datasets/dance_test/image_29.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "30": {
+        "path": "/root/home/agaile_datasets/dance_test/image_30.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "32": {
+        "path": "/root/home/agaile_datasets/dance_test/image_32.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "33": {
+        "path": "/root/home/agaile_datasets/dance_test/image_33.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "34": {
+        "path": "/root/home/agaile_datasets/dance_test/image_34.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "35": {
+        "path": "/root/home/agaile_datasets/dance_test/image_35.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "36": {
+        "path": "/root/home/agaile_datasets/dance_test/image_36.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "37": {
+        "path": "/root/home/agaile_datasets/dance_test/image_37.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "38": {
+        "path": "/root/home/agaile_datasets/dance_test/image_38.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "39": {
+        "path": "/root/home/agaile_datasets/dance_test/image_39.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "40": {
+        "path": "/root/home/agaile_datasets/dance_test/image_40.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "41": {
+        "path": "/root/home/agaile_datasets/dance_test/image_41.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "42": {
+        "path": "/root/home/agaile_datasets/dance_test/image_42.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "43": {
+        "path": "/root/home/agaile_datasets/dance_test/image_43.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "44": {
+        "path": "/root/home/agaile_datasets/dance_test/image_44.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "45": {
+        "path": "/root/home/agaile_datasets/dance_test/image_45.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "46": {
+        "path": "/root/home/agaile_datasets/dance_test/image_46.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "47": {
+        "path": "/root/home/agaile_datasets/dance_test/image_47.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "49": {
+        "path": "/root/home/agaile_datasets/dance_test/image_49.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "50": {
+        "path": "/root/home/agaile_datasets/dance_test/image_50.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "51": {
+        "path": "/root/home/agaile_datasets/dance_test/image_51.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "52": {
+        "path": "/root/home/agaile_datasets/dance_test/image_52.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "53": {
+        "path": "/root/home/agaile_datasets/dance_test/image_53.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "54": {
+        "path": "/root/home/agaile_datasets/dance_test/image_54.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "55": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "56": {
+        "path": "/root/home/agaile_datasets/dance_test/image_56.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "57": {
+        "path": "/root/home/agaile_datasets/dance_test/image_57.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "58": {
+        "path": "/root/home/agaile_datasets/dance_test/image_58.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "59": {
+        "path": "/root/home/agaile_datasets/dance_test/image_59.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "60": {
+        "path": "/root/home/agaile_datasets/dance_test/image_60.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "61": {
+        "path": "/root/home/agaile_datasets/dance_test/image_61.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "62": {
+        "path": "/root/home/agaile_datasets/dance_test/image_62.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "63": {
+        "path": "/root/home/agaile_datasets/dance_test/image_63.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "64": {
+        "path": "/root/home/agaile_datasets/dance_test/image_64.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "66": {
+        "path": "/root/home/agaile_datasets/dance_test/image_66.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "67": {
+        "path": "/root/home/agaile_datasets/dance_test/image_67.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "68": {
+        "path": "/root/home/agaile_datasets/dance_test/image_68.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "69": {
+        "path": "/root/home/agaile_datasets/dance_test/image_69.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "70": {
+        "path": "/root/home/agaile_datasets/dance_test/image_70.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "71": {
+        "path": "/root/home/agaile_datasets/dance_test/image_71.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "72": {
+        "path": "/root/home/agaile_datasets/dance_test/image_72.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "73": {
+        "path": "/root/home/agaile_datasets/dance_test/image_73.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "74": {
+        "path": "/root/home/agaile_datasets/dance_test/image_74.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "75": {
+        "path": "/root/home/agaile_datasets/dance_test/image_75.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "76": {
+        "path": "/root/home/agaile_datasets/dance_test/image_76.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "78": {
+        "path": "/root/home/agaile_datasets/dance_test/image_78.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "79": {
+        "path": "/root/home/agaile_datasets/dance_test/image_79.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "80": {
+        "path": "/root/home/agaile_datasets/dance_test/image_80.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "81": {
+        "path": "/root/home/agaile_datasets/dance_test/image_81.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No.",
+        "query_prompt": " No."
+    },
+    "82": {
+        "path": "/root/home/agaile_datasets/dance_test/image_82.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "83": {
+        "path": "/root/home/agaile_datasets/dance_test/image_83.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "84": {
+        "path": "/root/home/agaile_datasets/dance_test/image_84.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "85": {
+        "path": "/root/home/agaile_datasets/dance_test/image_85.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "86": {
+        "path": "/root/home/agaile_datasets/dance_test/image_86.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "87": {
+        "path": "/root/home/agaile_datasets/dance_test/image_87.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "88": {
+        "path": "/root/home/agaile_datasets/dance_test/image_88.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "90": {
+        "path": "/root/home/agaile_datasets/dance_test/image_90.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "91": {
+        "path": "/root/home/agaile_datasets/dance_test/image_91.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "92": {
+        "path": "/root/home/agaile_datasets/dance_test/image_92.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "93": {
+        "path": "/root/home/agaile_datasets/dance_test/image_93.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "94": {
+        "path": "/root/home/agaile_datasets/dance_test/image_94.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "95": {
+        "path": "/root/home/agaile_datasets/dance_test/image_95.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "96": {
+        "path": "/root/home/agaile_datasets/dance_test/image_96.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "97": {
+        "path": "/root/home/agaile_datasets/dance_test/image_97.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "98": {
+        "path": "/root/home/agaile_datasets/dance_test/image_98.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "99": {
+        "path": "/root/home/agaile_datasets/dance_test/image_99.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "100": {
+        "path": "/root/home/agaile_datasets/dance_test/image_100.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "101": {
+        "path": "/root/home/agaile_datasets/dance_test/image_101.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "102": {
+        "path": "/root/home/agaile_datasets/dance_test/image_102.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "103": {
+        "path": "/root/home/agaile_datasets/dance_test/image_103.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "104": {
+        "path": "/root/home/agaile_datasets/dance_test/image_104.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "105": {
+        "path": "/root/home/agaile_datasets/dance_test/image_105.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "106": {
+        "path": "/root/home/agaile_datasets/dance_test/image_106.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "107": {
+        "path": "/root/home/agaile_datasets/dance_test/image_107.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "108": {
+        "path": "/root/home/agaile_datasets/dance_test/image_108.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "109": {
+        "path": "/root/home/agaile_datasets/dance_test/image_109.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "110": {
+        "path": "/root/home/agaile_datasets/dance_test/image_110.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "111": {
+        "path": "/root/home/agaile_datasets/dance_test/image_111.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "112": {
+        "path": "/root/home/agaile_datasets/dance_test/image_112.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "113": {
+        "path": "/root/home/agaile_datasets/dance_test/image_113.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "114": {
+        "path": "/root/home/agaile_datasets/dance_test/image_114.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "116": {
+        "path": "/root/home/agaile_datasets/dance_test/image_116.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "117": {
+        "path": "/root/home/agaile_datasets/dance_test/image_117.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "118": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "119": {
+        "path": "/root/home/agaile_datasets/dance_test/image_119.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "120": {
+        "path": "/root/home/agaile_datasets/dance_test/image_120.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "122": {
+        "path": "/root/home/agaile_datasets/dance_test/image_122.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "124": {
+        "path": "/root/home/agaile_datasets/dance_test/image_124.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "125": {
+        "path": "/root/home/agaile_datasets/dance_test/image_125.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "126": {
+        "path": "/root/home/agaile_datasets/dance_test/image_126.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "127": {
+        "path": "/root/home/agaile_datasets/dance_test/image_127.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "128": {
+        "path": "/root/home/agaile_datasets/dance_test/image_128.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "130": {
+        "path": "/root/home/agaile_datasets/dance_test/image_130.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "131": {
+        "path": "/root/home/agaile_datasets/dance_test/image_131.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "133": {
+        "path": "/root/home/agaile_datasets/dance_test/image_133.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "134": {
+        "path": "/root/home/agaile_datasets/dance_test/image_134.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "135": {
+        "path": "/root/home/agaile_datasets/dance_test/image_135.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "137": {
+        "path": "/root/home/agaile_datasets/dance_test/image_137.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "138": {
+        "path": "/root/home/agaile_datasets/dance_test/image_138.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "139": {
+        "path": "/root/home/agaile_datasets/dance_test/image_139.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "140": {
+        "path": "/root/home/agaile_datasets/dance_test/image_140.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "141": {
+        "path": "/root/home/agaile_datasets/dance_test/image_141.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "142": {
+        "path": "/root/home/agaile_datasets/dance_test/image_142.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "145": {
+        "path": "/root/home/agaile_datasets/dance_test/image_145.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "146": {
+        "path": "/root/home/agaile_datasets/dance_test/image_146.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "148": {
+        "path": "/root/home/agaile_datasets/dance_test/image_148.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "149": {
+        "path": "/root/home/agaile_datasets/dance_test/image_149.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "150": {
+        "path": "/root/home/agaile_datasets/dance_test/image_150.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "151": {
+        "path": "/root/home/agaile_datasets/dance_test/image_151.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "152": {
+        "path": "/root/home/agaile_datasets/dance_test/image_152.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "153": {
+        "path": "/root/home/agaile_datasets/dance_test/image_153.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "155": {
+        "path": "/root/home/agaile_datasets/dance_test/image_155.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "156": {
+        "path": "/root/home/agaile_datasets/dance_test/image_156.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "157": {
+        "path": "/root/home/agaile_datasets/dance_test/image_157.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "158": {
+        "path": "/root/home/agaile_datasets/dance_test/image_158.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "159": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "160": {
+        "path": "/root/home/agaile_datasets/dance_test/image_160.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "161": {
+        "path": "/root/home/agaile_datasets/dance_test/image_161.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "162": {
+        "path": "/root/home/agaile_datasets/dance_test/image_162.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "164": {
+        "path": "/root/home/agaile_datasets/dance_test/image_164.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "165": {
+        "path": "/root/home/agaile_datasets/dance_test/image_165.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "166": {
+        "path": "/root/home/agaile_datasets/dance_test/image_166.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "167": {
+        "path": "/root/home/agaile_datasets/dance_test/image_167.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "168": {
+        "path": "/root/home/agaile_datasets/dance_test/image_168.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "169": {
+        "path": "/root/home/agaile_datasets/dance_test/image_169.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "170": {
+        "path": "/root/home/agaile_datasets/dance_test/image_170.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "171": {
+        "path": "/root/home/agaile_datasets/dance_test/image_171.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "173": {
+        "path": "/root/home/agaile_datasets/dance_test/image_173.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "174": {
+        "path": "/root/home/agaile_datasets/dance_test/image_174.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "175": {
+        "path": "/root/home/agaile_datasets/dance_test/image_175.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "178": {
+        "path": "/root/home/agaile_datasets/dance_test/image_178.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "179": {
+        "path": "/root/home/agaile_datasets/dance_test/image_179.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "180": {
+        "path": "/root/home/agaile_datasets/dance_test/image_180.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "183": {
+        "path": "/root/home/agaile_datasets/dance_test/image_183.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "184": {
+        "path": "/root/home/agaile_datasets/dance_test/image_184.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "185": {
+        "path": "/root/home/agaile_datasets/dance_test/image_185.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "186": {
+        "path": "/root/home/agaile_datasets/dance_test/image_186.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "187": {
+        "path": "/root/home/agaile_datasets/dance_test/image_187.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "188": {
+        "path": "/root/home/agaile_datasets/dance_test/image_188.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "189": {
+        "path": "/root/home/agaile_datasets/dance_test/image_189.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "190": {
+        "path": "/root/home/agaile_datasets/dance_test/image_190.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "191": {
+        "path": "/root/home/agaile_datasets/dance_test/image_191.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "192": {
+        "path": "/root/home/agaile_datasets/dance_test/image_192.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "193": {
+        "path": "/root/home/agaile_datasets/dance_test/image_193.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "195": {
+        "path": "/root/home/agaile_datasets/dance_test/image_195.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "196": {
+        "path": "/root/home/agaile_datasets/dance_test/image_196.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "197": {
+        "path": "/root/home/agaile_datasets/dance_test/image_197.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "198": {
+        "path": "/root/home/agaile_datasets/dance_test/image_198.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "199": {
+        "path": "/root/home/agaile_datasets/dance_test/image_199.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "200": {
+        "path": "/root/home/agaile_datasets/dance_test/image_200.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "201": {
+        "path": "/root/home/agaile_datasets/dance_test/image_201.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "202": {
+        "path": "/root/home/agaile_datasets/dance_test/image_202.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "203": {
+        "path": "/root/home/agaile_datasets/dance_test/image_203.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "204": {
+        "path": "/root/home/agaile_datasets/dance_test/image_204.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "205": {
+        "path": "/root/home/agaile_datasets/dance_test/image_205.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "206": {
+        "path": "/root/home/agaile_datasets/dance_test/image_206.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "207": {
+        "path": "/root/home/agaile_datasets/dance_test/image_207.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "208": {
+        "path": "/root/home/agaile_datasets/dance_test/image_208.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "209": {
+        "path": "/root/home/agaile_datasets/dance_test/image_209.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "210": {
+        "path": "/root/home/agaile_datasets/dance_test/image_210.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "212": {
+        "path": "/root/home/agaile_datasets/dance_test/image_212.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "213": {
+        "path": "/root/home/agaile_datasets/dance_test/image_213.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "214": {
+        "path": "/root/home/agaile_datasets/dance_test/image_214.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "215": {
+        "path": "/root/home/agaile_datasets/dance_test/image_215.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "216": {
+        "path": "/root/home/agaile_datasets/dance_test/image_216.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "217": {
+        "path": "/root/home/agaile_datasets/dance_test/image_217.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "221": {
+        "path": "/root/home/agaile_datasets/dance_test/image_221.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "222": {
+        "path": "/root/home/agaile_datasets/dance_test/image_222.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "224": {
+        "path": "/root/home/agaile_datasets/dance_test/image_224.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "225": {
+        "path": "/root/home/agaile_datasets/dance_test/image_225.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "226": {
+        "path": "/root/home/agaile_datasets/dance_test/image_226.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "227": {
+        "path": "/root/home/agaile_datasets/dance_test/image_227.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "228": {
+        "path": "/root/home/agaile_datasets/dance_test/image_228.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "229": {
+        "path": "/root/home/agaile_datasets/dance_test/image_229.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "231": {
+        "path": "/root/home/agaile_datasets/dance_test/image_231.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "232": {
+        "path": "/root/home/agaile_datasets/dance_test/image_232.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "233": {
+        "path": "/root/home/agaile_datasets/dance_test/image_233.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "234": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "235": {
+        "path": "/root/home/agaile_datasets/dance_test/image_235.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "236": {
+        "path": "/root/home/agaile_datasets/dance_test/image_236.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "237": {
+        "path": "/root/home/agaile_datasets/dance_test/image_237.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "238": {
+        "path": "/root/home/agaile_datasets/dance_test/image_238.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "239": {
+        "path": "/root/home/agaile_datasets/dance_test/image_239.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "241": {
+        "path": "/root/home/agaile_datasets/dance_test/image_241.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "242": {
+        "path": "/root/home/agaile_datasets/dance_test/image_242.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "243": {
+        "path": "/root/home/agaile_datasets/dance_test/image_243.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "244": {
+        "path": "/root/home/agaile_datasets/dance_test/image_244.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "245": {
+        "path": "/root/home/agaile_datasets/dance_test/image_245.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "246": {
+        "path": "/root/home/agaile_datasets/dance_test/image_246.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "247": {
+        "path": "/root/home/agaile_datasets/dance_test/image_247.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "248": {
+        "path": "/root/home/agaile_datasets/dance_test/image_248.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "249": {
+        "path": "/root/home/agaile_datasets/dance_test/image_249.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "250": {
+        "path": "/root/home/agaile_datasets/dance_test/image_250.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "251": {
+        "path": "/root/home/agaile_datasets/dance_test/image_251.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "252": {
+        "path": "/root/home/agaile_datasets/dance_test/image_252.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "253": {
+        "path": "/root/home/agaile_datasets/dance_test/image_253.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "256": {
+        "path": "/root/home/agaile_datasets/dance_test/image_256.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "257": {
+        "path": "/root/home/agaile_datasets/dance_test/image_257.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "258": {
+        "path": "/root/home/agaile_datasets/dance_test/image_258.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "259": {
+        "path": "/root/home/agaile_datasets/dance_test/image_259.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "260": {
+        "path": "/root/home/agaile_datasets/dance_test/image_260.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "261": {
+        "path": "/root/home/agaile_datasets/dance_test/image_261.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "262": {
+        "path": "/root/home/agaile_datasets/dance_test/image_262.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "264": {
+        "path": "/root/home/agaile_datasets/dance_test/image_264.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "265": {
+        "path": "/root/home/agaile_datasets/dance_test/image_265.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "267": {
+        "path": "/root/home/agaile_datasets/dance_test/image_267.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "268": {
+        "path": "/root/home/agaile_datasets/dance_test/image_268.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "269": {
+        "path": "/root/home/agaile_datasets/dance_test/image_269.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "270": {
+        "path": "/root/home/agaile_datasets/dance_test/image_270.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "271": {
+        "path": "/root/home/agaile_datasets/dance_test/image_271.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "272": {
+        "path": "/root/home/agaile_datasets/dance_test/image_272.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "274": {
+        "path": "/root/home/agaile_datasets/dance_test/image_274.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "276": {
+        "path": "/root/home/agaile_datasets/dance_test/image_276.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "277": {
+        "path": "/root/home/agaile_datasets/dance_test/image_277.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "278": {
+        "path": "/root/home/agaile_datasets/dance_test/image_278.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "280": {
+        "path": "/root/home/agaile_datasets/dance_test/image_280.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "281": {
+        "path": "/root/home/agaile_datasets/dance_test/image_281.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "282": {
+        "path": "/root/home/agaile_datasets/dance_test/image_282.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "284": {
+        "path": "/root/home/agaile_datasets/dance_test/image_284.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "285": {
+        "path": "/root/home/agaile_datasets/dance_test/image_285.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "286": {
+        "path": "/root/home/agaile_datasets/dance_test/image_286.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "287": {
+        "path": "/root/home/agaile_datasets/dance_test/image_287.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "288": {
+        "path": "/root/home/agaile_datasets/dance_test/image_288.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "289": {
+        "path": "/root/home/agaile_datasets/dance_test/image_289.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "291": {
+        "path": "/root/home/agaile_datasets/dance_test/image_291.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "292": {
+        "path": "/root/home/agaile_datasets/dance_test/image_292.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "293": {
+        "path": "/root/home/agaile_datasets/dance_test/image_293.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "294": {
+        "path": "/root/home/agaile_datasets/dance_test/image_294.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "295": {
+        "path": "/root/home/agaile_datasets/dance_test/image_295.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "296": {
+        "path": "/root/home/agaile_datasets/dance_test/image_296.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "297": {
+        "path": "/root/home/agaile_datasets/dance_test/image_297.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "298": {
+        "path": "/root/home/agaile_datasets/dance_test/image_298.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "300": {
+        "path": "/root/home/agaile_datasets/dance_test/image_300.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "301": {
+        "path": "/root/home/agaile_datasets/dance_test/image_301.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "303": {
+        "path": "/root/home/agaile_datasets/dance_test/image_303.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "306": {
+        "path": "/root/home/agaile_datasets/dance_test/image_306.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "307": {
+        "path": "/root/home/agaile_datasets/dance_test/image_307.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "308": {
+        "path": "/root/home/agaile_datasets/dance_test/image_308.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "309": {
+        "path": "/root/home/agaile_datasets/dance_test/image_309.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "311": {
+        "path": "/root/home/agaile_datasets/dance_test/image_311.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "313": {
+        "path": "/root/home/agaile_datasets/dance_test/image_313.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "314": {
+        "path": "/root/home/agaile_datasets/dance_test/image_314.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "315": {
+        "path": "/root/home/agaile_datasets/dance_test/image_315.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "316": {
+        "path": "/root/home/agaile_datasets/dance_test/image_316.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "317": {
+        "path": "/root/home/agaile_datasets/dance_test/image_317.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "318": {
+        "path": "/root/home/agaile_datasets/dance_test/image_318.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "319": {
+        "path": "/root/home/agaile_datasets/dance_test/image_319.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "320": {
+        "path": "/root/home/agaile_datasets/dance_test/image_320.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "321": {
+        "path": "/root/home/agaile_datasets/dance_test/image_321.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "323": {
+        "path": "/root/home/agaile_datasets/dance_test/image_323.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "324": {
+        "path": "/root/home/agaile_datasets/dance_test/image_324.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "325": {
+        "path": "/root/home/agaile_datasets/dance_test/image_325.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "327": {
+        "path": "/root/home/agaile_datasets/dance_test/image_327.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "329": {
+        "path": "/root/home/agaile_datasets/dance_test/image_329.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "330": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "331": {
+        "path": "/root/home/agaile_datasets/dance_test/image_331.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "333": {
+        "path": "/root/home/agaile_datasets/dance_test/image_333.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "336": {
+        "path": "/root/home/agaile_datasets/dance_test/image_336.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "337": {
+        "path": "/root/home/agaile_datasets/dance_test/image_337.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "338": {
+        "path": "/root/home/agaile_datasets/dance_test/image_338.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "339": {
+        "path": "/root/home/agaile_datasets/dance_test/image_339.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "340": {
+        "path": "/root/home/agaile_datasets/dance_test/image_340.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "341": {
+        "path": "/root/home/agaile_datasets/dance_test/image_341.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "342": {
+        "path": "/root/home/agaile_datasets/dance_test/image_342.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "343": {
+        "path": "/root/home/agaile_datasets/dance_test/image_343.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "344": {
+        "path": "/root/home/agaile_datasets/dance_test/image_344.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "345": {
+        "path": "/root/home/agaile_datasets/dance_test/image_345.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "346": {
+        "path": "/root/home/agaile_datasets/dance_test/image_346.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "347": {
+        "path": "/root/home/agaile_datasets/dance_test/image_347.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "348": {
+        "path": "/root/home/agaile_datasets/dance_test/image_348.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "350": {
+        "path": "/root/home/agaile_datasets/dance_test/image_350.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "351": {
+        "path": "/root/home/agaile_datasets/dance_test/image_351.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "352": {
+        "path": "/root/home/agaile_datasets/dance_test/image_352.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "353": {
+        "path": "/root/home/agaile_datasets/dance_test/image_353.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "354": {
+        "path": "/root/home/agaile_datasets/dance_test/image_354.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "355": {
+        "path": "/root/home/agaile_datasets/dance_test/image_355.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "356": {
+        "path": "/root/home/agaile_datasets/dance_test/image_356.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "357": {
+        "path": "/root/home/agaile_datasets/dance_test/image_357.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "358": {
+        "path": "/root/home/agaile_datasets/dance_test/image_358.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "359": {
+        "path": "/root/home/agaile_datasets/dance_test/image_359.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "360": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "361": {
+        "path": "/root/home/agaile_datasets/dance_test/image_361.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "362": {
+        "path": "/root/home/agaile_datasets/dance_test/image_362.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "364": {
+        "path": "/root/home/agaile_datasets/dance_test/image_364.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "365": {
+        "path": "/root/home/agaile_datasets/dance_test/image_365.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "366": {
+        "path": "/root/home/agaile_datasets/dance_test/image_366.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "367": {
+        "path": "/root/home/agaile_datasets/dance_test/image_367.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "368": {
+        "path": "/root/home/agaile_datasets/dance_test/image_368.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "369": {
+        "path": "/root/home/agaile_datasets/dance_test/image_369.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "371": {
+        "path": "/root/home/agaile_datasets/dance_test/image_371.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "372": {
+        "path": "/root/home/agaile_datasets/dance_test/image_372.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "374": {
+        "path": "/root/home/agaile_datasets/dance_test/image_374.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "375": {
+        "path": "/root/home/agaile_datasets/dance_test/image_375.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "376": {
+        "path": "/root/home/agaile_datasets/dance_test/image_376.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "377": {
+        "path": "/root/home/agaile_datasets/dance_test/image_377.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "379": {
+        "path": "/root/home/agaile_datasets/dance_test/image_379.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "380": {
+        "path": "/root/home/agaile_datasets/dance_test/image_380.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "381": {
+        "path": "/root/home/agaile_datasets/dance_test/image_381.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "383": {
+        "path": "/root/home/agaile_datasets/dance_test/image_383.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "384": {
+        "path": "/root/home/agaile_datasets/dance_test/image_384.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "385": {
+        "path": "/root/home/agaile_datasets/dance_test/image_385.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "386": {
+        "path": "/root/home/agaile_datasets/dance_test/image_386.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "388": {
+        "path": "/root/home/agaile_datasets/dance_test/image_388.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "390": {
+        "path": "/root/home/agaile_datasets/dance_test/image_390.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "391": {
+        "path": "/root/home/agaile_datasets/dance_test/image_391.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "392": {
+        "path": "/root/home/agaile_datasets/dance_test/image_392.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "393": {
+        "path": "/root/home/agaile_datasets/dance_test/image_393.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "394": {
+        "path": "/root/home/agaile_datasets/dance_test/image_394.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "395": {
+        "path": "/root/home/agaile_datasets/dance_test/image_395.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "396": {
+        "path": "/root/home/agaile_datasets/dance_test/image_396.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "397": {
+        "path": "/root/home/agaile_datasets/dance_test/image_397.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "400": {
+        "path": "/root/home/agaile_datasets/dance_test/image_400.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "401": {
+        "path": "/root/home/agaile_datasets/dance_test/image_401.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "403": {
+        "path": "/root/home/agaile_datasets/dance_test/image_403.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "404": {
+        "path": "/root/home/agaile_datasets/dance_test/image_404.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "405": {
+        "path": "/root/home/agaile_datasets/dance_test/image_405.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "406": {
+        "path": "/root/home/agaile_datasets/dance_test/image_406.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "407": {
+        "path": "/root/home/agaile_datasets/dance_test/image_407.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "410": {
+        "path": "/root/home/agaile_datasets/dance_test/image_410.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "411": {
+        "path": "/root/home/agaile_datasets/dance_test/image_411.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "412": {
+        "path": "/root/home/agaile_datasets/dance_test/image_412.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "413": {
+        "path": "/root/home/agaile_datasets/dance_test/image_413.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "414": {
+        "path": "/root/home/agaile_datasets/dance_test/image_414.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "415": {
+        "path": "/root/home/agaile_datasets/dance_test/image_415.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "416": {
+        "path": "/root/home/agaile_datasets/dance_test/image_416.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "417": {
+        "path": "/root/home/agaile_datasets/dance_test/image_417.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "418": {
+        "path": "/root/home/agaile_datasets/dance_test/image_418.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "419": {
+        "path": "/root/home/agaile_datasets/dance_test/image_419.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "421": {
+        "path": "/root/home/agaile_datasets/dance_test/image_421.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "422": {
+        "path": "/root/home/agaile_datasets/dance_test/image_422.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "423": {
+        "path": "/root/home/agaile_datasets/dance_test/image_423.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "427": {
+        "path": "/root/home/agaile_datasets/dance_test/image_427.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "428": {
+        "path": "/root/home/agaile_datasets/dance_test/image_428.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "429": {
+        "path": "/root/home/agaile_datasets/dance_test/image_429.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "430": {
+        "path": "/root/home/agaile_datasets/dance_test/image_430.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "431": {
+        "path": "/root/home/agaile_datasets/dance_test/image_431.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "432": {
+        "path": "/root/home/agaile_datasets/dance_test/image_432.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "433": {
+        "path": "/root/home/agaile_datasets/dance_test/image_433.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "434": {
+        "path": "/root/home/agaile_datasets/dance_test/image_434.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "435": {
+        "path": "/root/home/agaile_datasets/dance_test/image_435.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "436": {
+        "path": "/root/home/agaile_datasets/dance_test/image_436.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "437": {
+        "path": "/root/home/agaile_datasets/dance_test/image_437.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "438": {
+        "path": "/root/home/agaile_datasets/dance_test/image_438.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "439": {
+        "path": "/root/home/agaile_datasets/dance_test/image_439.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "440": {
+        "path": "/root/home/agaile_datasets/dance_test/image_440.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "441": {
+        "path": "/root/home/agaile_datasets/dance_test/image_441.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "442": {
+        "path": "/root/home/agaile_datasets/dance_test/image_442.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "443": {
+        "path": "/root/home/agaile_datasets/dance_test/image_443.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "444": {
+        "path": "/root/home/agaile_datasets/dance_test/image_444.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "445": {
+        "path": "/root/home/agaile_datasets/dance_test/image_445.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "446": {
+        "path": "/root/home/agaile_datasets/dance_test/image_446.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "447": {
+        "path": "/root/home/agaile_datasets/dance_test/image_447.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "448": {
+        "path": "/root/home/agaile_datasets/dance_test/image_448.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "449": {
+        "path": "/root/home/agaile_datasets/dance_test/image_449.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "451": {
+        "path": "/root/home/agaile_datasets/dance_test/image_451.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "453": {
+        "path": "/root/home/agaile_datasets/dance_test/image_453.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "455": {
+        "path": "/root/home/agaile_datasets/dance_test/image_455.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "456": {
+        "path": "/root/home/agaile_datasets/dance_test/image_456.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "457": {
+        "path": "/root/home/agaile_datasets/dance_test/image_457.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "458": {
+        "path": "/root/home/agaile_datasets/dance_test/image_458.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "459": {
+        "path": "/root/home/agaile_datasets/dance_test/image_459.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "460": {
+        "path": "/root/home/agaile_datasets/dance_test/image_460.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "461": {
+        "path": "/root/home/agaile_datasets/dance_test/image_461.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "462": {
+        "path": "/root/home/agaile_datasets/dance_test/image_462.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "463": {
+        "path": "/root/home/agaile_datasets/dance_test/image_463.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "464": {
+        "path": "/root/home/agaile_datasets/dance_test/image_464.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "465": {
+        "path": "/root/home/agaile_datasets/dance_test/image_465.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "466": {
+        "path": "/root/home/agaile_datasets/dance_test/image_466.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "468": {
+        "path": "/root/home/agaile_datasets/dance_test/image_468.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "470": {
+        "path": "/root/home/agaile_datasets/dance_test/image_470.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "471": {
+        "path": "/root/home/agaile_datasets/dance_test/image_471.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "473": {
+        "path": "/root/home/agaile_datasets/dance_test/image_473.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "474": {
+        "path": "/root/home/agaile_datasets/dance_test/image_474.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "475": {
+        "path": "/root/home/agaile_datasets/dance_test/image_475.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "476": {
+        "path": "/root/home/agaile_datasets/dance_test/image_476.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "477": {
+        "path": "/root/home/agaile_datasets/dance_test/image_477.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "478": {
+        "path": "/root/home/agaile_datasets/dance_test/image_478.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "479": {
+        "path": "/root/home/agaile_datasets/dance_test/image_479.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "480": {
+        "path": "/root/home/agaile_datasets/dance_test/image_480.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "481": {
+        "path": "/root/home/agaile_datasets/dance_test/image_481.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "483": {
+        "path": "/root/home/agaile_datasets/dance_test/image_483.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "484": {
+        "path": "/root/home/agaile_datasets/dance_test/image_484.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "485": {
+        "path": "/root/home/agaile_datasets/dance_test/image_485.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "486": {
+        "path": "/root/home/agaile_datasets/dance_test/image_486.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "487": {
+        "path": "/root/home/agaile_datasets/dance_test/image_487.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "489": {
+        "path": "/root/home/agaile_datasets/dance_test/image_489.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "490": {
+        "path": "/root/home/agaile_datasets/dance_test/image_490.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "491": {
+        "path": "/root/home/agaile_datasets/dance_test/image_491.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "492": {
+        "path": "/root/home/agaile_datasets/dance_test/image_492.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "496": {
+        "path": "/root/home/agaile_datasets/dance_test/image_496.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "497": {
+        "path": "/root/home/agaile_datasets/dance_test/image_497.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "498": {
+        "path": "/root/home/agaile_datasets/dance_test/image_498.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "499": {
+        "path": "/root/home/agaile_datasets/dance_test/image_499.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "500": {
+        "path": "/root/home/agaile_datasets/dance_test/image_500.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "502": {
+        "path": "/root/home/agaile_datasets/dance_test/image_502.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "503": {
+        "path": "/root/home/agaile_datasets/dance_test/image_503.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "504": {
+        "path": "/root/home/agaile_datasets/dance_test/image_504.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "505": {
+        "path": "/root/home/agaile_datasets/dance_test/image_505.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "506": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "509": {
+        "path": "/root/home/agaile_datasets/dance_test/image_509.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "510": {
+        "path": "/root/home/agaile_datasets/dance_test/image_510.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "511": {
+        "path": "/root/home/agaile_datasets/dance_test/image_511.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "512": {
+        "path": "/root/home/agaile_datasets/dance_test/image_512.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "513": {
+        "path": "/root/home/agaile_datasets/dance_test/image_513.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "515": {
+        "path": "/root/home/agaile_datasets/dance_test/image_515.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "517": {
+        "path": "/root/home/agaile_datasets/dance_test/image_517.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "518": {
+        "path": "/root/home/agaile_datasets/dance_test/image_518.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "519": {
+        "path": "/root/home/agaile_datasets/dance_test/image_519.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "520": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "521": {
+        "path": "/root/home/agaile_datasets/dance_test/image_521.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "522": {
+        "path": "/root/home/agaile_datasets/dance_test/image_522.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "523": {
+        "path": "/root/home/agaile_datasets/dance_test/image_523.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "524": {
+        "path": "/root/home/agaile_datasets/dance_test/image_524.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "526": {
+        "path": "/root/home/agaile_datasets/dance_test/image_526.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "528": {
+        "path": "/root/home/agaile_datasets/dance_test/image_528.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "529": {
+        "path": "/root/home/agaile_datasets/dance_test/image_529.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "530": {
+        "path": "/root/home/agaile_datasets/dance_test/image_530.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "533": {
+        "path": "/root/home/agaile_datasets/dance_test/image_533.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "535": {
+        "path": "/root/home/agaile_datasets/dance_test/image_535.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "536": {
+        "path": "/root/home/agaile_datasets/dance_test/image_536.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "539": {
+        "path": "/root/home/agaile_datasets/dance_test/image_539.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "540": {
+        "path": "/root/home/agaile_datasets/dance_test/image_540.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "541": {
+        "path": "/root/home/agaile_datasets/dance_test/image_541.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "543": {
+        "path": "/root/home/agaile_datasets/dance_test/image_543.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No.",
+        "query_prompt": " No."
+    },
+    "544": {
+        "path": "/root/home/agaile_datasets/dance_test/image_544.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "545": {
+        "path": "/root/home/agaile_datasets/dance_test/image_545.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "546": {
+        "path": "/root/home/agaile_datasets/dance_test/image_546.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No.",
+        "query_prompt": " No."
+    },
+    "547": {
+        "path": "/root/home/agaile_datasets/dance_test/image_547.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "548": {
+        "path": "/root/home/agaile_datasets/dance_test/image_548.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "549": {
+        "path": "/root/home/agaile_datasets/dance_test/image_549.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "550": {
+        "path": "/root/home/agaile_datasets/dance_test/image_550.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "552": {
+        "path": "/root/home/agaile_datasets/dance_test/image_552.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "553": {
+        "path": "/root/home/agaile_datasets/dance_test/image_553.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "554": {
+        "path": "/root/home/agaile_datasets/dance_test/image_554.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "555": {
+        "path": "/root/home/agaile_datasets/dance_test/image_555.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "557": {
+        "path": "/root/home/agaile_datasets/dance_test/image_557.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "558": {
+        "path": "/root/home/agaile_datasets/dance_test/image_558.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "559": {
+        "path": "/root/home/agaile_datasets/dance_test/image_559.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "560": {
+        "path": "/root/home/agaile_datasets/dance_test/image_560.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "562": {
+        "path": "/root/home/agaile_datasets/dance_test/image_562.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "564": {
+        "path": "/root/home/agaile_datasets/dance_test/image_564.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "565": {
+        "path": "/root/home/agaile_datasets/dance_test/image_565.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "566": {
+        "path": "/root/home/agaile_datasets/dance_test/image_566.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "567": {
+        "path": "/root/home/agaile_datasets/dance_test/image_567.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "568": {
+        "path": "/root/home/agaile_datasets/dance_test/image_568.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "569": {
+        "path": "/root/home/agaile_datasets/dance_test/image_569.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "570": {
+        "path": "/root/home/agaile_datasets/dance_test/image_570.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "572": {
+        "path": "/root/home/agaile_datasets/dance_test/image_572.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "573": {
+        "path": "/root/home/agaile_datasets/dance_test/image_573.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "575": {
+        "path": "/root/home/agaile_datasets/dance_test/image_575.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "576": {
+        "path": "/root/home/agaile_datasets/dance_test/image_576.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "577": {
+        "path": "/root/home/agaile_datasets/dance_test/image_577.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "578": {
+        "path": "/root/home/agaile_datasets/dance_test/image_578.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "579": {
+        "path": "/root/home/agaile_datasets/dance_test/image_579.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "580": {
+        "path": "/root/home/agaile_datasets/dance_test/image_580.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "581": {
+        "path": "/root/home/agaile_datasets/dance_test/image_581.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "582": {
+        "path": "/root/home/agaile_datasets/dance_test/image_582.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "583": {
+        "path": "/root/home/agaile_datasets/dance_test/image_583.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "584": {
+        "path": "/root/home/agaile_datasets/dance_test/image_584.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "585": {
+        "path": "/root/home/agaile_datasets/dance_test/image_585.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "587": {
+        "path": "/root/home/agaile_datasets/dance_test/image_587.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No.",
+        "query_prompt": " No."
+    },
+    "588": {
+        "path": "/root/home/agaile_datasets/dance_test/image_588.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "589": {
+        "path": "/root/home/agaile_datasets/dance_test/image_589.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "590": {
+        "path": "/root/home/agaile_datasets/dance_test/image_590.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "591": {
+        "path": "/root/home/agaile_datasets/dance_test/image_591.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "593": {
+        "path": "/root/home/agaile_datasets/dance_test/image_593.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "594": {
+        "path": "/root/home/agaile_datasets/dance_test/image_594.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "595": {
+        "path": "/root/home/agaile_datasets/dance_test/image_595.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "596": {
+        "path": "/root/home/agaile_datasets/dance_test/image_596.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "597": {
+        "path": "/root/home/agaile_datasets/dance_test/image_597.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "599": {
+        "path": "/root/home/agaile_datasets/dance_test/image_599.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "600": {
+        "path": "/root/home/agaile_datasets/dance_test/image_600.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "601": {
+        "path": "/root/home/agaile_datasets/dance_test/image_601.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "602": {
+        "path": "/root/home/agaile_datasets/dance_test/image_602.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "603": {
+        "path": "/root/home/agaile_datasets/dance_test/image_603.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "604": {
+        "path": "/root/home/agaile_datasets/dance_test/image_604.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "605": {
+        "path": "/root/home/agaile_datasets/dance_test/image_605.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "606": {
+        "path": "/root/home/agaile_datasets/dance_test/image_606.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "607": {
+        "path": "/root/home/agaile_datasets/dance_test/image_607.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "608": {
+        "path": "/root/home/agaile_datasets/dance_test/image_608.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "610": {
+        "path": "/root/home/agaile_datasets/dance_test/image_610.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "611": {
+        "path": "/root/home/agaile_datasets/dance_test/image_611.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "612": {
+        "path": "/root/home/agaile_datasets/dance_test/image_612.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "613": {
+        "path": "/root/home/agaile_datasets/dance_test/image_613.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "614": {
+        "path": "/root/home/agaile_datasets/dance_test/image_614.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "617": {
+        "path": "/root/home/agaile_datasets/dance_test/image_617.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "618": {
+        "path": "/root/home/agaile_datasets/dance_test/image_618.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "619": {
+        "path": "/root/home/agaile_datasets/dance_test/image_619.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "621": {
+        "path": "/root/home/agaile_datasets/dance_test/image_621.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "622": {
+        "path": "/root/home/agaile_datasets/dance_test/image_622.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "623": {
+        "path": "/root/home/agaile_datasets/dance_test/image_623.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "624": {
+        "path": "/root/home/agaile_datasets/dance_test/image_624.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "625": {
+        "path": "/root/home/agaile_datasets/dance_test/image_625.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "626": {
+        "path": "/root/home/agaile_datasets/dance_test/image_626.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "627": {
+        "path": "/root/home/agaile_datasets/dance_test/image_627.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "628": {
+        "path": "/root/home/agaile_datasets/dance_test/image_628.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "629": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "632": {
+        "path": "/root/home/agaile_datasets/dance_test/image_632.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "633": {
+        "path": "/root/home/agaile_datasets/dance_test/image_633.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "634": {
+        "path": "/root/home/agaile_datasets/dance_test/image_634.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "635": {
+        "path": "/root/home/agaile_datasets/dance_test/image_635.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "636": {
+        "path": "/root/home/agaile_datasets/dance_test/image_636.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "637": {
+        "path": "/root/home/agaile_datasets/dance_test/image_637.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "638": {
+        "path": "/root/home/agaile_datasets/dance_test/image_638.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "639": {
+        "path": "/root/home/agaile_datasets/dance_test/image_639.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "640": {
+        "path": "/root/home/agaile_datasets/dance_test/image_640.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "641": {
+        "path": "/root/home/agaile_datasets/dance_test/image_641.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "642": {
+        "path": "/root/home/agaile_datasets/dance_test/image_642.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "643": {
+        "path": "/root/home/agaile_datasets/dance_test/image_643.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "645": {
+        "path": "/root/home/agaile_datasets/dance_test/image_645.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "646": {
+        "path": "/root/home/agaile_datasets/dance_test/image_646.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "647": {
+        "path": "/root/home/agaile_datasets/dance_test/image_647.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "648": {
+        "path": "/root/home/agaile_datasets/dance_test/image_648.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "649": {
+        "path": "/root/home/agaile_datasets/dance_test/image_649.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "650": {
+        "path": "/root/home/agaile_datasets/dance_test/image_650.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "651": {
+        "path": "/root/home/agaile_datasets/dance_test/image_651.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "652": {
+        "path": "/root/home/agaile_datasets/dance_test/image_652.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "653": {
+        "path": "/root/home/agaile_datasets/dance_test/image_653.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "654": {
+        "path": "/root/home/agaile_datasets/dance_test/image_654.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "655": {
+        "path": "/root/home/agaile_datasets/dance_test/image_655.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "656": {
+        "path": "/root/home/agaile_datasets/dance_test/image_656.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "657": {
+        "path": "/root/home/agaile_datasets/dance_test/image_657.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "658": {
+        "path": "/root/home/agaile_datasets/dance_test/image_658.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "659": {
+        "path": "/root/home/agaile_datasets/dance_test/image_659.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "660": {
+        "path": "/root/home/agaile_datasets/dance_test/image_660.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "663": {
+        "path": "/root/home/agaile_datasets/dance_test/image_663.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "665": {
+        "path": "/root/home/agaile_datasets/dance_test/image_665.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "666": {
+        "path": "/root/home/agaile_datasets/dance_test/image_666.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "667": {
+        "path": "/root/home/agaile_datasets/dance_test/image_667.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "668": {
+        "path": "/root/home/agaile_datasets/dance_test/image_668.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "669": {
+        "path": "/root/home/agaile_datasets/dance_test/image_669.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "670": {
+        "path": "/root/home/agaile_datasets/dance_test/image_670.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "671": {
+        "path": "/root/home/agaile_datasets/dance_test/image_671.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "672": {
+        "path": "/root/home/agaile_datasets/dance_test/image_672.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "673": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "674": {
+        "path": "/root/home/agaile_datasets/dance_test/image_674.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "675": {
+        "path": "/root/home/agaile_datasets/dance_test/image_675.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "676": {
+        "path": "/root/home/agaile_datasets/dance_test/image_676.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "677": {
+        "path": "/root/home/agaile_datasets/dance_test/image_677.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "678": {
+        "path": "/root/home/agaile_datasets/dance_test/image_678.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "679": {
+        "path": "/root/home/agaile_datasets/dance_test/image_679.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "680": {
+        "path": "/root/home/agaile_datasets/dance_test/image_680.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "681": {
+        "path": "/root/home/agaile_datasets/dance_test/image_681.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "682": {
+        "path": "/root/home/agaile_datasets/dance_test/image_682.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "683": {
+        "path": "/root/home/agaile_datasets/dance_test/image_683.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "684": {
+        "path": "/root/home/agaile_datasets/dance_test/image_684.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "685": {
+        "path": "/root/home/agaile_datasets/dance_test/image_685.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "686": {
+        "path": "/root/home/agaile_datasets/dance_test/image_686.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "687": {
+        "path": "/root/home/agaile_datasets/dance_test/image_687.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "688": {
+        "path": "/root/home/agaile_datasets/dance_test/image_688.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "689": {
+        "path": "/root/home/agaile_datasets/dance_test/image_689.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "690": {
+        "path": "/root/home/agaile_datasets/dance_test/image_690.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "691": {
+        "path": null,
+        "label": null,
+        "class": null,
+        "model_response": null
+    },
+    "692": {
+        "path": "/root/home/agaile_datasets/dance_test/image_692.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "693": {
+        "path": "/root/home/agaile_datasets/dance_test/image_693.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "694": {
+        "path": "/root/home/agaile_datasets/dance_test/image_694.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "695": {
+        "path": "/root/home/agaile_datasets/dance_test/image_695.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "697": {
+        "path": "/root/home/agaile_datasets/dance_test/image_697.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "698": {
+        "path": "/root/home/agaile_datasets/dance_test/image_698.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "699": {
+        "path": "/root/home/agaile_datasets/dance_test/image_699.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "700": {
+        "path": "/root/home/agaile_datasets/dance_test/image_700.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "701": {
+        "path": "/root/home/agaile_datasets/dance_test/image_701.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "702": {
+        "path": "/root/home/agaile_datasets/dance_test/image_702.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "703": {
+        "path": "/root/home/agaile_datasets/dance_test/image_703.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "704": {
+        "path": "/root/home/agaile_datasets/dance_test/image_704.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "705": {
+        "path": "/root/home/agaile_datasets/dance_test/image_705.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "706": {
+        "path": "/root/home/agaile_datasets/dance_test/image_706.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "707": {
+        "path": "/root/home/agaile_datasets/dance_test/image_707.jpg",
+        "label": 1,
+        "class": "No",
+        "model_response": " No",
+        "query_prompt": " No"
+    },
+    "708": {
+        "path": "/root/home/agaile_datasets/dance_test/image_708.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "710": {
+        "path": "/root/home/agaile_datasets/dance_test/image_710.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "711": {
+        "path": "/root/home/agaile_datasets/dance_test/image_711.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    },
+    "712": {
+        "path": "/root/home/agaile_datasets/dance_test/image_712.jpg",
+        "label": 0,
+        "class": "Yes",
+        "model_response": " Yes",
+        "query_prompt": " Yes"
+    }
+}
