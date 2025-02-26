@@ -419,17 +419,17 @@ for key in tqdm(data.keys()):
 
             questions_and_answers[prompt] = model_response
         
-
-        llm_prompt = f"""Given these questions and their respective answers, 
-        your task is to identify if the image in question has {str(dataset_name_for_prompt).replace('-', ' ')} in it. 
-        Here are the questions and the answers:
-        question: {questions_and_answers.keys()[0]}, answer: {questions_and_answers[questions_and_answers.keys()[0]]},
-        question: {questions_and_answers.keys()[1]}, answer: {questions_and_answers[questions_and_answers.keys()[1]]},
-        question: {questions_and_answers.keys()[2]}, answer: {questions_and_answers[questions_and_answers.keys()[2]]},
-        question: {questions_and_answers.keys()[3]}, answer: {questions_and_answers[questions_and_answers.keys()[3]]},
-        question: {questions_and_answers.keys()[4]}, answer: {questions_and_answers[questions_and_answers.keys()[4]]},
-        Answer only with Yes or No.
-        """
+        keys_list = list(questions_and_answers.keys())
+        llm_prompt = f"""Given these questions and their respective answers,
+                        your task is to identify if the image in question has {str(dataset_name_for_prompt).replace('-', ' ')} in it. 
+                        Here are the questions and the answers:
+                        question: {keys_list[0]}, answer: {questions_and_answers[keys_list[0]]},
+                        question: {keys_list[1]}, answer: {questions_and_answers[keys_list[1]]},
+                        question: {keys_list[2]}, answer: {questions_and_answers[keys_list[2]]},
+                        question: {keys_list[3]}, answer: {questions_and_answers[keys_list[3]]},
+                        question: {keys_list[4]}, answer: {questions_and_answers[keys_list[4]]},
+                        Answer only with Yes or No.
+                        """
 
         print(llm_prompt)
 
