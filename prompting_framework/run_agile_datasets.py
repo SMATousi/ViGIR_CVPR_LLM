@@ -193,7 +193,7 @@ args = parser.parse_args()
 
 run = wandb.init(
     # entity="jacketdembys",
-    project=f"CVPR-2025-{args.dataset_name}",
+    project=f"CVPR-2025-{args.dataset_name}-2",
     name=f"run_test_{args.dataset_name}_"+args.model_name+"-"+args.subset
 )
 # table = wandb.Table(columns=["image_path", "pred_class", "pred_class_ind", "pred_response"])
