@@ -1,0 +1,29 @@
+Downloading Images: 100%|████████████████████████████████████████████████████████████████████████████████████| 589/589 [00:00<00:00, 8940.42it/s]
+Pulling Ollama Model...
+llava:7b
+Done Pulling..
+Setting up CLIP..
+Traceback (most recent call last):
+  File "/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/prompting_framework/run_agile_datasets_fovea.py", line 245, in <module>
+    clip_model = CLIPModel.from_pretrained(model_id_clip).to(device)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/macula/SMATousi/.conda/envs/snorkel/lib/python3.12/site-packages/transformers/modeling_utils.py", line 2958, in to
+    return super().to(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/macula/SMATousi/.conda/envs/snorkel/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1174, in to
+    return self._apply(convert)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/macula/SMATousi/.conda/envs/snorkel/lib/python3.12/site-packages/torch/nn/modules/module.py", line 780, in _apply
+    module._apply(fn)
+  File "/home/macula/SMATousi/.conda/envs/snorkel/lib/python3.12/site-packages/torch/nn/modules/module.py", line 780, in _apply
+    module._apply(fn)
+  File "/home/macula/SMATousi/.conda/envs/snorkel/lib/python3.12/site-packages/torch/nn/modules/module.py", line 780, in _apply
+    module._apply(fn)
+  [Previous line repeated 3 more times]
+  File "/home/macula/SMATousi/.conda/envs/snorkel/lib/python3.12/site-packages/torch/nn/modules/module.py", line 805, in _apply
+    param_applied = fn(param)
+                    ^^^^^^^^^
+  File "/home/macula/SMATousi/.conda/envs/snorkel/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1160, in convert
+    return t.to(
+           ^^^^^
+KeyboardInterrupt

@@ -30,9 +30,11 @@ def download_images_by_label(csv_path, no_label_name, output_dir="downloaded_ima
     """
     # Load CSV file
     df = pd.read_csv(csv_path, on_bad_lines='skip')
+    print(df.columns)
     
     # Filter data based on label name
     filtered_df = df[df['label'].isin(['positive', 'negative'])]
+    print(filtered_df["url"])
     
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
@@ -191,17 +193,17 @@ args = parser.parse_args()
 
 #model_unloading= True
 
-run = wandb.init(
-    # entity="jacketdembys",
-    project=f"CVPR-2025-{args.dataset_name}-3",
-    name=f"run_test_{args.dataset_name}_"+args.model_name+"-"+args.subset
-)
+# run = wandb.init(
+#     # entity="jacketdembys",
+#     project=f"CVPR-2025-{args.dataset_name}-2",
+#     name=f"run_test_{args.dataset_name}_"+args.model_name+"-"+args.subset
+# )
 # table = wandb.Table(columns=["image_path", "pred_class", "pred_class_ind", "pred_response"])
 
-base_dir = "/root/home/ViGIR_CVPR_LLM/datasets/agile_modeling" #args.base_dir #
+base_dir = "/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/datasets/agile_modeling" #args.base_dir #
 
 csv_path = os.path.join(base_dir,f"{args.dataset_name}_{args.subset}_labels.csv")
-dataset_download_path = f"/root/home/agaile_datasets/{args.dataset_name}_{args.subset}/"
+dataset_download_path = f"/home/macula/SMATousi/CVPR/datasets/agile_modeling/downloaded/{args.dataset_name}_{args.subset}/"
 no_label = "no image"
 
 # raw_data = get_image_urls(base_dir, args.dataset_name, args.subset)

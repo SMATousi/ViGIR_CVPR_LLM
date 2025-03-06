@@ -1,0 +1,16 @@
+{"time":"2025-03-06T13:27:42.633201326-06:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2025-03-06T13:27:42.633297498-06:00","level":"INFO","msg":"created symlink","path":"/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20250306_132741-921eumsn/logs/debug-core.log"}
+{"time":"2025-03-06T13:27:42.793012958-06:00","level":"INFO","msg":"created new stream","id":"921eumsn"}
+{"time":"2025-03-06T13:27:42.793111293-06:00","level":"INFO","msg":"stream: started","id":"921eumsn"}
+{"time":"2025-03-06T13:27:42.793161045-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"921eumsn"}}
+{"time":"2025-03-06T13:27:42.793253042-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"921eumsn"}}
+{"time":"2025-03-06T13:27:42.793364842-06:00","level":"INFO","msg":"sender: started","stream_id":"921eumsn"}
+{"time":"2025-03-06T13:27:43.335193318-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T13:27:45.708660923-06:00","level":"INFO","msg":"stream: closing","id":"921eumsn"}
+{"time":"2025-03-06T13:27:45.708716999-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T13:27:45.710104196-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T13:27:47.38061348-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T13:27:47.536192087-06:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"921eumsn"}}
+{"time":"2025-03-06T13:27:47.536285079-06:00","level":"INFO","msg":"sender: closed","stream_id":"921eumsn"}
+{"time":"2025-03-06T13:27:47.536279975-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"921eumsn"}}
+{"time":"2025-03-06T13:27:47.68692024-06:00","level":"INFO","msg":"stream: closed","id":"921eumsn"}

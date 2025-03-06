@@ -1,0 +1,11 @@
+{"time":"2025-03-06T13:25:20.493539665-06:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2025-03-06T13:25:20.493620473-06:00","level":"INFO","msg":"created symlink","path":"/home/macula/SMATousi/CVPR/ViGIR_CVPR_LLM/prompting_framework/wandb/run-20250306_132519-f6g4uoo2/logs/debug-core.log"}
+{"time":"2025-03-06T13:25:21.160855863-06:00","level":"INFO","msg":"created new stream","id":"f6g4uoo2"}
+{"time":"2025-03-06T13:25:21.16095209-06:00","level":"INFO","msg":"stream: started","id":"f6g4uoo2"}
+{"time":"2025-03-06T13:25:21.161006888-06:00","level":"INFO","msg":"sender: started","stream_id":"f6g4uoo2"}
+{"time":"2025-03-06T13:25:21.160999639-06:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"f6g4uoo2"}}
+{"time":"2025-03-06T13:25:21.16104441-06:00","level":"INFO","msg":"handler: started","stream_id":{"value":"f6g4uoo2"}}
+{"time":"2025-03-06T13:25:21.737119356-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T13:25:51.839748014-06:00","level":"INFO","msg":"stream: closing","id":"f6g4uoo2"}
+{"time":"2025-03-06T13:25:51.839831719-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T13:25:51.84131827-06:00","level":"INFO","msg":"Stopped system monitor"}
